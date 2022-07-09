@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,satI,satI,nom. sg. f.,0,viseranam,1
+1,sADvI,sADu,nom. sg. f.,1,karwa,4
+2,svaSIlena,SIla,i. sg. m.,3,karanam,4
+3,rakzitA,suvarcalA,nom. sg. f.,6,karwqsamanaxikaranam,4
+4,Bavati,BU,ppr. [1] ac.,7,,
+5,svayam,svayam,adv.,9,kriyaviseranam,3

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ahnaH,ahan,g. sg. n.,0,rartisambanxah,1
+1,BAnumAn,BAnu,nom. sg. m.,2,prawiyogi,2
+2,iva,iva,conj.,3,anuyogi,8
+3,svayaNkftaprasAdasya,prasAda,g. sg. m.,8,viseranam,4
+4,tasya,tad,g. sg. m.,10,rartisambanxah,5
+5,antAya,anta,dat. sg. m.,11,prayojanam,7
+6,samayAvaDim,avaDi,acc. sg. m.,53,karma,7
+7,aprApya,Ap,abs.,21,purvakalah,12
+8,BavAn,tad,nom. sg. m.,23,karwa,12
+9,api,api,conj.,24,sambanxah,8
+10,na,na,conj.,26,sambanxah,12
+11,alam,alam,conj.,27,sambanxah,12
+12,Bavati,BU,pr. ac. sg. 3,28,,

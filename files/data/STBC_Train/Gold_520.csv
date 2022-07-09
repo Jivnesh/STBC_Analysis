@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAm,kim,acc. sg. f.,0,viseranam,1
+1,diSam,diSA,acc. sg. f.,1,karma,2
+2,gantavyam,gam,pfp. [3],4,,

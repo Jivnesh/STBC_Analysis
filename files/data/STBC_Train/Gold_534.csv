@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svasTena,svasTa,i. sg. m.,0,viseranam,1
+1,cittena,citta,i. sg. n.,2,karanam,2
+2,SrUyate,Sru,pr. ps. sg. 3,4,,
+3,mahizyA,mahiza,nom. sg. f.,6,karwa,2
+4,nfpateH,pat,g. sg. m.,9,rartisambanxah,5
+5,sandeSaH,tad,nom. sg. m.,10,karma,2

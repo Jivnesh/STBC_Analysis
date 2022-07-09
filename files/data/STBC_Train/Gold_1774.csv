@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,6
+1,siMhaH,siMha,nom. sg. m.,1,karwa,6
+2,ekam,eka,acc. sg. m.,2,viseranam,3
+3,vfzaBam,vfzaBa,acc. sg. m.,5,karma,6
+4,ekAkinam,ekAkin,acc. sg. m.,8,viseranam,3
+5,carantam,car,acc. sg. m.,9,viseranam,3
+6,apaSyat,paS,impft. [4] ac. sg. 3,10,,

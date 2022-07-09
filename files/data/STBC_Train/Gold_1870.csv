@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anujJitArTasambanDaH,sambanDa,nom. sg. m.,2,viseranam,3
+1,prabanDaH,prabanDa,nom. sg. m.,3,viseranam,3
+2,tu,tu,conj.,4,sambanxah,1
+3,durudAharaH,tad,nom. sg. m.,5,karwa,5
+4,eva,eva,conj.,6,sambanxah,3
+5,Bavati,BU,pr. ac. sg. 3,7,,

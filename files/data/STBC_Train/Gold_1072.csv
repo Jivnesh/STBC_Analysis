@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yA,yad,nom. sg. f.,0,karwa,15
+1,bfhattulEH,tulA,inst. pl. m.,1,viseranam,14
+2,api,api,conj.,2,sambanxah,1
+3,atulEH,atula,inst. pl. m.,5,viseranam,14
+4,ca,ca,conj.,6,sambanxah,15
+5,vitAnamAlApinadDEH,Kadyota,inst. pl. m.,12,viseranam,14
+6,api,api,conj.,13,sambanxah,5
+7,avitAnEH,ana,inst. pl. m.,16,viseranam,14
+8,vicitrEH,vicitra,inst. pl. m.,18,viseranam,14
+9,api,api,conj.,19,sambanxah,5
+10,sacitrEH,citra,inst. pl. m.,23,viseranam,14
+11,viSAlEH,viSAla,inst. pl. m.,25,viseranam,14
+12,api,api,conj.,26,sambanxah,11
+13,BUriSAlEH,SAla,inst. pl. m.,30,viseranam,14
+14,gfhEH,gfha,inst. pl. n.,32,karanam,15
+15,reje,rAj,pft. md. sg. 3,33,,

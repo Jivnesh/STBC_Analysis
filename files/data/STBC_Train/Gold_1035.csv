@@ -1,0 +1,27 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sutanu,sutanu,voc. sg. f.,38,samboxyah,3
+1,na,na,conj.,2,sambanxah,3
+2,ca,ca,conj.,3,sambanxah,3
+3,vedmi,vid,pr. ac. sg. 1,4,prawiyogi,4
+4,iti,iti,conj.,5,anuyogi,5
+5,na,na,conj.,6,sambanxah,12
+6,yat,yat,conj.,7,sambanxah,12
+7,mahIyAn,mahIyas,nom. sg. m.,8,karwa,12
+8,tava,yuzmad,g. sg. n.,9,rartisambanxah,9
+9,niScayaH,ci,nom. sg. n.,10,viseranam,11
+10,pareRa,pareRa,conj.,12,viseranam,12
+11,asunirasaH,tad,nom. sg. m.,13,karwqsamanaxikaranam,12
+12,Bavati,BU,pr. ac. sg. 3,14,samucciwam,25
+13,taTApi,api,conj.,96,sambanxah,18
+14,asO,adas,nom. sg. m.,46,viseranam,16
+15,jAtu,jAtu,conj.,20,viseranam,18
+16,madvacaH,tad,nom. sg. m.,24,karwa,18
+17,na,na,conj.,25,sambanxah,18
+18,vitaTayati,Ric,pr. ac. sg. 3,28,prawiyogi,19
+19,iti,iti,conj.,29,anuyogi,20
+20,ca,ca,conj.,30,sambanxah,24
+21,saKIzu,saKI,loc. pl. f.,31,axikaranam,24
+22,me,asmad,g. sg. n.,33,rartisambanxah,24
+23,aBimAnaH,aBimAna,nom. sg. m.,34,karwqsamanaxikaranam,24
+24,Bavati,BU,pr. ac. sg. 3,35,samucciwam,25
+25,ca,ca,conj.,36,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,axikaranam,6
+1,vaDUjanaH,jana,nom. sg. m.,4,karwa,6
+2,kzitipratizWaH,tad,nom. sg. m.,7,viseranam,1
+3,api,api,conj.,8,sambanxah,2
+4,candraM,candra,acc. sg. m.,10,karma,6
+5,muKAravindEH,aravinda,inst. pl. n.,14,karanam,6
+6,aDaScakAra,kf,pft. ac. sg. 3,15,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyA,anyA,nom. sg. f.,3,viseranam,2
+1,abalA,abalA,nom. sg. f.,5,viseranam,2
+2,tadaMsapIWadvayanihitoBayapARipallavA,pallava,nom. sg. f.,7,karwa,8
+3,satI,as,nom. sg. n.,8,sambanxah,8
+4,laGulalitapadaM,pad,acc. sg. m.,11,viseranam,7
+5,sakaWinakucacUcukapraRodaM,tad,acc. sg. m.,12,viseranam,7
+6,savilAsaM,savilAsa,acc. sg. m.,14,viseranam,7
+7,priyam,priya,acc. sg. m.,15,karma,8
+8,anviyAya,i,pft. ac. sg. 3,33,,

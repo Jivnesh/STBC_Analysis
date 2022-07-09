@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tayoH,tad,g. du. n.,1,rartisambanxah,1
+1,prasavasya,prasava,g. sg. m.,6,rartisambanxah,2
+2,kAle,kAla,loc. sg. m.,8,axikaranam,10
+3,saH,tad,nom. sg. m.,12,viseranam,4
+4,sarpaH,sarpa,nom. sg. m.,13,karwa,10
+5,vfkzasya,vfkza,g. sg. m.,14,rartisambanxah,6
+6,kowarAt,kowara,abl. sg. n.,15,apaxanam,7
+7,nizkrAmya,kram,abs.,17,purvakalah,10
+8,tayoH,tad,g. du. n.,19,rartisambanxah,9
+9,apatyAni,apatya,acc. pl. n.,24,karma,10
+10,KAdati,KAd,pr. [1] ac. sg. 3,26,,

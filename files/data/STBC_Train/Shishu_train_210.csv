@@ -1,0 +1,21 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,yaH,yad,nom. sg. m.,NA,sambanxah,3
+1,Buvanatrayasya,Buvanatraya,g. sg. n.,NA,rartisambanxah,2
+2,praBuH,praBu,nom. sg. m.,NA,karwa,3
+3,buBUzuH,BU1,nom. sg. m.,NA,viseranam,8
+4,atirAgAt,ati-rAga,abl. sg. m.,NA,apaxanam,7
+5,daSamaM,daSama,nom. sg. n.,NA,viseranam,6
+6,SiraH,Siras,nom. sg. n.,NA,karma,7
+7,cikartizuH,kft1,nom. sg. m.,NA,viseranam,8
+8,izwasAhasaH,izwa-sAhasa,nom. sg. m.,NA,karwa,14
+9,icCAsadfSam,icCA-sadfS,acc. sg. n.,NA,karma,14
+10,pinAkinaH,pinAkin,g. sg. m.,NA,rartisambanxah,2
+11,prasAdaM,prasAda,acc. sg. m.,NA,viseranam,12
+12,viGnam,viGna,acc. sg. m.,NA,prawiyogi,13
+13,iva,iva,ind.,NA,anuyogi,9
+14,atarkayat,tark1_Ric,impft. ac. sg. 3,NA,,
+15,saH,tad,nom. sg. m.,NA,viseranam,16
+16,rAvaRaH,rAvaRa,nom. sg. m.,NA,prawiyogi,17
+17,nAma,nAma,ind.,NA,anuyogi,18
+18,rakzaH,rakzas,nom. sg. n.,NA,karwa,19
+19,baBUva,BU1,pft. ac. sg. 3,NA,,

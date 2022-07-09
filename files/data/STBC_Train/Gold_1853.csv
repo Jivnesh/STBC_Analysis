@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atra,atra,loc. sg. m.,0,axikaranam,2
+1,agniSamanam,Samana,acc. sg. m.,2,karma,2
+2,kartum,kf,imp. [8] ac. sg. 3,5,,

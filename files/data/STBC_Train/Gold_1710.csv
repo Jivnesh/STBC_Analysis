@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,13
+1,DAtuH,DAtf,g. sg. m.,1,rartisambanxah,2
+2,sutena,suta,inst. sg. m.,4,karwa,13
+3,prayatnaunnamitAnamatPaREH,PaRa,inst. pl. m.,7,viseranam,5
+4,PaRinAM,PaRin,g. pl. m.,8,rartisambanxah,5
+5,gaREH,gaRa,inst. pl. m.,9,karanam,13
+6,aDaH,aDas,conj.,10,sambanxah,13
+7,kaTaYcit,cit,conj.,12,viseranam,8
+8,Dfte,Df,loc. sg. m.,18,bavalakranasapwami_samanakalah,13
+9,BuvaH,BU,g. sg. f.,22,rartisambanxah,10
+10,tale,tala,loc. sg. m.,24,axikaranam,13
+11,aBidevakIsutaM,suta,acc. sg. m.,64,viseranam,12
+12,caraRO,caraRa,acc. du. m.,32,karma,13
+13,nyaDAyizAtAm,DA,impft. md. du. 3,37,,

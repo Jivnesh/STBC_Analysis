@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadanantaram,tad,conj.,4,axikaranam,7
+1,saH,tad,nom. sg. m.,5,karwa,7
+2,dvitIyam,dvitIya,acc. sg. m.,6,viseranam,4
+3,api,api,conj.,9,sambanxah,2
+4,vfzaBam,vfzaBa,acc. sg. m.,11,karma,7
+5,taTEva,tad,conj.,14,kriyaviseranam,6
+6,mArayitvA,mf,conj.,16,purvakalah,7
+7,aBakzayat,Bakz,impft . ac. sg. 3,15,,

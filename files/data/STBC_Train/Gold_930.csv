@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ratnastamBezu,stamBa,loc. pl. m.,1,axikaranam,8
+1,saNkrAntapratimAH,pratimA,nom. pl. f.,7,viseranam,2
+2,te,tad,nom. pl. m.,10,viseranam,3
+3,ekAkinaH,ekAkin,nom. sg. m.,20,karwa,8
+4,api,api,conj.,21,sambanxah,3
+5,paritaH,ca,conj.,23,sambanxah,8
+6,pOruzeyavftAH,vfta,acc. pl. f.,28,prawiyogi,7
+7,iva,iva,conj.,31,anuyogi,3
+8,cakASire,kAS,pft. md. pl. 3,32,,

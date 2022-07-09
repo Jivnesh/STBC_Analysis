@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sArTavAhasya,vAha,g. sg. m.,1,viseranam,1
+1,arTapateH,pat,g. sg. m.,5,rartisambanxah,2
+2,vimardakAH,vimardaka,nom. pl. m.,6,karwqsamanaxikaranam,5
+3,bahiScarAH,cara,nom. pl. m.,9,viseranam,4
+4,prARAH,prARa,nom. pl. m.,10,karwa,5
+5,santi,as,pr. [2] ac. pl. 3,11,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ke,kim,nom. pl. m.,2,viseranam,1
+1,sulaBAH,yad,nom. pl. m.,7,samucciwam,3
+2,ke,kim,nom. pl. m.,10,viseranam,4
+3,ca,ca,conj.,13,viseranam,6
+4,durlaBAH,durlaBa,nom. pl. m.,14,samucciwam,3
+5,santi,as,pr. [2] ac. pl. 3,17,,
+6,janAH,jana,nom. pl. m.,18,karwa,5

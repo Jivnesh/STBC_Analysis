@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,balidAne,dAna,loc. sg. n.,4,axikaranam,5
+1,CinnANgavyakteH,vyakti,g. sg. f.,6,rartisambanxah,2
+2,nizeDatvAt,nizeDa,abl. sg. n.,8,apaxanam,5
+3,te,tad,nom. du. n.,10,karwa,5
+4,rAjAnam,rAjan,acc. sg. m.,16,karma,5
+5,muktavantaH,mukta,pp.,17,,

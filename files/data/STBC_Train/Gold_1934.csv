@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,acc. sg. n.,0,sambanxah,2
+1,idam,idam,acc. sg. n.,23,karma,2
+2,yuktam,yukta,pp.,5,,
+3,yat,yad,conj.,6,sambanxah,2
+4,mAtfpremRA,preman,i. sg. m.,8,karanam,6
+5,mAm,asmad,acc. sg. *,10,karma,6
+6,vaYcitavatyA,vaYc,ca. ppa.,11,viseranam,7
+7,tvayA,yA,impft. [2] ac. sg. 2,13,karwa,11
+8,aham,asmad,nom. sg. *,14,karma,11
+9,idAnIm,idAnIm,loc. sg. m.,15,axikaranam,11
+10,rAjyena,rAjya,i. sg. n.,18,karanam,11
+11,loBanIyaH,kf,ca. pfp. [2],21,prawiyogi,12
+12,iti,iti,part.,22,anuyogi,3

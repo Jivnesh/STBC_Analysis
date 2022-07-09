@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,6
+1,devamUrtim,mUrti,acc. sg. f.,2,karma,2
+2,praRamya,nam,abs.,3,purvakalah,6
+3,saH,tad,nom. sg. m.,4,karwa,6
+4,uccEH,ucca,i. pl. m.,5,sambanxah,5
+5,uccEH,ucca,i. pl. m.,7,karanam,6
+6,stutavAn,stuta,pp.,9,,

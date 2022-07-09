@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekaH,eka,nom. sg. m.,0,viseranam,1
+1,aDyAtmamArgI,mArgin,nom. sg. m.,2,viseranam,2
+2,janaH,jana,nom. sg. n.,5,karwa,11
+3,gItopadeSAnusAreRa,anusAra,i. sg. m.,31,karanam,8
+4,mAnApamAnayoH,apamAna,g. du. m.,74,rartisambanxah,5
+5,daSAyAm,daSA,loc. sg. f.,18,axikaranam,8
+6,api,ap,conj.,20,sambanxah,5
+7,kroDarahitaH,rahita,nom. sg. m.,22,karwqsamanaxikaranam,8
+8,Bavitum,BU,inf.,23,prayojanam,11
+9,kaWinAm,kaWina,acc. sg. f.,24,viseranam,10
+10,sADanAm,sADana,acc. sg. f.,25,karma,11
+11,kftavAn,kfta,pp.,26,,

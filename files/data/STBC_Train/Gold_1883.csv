@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asakalAmalapallavalIlayA,lIlA,inst. sg. f.,7,karanam,2
+1,vismayaM,smi,nom. sg. n.,1,karma,2
+2,gatavatAm,gam,pp. . pl. ,3,prawiyogi,3
+3,iva,iva,conj.,4,anuyogi,4
+4,maDukftAM,kft,g. pl. m.,5,rartisambanxah,5
+5,lavalIlayA,lIlA,inst. sg. f.,0,hewuh,6
+6,AvaliH,Avali,nom. sg. f.,6,karwa,11
+7,rasakalAM,kalA,acc. sg. f.,8,viseranam,8
+8,giram,gir,acc. sg. f.,10,karma,11
+9,asakft,asakft,conj.,15,viseranam,11
+10,uccakEH,ca,conj.,16,viseranam,11
+11,alapat,lap,impft . ac. sg. 3,17,,

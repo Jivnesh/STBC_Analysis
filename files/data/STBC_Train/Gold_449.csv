@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,5
+1,tvam,yuzmad,nom. sg. *,1,karwa,5
+2,eva,eva,prep.,2,sambanxah,5
+3,mama,asmad,g. sg. *,3,rartisambanxah,4
+4,manovAYCitam,vAYC,acc. sg. n.,7,karma,5
+5,sADayasi,siD,ca. pr. ac. sg. 2,8,,

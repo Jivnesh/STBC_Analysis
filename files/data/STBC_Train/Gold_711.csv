@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,snapanasAndrataraArdramUrtiH,mUrti,nom. sg. m.,0,viseranam,8
+1,animizadfzwiBiH,dfzwi,inst. pl. m.,1,viseranam,2
+2,janEH,jana,inst. pl. m.,3,karwa,5
+3,devEH,deva,inst. pl. m.,5,prawiyogi,4
+4,iva,iva,conj.,6,anuyogi,2
+5,IkzyamARaH,Ikz,nom. sg. m.,7,viseranam,8
+6,SrIsanniDAnaramaRIyataraH,tara,nom. sg. m.,10,viseranam,8
+7,uccEH,ucca,conj.,12,viseranam,8
+8,aSvaH,aSva,nom. sg. m.,13,karwa,13
+9,jalaniDeH,niDi,abl. sg. m.,15,apaxanam,13
+10,jAtamAtraH,mAtra,nom. sg. m.,16,viseranam,11
+11,uccEHSravAH,uccEHSravas,nom. sg. m.,17,prawiyogi,12
+12,iva,iva,conj.,18,anuyogi,8
+13,reje,rAj,pft. md. sg. 3,19,,

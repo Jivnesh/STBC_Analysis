@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nahi,nahi,part.,0,sambanxah,5
+1,aDunA,aDunA,loc. sg. m.,1,axikaranam,5
+2,saH,tad,nom. sg. m.,2,karwa,5
+3,gurukule,kula,loc. sg. n.,6,axikaranam,5
+4,nEva,eva,prep.,20,sambanxah,5
+5,parAvartsyati,vft,fut. ac. sg. 3,29,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kvacit,cit,conj.,0,sambanxah,11
+1,jalApAyavipARqurARi,vipARqura,acc. pl. n.,1,viseranam,3
+2,DOtauttarIyapratimacCavIni,tad,acc. pl. n.,2,viseranam,3
+3,aBrARi,aBra,acc. pl. n.,3,karma,4
+4,biBrARam,Bf,acc. sg. m.,7,bavalakranasapwami_samanakalah,11
+5,umAaNgasaNgaviBaktaBasmAnaM,Basman,acc. sg. m.,8,viseranam,6
+6,smarArim,smarAri,acc. sg. m.,9,prawiyogi,7
+7,iva,iva,conj.,10,anuyogi,10
+8,asO,adas,nom. sg. m.,23,karwa,11
+9,giriM,giri,acc. sg. m.,13,viseranam,10
+10,rEvatakaM,rEvataka,acc. sg. m.,14,karma,11
+11,dadarSa,dfS,pft. ac. sg. 3,15,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAyunA,vAyu,inst. sg. m.,0,karanam,5
+1,tarURAm,taru,g. pl. m.,1,rartisambanxah,2
+2,PalAni,Pala,nom. pl. n.,3,karwa,5
+3,sarovarasya,sarovara,g. sg. n.,6,rartisambanxah,4
+4,jale,jala,loc. sg. m.,8,axikaranam,5
+5,patizyanti,pat,fut. ac. pl. 3,13,,

@@ -1,0 +1,49 @@
+0,balaUrmiBiH,Urmi,inst. pl. m.,1,karanam,7
+1,valayEH,valaya,inst. pl. m.,3,prawiyogi,2
+2,iva,iva,conj.,4,anuyogi,0
+3,tatkzaRahIyamAnaraTyABujAyAH,BujA,g. sg. f.,6,viseranam,5
+4,asyAH,asi,g. sg. f.,8,upapaxasambanxah,5
+5,puraH,pur,loc. sg. m.,10,axikaranam,7
+6,cakrapARO,cakrapARi,loc. sg. m.,12,karwa,7
+7,nizkrAmati,kram,pr. ac. sg. 3,13,purvakalah,13
+8,sati,as,loc. sg. m.,15,viseranam,7 ####### FV_loc_viseranam #######
+9,prAyeRa,prAya,conj.,16,kriyaviseranam,13
+10,dvAravatItvam,dvAra,nom. sg. n.,20,karwa,13
+11,izwaM,iz,nom. sg. n.,26,karwqsamanaxikaranam,13
+12,na,na,conj.,29,sambanxah,13
+13,AsIt,as,impft . ac. sg. 3,31,,
+
+0,praRayavatA,praRaya,inst. sg. m.,1,karwa,5
+1,sumaDyamAyAH,sumaDyamA,g. sg. f.,4,rartisambanxah,2
+2,aDikarRaM,karRa,conj.,8,axikaranam,5
+3,samadanaM,tad,nom. sg. n.,12,viseranam,5
+4,kusume,kusuma,loc. sg. n.,15,viseranam,5 ####### FV_loc_viseranam #######
+5,avataMsite,vac,pp. . sg. ,22,purvakalah,14
+6,sati,as,nom. sg. n.,24,sambanxah,5
+7,sapadi,sapadi,conj.,25,viseranam,9
+8,laGutAM,laGutA,acc. sg. f.,26,karma,9
+9,vrajat,vraj,nom. sg. n.,28,bavalakranasapwami_samanakalah,14
+10,api,api,conj.,29,sambanxah,9
+11,sapatnyAH,sapatnI,g. sg. f.,31,rartisambanxah,12
+12,hiraRmayamaRqanaM,maRqana,nom. sg. n.,36,karwa,14
+13,BAraH,BAra,nom. sg. m.,37,karwqsamanaxikaranam,14
+14,baBUva,BU,pft. ac. sg. 3,39,,
+
+0,payodanaBasvati,rAjan,loc. sg. m.,0,karwa,11
+1,vAti,vA,nom. sg. n.,1,purvakalah,7
+2,vigatarAgaguRaH,guRa,nom. sg. m.,2,viseranam,5
+3,api,api,conj.,3,sambanxah,2
+4,kaH,kim,nom. sg. m.,5,viseranam,5
+5,janaH,jana,nom. sg. m.,8,karwa,7
+6,na,na,conj.,9,sambanxah,7
+7,calati,cal,pr. ac. sg. 3,10,samucciwam,16
+8,evam,evam,conj.,11,sambanxah,7
+9,aliBiH,ali,inst. pl. m.,13,karwa,12
+10,uccakEH,ca,conj.,14,viseranam,12
+11,ananfte,anfta,loc. sg. n.,21,viseranam,12 ####### FV_loc_viseranam #######
+12,aBihite,DA,pp. . sg. ,27,purvakalah,14
+13,navapallavEH,pallava,inst. pl. m.,29,karwa,14
+14,nanfte,nft,pft. md. sg. 3,32,samucciwam,16
+15,iva,iva,conj.,33,sambanxah,14
+16,ca,ca,conj.,34,,
+

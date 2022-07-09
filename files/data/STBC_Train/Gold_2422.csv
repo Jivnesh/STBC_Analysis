@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,samIpe,samIpa,loc. sg. m.,2,axikaranam,6
+2,yadi,yad,conj.,8,sambanxah,7
+3,iyanti,yat,nom. pl. n.,10,viseranam,5
+4,eva,eva,prep.,11,sambanxah,3
+5,rUpyakARi,rUpyaka,nom. pl. n.,13,karwa,6
+6,aBavizyan,BU,cond. ac. pl. 3,14,prawiyogi,2
+7,tarhi,tarhi,adv.,15,anuyogi,12
+8,saH,tad,nom. sg. m.,16,karwa,12
+9,cOryam,tad,acc. sg. n.,18,karma,12
+10,eva,eva,prep.,19,sambanxah,9
+11,kim,kim,ind.,21,sambanxah,12
+12,akarizyat,kf,cond. ac. sg. 3,22,,

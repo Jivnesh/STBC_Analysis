@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svakAryam,kArya,acc. sg. n.,23,karma,1
+1,kftvA,kf,abs.,1,purvakalah,2
+2,gacCan,gam,nom. sg. m.,2,viseranam,3
+3,saH,tad,nom. sg. m.,3,karwa,5
+4,citrakAram,ara,acc. sg. m.,26,karma,5
+5,kaTitavAn,AsTA,pp.,5,,

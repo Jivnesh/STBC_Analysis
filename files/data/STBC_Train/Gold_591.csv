@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putri,putrI,voc. sg. f.,1,samboxyah,5
+1,tava,yuzmad,g. sg. *.,2,rartisambanxah,2
+2,praSnasya,praSna,g. sg. m.,3,rartisambanxah,3
+3,uttaraM,uttara,acc. sg. m.,7,karma,5
+4,paScAt,paScAt,conj.,5,axikaranam,5
+5,prApsyasi,Ap,fut. ac. sg. 2,6,,

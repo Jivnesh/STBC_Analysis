@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmanA,Atman,i. sg. *,0,prawiyogi,1
+1,saha,saha,prep.,3,anuyogi,5
+2,ca,ca,conj.,4,sambanxah,1
+3,gfham,gfha,acc. sg. n.,5,karma,4
+4,anayat,nI,impft. [1] ac. sg. 3,7,,
+5,saH,tad,nom. sg. m.,8,karwa,4

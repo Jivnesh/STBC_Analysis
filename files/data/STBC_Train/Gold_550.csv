@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavataH,BU,g. sg. n.,0,rartisambanxah,1
+1,pitA,rAjan,loc. sg. m.,1,prawiyogi,2
+2,iva,iva,part.,2,anuyogi,10
+3,pitAmahaprapitAmahAdayaH,Ada,nom. pl. m.,6,karwa,6
+4,yaTA,yaTA,conj.,8,sambanxah,7
+5,Agatya,gam,abs.,7,purvakalah,6
+6,gatAH,gam,acc. pl. f.,11,prawiyogi,4
+7,taTA,taTA,adv.,12,anuyogi,10
+8,BavAn,Bava,nom. sg. m.,14,karwa,10
+9,api,api,conj.,15,sambanxah,10
+10,gamizyati,gam,fut. ac. sg. 3,17,,

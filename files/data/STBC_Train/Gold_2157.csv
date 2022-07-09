@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yacCa,yam,imp. [1] ac. sg. 2,0,,
+1,me,asmad,dat. sg. *,2,sampraxanam,0
+2,tava,yuzmad,g. sg. *,3,rartisambanxah,3
+3,hfdayam,hfdaya,nom. sg. n.,5,karma,0

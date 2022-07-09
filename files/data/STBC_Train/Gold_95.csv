@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tam,tad,acc. sg. m.,0,karma,8
+1,evam,evam,adv.,1,kriyaviseranam,8
+2,vyavaharantam,Atura,acc. sg. m.,2,karmasamanaxikaranam,8
+3,sAhAyyakartA,kartf,nom. sg. m.,4,viseranam,4
+4,prativeSI,viSvAmitra,nom. sg. m.,6,karwa,8
+5,kevalam,kevala,acc. sg. n.,8,viseranam,6
+6,idam,idam,acc. sg. n.,23,karma,8
+7,eva,eva,prep.,11,sambanxah,6
+8,uktavAn,ukta,pp.,12,,

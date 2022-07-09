@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfdDO,vfdDa,acc. sg. m.,0,viseranam,1
+1,mAtApitarO,pitf,acc. sg. m.,3,samucciwam,3
+2,agrajam,agraja,acc. sg. m.,4,samucciwam,3
+3,ca,ca,conj.,7,karma,6
+4,api,api,conj.,8,sambanxah,3
+5,saH,tad,nom. sg. m.,10,karwa,6
+6,tarjayati,tarj,ca. pr. ac. sg. 3,11,samucciwam,10
+7,sma,sma,part.,12,sambanxah,6
+8,Bartsayati,kf,pr. [10] ac. sg. 3,13,samucciwam,10
+9,sma,sma,part.,14,sambanxah,8
+10,ca,ca,conj.,15,,

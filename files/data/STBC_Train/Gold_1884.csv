@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kuwumbAya,kuwumba,dat. sg. n.,0,prayojanam,3
+1,tena,tad,nom. sg. m.,2,karwa,3
+2,kim,kim,acc. sg. n.,3,karma,3
+3,kftam,kf,pp.,7,,

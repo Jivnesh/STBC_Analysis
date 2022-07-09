@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,2
+1,saKIjane,jani,loc. sg. m.,4,karwa,2
+2,vadati,vad,nom. sg. n.,5,purvakalah,8
+3,sati,as,nom. sg. n.,7,sambanxah,2
+4,nimIladdviguRitasAndratarAkzipakzmamAlA,mAlA,nom. sg. f.,44,karwa,8
+5,aliBayena,Baya,inst. sg. n.,12,hewuh,7
+6,BartuH,Bartf,g. sg. m.,13,rartisambanxah,8
+7,aNkam,aNka,acc. sg. m.,15,karma,8
+8,apatat,pat,impft . ac. sg. 3,16,samucciwam,14
+9,aNganAnAM,aNganA,g. pl. f.,18,rartisambanxah,10
+10,viklavatA,viklava,nom. sg. f.,20,karwqsamanaxikaranam,12
+11,guRaH,guRa,nom. sg. m.,21,karwa,12
+12,Bavati,BU,pr. ac. sg. 3,22,samucciwam,14
+13,hi,hi,conj.,23,sambanxah,12
+14,ca,ca,conj.,24,,

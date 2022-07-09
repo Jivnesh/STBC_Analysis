@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,adv.,0,kriyaviseranam,4
+1,kadAcit,cit,loc. sg. m.,3,axikaranam,4
+2,paWitam,paW,acc. sg. n.,6,karma,4
+3,mahyam,asmad,dat. sg. *,7,sampraxanam,4
+4,dadAti,dA,pr. [3] ac. sg. 3,8,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAradaH,nArada,nom. sg. m.,0,viseranam,1
+1,vizRuH,vizRu,nom. sg. m.,1,sambanxah,2
+2,nAradasya,nArada,g. sg. m.,2,rartisambanxah,3
+3,mahAtamAH,putra,nom. pl. m.,5,,
+4,iyam,idam,prep.,6,sambanxah,3

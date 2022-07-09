@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upAyajYEH,jYa,inst. pl. m.,2,viseranam,2
+1,tava,yuzmad,g. sg. n.,3,rartisambanxah,2
+2,carEH,cara,inst. pl. m.,5,karwa,8
+3,ekArTAni,ekArTa,nom. pl. n.,6,karma,8
+4,rAjanyakAni,rAjanyaka,nom. pl. n.,7,viseranam,3
+5,ajAtaSAtravIM,vI,acc. sg. f.,8,viseranam,6
+6,purIm,purI,acc. sg. f.,9,karma,7
+7,upeyivAMsi,tad,nom. pl. n.,11,karmasamanaxikaranam,8
+8,kartAraH,kf,per.  fut. ac. pl. 3,12,,

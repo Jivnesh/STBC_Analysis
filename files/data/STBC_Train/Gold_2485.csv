@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,mAtrA,mAtrA,i. sg. f.,4,karanam,3
+3,parityaktaH,tyaj,nom. sg. m.,5,prawiyogi,4
+4,iti,iti,part.,6,anuyogi,5
+5,kiMvadatI,vad,acc. du. n.,9,karma,6
+6,SrUyate,Sru,pr. ps. sg. 3,10,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hA,hA,ind.,0,sambanxah,7
+1,kaTam,kaTam,adv.,1,kriyaviseranam,7
+2,mahArAjadaSaraTasya,tad,g. sg. m.,6,rartisambanxah,3
+3,DarmadArAH,dAra,nom. pl. m.,8,karwqsamanaxikaranam,7
+4,priyasaKI,tad,nom. sg. f.,10,viseranam,6
+5,me,asmad,g. sg. *,11,rartisambanxah,4
+6,kOSalyA,kOSalya,nom. pl. f.,14,karwa,7
+7,asti,as,pr. [2] ac. sg. 3,17,,

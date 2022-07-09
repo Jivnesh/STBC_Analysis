@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,2,sambanxah,3
+1,etat,etad,nom. sg. n.,13,viseranam,2
+2,mlecCarAjyam,rAjya,nom. sg. n.,9,karwa,3
+3,asti,as,pr. [2] ac. sg. 3,11,,

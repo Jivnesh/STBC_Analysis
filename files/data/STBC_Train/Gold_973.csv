@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,parantu,conj.,3,sambanxah,9
+1,kftajYatAyAH,tad,g. sg. f.,7,rartisambanxah,4
+2,ekam,eka,acc. sg. m.,8,viseranam,4
+3,api,api,conj.,11,sambanxah,2
+4,SabdaM,Sabda,acc. sg. m.,13,karma,9
+5,tAn,tad,acc. pl. m.,14,prawiyogi,6
+6,prati,prati,conj.,15,anuyogi,9
+7,na,na,conj.,18,sambanxah,9
+8,eva,eva,conj.,19,sambanxah,7
+9,kaTayanti,BU,pr. ac. pl. 3,20,,

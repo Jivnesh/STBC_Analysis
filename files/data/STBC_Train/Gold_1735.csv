@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paritaH,ca,conj.,0,sambanxah,7
+1,turagaSataAkulasya,Akula,g. sg. n.,2,rartisambanxah,2
+2,pratipaTaM,pratipaTa,conj.,3,axikaranam,7
+3,pramaTitaBUBftaH,BUBft,g. sg. m.,6,rartisambanxah,4
+4,satataM,satata,conj.,10,kriyaviseranam,7
+5,DftaSriyaH,SrI,g. sg. m.,14,upapaxasambanxah,6
+6,puraH,puras,conj.,16,axikaranam,13
+7,paricalataH,cal,nom. sg. n.,18,viseranam,8
+8,balAnujabalasya,bala,g. sg. n.,19,upapaxasambanxah,9
+9,param,param,conj.,23,sambanxah,20
+10,ekaturaNgajanmanaH,janman,g. sg. n.,24,rartisambanxah,11
+11,mahIBftA,mahIBft,inst. sg. m.,32,karanam,13
+12,BfSaM,BfSam,conj.,35,kriyaviseranam,13
+13,maTitasya,maT,g. sg. m.,37,viseranam,15
+14,ciravigataSriyaH,SrI,g. sg. m.,41,viseranam,15
+15,jalaniDeH,niDi,g. sg. m.,42,rartisambanxah,18
+16,ca,ca,conj.,44,sambanxah,20
+17,tadA,tadA,conj.,45,axikaranam,20
+18,mahat,tad,nom. sg. n.,47,viseranam,19
+19,antaram,antara,nom. sg. n.,50,karwa,20
+20,aBavat,BU,impft . ac. sg. 3,51,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAvikAH,nAvika,nom. pl. m.,0,karwa,3
+1,nadena,nada,i. sg. m.,1,karanam,3
+2,samudram,samudra,acc. sg. m.,5,karma,3
+3,praviSanti,viS,pr. [6] ac. pl. 3,8,,

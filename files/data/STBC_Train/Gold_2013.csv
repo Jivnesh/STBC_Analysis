@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BUzaRatAm,BUzaRatA,acc. sg. f.,0,karma,1
+1,upeyuzAM,tad,g. pl. m.,2,rartisambanxah,2
+2,dEtyapateH,pati,g. sg. m.,4,rartisambanxah,3
+3,prARacCidAM,cit,g. pl. m.,9,viseranam,4
+4,naKAnAM,naKa,g. pl. m.,10,rartisambanxah,5
+5,kzatena,kzata,inst. sg. m.,13,karanam,8
+6,prakASakArkaSyaguRO,guRa,acc. du. m.,18,viseranam,7
+7,stanO,stana,acc. du. m.,20,karma,8
+8,daDAnAH,DA,nom. pl. f.,27,bavalakranasapwami_samanakalah,11
+9,taruRyaH,taruRI,nom. pl. f.,28,karwa,11
+10,enaM,idam,acc. sg. m.,29,karma,11
+11,parivavruH,vf,pft. ac. pl. 3,53,,

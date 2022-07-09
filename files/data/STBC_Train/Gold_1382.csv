@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nagarARi,nagara,nom. pl. n.,1,samucciwam,2
+1,rAzwrARi,rAzwra,nom. pl. n.,3,samucciwam,2
+2,ca,ca,conj.,4,karwa,4
+3,DanaDAnyayutAni,yuta,nom. pl. n.,22,karwqsamanaxikaranam,4
+4,Bavizyanti,BU,fut. ac. pl. 3,9,,

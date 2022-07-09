@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vizRuH,vizRu,nom. sg. m.,0,karwa,8
+1,tAn,tad,acc. pl. m.,1,karma,8
+2,pfTak,pfTak,adv.,2,sambanxah,3
+3,pfTak,pfTak,adv.,3,sambanxah,4
+4,tezAm,tad,g. pl. n.,4,rartisambanxah,5
+5,hitam,hita,acc. sg. n.,9,samucciwam,7
+6,ahitam,hita,acc. sg. n.,16,samucciwam,7
+7,ca,ca,conj.,19,karma,8
+8,prAboDayat,buD,ca. impft. ac. sg. 3,20,,

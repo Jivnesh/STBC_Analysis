@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvayoH,BrU,g. du. f.,5,rartisambanxah,2
+1,api,api,conj.,6,sambanxah,0
+2,gOravasammelanam,sammelana,acc. sg. m.,9,karma,3
+3,amanyata,man,impft. ps. sg. 3,10,,

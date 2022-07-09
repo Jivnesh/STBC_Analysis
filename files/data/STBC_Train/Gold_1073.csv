@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,8
+1,smaraRIyam,kf,pfp. . sg. ,3,prawiyogi,2
+2,yat,yad,acc. sg. n.,16,anuyogi,3
+3,cUzakaH,tad,nom. sg. m.,6,karwa,7
+4,punaH,ca,conj.,8,kriyaviseranam,7
+5,jIvitaH,jIvita,pp. . sg. ,9,karwqsamanaxikaranam,7
+6,na,na,conj.,10,sambanxah,7
+7,sTAsyati,zWA,fut. ac. sg. 3,11,samucciwam,8
+8,ca,ca,conj.,12,,

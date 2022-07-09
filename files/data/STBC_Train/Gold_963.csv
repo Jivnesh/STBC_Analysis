@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tejoniroDasamatAavahitena,avahita,inst. sg. m.,0,viseranam,2
+1,samyakkaSAtrayavicAravatA,car,inst. sg. m.,2,viseranam,2
+2,yantrA,yantf,inst. sg. m.,3,karwa,3
+3,niyuktaH,yuj,nom. sg. m.,4,viseranam,5
+4,uccEH,ucca,conj.,6,viseranam,5
+5,ArawwajaH,ja,nom. sg. m.,7,karwa,10
+6,cawulanizWurapAtam,pAta,acc. sg. n.,8,viseranam,9
+7,arDapulAyitena,rAjan,inst. sg. n.,13,karanam,10
+8,citraM,citra,acc. sg. n.,15,viseranam,9
+9,padaM,pada,acc. sg. n.,18,karma,10
+10,cakAra,kf,pft. ac. sg. 3,20,,

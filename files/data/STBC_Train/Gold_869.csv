@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,6
+1,tu,tu,conj.,1,sambanxah,0
+2,kam,kim,acc. sg. m.,2,viseranam,4
+3,api,api,conj.,3,sambanxah,2
+4,aBAvam,BAva,acc. sg. m.,6,karma,6
+5,na,na,part.,7,sambanxah,6
+6,anuBavAmi,BU,pr. [1] ac. sg. 1,13,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upavanaM,upavana,conj.,1,axikaranam,10
+1,PalinIH,PalinI,acc. pl. f.,2,karma,2
+2,kusumayan,Ric,nom. sg. m.,5,bavalakranasapwami_samanakalah,10
+3,madavikAsiBiH,vikAsin,inst. pl. m.,7,viseranam,4
+4,alinIravEH,rava,inst. pl. m.,8,karanam,8
+5,AhitahuNkftiH,tad,nom. sg. m.,9,viseranam,6
+6,SiSiraanilaH,anila,nom. sg. m.,10,karwa,10
+7,priyAn,priya,acc. pl. m.,11,karma,8
+8,viyuvatIH,yu,acc. pl. f.,12,bavalakranasapwami_samanakalah,10
+9,yuvatIH,yuvatI,acc. pl. f.,13,karma,10
+10,aBartsayata,Barts,impft . md. sg. 3,15,,

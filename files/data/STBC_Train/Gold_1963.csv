@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,etasmin,etad,loc. sg. m.,1,axikaranam,12
+1,aDikapayaHSriyaM,SrI,acc. sg. f.,3,karma,2
+2,vahantyaH,vah,nom. pl. f.,4,bavalakranasapwami_samanakalah,12
+3,pavanaBuvA,BU,inst. sg. m.,7,karwa,6
+4,javena,java,inst. sg. m.,9,viseranam,3
+5,saMkzoBaM,tad,acc. sg. m.,10,karma,6
+6,nItAH,nI,nom. pl. f.,13,samucciwam,13
+7,mahAsarasyaH,sarasI,nom. pl. f.,15,karwa,12
+8,arahitarAmalakzmaRAnAM,lakzmaRa,g. pl. f.,16,rartisambanxah,9
+9,vAlmIkeH,vAlmIki,g. sg. m.,17,rartisambanxah,10
+10,girAM,gir,g. pl. f.,19,rartisambanxah,11
+11,sADarmyaM,sADarmya,acc. sg. n.,20,karma,12
+12,daDati,DA,pr. ac. pl. 3,23,samucciwam,13
+13,ca,ca,conj.,24,,

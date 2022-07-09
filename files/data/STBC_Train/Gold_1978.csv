@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iyam,dam,nom. sg. f.,0,viseranam,1
+1,cintA,tad,nom. sg. f.,1,karwa,4
+2,tam,tad,acc. sg. m.,2,karma,4
+3,pratikzaRam,kzaRa,loc. sg. m.,9,axikaranam,4
+4,bADate,bAD,pr. [1] md. sg. 3,10,,
+5,sma,sma,part.,7,sambanxah,4

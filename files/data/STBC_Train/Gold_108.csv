@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anUrusAraTeH,sAraTi,g. sg. m.,2,rartisambanxah,1
+1,gataM,gam,nom. sg. n.,6,viseranam,3
+2,tiraScInaM,tiraScIna,nom. sg. n.,9,viseranam,3
+3,prasidDaM,sidDa,nom. sg. n.,49,karwa,4
+4,asti,as,pr. ac. sg. 3,13,samucciwam,20
+5,havirBujaH,havirBuj,g. sg. m.,15,rartisambanxah,6
+6,UrDvajvalanaM,jval,nom. sg. n.,19,viseranam,7
+7,prasidDaM,sidDa,nom. sg. n.,64,karwa,8
+8,asti,as,pr. ac. sg. 3,23,samucciwam,20
+9,sarvataH,yAvat,conj.,24,axikaranam,13
+10,visAri,visArin,nom. sg. n.,26,viseranam,11
+11,DAma,DAman,nom. sg. n.,28,karwa,13
+12,aDaH,aDas,conj.,29,axikaranam,13
+13,patati,pat,pr. ac. sg. 3,30,samucciwam,20
+14,etat,etad,nom. sg. n.,71,viseranam,15
+15,kim,kim,nom. sg. n.,33,prawiyogi,16
+16,iti,iti,conj.,34,anuyogi,17
+17,janEH,jana,inst. pl. m.,36,karwa,19
+18,Akulam,Akula,nom. sg. n.,39,kriyaviseranam,19
+19,Ikzitam,Ikz,nom. sg. n.,42,samucciwam,20
+20,ca,ca,conj.,43,,

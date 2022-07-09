@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bavantam,BU,acc. sg. m.,0,karma,1
+1,sUcayitum,kf,inf.,1,prayojanam,5
+2,eva,eva,ind.,2,sambanxah,1
+3,iha,iha,loc. sg. m.,3,axikaranam,6
+4,aham,asmad,nom. sg. *,4,karwa,6
+5,upasTitaH,sTita,nom. sg. m.,5,karwqsamanaxikaranam,6
+6,asmi,as,pr. [2] ac. sg. 1,6,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prativeSI,rAjan,nom. sg. m.,1,karwa,4
+1,tadA,tadA,loc. sg. m.,2,axikaranam,4
+2,SyAmasundaram,sundara,acc. sg. m.,4,karma,4
+3,kim,kim,acc. sg. n.,7,karma,4
+4,apfcCat,brU,impft. [6] ac. sg. 3,9,,

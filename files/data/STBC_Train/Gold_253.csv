@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratyAgatya,gam,abs.,8,purvakalah,4
+1,saH,tad,nom. sg. m.,1,karwa,4
+2,SaNKam,SaNKa,acc. sg. m.,2,karma,4
+3,prasannaH,sanna,nom. sg. m.,5,karwqsamanaxikaranam,4
+4,adarSayat,dfS,ca. impft. ac. sg. 3,6,,

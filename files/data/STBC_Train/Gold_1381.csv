@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vratam,vrata,nom. sg. n.,1,karwa,2
+1,SrezWam,SrezWa,nom. sg. n.,4,karwqsamanaxikaranam,2
+2,asti,as,pr. [2] ac. sg. 3,5,,

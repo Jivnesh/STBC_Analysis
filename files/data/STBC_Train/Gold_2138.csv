@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tarhi,tarhi,loc. sg. n.,0,axikaranam,1
+1,yaH,yad,nom. sg. m.,1,karwa,2
+2,BakzitavAn,tad,nom. sg. m.,3,viseranam,3
+3,tasya,tad,g. sg. n.,5,rartisambanxah,5
+4,eva,eva,prep.,4,sambanxah,3
+5,nAma,nAman,acc. sg. n.,7,karma,6
+6,kaTaya,kaT,imp. [10] ac. sg. 2,9,,

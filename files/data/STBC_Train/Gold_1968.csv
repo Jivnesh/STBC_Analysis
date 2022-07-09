@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mugDaH,niScayin,nom. sg. m.,0,viseranam,1
+1,prARI,prARin,nom. sg. m.,1,karwa,4
+2,tayA,tad,i. sg. f.,2,viseranam,3
+3,vARyA,vARa,i. sg. f.,14,karanam,4
+4,jAyate,jan,pr. [4] md. sg. 3,5,,
+5,hi,hi,part.,6,sambanxah,4
+6,vaSam,vaSa,nom. sg. n.,9,karwqsamanaxikaranam,4

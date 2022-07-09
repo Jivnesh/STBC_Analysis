@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gatyUnamArgagatayaH,gati,nom. pl. m.,0,viseranam,4
+1,api,api,conj.,1,sambanxah,0
+2,gatorumArgAH,mArga,nom. pl. m.,3,viseranam,4
+3,darpodayaullasitaPenajalaanusArasaMlakzyapalyayanavarDrapradAH,prada,nom. pl. m.,6,viseranam,4
+4,turaNgAH,tad,nom. pl. m.,7,karma,8
+5,Buvi,BU,loc. sg. f.,8,axikaranam,8
+6,vellanAya,hita,dat. sg. n.,9,prayojanam,8
+7,svEraM,svEra,conj.,12,viseranam,8
+8,samaAcakfzire,kfz,pft. md. pl. ,13,,

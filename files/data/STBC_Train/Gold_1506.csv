@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmanaH,Atman,g. sg. *,0,rartisambanxah,1
+1,truwaye,yad,dat. du. n.,10,waxarwyam,3
+2,pAdayoH,pAda,loc. du. m.,11,axikaranam,3
+3,praRipatya,kf,abs.,13,purvakalah,7
+4,punaH,punar,adv.,14,sambanxah,5
+5,punaH,punar,adv.,16,sambanxah,6
+6,kzamAm,kzamA,acc. sg. f.,18,karma,7
+7,aBiyAce,aYc,impft. [1] md. sg. 1,34,,

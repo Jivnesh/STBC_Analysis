@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,3
+1,tAH,tad,nom. pl. f.,2,karwa,3
+2,gfham,gfha,acc. sg. n.,3,karma,3
+3,AgacCan,gam,impft . ac. pl. 3,5,,

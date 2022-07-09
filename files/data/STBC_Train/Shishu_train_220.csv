@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tat,tad,ind.,NA,sambanxah,5
+1,viDeH,viDi,g. sg. m.,NA,rartisambanxah,2
+2,ullaNGitaSAsanam,ullaNGitaSAsana,acc. sg. m.,NA,viseranam,4
+3,enaM,idam,acc. sg. m.,NA,viseranam,4
+4,kInASaniketanaatiTim,kInASa-niketana-atiTi,acc. sg. m.,NA,karma,6
+5,tvaM,yuzmad,nom. sg. *.,NA,karwa,6
+6,viDehi,vi_DA1,imp.,NA,,
+7,hi,hi,ind.,NA,sambanxah,11
+8,SuBetaraAcAravipaktrimaapadaH,SuBetara-AcAra-vipaktrima-apada,nom. pl. m.,NA,viseranam,9
+9,asADavaH,asADu,nom. pl. m.,NA,karwa,11
+10,satAM,sat,g. pl. m.,NA,rartisambanxah,11
+11,vipAdanIyAH,vi_pad2,nom. pl. m.,NA,,

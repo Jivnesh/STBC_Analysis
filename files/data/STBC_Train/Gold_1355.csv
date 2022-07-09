@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,apitu,tu,conj.,2,sambanxah,3
+1,mAnuzI,mAnuza,nom. sg. f.,3,karwa,3
+2,eva,eva,prep.,4,sambanxah,3
+3,asti,as,pr. [2] ac. sg. 3,5,,

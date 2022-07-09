@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anye,anya,nom. pl. m.,0,viseranam,1
+1,rogAdayaH,Ada,nom. pl. m.,7,karwa,3
+2,kintu,ca,part.,8,sambanxah,3
+3,jAyante,jan,pr. [4] md. pl. 3,9,,
+4,tatra,tatra,loc. sg. n.,10,axikaranam,3
+5,hetavaH,hetu,nom. pl. m.,11,karwqsamanaxikaranam,3

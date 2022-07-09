@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svAmI,svAmin,nom. sg. m.,0,karwa,3
+1,tu,tu,conj.,1,sambanxah,0
+2,savinayaM,vinaya,acc. sg. m.,8,kriyaviseranam,3
+3,kaTitavAn,vac,pp. . sg. ,5,,

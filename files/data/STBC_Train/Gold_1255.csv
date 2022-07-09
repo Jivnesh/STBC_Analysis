@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmAkam,asmad,g. pl. *,0,rartisambanxah,1
+1,rAjA,rAjan,nom. sg. m.,1,karwa,4
+2,mahAn,mahant,nom. sg. m.,5,viseranam,3
+3,SaktiSAlI,SAlin,nom. sg. m.,9,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,10,,

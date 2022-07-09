@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sabahumAnam,tad,adv.,5,kriyaviseranam,3
+1,ca,ca,conj.,6,sambanxah,0
+2,tam,tad,acc. sg. m.,7,karma,3
+3,praRamya,nam,abs.,8,purvakalah,4
+4,parAvfttAH,vftta,pp.,11,,
+5,iti,iti,part.,12,sambanxah,4

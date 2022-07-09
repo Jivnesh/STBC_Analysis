@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paTikAH,paTika,nom. pl. m.,0,karwa,3
+1,svadeSAn,deSa,acc. pl. m.,9,upapaxasambanxah,2
+2,prati,prati,prep.,4,sambanxah,3
+3,AgacCanti,gam,pr. [1] ac. pl. 3,5,,

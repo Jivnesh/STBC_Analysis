@@ -1,0 +1,72 @@
+0,tasyAH,tad,nom. sg. f.,1,karwa,1
+1,anuroDena,tad,i. sg. m.,2,hewuh,6
+2,aham,asmad,nom. sg. *,3,karwa,7
+3,tvAm,yuzmad,acc. sg. *,4,sambanxah,6
+4,svagfham,gfha,acc. sg. n.,6,sambanxah,6
+5,BojanAya,Bojana,dat. sg. n.,8,waxarwyam,6 ####### IV_dat_waxarwyam #######
+6,netum,nI,inf.,9,karma,7
+7,icCAmi,z,pr. [6] ac. sg. 1,10,,
+
+0,idam,idam,acc. sg. n.,5,karma,1
+1,vicintya,kf,abs.,1,purvakalah,3
+2,BikzukAnvezaRAya,anvezaRa,dat. sg. m.,11,waxarwyam,3 ####### IV_dat_waxarwyam #######
+3,pracalitaH,calita,pp.,4,,
+
+0,katipayamAsAnantaram,antara,loc. sg. m.,6,axikaranam,8
+1,saH,tad,nom. sg. m.,7,viseranam,3
+2,eva,eva,prep.,8,sambanxah,1
+3,mahAtmA,Atman,acc. pl. f.,33,karma,8
+4,rAjYA,rAjya,nom. sg. m.,10,karwa,8
+5,punaH,punar,loc. sg. n.,12,axikaranam,8
+6,api,api,conj.,13,sambanxah,5
+7,BagavaccarcAyE,carcA,dat. sg. f.,17,waxarwyam,8 ####### IV_dat_waxarwyam #######
+8,AhUtaH,vac,pp.,18,,
+
+0,SyAmaH,SyAma,nom. sg. m.,0,karwa,6
+1,vidyAlayataH,yam,abl. sg. n.,2,apaxanam,6
+2,niyatasamaye,samaya,loc. sg. m.,4,axikaranam,6
+3,gfhe,gfha,loc. sg. n.,7,axikaranam,6
+4,kim,kim,dat. sg. n.,9,waxarwyam,6 ####### IV_dat_waxarwyam #######
+5,na,na,part.,10,sambanxah,6
+6,pratyAgataH,gam,pp.,11,,
+
+0,tat,tad,acc. sg. n.,0,viseranam,2
+1,prAyaScittAya,citta,dat. sg. n.,3,waxarwyam,3 ####### IV_dat_waxarwyam #######
+2,tapaH,tapas,acc. sg. n.,5,karma,3
+3,taptum,tap,inf.,8,prayojanam,4
+4,gacCAmi,gam,pr. [1] ac. sg. 1,9,,
+
+0,paramapUjanIya,rAjan,voc. sg. m.,2,samboxyah,11
+1,adya,adya,adv.,3,sambanxah,5
+2,yaTA,yaTA,conj.,4,axikaranam,4
+3,BavAn,Bava,nom. sg. m.,6,karwa,4
+4,upadiSati,rAjan,loc. sg. m.,7,prawiyogi,1
+5,taTA,taTA,adv.,8,anuyogi,11
+6,mama,asmad,g. sg. *,9,rartisambanxah,8
+7,saBAyAm,saBA,loc. sg. f.,10,axikaranam,11
+8,cIraharaRakAle,kAla,loc. sg. m.,14,axikaranam,11
+9,kim,kim,dat. sg. n.,19,waxarwyam,11 ####### IV_dat_waxarwyam #######
+10,na,na,part.,20,sambanxah,11
+11,upadizwavAn,upadizwa,pp.,21,,
+
+0,tataH,tad,abl. pl. n.,30,apaxanam,1
+1,satsaNgalABAya,lABa,dat. sg. m.,4,waxarwyam,10 ####### IV_dat_waxarwyam #######
+2,apakvAm,pakva,acc. sg. f.,6,viseranam,3
+3,BojanasAmagrIm,sAmagrI,acc. sg. f.,8,karma,4
+4,AdAya,dA,abs.,9,purvakalah,10
+5,grAmIRAH,grAmIRa,nom. pl. f.,12,viseranam,6
+6,striyaH,strI,nom. pl. f.,14,samucciwam,8
+7,puruzAH,puruza,nom. pl. m.,15,samucciwam,8
+8,ca,ca,conj.,17,karwa,10
+9,upasTAtum,sTA,inf.,16,prayojanam,10
+10,pravfttAH,vftta,pp.,20,,
+
+0,AtmanaH,Atman,g. sg. *,0,rartisambanxah,1
+1,truwaye,yad,dat. du. n.,10,waxarwyam,3 ####### IV_dat_waxarwyam #######
+2,pAdayoH,pAda,loc. du. m.,11,axikaranam,3
+3,praRipatya,kf,abs.,13,purvakalah,7
+4,punaH,punar,adv.,14,sambanxah,5
+5,punaH,punar,adv.,16,sambanxah,6
+6,kzamAm,kzamA,acc. sg. f.,18,karma,7
+7,aBiyAce,aYc,impft. [1] md. sg. 1,34,,
+

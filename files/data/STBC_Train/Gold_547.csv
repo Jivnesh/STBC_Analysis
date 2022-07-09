@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tava,yuzmad,g. sg. *,0,rartisambanxah,1
+1,parAkramam,parAkrama,acc. sg. m.,1,karma,2
+2,aBijYAya,jYA,abs.,19,purvakalah,5
+3,tvAm,yuzmad,acc. sg. *,4,karma,5
+4,aNgarAjye,rAjya,loc. sg. m.,27,axikaranam,5
+5,aBizicya,aBi,abs.,8,purvakalah,8
+6,kOravARAm,tad,g. pl. m.,11,rartisambanxah,7
+7,puraskartAram,ara,acc. sg. m.,36,karma,8
+8,sampAditavAn,tad,nom. sg. m.,13,viseranam,9
+9,duryoDanaH,duryoDana,nom. sg. m.,14,karwa,10
+10,praSaMsanIyaH,SaMs,ca. pfp. [2],16,,

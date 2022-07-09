@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atra,atra,loc. sg. n.,0,axikaranam,6
+1,ayam,dam,nom. sg. m.,1,viseranam,2
+2,kfzRamuKaH,muKa,nom. sg. m.,12,viseranam,5
+3,prARaharaH,hara,nom. sg. m.,7,viseranam,5
+4,sTUlaH,sTUla,nom. sg. m.,8,viseranam,5
+5,sPowaH,sPowa,nom. sg. m.,9,karwa,6
+6,utpannaH,vac,pp.,10,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prAptasamAcAraH,samAcAra,nom. sg. m.,1,viseranam,1
+1,tatpatiH,pati,nom. sg. m.,3,karwa,5
+2,tAm,tad,acc. sg. f.,4,karma,4
+3,svagfhe,gfha,loc. sg. n.,8,axikaranam,5
+4,Anetum,nI,inf.,9,prayojanam,5
+5,upasTitaH,vac,pp.,10,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vyaktim,vyakti,acc. sg. f.,0,karma,3
+1,pratizWAm,pratizWa,acc. sg. f.,2,karmasamanaxikaranam,3
+2,ke,kim,nom. du. n.,4,karwa,3
+3,prApayanti,Ap,ca. pr. ac. pl. 3,8,,

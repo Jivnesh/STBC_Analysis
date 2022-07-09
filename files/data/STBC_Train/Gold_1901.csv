@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,7
+1,asO,adas,nom. sg. m.,29,viseranam,2
+2,SrIkfzRaH,kfzRa,nom. sg. m.,4,karwa,11
+3,aBinaBaH,naBa,conj.,8,axikaranam,7
+4,gurukAvyAnugAM,anugA,acc. sg. f.,13,viseranam,6
+5,cAndrIM,cAndrI,acc. sg. f.,14,viseranam,6
+6,SriyaM,SrI,acc. sg. f.,15,karma,11
+7,biBrat,Bf,nom. sg. n.,17,bavalakranasapwami_samanakalah,11
+8,udDavasIriByAM,sIrin,inst. du. m.,20,upapaxasambanxah,9
+9,sArdDaM,ca,conj.,21,sambanxah,11
+10,sadaH,sadas,acc. sg. n.,22,karma,11
+11,Asadat,sad,impft . ac. sg. ,28,,

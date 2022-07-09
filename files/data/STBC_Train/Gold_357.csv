@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SikzAm,SikzA,acc. sg. f.,0,karma,1
+1,parisamApya,Ap,abs.,26,purvakalah,7
+2,kOtsaH,tad,nom. sg. m.,2,karwa,8
+3,gurum,guru,acc. sg. m.,3,viseranam,4
+4,varatantum,tantu,acc. sg. m.,6,karma,7
+5,svepsitAm,Ap,acc. sg. f.,7,viseranam,6
+6,dakziRAm,dakziRA,acc. sg. f.,8,karmasamanaxikaranam,7
+7,nirdezwum,diS,inf.,10,prayojanam,8
+8,nyavedayat,vid,ca. impft. ac. sg. 3,11,,

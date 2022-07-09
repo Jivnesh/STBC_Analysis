@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anAraBamARasya,tad,g. sg. m.,2,viseranam,2
+1,api,api,conj.,3,sambanxah,0
+2,viBoH,viBu,g. sg. m.,8,rartisambanxah,3
+3,parEH,para,inst. pl. m.,10,karwa,4
+4,utpAditAH,Ric,nom. pl. m.,13,viseranam,5
+5,arTAH,arTa,nom. pl. m.,14,karwa,10
+6,vihAyasaH,vihAyas,g. sg. m.,16,rartisambanxah,7
+7,SabdAH,Sabda,nom. pl. m.,20,prawiyogi,8
+8,iva,iva,conj.,21,anuyogi,5
+9,guRatAM,guRatA,acc. sg. f.,22,karma,10
+10,vrajanti,vraj,pr. ac. pl. 3,23,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,acc. sg. n.,0,karma,1
+1,AkarRya,AkarRa,abs.,2,purvakalah,3
+2,vAnaraH,vAnara,nom. sg. m.,3,karwa,3
+3,acintayat,brU,impft. [10] ac. sg. 3,4,samucciwam,8
+4,adya,adya,loc. sg. m.,5,axikaranam,7
+5,mama,asmad,nom. sg. *,6,karwa,6
+6,maraRam,maraRa,acc. sg. n.,7,karma,7
+7,Bavizyati,BU,fut. ac. sg. 3,9,samucciwam,8
+8,ca,ca,conj.,10,,

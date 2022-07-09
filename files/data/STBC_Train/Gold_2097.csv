@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vaRijaH,vaRija,nom. sg. m.,0,karwa,4
+1,api,api,conj.,9,sambanxah,0
+2,SiraskAni,Siraska,acc. pl. n.,11,karma,4
+3,punaH,tatas,conj.,13,kriyaviseranam,4
+4,avindat,vid,impft . ac. sg. 3,14,,

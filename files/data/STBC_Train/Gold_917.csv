@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bAnDavaH,bAnDava,nom. sg. m.,0,viseranam,2
+1,saH,tad,nom. sg. m.,1,viseranam,2
+2,DarmarAjaH,DarmarAja,nom. pl. m.,12,karwa,8
+3,atiBarakzamaskanDaM,skanDa,acc. sg. m.,17,viseranam,5
+4,tvAM,yuzmad,acc. sg. n.,18,viseranam,5
+5,sahAyaM,sahAya,acc. sg. m.,19,karma,6
+6,samBAvya,Ric,abs.,20,purvakalah,8
+7,aDvaraDurAM,DurA,acc. sg. f.,21,karma,8
+8,vivakzate,vah,pr. md. sg. 3,23,,

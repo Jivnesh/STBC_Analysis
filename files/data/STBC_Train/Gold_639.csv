@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sammuKasTaH,sTa,nom. sg. m.,1,viseranam,1
+1,SAstrArTI,arTin,nom. sg. m.,10,karwa,4
+2,tadA,tadA,loc. sg. m.,3,axikaranam,4
+3,kim,kim,acc. sg. n.,4,karma,4
+4,kaTitavAn,prAp,ppa.,6,,

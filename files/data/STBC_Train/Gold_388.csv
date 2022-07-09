@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,te,tad,nom. pl. m.,2,karwa,3
+1,sarvadA,sarvadA,conj.,9,axikaranam,3
+2,itastataH,tad,conj.,11,kriyaviseranam,3
+3,Bramanti,Bram,pr. ac. pl. 3,12,,

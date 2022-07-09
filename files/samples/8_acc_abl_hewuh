@@ -1,0 +1,120 @@
+0,nIrEH,nIra,inst. pl. n.,0,karwa,10
+1,AsekAt,Aseka,abl. sg. m.,2,hewuh,2 ####### acc_abl_hewuh #######
+2,SItaArtiM,Arti,acc. sg. f.,3,karma,3
+3,balavadupeyuzA,tad,inst. sg. f.,6,prawiyogi,4
+4,iva,iva,conj.,4,anuyogi,6
+5,SiSirasamIrakampitena,kamp,pp. . sg. ,10,viseranam,6
+6,navAaMSukena,aMSuka,inst. sg. m.,11,karanam,10
+7,aBinavayOvanozmaBAjaH,BAj,nom. pl. f.,12,viseranam,8
+8,rAmARAM,rAma,g. pl. f.,15,rartisambanxah,9
+9,stanatawayoH,tawa,loc. du. m.,16,axikaranam,10
+10,ASlezi,Sliz,impft. md. sg. 3,18,,
+
+0,ArdratvAt,Ardra,abl. sg. n.,0,hewuh,1 ####### acc_abl_hewuh #######
+1,atiSayinIM,tad,acc. sg. f.,1,viseranam,2
+2,saMsaktim,saMsakti,acc. sg. f.,2,karma,3
+3,upeyivadBiH,tad,nom. sg. n.,4,bavalakranasapwami_samanakalah,14
+4,BUriSaH,BUriSas,conj.,5,kriyaviseranam,6
+5,BfSam,BfSam,conj.,8,kriyaviseranam,6
+6,avaDUtEH,DU,pp. . pl. ,10,viseranam,9
+7,api,api,conj.,11,sambanxah,8
+8,vAmalocanAnAM,vAmalocanA,g. pl. f.,15,rartisambanxah,9
+9,navaraktakEH,raktaka,inst. pl. m.,17,karwa,14
+10,aNgeByaH,aNga,abl. pl. m.,20,apaxanam,14
+11,viSlezaH,viSleza,nom. sg. m.,22,karma,14
+12,bata,bata,conj.,23,sambanxah,14
+13,kaTamapi,api,conj.,25,kriyaviseranam,14
+14,prapede,pad,pft. md. sg. 3,27,,
+
+0,gataDftiH,gata-Dfti,nom. sg. f.,NA,karwa,7
+1,ahaM,asmad,nom. sg. *.,NA,viseranam,0
+2,BavatyAH,BavatI,g. sg. f.,NA,rartisambanxah,3
+3,anAlApanAt,anAlApana,abl. sg. n.,NA,hewuh,4 ####### acc_abl_hewuh #######
+4,asUn,asu,acc. pl. m.,NA,karma,5
+5,avalambitum,ava_lamb1,inf.,NA,prayojanam,7
+6,analam,a_alam,ind.,NA,sambanxah,7
+7,Bavati,BU1,pr. ac. sg. 3,NA,,
+8,bata,bata,ind.,NA,sambanxah,7
+
+0,mama,asmad,g. sg. m.,3,rartisambanxah,3
+1,ekaH,eka,nom. sg. m.,4,viseranam,2
+2,dUrasTaH,sTa,nom. sg. m.,6,viseranam,3
+3,sambanDI,tad,nom. du. m.,11,karwa,7
+4,kAryavaSAt,vaSa,abl. sg. m.,15,hewuh,7 ####### acc_abl_hewuh #######
+5,yadA,yadA,loc. sg. m.,17,axikaranam,8
+6,jayapure,pura,loc. sg. n.,21,axikaranam,7
+7,AyAtaH,yAta,acc. pl. m.,22,prawiyogi,5
+8,tadA,tadA,loc. sg. m.,23,axikaranam,13
+9,mAm,asmad,acc. sg. *,24,karma,11
+10,api,api,conj.,25,sambanxah,9
+11,drazwum,dfS,inf.,27,prayojanam,13
+12,gfhe,gfha,loc. sg. n.,30,axikaranam,13
+13,upasTitaH,sTita,pp.,31,,
+
+0,gataDftiH,Dfti,nom. sg. f.,0,karwa,7
+1,ahaM,asmad,nom. sg. n.,1,viseranam,0
+2,BavatyAH,BavatI,g. sg. f.,3,rartisambanxah,3
+3,anAlApanAt,AlApana,abl. sg. n.,5,hewuh,4 ####### acc_abl_hewuh #######
+4,asUn,asu,acc. pl. m.,6,karma,5
+5,avalambitum,lamb,conj.,7,prayojanam,7
+6,analam,alam,conj.,8,sambanxah,7
+7,Bavati,BU,pr. ac. sg. 3,9,,
+8,bata,bata,conj.,10,sambanxah,7
+
+0,saH,tad,nom. sg. m.,NA,karwa,18
+1,aDivelaM,aDi-vela,ind.,NA,axikaranam,7
+2,jalAnAM,jala,g. pl. n.,NA,rartisambanxah,3
+3,niDinA,niDi,i. sg. m.,NA,karanam,18
+4,atigArDyAt,ati-gArDyAt,abl. sg. n.,NA,hewuh,6 ####### acc_abl_hewuh #######
+5,pItvA,pI1,abs.,NA,purvakalah,7
+6,vfdDiM,vfdDi,acc. sg. f.,NA,karma,7
+7,gate,gam1,pp.,NA,viseranam,9
+8,api,api,ind.,NA,sambanxah,7
+9,Atmani,Atman,loc. sg. m.,NA,axikaranam,13
+10,na,na,ind.,NA,sambanxah,9
+11,eva,eva,ind.,NA,sambanxah,10
+12,mAntIH,mA1,ppr. ac,NA,bavalakranasapwami_samanakalah,18
+13,kziptAH,kzip2,pp.,NA,viseranam,15
+14,indo,indu,g. sg. m.,NA,rartisambanxah,15
+15,rucaH,ruc,acc. pl. f.,NA,prawiyogi,16
+16,iva,iva,ind.,NA,anuyogi,17
+17,muktAvalIH,muktAvali,acc. pl. f.,NA,karma,18
+18,AkalayAYcakAra,AN_kal2,pft. sg. 3,NA,,
+
+0,saKIjane,jana,loc. sg. m.,0,karwa,2
+1,iti,iti,conj.,4,sambanxah,2
+2,vadati,vad,nom. sg. n.,5,purvakalah,15
+3,sati,as,nom. sg. n.,7,sambanxah,2
+4,aparaH,apara,nom. sg. m.,8,karwa,15
+5,dayitatamAm,tamA,acc. sg. f.,9,karma,8
+6,anurAgAt,anurAga,abl. sg. m.,10,hewuh,7
+7,ciraM,ciram,conj.,13,viseranam,8
+8,pratIkzya,Ikz,conj.,14,purvakalah,15
+9,tadanugamavaSAt,vaSa,abl. sg. m.,16,hewuh,10 ####### acc_abl_hewuh #######
+10,avanim,avani,acc. sg. f.,18,karma,11
+11,mimAnaH,mA,nom. sg. n.,19,prawiyogi,12
+12,iva,iva,conj.,20,anuyogi,4
+13,anAyatAni,yA,pp. . pl. ,23,viseranam,14
+14,padAni,pada,acc. pl. n.,24,karma,15
+15,nyaDita,DA,impft. ps. sg. 3,26,,
+
+0,saH,tad,nom. sg. m.,0,karwa,18
+1,aDivelaM,vela,conj.,1,axikaranam,7
+2,jalAnAM,jala,g. pl. n.,3,rartisambanxah,3
+3,niDinA,niDi,inst. sg. m.,6,karanam,18
+4,atigArDyAt,tva,abl. sg. n.,5,hewuh,6 ####### acc_abl_hewuh #######
+5,pItvA,pI,abs.,8,purvakalah,7
+6,vfdDiM,vfdDi,acc. sg. f.,9,karma,7
+7,gate,gam,nom. sg. n.,15,viseranam,9
+8,api,api,conj.,16,sambanxah,7
+9,Atmani,Atman,loc. sg. m.,19,axikaranam,13
+10,na,na,conj.,22,sambanxah,9
+11,eva,eva,conj.,23,sambanxah,10
+12,mAntIH,mA,acc. pl. f.,24,bavalakranasapwami_samanakalah,18
+13,kziptAH,kzip,acc. pl. f.,27,viseranam,15
+14,indo,indu,g. sg. m.,28,rartisambanxah,15
+15,rucaH,ruc,acc. pl. f.,29,prawiyogi,16
+16,iva,iva,conj.,33,anuyogi,17
+17,muktAvalIH,Avali,acc. pl. f.,52,karma,18
+18,AkalayAYcakAra,vac,pft. ps. sg. 3,36,,
+

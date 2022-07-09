@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,magaDarAjaH,rAja,nom. pl. m.,10,karwa,9
+1,prakzIRasakalasEnyamaRqalam,maRqala,acc. sg. m.,14,viseranam,2
+2,mAlavarAjam,rAjan,acc. sg. m.,58,karma,4
+3,jIvagrAham,grAha,adv.,23,kriyaviseranam,4
+4,aBigfhya,grah,abs.,24,purvakalah,9
+5,dayAlutayA,dayAlu,i. sg. f.,25,hewuh,9
+6,punaH,punar,adv.,26,kriyaviseranam,9
+7,api,api,prep.,29,sambanxah,6
+8,svarAjye,rAjya,loc. sg. m.,95,axikaranam,9
+9,pratisTApayAmAsa,sTA,ca. imp. ac. sg. 2,124,,

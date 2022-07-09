@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kiYcit,ca,loc. sg. m.,0,axikaranam,2
+1,tatra,tatra,loc. sg. m.,1,axikaranam,2
+2,sTitvA,sTA,abs.,2,purvakalah,5
+3,ca,ca,conj.,3,sambanxah,5
+4,tAn,tad,acc. pl. m.,4,karma,5
+5,abravIt,brU,impft. [2] ac. sg. 3,5,,

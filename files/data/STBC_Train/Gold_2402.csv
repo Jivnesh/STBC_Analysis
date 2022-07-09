@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,indraanujaanucaraBUpatayaH,BUpati,nom. pl. m.,1,karwa,8
+1,mfgaindrAn,indra,acc. pl. m.,2,karma,5
+2,vidvizaH,vidviz,acc. pl. m.,3,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,1
+4,prasaBam,prasaBa,conj.,9,viseranam,5
+5,ucCidya,Cid,abs.,10,purvakalah,8
+6,vanyeBamastakaniKAtanaKaagramuktamuktAPalaprakaraBAYji,tad,acc. pl. n.,11,viseranam,7
+7,guhAgfhARi,gfha,acc. pl. n.,12,karma,8
+8,aDyavAtsuH,vas,impft. ac. pl. 3,14,,

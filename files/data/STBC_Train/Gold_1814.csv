@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadyapi,api,conj.,1,sambanxah,4
+1,aham,asmad,nom. sg. *,3,karma,3
+2,paYcaputrEH,putra,i. pl. m.,5,karwa,3
+3,samAvftA,vf,pp.,9,prawiyogi,0
+4,taTApi,Api,acc. sg. n.,50,anuyogi,9
+5,mama,asmad,g. sg. *,13,rartisambanxah,6
+6,hfdayam,hfdaya,nom. sg. n.,15,karwa,9
+7,apahftasarvaputrAH,putra,nom. pl. m.,18,prawiyogi,8
+8,iva,iva,part.,19,anuyogi,6
+9,vyaTate,BU,pr. [1] md. sg. 3,20,,

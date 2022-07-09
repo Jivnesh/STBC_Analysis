@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,loke,loka,loc. sg. m.,0,axikaranam,2
+1,durgARi,durga,acc. pl. n.,1,karma,2
+2,taratu,tf,imp. [1] ac. sg. 3,3,samucciwam,5
+3,BadrARi,Badra,acc. pl. n.,4,karma,4
+4,paSyatu,paS,imp. [4] ac. sg. 3,6,samucciwam,5
+5,ca,ca,conj.,7,,

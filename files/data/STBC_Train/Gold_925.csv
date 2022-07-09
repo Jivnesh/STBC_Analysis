@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfdDA,vfdDa,nom. sg. f.,0,karwa,4
+1,svam,sva,acc. sg. n.,2,viseranam,2
+2,SiraH,Siras,acc. sg. n.,4,karma,3
+3,sPowayantI,sPuw,ca. ppr. ac.,8,bavalakranasapwami_samanakalah,4
+4,avocat,vac,aor. [2] ac. sg. 3,9,,

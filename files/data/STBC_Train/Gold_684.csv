@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,grAmAt,grAma,abl. sg. m.,0,upapaxasambanxah,1
+1,bahiH,bahis,loc. sg. n.,2,axikaranam,4
+2,jaNgalasya,jaNgala,g. sg. m.,3,rartisambanxah,3
+3,SUnyapradeSe,pradeSa,loc. sg. m.,6,axikaranam,4
+4,Kanantam,Kan,acc. sg. m.,7,viseranam,5
+5,pitaram,pitf,acc. sg. m.,8,karma,6
+6,dfzwvA,dfS,abs.,9,purvakalah,9
+7,saptAzwavarzIyaH,varzIya,nom. sg. m.,11,viseranam,8
+8,putraH,putra,nom. sg. m.,12,karwa,9
+9,pfzwavAn,kf,ppa.,14,,

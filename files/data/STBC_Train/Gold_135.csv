@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,inDanam,inDana,acc. sg. n.,0,karma,2
+1,gfham,gfha,acc. sg. n.,2,karma,2
+2,Anayasi,an,ca. pr. ac. sg. 2,4,samucciwam,3
+3,ca,ca,conj.,5,,

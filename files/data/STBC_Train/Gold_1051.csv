@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nirASaH,ASa,nom. sg. m.,0,samucciwam,2
+1,lajjitaH,tad,nom. sg. m.,2,samucciwam,2
+2,ca,ca,conj.,3,viseranam,3
+3,rAjA,rAjan,nom. sg. m.,4,karwa,6
+4,tatsarvam,sarva,acc. sg. m.,9,karma,5
+5,gfhItvA,grah,abs.,12,purvakalah,6
+6,pratinivfttaH,vftta,pp.,13,,
+7,iti,iti,part.,14,sambanxah,6

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,idam,nom. sg. m.,0,karwa,9
+1,atijaraWAH,cezwA,acc. pl. f.,1,viseranam,8
+2,prakAmagurvIH,gurvI,acc. pl. f.,2,viseranam,8
+3,alaGuvilambipayoDarauparudDAH,cezwA,acc. pl. f.,5,viseranam,8
+4,satatam,satatam,conj.,8,kriyaviseranam,9
+5,asumatAm,asu,g. pl. m.,10,rartisambanxah,8
+6,agamyarUpAH,rUpa,acc. pl. f.,11,viseranam,8
+7,pariRatadikkarikAH,karin,acc. pl. f.,18,viseranam,8
+8,tawIH,tawI,acc. pl. f.,19,karma,9
+9,biBarti,Bf,pr. ac. sg. 3,20,,

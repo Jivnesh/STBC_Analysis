@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hariH,hari,nom. sg. m.,2,karwa,4
+1,putrEH,putra,inst. pl. m.,4,prawiyogi,2
+2,saha,saha,conj.,6,anuyogi,0
+3,grAmaM,grAma,acc. sg. m.,7,karma,4
+4,gacCati,gam,pr. ac. sg. 3,8,,

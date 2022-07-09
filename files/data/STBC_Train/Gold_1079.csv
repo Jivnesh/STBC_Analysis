@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,4
+1,na,na,part.,3,sambanxah,4
+2,ekasya,eka,g. sg. m.,4,rartisambanxah,3
+3,BAzaRam,BAzaRa,acc. sg. n.,6,karma,4
+4,viramati,ram,pr. [1] ac. sg. 3,8,,
+5,sma,sma,part.,9,sambanxah,4

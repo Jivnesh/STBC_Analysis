@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saBADyakzaH,aDyakza,nom. sg. m.,26,karwa,4
+1,sampAdakam,sampAdaka,acc. sg. n.,4,karma,3
+2,kim,kim,acc. sg. n.,6,karma,3
+3,kartum,kf,inf.,8,prayojanam,4
+4,AdizwavAn,Adizwa,pp.,9,,

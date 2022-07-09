@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,janaH,jana,nom. sg. m.,2,karwa,7
+1,utTitO,sTA,acc. du. m.,4,viseranam,3
+2,etO,etad,acc. du. m.,5,viseranam,3
+3,tuzAraaYjanaparvatO,parvata,nom. du. m.,8,prawiyogi,4
+4,iva,iva,conj.,9,anuyogi,5
+5,yAvat,yAvat,conj.,10,sambanxah,7
+6,na,na,conj.,11,sambanxah,7
+7,udapaSyat,dfS,impft . ac. sg. 3,12,samucciwam,15
+8,tAvat,tAvat,conj.,13,sambanxah,14
+9,cirantanaH,cirantana,nom. sg. m.,17,viseranam,10
+10,muniH,muni,nom. sg. m.,18,karwa,15
+11,svahastadatte,dA,loc. sg. n.,21,viseranam,12
+12,Asane,Asana,loc. sg. n.,24,axikaranam,14
+13,munim,muni,acc. sg. m.,25,karma,14
+14,aBinyavIviSat,Ric,impft. ac. sg. 3,27,samucciwam,15
+15,ca,ca,conj.,28,,

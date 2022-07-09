@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,te,tad,nom. du. f.,4,viseranam,2
+1,dve,dvi,nom. du. f.,10,viseranam,2
+2,saKyO,dvi,nom. du. f.,13,karwa,5
+3,kadA,kadA,loc. sg. m.,14,axikaranam,5
+4,milite,mil,nom. du. f.,20,karwqsamanaxikaranam,5
+5,AstAm,as,imp. [2] md. sg. 3,22,,

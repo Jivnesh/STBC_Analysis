@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yadi,conj.,0,samucciwam,7
+1,ahaM,asmad,nom. sg. *.,1,samucciwam,7
+2,tatra,tatra,conj.,2,axikaranam,5
+3,kAYcit,cit,acc. sg. f.,4,viseranam,4
+4,sahAyatAM,sahAya,acc. sg. f.,5,karma,5
+5,kartuM,kf,conj.,6,prayojanam,6
+6,SaknuyAm,Sak,opt. ac. sg. 1,7,samucciwam,7
+7,ca,ca,conj.,8,,

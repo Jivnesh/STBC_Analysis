@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kzuBitasEnyaparAgavipARquradyutiH,dyuti,nom. sg. m.,1,viseranam,2
+1,yaH,yad,nom. sg. m.,2,viseranam,2
+2,loDrarajaScayaH,caya,nom. sg. m.,5,karwa,6
+3,BuvanAni,Buvana,acc. pl. n.,6,karma,4
+4,aBizizeRayizuM,tad,acc. sg. m.,8,viseranam,5
+5,smaram,smara,acc. sg. m.,9,karma,6
+6,AKyata,cakz,impft. md. sg. 3,0,samucciwam,12
+7,iva,iva,conj.,10,sambanxah,6
+8,ayaM,idam,nom. sg. m.,11,karwa,11
+9,diSaH,diS,acc. pl. f.,12,karma,10
+10,tirayan,tras,nom. sg. m.,16,bavalakranasapwami_samanakalah,11
+11,udaBUt,BU,impft. ac. sg. 3,17,samucciwam,12
+12,ca,ca,conj.,18,,

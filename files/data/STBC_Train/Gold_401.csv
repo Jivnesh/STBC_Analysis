@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vizaye,vizaya,loc. sg. m.,7,axikaranam,2
+1,praSnAn,praSna,acc. pl. m.,3,karma,2
+2,kftvA,kf,abs.,5,purvakalah,7
+3,ekA,eka,nom. sg. f.,4,viseranam,4
+4,saKI,tad,nom. sg. f.,6,karwa,7
+5,vizaye,vizaya,loc. sg. m.,0,axikaranam,7
+6,saduHKam,duHKa,acc. sg. m.,11,kriyaviseranam,7
+7,kaTitavatI,kaT,ppa.,16,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,karwa,6
+1,Sivasya,Sukla,g. sg. m.,2,rartisambanxah,2
+2,Danuzam,Danus,acc. sg. m.,3,karma,3
+3,aKaRqayat,Baj,ca. impft. ac. sg. 3,4,samucciwam,6
+4,sItAm,sItA,acc. sg. f.,5,karma,5
+5,paryaRayat,nI,impft. [1] ac. sg. 3,6,samucciwam,6
+6,ca,ca,conj.,7,,

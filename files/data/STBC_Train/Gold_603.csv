@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekAm,eka,acc. sg. f.,0,viseranam,1
+1,bfhatIm,bfhatI,acc. sg. f.,1,viseranam,2
+2,DanapewikAm,pewaka,acc. sg. f.,3,karma,3
+3,ca,ca,conj.,4,sambanxah,6
+4,tezAm,tad,g. pl. n.,5,rartisambanxah,5
+5,AvAse,AvAsa,loc. sg. m.,7,axikaranam,10
+6,prApayitum,Ap,ca. inf.,8,prayojanam,10
+7,svakIyam,svakIya,acc. sg. m.,10,viseranam,9
+8,ekam,eka,acc. sg. m.,13,viseranam,9
+9,karmacAriRam,cArin,acc. sg. m.,17,karma,10
+10,prezitavAn,vac,pp.,18,,

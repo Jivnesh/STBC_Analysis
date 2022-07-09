@@ -1,0 +1,52 @@
+0,saH,tad,nom. sg. m.,0,karwa,7
+1,eva,eva,prep.,1,sambanxah,0
+2,vAstavikaH,tad,nom. sg. m.,2,viseranam,6
+3,sanyAsI,as,nom. sg. m.,4,samucciwam,6
+4,mahAtmA,Atman,nom. pl. m.,22,samucciwam,6
+5,rAzwranetA,netf,nom. sg. m.,7,samucciwam,6
+6,vA,vA,conj.,8,viseranam,0
+7,yaH,yad,nom. sg. m.,9,,
+8,nirDanAn,nirDana,acc. pl. m.,10,karma,11
+9,sevate,seva,nom. du. f.,12,sambanxah,11
+10,Bajate,tad,nom. sg. n.,13,sambanxah,11
+11,vA,vA,conj.,14,prawiyogi,0 ####### nom_Ind_prawiyogi #######
+
+0,svacCAmBaHsnapanaviDOtam,viDu,nom. sg. n.,5,viseranam,1
+1,aNgaM,aNga,nom. sg. n.,7,samucciwam,7
+2,tAmbUladyutiviSadaH,viSada,nom. sg. m.,9,viseranam,3
+3,ozWaH,ozWa,nom. sg. m.,10,samucciwam,7
+4,pratanu,pratanu,nom. sg. n.,11,viseranam,6
+5,viviktaM,vac,pp. . sg. ,14,viseranam,6
+6,vAsaH,vAsas,nom. sg. n.,16,samucciwam,7
+7,ca,ca,conj.,30,karwa,12
+8,iti,iti,conj.,0,prawiyogi,9 ####### nom_Ind_prawiyogi #######
+9,IyAn,tad,nom. sg. m.,20,anuyogi,10
+10,vilAsinInAm,vilAsinI,g. pl. f.,22,rartisambanxah,11
+11,AkalpaH,Akalpa,nom. sg. m.,23,karwqsamanaxikaranam,12
+12,astu,as,imp. ac. sg. 3,24,samucciwam,18
+13,yadi,yadi,conj.,25,sambanxah,17
+14,kusumezuRA,kusumezu,inst. sg. m.,26,karanam,17
+15,SUnyaH,SUnya,nom. sg. m.,27,karwa,17
+16,na,na,conj.,28,sambanxah,17
+17,syAt,as,opt. ac. sg. 3,29,samucciwam,18
+18,ca,ca,conj.,21,,
+
+0,svacCAmBaHsnapanaviDOtam,svacCAmBaH-snapana-viDOta,nom. sg. n.,NA,viseranam,1
+1,aNgaM,aNga,nom. sg. n.,NA,samucciwam,7
+2,tAmbUladyutiviSadaH,tAmbUladyuti-viSada,nom. sg. m.,NA,viseranam,3
+3,ozWaH,ozWa,nom. sg. m.,NA,samucciwam,7
+4,pratanu,pratanu,nom. sg. n.,NA,viseranam,6
+5,viviktaM,vi_vic1,pp.,NA,viseranam,6
+6,vAsaH,vAsas,nom. sg. n.,NA,samucciwam,7
+7,ca,ca,ind.,NA,karwa,12
+8,iti,iti,ind.,NA,prawiyogi,9 ####### nom_Ind_prawiyogi #######
+9,IyAn,iyat,nom. sg. m.,NA,anuyogi,10
+10,vilAsinInAm,vilAsinI,g. pl. f.,NA,rartisambanxah,11
+11,AkalpaH,Akalpa,nom. sg. m.,NA,karwqsamanaxikaranam,12
+12,astu,as2,imp.,NA,,
+13,yadi,yadi,ind.,NA,sambanxah,17
+14,kusumezuRA,kusumezu,i. sg. m.,NA,karanam,17
+15,SUnyaH,SUnya,nom. sg. m.,NA,karwa,17
+16,na,na,ind.,NA,sambanxah,17
+17,syAt,as2,opt. ac. sg. 3,NA,,
+

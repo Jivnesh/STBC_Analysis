@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bfhacCilAnizWurakaRWaGawwanAt,Gawana,voc. sg. m.,0,apaxanam,10
+1,vikIrRalolAgnikaRaM,agnikaRa,nom. sg. n.,3,viseranam,2
+2,aprasahizRu,tad,nom. sg. n.,4,viseranam,4
+3,vEzRavaM,vEzRava,nom. sg. n.,7,viseranam,4
+4,cakraM,cakra,nom. sg. n.,9,karwa,10
+5,jagatpraBoH,jagatpraBu,g. sg. m.,12,viseranam,7
+6,asya,idam,g. sg. m.,14,viseranam,7
+7,suradvizaH,tad,g. sg. m.,21,rartisambanxah,8
+8,aDikanDaraM,Dara,acc. sg. m.,25,karma,10
+9,na,na,conj.,28,sambanxah,10
+10,akramata,kram,impft . md. sg. 3,30,,

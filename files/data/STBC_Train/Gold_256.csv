@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekaH,eka,nom. sg. m.,0,viseranam,1
+1,kumBakAraH,kumBakAra,nom. sg. m.,1,karwa,7
+2,svaputram,putra,acc. sg. m.,3,viseranam,3
+3,SyAmam,SyAma,acc. sg. m.,4,karma,7
+4,mfttikAm,mfttikA,acc. sg. f.,7,karma,5
+5,Anetum,nI,inf.,8,prayojanam,7
+6,vane,vana,loc. sg. n.,11,axikaranam,7
+7,prezitavAn,vac,pp.,12,,

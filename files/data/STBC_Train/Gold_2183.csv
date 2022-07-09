@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,uttejitAH,kf,pp. . pl. ,3,viseranam,1
+1,sadasyAH,sadasya,nom. pl. m.,4,karwa,5
+2,aBadram,aBadra,acc. sg. n.,10,viseranam,4
+3,api,api,conj.,11,sambanxah,2
+4,vyavahAraM,vyavahAra,acc. sg. m.,13,karma,5
+5,kftavantaH,kft,pp. . pl. ,14,,

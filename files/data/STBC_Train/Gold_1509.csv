@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,aDikataram,tara,acc. sg. n.,3,viseranam,3
+2,saH,tad,nom. sg. m.,5,karwa,6
+3,cOryam,tad,acc. sg. n.,7,karma,4
+4,kartum,kf,inf.,8,prayojanam,6
+5,na,na,part.,9,sambanxah,6
+6,pAritavAn,kf,ca. ppa.,11,,

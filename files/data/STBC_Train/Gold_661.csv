@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bojanam,Bojana,acc. sg. n.,0,karma,1
+1,parivezya,viz,ca. abs.,2,purvakalah,4
+2,SrezWI,SrezWin,nom. sg. m.,3,karwa,7
+3,BagavatprasAdam,prasAda,acc. sg. m.,6,karma,4
+4,prAptum,Ap,inf.,7,prayojanam,7
+5,sapraRAmam,praRAma,adv.,9,kriyaviseranam,7
+6,mahAtmAnam,Atman,acc. sg. *,36,karma,7
+7,nyavedayat,vid,ca. impft. ac. sg. 3,14,,

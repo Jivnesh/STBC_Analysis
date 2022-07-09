@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,janatA,janatA,nom. sg. f.,1,karwa,1
+1,icCati,iz,pr. ac. sg. 3,2,,
+2,yudDam,yudDa,acc. sg. m.,5,karma,1
+3,na,na,conj.,6,sambanxah,1

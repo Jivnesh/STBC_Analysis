@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BUmiKaRqanimittam,nimitta,adv.,4,kriyaviseranam,2
+1,ayam,idam,nom. sg. m.,5,viseranam,2
+2,vAdaH,vAda,nom. sg. m.,6,karwa,3
+3,asti,as,pr. [2] ac. sg. 3,7,,

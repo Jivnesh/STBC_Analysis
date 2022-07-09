@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,3,rartisambanxah,1
+1,AvAsaparisare,parisara,loc. sg. m.,5,axikaranam,7
+2,ekamizwAnnavyavasAyI,vyavasAyin,nom. sg. m.,57,karwa,7
+3,prAyaH,prAyas,adv.,20,sambanxah,7
+4,varzeByaH,varza,abl. pl. m.,21,apaxanam,7
+5,AvAsinAm,vAsin,g. pl. m.,27,rartisambanxah,6
+6,AvaSyakatAH,AvaSyaka,acc. pl. f.,29,karma,7
+7,pUrayati,BU,ca. pr. ac. sg. 3,30,,

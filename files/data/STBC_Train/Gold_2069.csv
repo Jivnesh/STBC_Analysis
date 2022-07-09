@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kopajihmAnanaH,Anana,nom. sg. m.,29,viseranam,2
+1,saH,tad,nom. sg. m.,4,viseranam,2
+2,sahapAWI,pAWin,nom. sg. m.,7,karwa,5
+3,svaBAzayA,BAzA,adv.,9,kriyaviseranam,5
+4,tam,tad,acc. sg. m.,10,karma,5
+5,aBartsayat,brU,impft. [10] ac. sg. 3,11,,

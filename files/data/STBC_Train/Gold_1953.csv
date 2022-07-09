@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayaTAbalam,abala,conj.,4,viseranam,1
+1,AramBaH,AramBa,nom. sg. m.,5,karwa,4
+2,kzayasampadaH,sampad,g. sg. f.,10,rartisambanxah,3
+3,nidAnaM,nidAna,nom. sg. n.,13,karwqsamanaxikaranam,4
+4,Bavati,BU,pr. ac. sg. 3,14,,

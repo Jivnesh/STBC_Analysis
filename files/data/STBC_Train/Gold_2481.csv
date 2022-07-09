@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,nom. sg. *,0,viseranam,2
+1,punaH,punar,adv.,1,sambanxah,0
+2,mandaBAginyAH,BAgin,nom. sg. f.,5,karwa,3
+3,dfSyamAnam,dfS,nom. sg. n.,8,viseranam,7
+4,api,api,conj.,9,sambanxah,3
+5,sarvam,sarva,nom. sg. n.,13,viseranam,7
+6,eva,eva,ind.,14,sambanxah,5
+7,etat,etad,nom. sg. n.,27,karwa,9
+8,na,na,part.,16,sambanxah,9
+9,asti,as,pr. [2] ac. sg. 3,17,,

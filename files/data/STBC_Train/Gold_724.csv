@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SaNKaH,SaNKa,nom. sg. m.,0,karwa,9
+1,tam,tad,acc. sg. m.,1,karma,9
+2,yaTAviDi,yaTA,adv.,7,kriyaviseranam,9
+3,nadyAm,nadI,loc. sg. f.,8,axikaranam,7
+4,devAn,deva,acc. pl. m.,9,samucciwam,6
+5,pitFn,pitf,acc. pl. m.,10,samucciwam,6
+6,ca,ca,conj.,11,karma,8
+7,snAtvA,snA,abs.,12,purvakalah,9
+8,tarpayitum,tfp,ca. inf.,13,prayojanam,9
+9,AjYAptavAn,Ap,pp.,15,,

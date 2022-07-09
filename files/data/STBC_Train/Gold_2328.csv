@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vicAraya,car,ca. imp. ac. sg. 2,0,,
+1,BagavatA,Baga,i. sg. m.,2,viseranam,2
+2,paramAtmanA,Atman,i. sg. *,20,karwa,4
+3,kuberavat,kubera,nom. sg. m.,5,viseranam,4
+4,viracitaH,tad,nom. sg. m.,6,viseranam,5
+5,DanAQyaH,AQya,nom. sg. m.,18,viseranam,6
+6,tvam,yuzmad,nom. sg. *,8,karwa,11
+7,kaTam,kaTam,adv.,9,kriyaviseranam,11
+8,iyAn,yat,nom. sg. m.,14,viseranam,9
+9,nirASaH,nirASa,nom. sg. m.,10,viseranam,10
+10,puruzaH,puruza,nom. sg. m.,11,karwqsamanaxikaranam,11
+11,asi,as,pr. [2] ac. sg. 2,12,prawiyogi,12
+12,iti,iti,part.,13,anuyogi,0

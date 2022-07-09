@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *.,0,karwa,2
+1,vidyAlayam,Alaya,acc. sg. m.,12,karma,2
+2,gamizyAmi,gam,fut. ac. sg. 1,3,,

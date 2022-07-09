@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,yiyAsataH,yA,ppr. ac,NA,viseranam,1
+1,tasya,tad,g. sg. m.,NA,rartisambanxah,2
+2,mahIndraranDraBidApawIyAn,mahIndra-ranDra-BidA-pawIyas,nom. sg. m.,NA,viseranam,4
+3,pawahapraRAdaH,pawaha-praRAda,nom. sg. m.,NA,viseranam,4
+4,mahArRavaOGaH,mahArRava-OGa,nom. sg. m.,NA,karwa,8
+5,jalaantarARi,jala-antara,acc. pl. n.,NA,prawiyogi,6
+6,iva,iva,ind.,NA,anuyogi,7
+7,SabdaantarARi,Sabda-antara,acc. pl. n.,NA,karma,8
+8,antarayAYcakAra,antara_kf3,pft. ac. sg. 3,NA,,

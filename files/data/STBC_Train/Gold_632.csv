@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,axikaranam,7
+1,parasparasparDiparArDyarUpAH,rUpa,nom. pl. f.,5,karwa,3
+2,pOrastriyaH,strI,acc. pl. f.,8,karma,3
+3,viDAya,DA,abs.,25,purvakalah,7
+4,veDAH,veDa,nom. sg. m.,14,karwa,7
+5,SrInirmitiprAptaGuRakzatEkavarRopamAvAcyam,vac,nom. sg. n.,17,upapaxasambanxah,6
+6,alaM,alam,conj.,18,sambanxah,7
+7,mamArja,mfj,pft. ac. sg. 3,19,,

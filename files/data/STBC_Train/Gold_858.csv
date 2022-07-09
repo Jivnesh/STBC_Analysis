@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anye,anya,nom. pl. m.,0,karwa,1
+1,vicArayanti,car,ca. pr. ac. pl. 3,5,prawiyogi,3
+2,sma,sma,part.,6,sambanxah,1
+3,yat,yad,acc. sg. n.,28,anuyogi,5
+4,imAH,dam,nom. pl. m.,9,viseranam,5
+5,gAvaH,go,nom. pl. m.,10,karwa,10
+6,dine,dina,loc. sg. n.,14,axikaranam,10
+7,yezAm,yad,g. pl. m.,16,viseranam,8
+8,SAkaPalavikrayikARAm,vikraya,g. pl. m.,22,rartisambanxah,9
+9,sAmagrIm,sAmagrI,acc. sg. f.,23,karma,10
+10,KAdanti,KAd,pr. [1] ac. pl. 3,24,,
+11,sma,sma,part.,25,sambanxah,10

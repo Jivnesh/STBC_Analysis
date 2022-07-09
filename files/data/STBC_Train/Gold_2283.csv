@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAtrO,rAtri,loc. sg. f.,0,axikaranam,2
+1,atra,atra,loc. sg. n.,3,axikaranam,2
+2,Agatasya,gam,g. sg. m.,2,viseranam,4
+3,api,api,conj.,4,sambanxah,2
+4,me,asmad,g. sg. *,6,rartisambanxah,5
+5,evam,evam,adv.,8,kriyaviseranam,7
+6,eva,eva,prep.,9,sambanxah,5
+7,aBavat,BU,impft. [1] ac. sg. 3,10,,

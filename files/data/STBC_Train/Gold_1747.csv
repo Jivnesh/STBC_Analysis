@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gAyakasya,gAyaka,g. sg. m.,0,rartisambanxah,1
+1,saNgItena,gIta,i. sg. n.,2,karanam,2
+2,praBAvitAH,BU,nom. pl. m.,6,viseranam,3
+3,sadasyAH,sadasya,nom. pl. m.,7,karwa,5
+4,kim,kim,acc. sg. n.,10,karma,5
+5,akurvan,kf,impft. [8] ac. pl. 3,12,,

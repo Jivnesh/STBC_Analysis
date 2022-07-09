@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyena,anya,inst. sg. m.,1,karwa,4
+1,kadAcit,cit,conj.,3,axikaranam,4
+2,natiM,nati,acc. sg. f.,4,karma,4
+3,na,na,conj.,5,sambanxah,4
+4,nItaM,nI,acc. sg. m.,8,samucciwam,16
+5,kriyAsu,kriyA,loc. pl. f.,9,axikaranam,7
+6,karRAntikaprAptaguRaM,guRa,acc. sg. m.,12,karma,7
+7,viDeyaM,viDeya,nom. sg. n.,13,viseranam,11
+8,draQIyaH,tad,nom. sg. n.,14,viseranam,11
+9,SArNgaM,SArNga,nom. sg. n.,17,viseranam,11
+10,DanuH,Danus,nom. sg. n.,19,karwa,15
+11,mitram,mitra,nom. sg. n.,23,prawiyogi,12
+12,iva,iva,conj.,25,anuyogi,10
+13,asya,idam,g. sg. m.,27,rartisambanxah,14
+14,antikasTam,sTa,nom. sg. n.,31,karma,15
+15,aBavat,BU,impft . ac. sg. 3,32,samucciwam,16
+16,ca,ca,conj.,33,,

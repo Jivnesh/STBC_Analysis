@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,DOtapatraleKam,leKa,nom. sg. n.,0,viseranam,2
+1,kasyAScit,tad,g. sg. f.,3,rartisambanxah,2
+2,muKam,muKa,nom. sg. n.,5,upapaxasambanxah,3
+3,anu,anu,conj.,7,sambanxah,9
+4,salilaBarAvalambinIBiH,tad,inst. pl. f.,11,viseranam,6
+5,kiYjalkavyatikarapiYjaraantarABiH,antarA,inst. pl. f.,12,viseranam,6
+6,alakAgravallarIBiH,vallarI,inst. pl. f.,13,karwa,9
+7,citraSrIH,SrI,nom. sg. f.,15,karma,9
+8,alaM,alam,conj.,16,viseranam,9
+9,vyAtene,tan,pft. md. sg. 3,17,,

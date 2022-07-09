@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,AByAm,idam,abl. du. n.,1,prawiyogi,2
+2,saha,saha,prep.,11,anuyogi,0
+3,yaTecCam,icCA,acc. sg. m.,23,kriyaviseranam,5
+4,itastataH,tad,abl. pl. n.,26,apaxanam,5
+5,calitum,cal,inf.,15,prayojanam,6
+6,Saknomi,Sak,pr. [5] ac. sg. 1,16,,

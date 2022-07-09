@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAnaraH,vAnara,nom. sg. m.,0,viseranam,1
+1,sugrIvaH,sugrIva,nom. sg. m.,1,karwa,10
+2,rAmasya,rAma,g. sg. m.,2,rartisambanxah,3
+3,tatsarvam,sarva,acc. sg. m.,5,karma,4
+4,SrutvA,Sru,abs.,8,purvakalah,10
+5,prItaH,tad,nom. sg. m.,9,viseranam,6
+6,rAmaH,rAma,nom. sg. m.,10,karwa,10
+7,agnisAkzikam,sAkzin,acc. sg. n.,12,viseranam,8
+8,saKyam,saKya,acc. sg. n.,15,karma,10
+9,eva,eva,prep.,17,sambanxah,8
+10,cakAra,kf,pft. ac. sg. 3,18,,

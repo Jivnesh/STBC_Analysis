@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,sambanxah,5
+1,tAH,tad,nom. pl. f.,2,karwa,3
+2,api,api,conj.,3,sambanxah,1
+3,viPalAH,viPalA,acc. pl. f.,7,karwqsamanaxikaranam,5
+4,eva,eva,conj.,8,sambanxah,3
+5,atizWan,zWA,impft . ac. pl. 3,9,,

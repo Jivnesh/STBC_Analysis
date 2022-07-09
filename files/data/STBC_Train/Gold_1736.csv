@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nisargacitrojjvalasUkzmapakzmaRA,pakzman,inst. sg. n.,1,viseranam,3
+1,lasadbisacCedasitANgasaNginA,saNgin,inst. sg. m.,4,viseranam,3
+2,cArucamUrucarmaRA,carman,inst. sg. n.,7,viseranam,3
+3,kuTena,kuTa,inst. sg. m.,8,karanam,7
+4,indravAhanaM,vAhana,acc. sg. n.,10,viseranam,5
+5,nAgendram,indra,acc. sg. m.,28,prawiyogi,6
+6,iva,iva,conj.,13,anuyogi,7
+7,cakAsatam,as,acc. sg. n.,17,viseranam,9
+8,amuM,adas,acc. sg. m.,18,viseranam,9
+9,nAradaH,nArada,nom. sg. m.,19,prawiyogi,10
+10,iti,iti,conj.,20,anuyogi,11
+11,saH,tad,nom. sg. m.,21,karwa,12
+12,aboDi,buD,impft. md. sg. 3,22,,

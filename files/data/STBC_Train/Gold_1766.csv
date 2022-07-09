@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAtA,mAtf,nom. sg. f.,0,karwa,3
+1,nAmadevam,deva,acc. sg. m.,2,sambanxah,3
+2,kim,kim,acc. sg. n.,5,sambanxah,3
+3,pfzwavatI,kf,ppa.,12,,

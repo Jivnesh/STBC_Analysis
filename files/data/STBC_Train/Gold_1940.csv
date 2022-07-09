@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taTAhi,api,conj.,1,sambanxah,7
+1,SayAluH,SayAlu,nom. sg. m.,2,viseranam,3
+2,mfgayuH,mfgayu,nom. sg. m.,3,viseranam,3
+3,upaSayasTaH,yad,nom. sg. m.,4,karwa,7
+4,api,api,conj.,5,sambanxah,3
+5,mfgAn,mfga,acc. pl. m.,7,karma,7
+6,na,na,conj.,9,sambanxah,7
+7,hanti,han,pr. ac. sg. 3,8,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAH,tad,nom. sg. f.,1,karwa,1
+1,anuroDena,tad,i. sg. m.,2,hewuh,6
+2,aham,asmad,nom. sg. *,3,karwa,7
+3,tvAm,yuzmad,acc. sg. *,4,sambanxah,6
+4,svagfham,gfha,acc. sg. n.,6,sambanxah,6
+5,BojanAya,Bojana,dat. sg. n.,8,waxarwyam,6
+6,netum,nI,inf.,9,karma,7
+7,icCAmi,z,pr. [6] ac. sg. 1,10,,

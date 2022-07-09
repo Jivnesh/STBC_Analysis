@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mantrirAja,rAja,voc. sg. m.,1,samboxyah,7
+1,Bavantam,BU,acc. sg. m.,2,prawiyogi,2
+2,vinA,vinA,prep.,3,anuyogi,7
+3,punaH,punar,adv.,4,kriyaviseranam,7
+4,mama,asmad,g. sg. *,6,rartisambanxah,5
+5,kAryam,kArya,nom. sg. n.,14,karwa,7
+6,kaTam,kaTam,adv.,16,kriyaviseranam,7
+7,calizyati,BU,fut. ac. sg. 3,17,,

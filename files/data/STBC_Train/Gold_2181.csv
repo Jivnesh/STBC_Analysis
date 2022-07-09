@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upasTitAya,sTita,dat. sg. m.,1,viseranam,1
+1,tasmE,tad,dat. sg. m.,3,sampraxanam,12
+2,saH,tad,nom. sg. m.,4,karwa,12
+3,svasAmarTyAnusAreRa,anusAra,i. sg. m.,36,viseranam,5
+4,sampAditena,pad,i. sg. n.,11,viseranam,5
+5,sarasaBojanena,Bojana,i. sg. m.,45,prawiyogi,6
+6,saha,saha,prep.,15,anuyogi,2
+7,sADAraRIm,DAraRa,acc. sg. f.,17,viseranam,10
+8,rUkzAm,rUkza,acc. sg. f.,18,viseranam,10
+9,sTUlAm,sTUla,acc. sg. f.,19,viseranam,10
+10,rowIm,tad,acc. sg. f.,20,karma,11
+11,BakzaRAya,BakzaRa,abs.,21,purvakalah,12
+12,adadAt,dA,impft. [3] ac. sg. 3,22,,

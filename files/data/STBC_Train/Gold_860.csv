@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,dam,nom. sg. m.,0,viseranam,1
+1,svadeSaH,deSa,nom. sg. m.,23,karwa,8
+2,eva,eva,prep.,2,sambanxah,1
+3,te,tad,g. sg. *,9,rartisambanxah,1
+4,Sikzitasya,Sikzita,g. sg. n.,14,viseranam,3
+5,api,api,conj.,16,sambanxah,1
+6,vikAryatAyAH,tad,g. sg. f.,19,rartisambanxah,7
+7,hetuH,hetu,nom. sg. m.,20,karwa,8
+8,Bavati,BU,pr. [1] ac. sg. 3,27,,

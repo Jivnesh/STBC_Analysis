@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,manasijaduHKadurbalAyAH,balA,g. sg. f.,1,rartisambanxah,1
+1,kaTamapi,api,conj.,3,viseranam,3
+2,bAhum,bAhu,acc. sg. m.,5,karma,3
+3,unnamayya,nam,conj.,6,purvakalah,13
+4,preyAMsaM,preyas,acc. sg. m.,7,karma,5
+5,siYcantyAH,sic,nom. sg. n.,9,viseranam,6
+6,aNganAyAH,aNganA,g. sg. f.,11,rartisambanxah,7
+7,karAgrAt,tva,abl. sg. n.,17,apaxanam,13
+8,sOvarRaM,sOvarRa,nom. sg. n.,20,viseranam,9
+9,valayaM,valaya,nom. sg. n.,23,karma,13
+10,lAvaRyaSriyaH,SrI,g. sg. f.,26,rartisambanxah,11
+11,Sezam,Seza,acc. sg. m.,28,prawiyogi,12
+12,iva,iva,conj.,31,anuyogi,13
+13,avAgalat,gal,impft . ac. sg. 3,34,,

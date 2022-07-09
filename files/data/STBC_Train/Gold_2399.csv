@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n,1,axikaranam,1
+1,upasTitAH,tad,nom. pl. m.,4,viseranam,3
+2,anye,anya,nom. pl. m.,5,viseranam,3
+3,grAhakAH,grAhaka,nom. pl. m.,10,karwa,8
+4,tu,tu,conj.,11,sambanxah,3
+5,asya,as,g. sg. *,12,rartisambanxah,6
+6,ASayam,ASaya,acc. sg. m.,13,karma,8
+7,nEva,eva,prep.,26,sambanxah,8
+8,abuDyanta,buD,impft. ps. pl. 3,15,,

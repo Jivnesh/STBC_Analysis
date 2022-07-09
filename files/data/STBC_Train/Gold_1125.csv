@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,varauruBiH,uru,inst. pl. f.,1,karwa,4
+1,tatkzaRasnapanavArituzAraBftaH,Bfta,nom. pl. m.,2,viseranam,2
+2,stanAH,stana,nom. pl. m.,3,karma,4
+3,dayitaurasi,uras,loc. sg. n.,4,axikaranam,4
+4,nidaDire,DA,pft. md. pl. 3,5,samucciwam,10
+5,ca,ca,conj.,6,sambanxah,9
+6,kareRa,kara,inst. sg. m.,9,karwa,9
+7,sarasacandanareRuH,reRu,nom. sg. m.,10,karma,9
+8,anukzaRaM,kzaRa,conj.,14,viseranam,6
+9,vicakare,vid,pft. md. sg. 1,16,samucciwam,10
+10,ca,ca,conj.,17,,

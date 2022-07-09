@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,janAH,jana,nom. pl. m.,0,karwa,3
+1,mAM,asmad,acc. sg. *.,1,karma,3
+2,viSvamBaraM,viSvamBara,acc. sg. m.,2,karmasamanaxikaranam,3
+3,kaTayanti,stu,pr. ac. pl. 3,5,,

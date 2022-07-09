@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaH,kim,nom. sg. m.,0,karwa,2
+1,etat,etad,acc. sg. n.,12,karma,2
+2,pratyeti,pratI,ppr.,3,,
+3,sA-kOSalyA,kOSalya,nom. pl. f.,5,karwa,7
+4,eva,eva,inf.,8,sambanxah,2
+5,iyam,idam,nom. sg. f.,9,karwqsamanaxikaranam,7
+6,iti,iti,part.,10,anuyogi,1
+7,asti,as,pr. [2] ac. sg. 3,11,prawiyogi,6

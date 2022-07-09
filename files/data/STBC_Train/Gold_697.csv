@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,5
+1,hi,h,part.,1,sambanxah,0
+2,idam,idam,acc. sg. n.,8,karma,5
+3,sukzatriye,rAjan,loc. sg. m.,3,axikaranam,5
+4,anyaTA,anyaTA,adv.,4,kriyaviseranam,5
+5,mantavyam,kf,pfp. [3],7,,

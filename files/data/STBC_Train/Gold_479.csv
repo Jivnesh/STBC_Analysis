@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfpaRaH,kfpaRa,nom. sg. m.,0,karwa,6
+1,tam,tad,acc. sg. m.,1,karma,6
+2,Bartsayan,Barts,nom. sg. m.,2,prawiyogi,3
+3,iva,iva,part.,3,anuyogi,1
+4,tataH,tad,abl. pl. n.,11,apaxanam,5
+5,apasartum,sf,inf.,21,prayojanam,6
+6,abravIt,brU,impft. [2] ac. sg. 3,6,,

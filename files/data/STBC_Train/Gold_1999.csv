@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ucCitasitAMSukaraavalambEH,avalamba,inst. pl. n.,1,viseranam,2
+1,uttamBitauquBiH,uqu,inst. pl. n.,3,viseranam,2
+2,SiroBiH,Siras,inst. pl. n.,4,karwa,4
+3,atIvatarAm,Am,nom. sg. n.,7,viseranam,4
+4,utkziptam,kzip,nom. sg. n.,10,viseranam,5
+5,antarikzaM,antarikza,nom. sg. n.,12,viseranam,6
+6,SradDeyanirJarajalavyapadeSam,vyapadeSa,nom. sg. n.,14,karwa,10
+7,asya,idam,g. sg. m.,16,rartisambanxah,8
+8,tawezu,tawa,loc. pl. m.,17,axikaranam,10
+9,vizvak,ca,conj.,19,viseranam,10
+10,patati,pat,pr. ac. sg. 3,20,prawiyogi,11
+11,iti,iti,conj.,21,anuyogi,12
+12,sPuwam,sPuwa,conj.,24,,

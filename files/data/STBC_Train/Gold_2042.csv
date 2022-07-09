@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,ind.,1,sambanxah,2
+1,idam,dam,acc. sg. n.,2,karma,2
+2,icCaTa,z,pr. [6] ac. pl. 2,3,,
+3,yUyam,yuzmad,nom. pl. *,4,karwa,2

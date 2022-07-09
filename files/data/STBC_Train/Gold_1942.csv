@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,labDaparavAraRamArutena,mAruta,inst. sg. m.,1,karanam,4
+1,sarozaM,tad,acc. sg. m.,4,viseranam,3
+2,payasaH,payas,g. sg. n.,5,rartisambanxah,3
+3,gaRqUzam,gaRqUza,acc. sg. m.,7,karma,4
+4,ujJitavatA,ujJita,inst. sg. m.,9,bavalakranasapwami_samanakalah,8
+5,nAgena,nAga,inst. sg. m.,10,karwa,8
+6,amBoDiroDasi,roDas,loc. sg. n.,12,axikaranam,8
+7,pfTupratimAnaBAgarudDaurudantamusalaprasaraM,prasara,nom. sg. n.,27,viseranam,8
+8,nipete,pat,pft. ac. sg. 3,15,,

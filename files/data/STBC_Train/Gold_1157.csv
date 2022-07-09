@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAratavarze,varzA,loc. sg. m.,32,axikaranam,5
+1,anekaviDAH,viDA,acc. pl. m.,10,viseranam,2
+2,DarmacAriRaH,cArin,acc. pl. m.,12,samucciwam,4
+3,viviDaBAzABAziRaH,BAzin,acc. pl. m.,20,samucciwam,4
+4,ca,ca,conj.,26,karwa,5
+5,vasanti,vas,pr. [1] ac. pl. 3,27,,

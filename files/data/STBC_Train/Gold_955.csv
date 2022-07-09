@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,indranIlasTalanIlamUrtiH,mUrti,nom. sg. m.,0,viseranam,2
+1,karcUrapiSaNgavAsAH,vAsa,nom. sg. m.,3,viseranam,2
+2,saH,tad,nom. sg. m.,4,karwa,10
+3,visftvarEH,tad,inst. pl. m.,5,viseranam,5
+4,amburuhAM,amburuhA,g. pl. n.,7,rartisambanxah,5
+5,rajoBiH,rajas,inst. pl. n.,8,karanam,10
+6,citraH,citra,nom. sg. m.,9,viseranam,8
+7,yamasvasuH,yamasvasf,g. sg. f.,13,rartisambanxah,8
+8,udaBAraH,BAra,nom. sg. m.,16,prawiyogi,9
+9,iva,iva,conj.,17,anuyogi,5
+10,rarAja,rAj,pft. ac. sg. 3,19,,

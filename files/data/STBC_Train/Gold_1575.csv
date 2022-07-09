@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anayA,idam,inst. sg. f.,0,viseranam,1
+1,kaTayA,kaTA,inst. sg. f.,1,karanam,4
+2,kaH,kim,nom. sg. m.,2,viseranam,3
+3,sandeSaH,tad,nom. sg. m.,3,karwa,4
+4,milati,mil,pr. ac. sg. 3,4,,

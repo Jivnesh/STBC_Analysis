@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,santaH,sat,nom. pl. m.,0,viseranam,1
+1,mahAtmAnaH,Atman,nom. pl. m.,16,karwa,3
+2,kAmAtmAnaH,Atman,nom. pl. m.,18,karwqsamanaxikaranam,3
+3,Bavanti,BU,pr. [1] ac. pl. 3,7,,
+4,na,na,part.,8,sambanxah,3

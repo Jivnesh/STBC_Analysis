@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,caRqikA,caRqikA,nom. sg. f.,0,karwa,7
+1,tAni,tad,acc. pl. n.,2,viseranam,2
+2,vastUni,vastu,acc. pl. n.,4,karma,3
+3,AdAya,dA,abs.,6,purvakalah,7
+4,gantum,gam,inf.,17,prayojanam,7
+5,udyatA,tad,nom. pl. f.,9,karwqsamanaxikaranam,7
+6,eva,eva,prep.,10,sambanxah,5
+7,AsIt,as,aor. [5] ac. sg. 3,12,prawiyogi,8
+8,yat,yad,acc. sg. n.,23,anuyogi,9
+9,putraH,putra,nom. sg. m.,14,karwa,10
+10,AgataH,gam,pp.,15,,

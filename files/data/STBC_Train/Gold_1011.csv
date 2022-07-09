@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taruRI,taruRa,nom. sg. f.,0,karwa,5
+1,patim,pat,acc. sg. m.,1,karma,3
+2,kIdfSam,kIdfSa,acc. sg. n.,2,kriyaviseranam,3
+3,icCantI,tad,nom. sg. f.,8,karwqsamanaxikaranam,5
+4,kim,kim,acc. sg. n.,9,karma,5
+5,kftavatI,kf,ppa.,13,,

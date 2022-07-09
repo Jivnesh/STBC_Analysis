@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,3
+1,etat,etad,acc. sg. n.,10,karma,3
+2,api,api,conj.,2,sambanxah,1
+3,parIkze,Ikz,pft. md. sg. 3,28,,
+4,tAvat,tAvat,loc. sg. n.,6,axikaranam,3

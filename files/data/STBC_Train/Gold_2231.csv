@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,5
+1,kasyacit,kim,g. sg. m.,2,viseranam,2
+2,brAhmaRasya,brAhmaRa,g. sg. m.,4,rartisambanxah,3
+3,sahodaraH,dara,nom. sg. m.,29,karwa,5
+4,bOdDaDarmam,Darma,acc. sg. m.,11,karma,5
+5,gfhItavAn,grah,ppa.,14,,

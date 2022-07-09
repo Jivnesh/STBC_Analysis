@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Atmavat,tad,nom. sg. n.,1,kriyaviseranam,7
+1,sarvajIveRu,dvija,loc. pl. m.,5,samucciwam,3
+2,vastuzu,vastu,loc. pl. m.,7,samucciwam,3
+3,ca,ca,conj.,8,axikaranam,7
+4,vyavahartA,hf,per. fut. ac. sg. 3,9,viseranam,5
+5,janaH,jana,nom. sg. n.,12,karwa,7
+6,jAtu,jAtu,loc. sg. m.,13,axikaranam,7
+7,tudate,tud,pr. [6] md. sg. 3,14,,
+8,nEva,eva,prep.,32,sambanxah,7
+9,kaYcana,kim,nom. sg. m.,17,viseranam,5

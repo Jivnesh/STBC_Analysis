@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prAtaH,tad,loc. sg. m.,0,axikaranam,5
+1,tu,tu,conj.,1,sambanxah,0
+2,BojanaM,Bojana,acc. sg. n.,2,karma,3
+3,kftvA,kf,conj.,4,purvakalah,5
+4,saH,tad,nom. sg. m.,5,karwa,5
+5,nirgataH,ca,conj.,6,karwqsamanaxikaranam,6
+6,AsIt,as,impft . ac. sg. 3,8,,
+7,eva,eva,conj.,9,sambanxah,6

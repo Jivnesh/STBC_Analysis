@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,conj.,1,sambanxah,8
+1,upendra,upendra,voc. sg. m.,2,samboxyah,8
+2,indrasandizwaM,diS,nom. sg. n.,6,viseranam,5
+3,viSvajanInaM,viSvajanIna,nom. sg. n.,10,viseranam,5
+4,yad,yad,nom. sg. n.,48,viseranam,5
+5,vacaH,vacas,nom. sg. n.,13,karma,8
+6,kzaRaM,kzaRa,nom. sg. n.,15,viseranam,8
+7,mayA,asmad,inst. sg. n.,16,karwa,8
+8,ucyate,vac,pr. md. sg. 3,17,samucciwam,16
+9,tat,tad,nom. sg. n.,19,karma,15
+10,ahidvizaH,dviz,g. sg. m.,23,rartisambanxah,11
+11,samastakAryezu,kArya,loc. pl. n.,31,axikaranam,15
+12,DuryatAM,tad,acc. sg. f.,33,karma,13
+13,gatena,gam,inst. sg. m.,35,karanam,15
+14,BavatA,tad,inst. sg. m.,37,karwa,15
+15,niSamyatAm,Sam,imp. md. sg. 3,38,samucciwam,16
+16,ca,ca,conj.,39,,

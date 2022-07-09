@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dattvA,dA,abs.,0,purvakalah,8
+1,tataH,tad,abl. pl. n.,29,apaxanam,2
+2,gantum,gam,inf.,16,prayojanam,8
+3,udyatAn,yam,acc. pl. m.,3,viseranam,4
+4,etAn,etad,acc. pl. m.,4,karma,6
+5,rAjA,rAjan,nom. du. m.,9,karwa,8
+6,avaroDya,ruD,ca. abs.,10,purvakalah,8
+7,tatkAraRam,kAraRa,acc. sg. n.,12,karma,8
+8,apfcCat,brU,impft. [6] ac. sg. 3,14,,

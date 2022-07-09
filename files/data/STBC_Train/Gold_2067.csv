@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tata,loc. sg. m.,36,axikaranam,6
+1,mantrI,vEkartana,nom. sg. m.,1,karwa,6
+2,rAtrO,rAtri,loc. sg. m.,3,axikaranam,6
+3,catuzpaTe,catuzpaTa,loc. sg. m.,2,axikaranam,6
+4,ekam,eka,acc. sg. m.,4,viseranam,5
+5,bfhatprastaram,prastara,acc. sg. m.,15,karma,6
+6,sTApitavAn,kruD,ca. pp.,16,,

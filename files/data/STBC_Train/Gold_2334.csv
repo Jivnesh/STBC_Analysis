@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAni,tad,acc. pl. n.,0,karma,1
+1,KAditvA,KAd,abs.,2,purvakalah,4
+2,tasya,tad,g. sg. n.,3,rartisambanxah,3
+3,patnI,patnI,nom. sg. f.,5,karwa,4
+4,avadat,vad,impft. [1] ac. sg. 3,6,samucciwam,8
+5,jambUPalAni,Pala,nom. pl. n.,9,karwa,7
+6,atimaDurARi,atimaDura,nom. pl. n.,11,karwqsamanaxikaranam,5
+7,santi,as,pr. [2] ac. pl. 3,12,samucciwam,8
+8,ca,ca,conj.,13,,

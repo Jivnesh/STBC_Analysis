@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,1
+1,vicintayan,tad,nom. sg. m.,1,bavalakranasapwami_samanakalah,10
+2,saH,tad,nom. sg. m.,2,karwa,10
+3,ekadA,ekadA,conj.,3,axikaranam,10
+4,tO,tad,acc. du. m.,4,viseranam,5
+5,vfzaBO,vfzaBa,acc. du. m.,6,karma,10
+6,SfMgAByAm,SfNga,inst. du. n.,10,karanam,9
+7,parasparam,paraspara,nom. sg. n.,13,kriyaviseranam,9
+8,snehena,sneha,inst. sg. m.,14,kriyaviseranam,9
+9,krIqantO,tad,nom. du. m.,47,karmasamanaxikaranam,10
+10,apaSyat,dfS,impft . ac. sg. 3,17,,

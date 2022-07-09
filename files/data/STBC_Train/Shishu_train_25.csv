@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,anyena,anya,i. sg. m.,NA,karwa,4
+1,kadAcit,kadAcit,ind.,NA,axikaranam,4
+2,natiM,nati,acc. sg. f.,NA,karma,4
+3,na,na,ind.,NA,sambanxah,4
+4,nItaM,nI1,pp.,NA,,
+5,kriyAsu,kriyA,loc. pl. f.,NA,axikaranam,7
+6,karRaantikaprAptaguRam,karRa-antika-prApta-guRa,acc. sg. m.,NA,karma,7
+7,viDeyaM,viDeya,nom. sg. n.,NA,viseranam,11
+8,draQIyaH,draQIyas,nom. sg. n.,NA,viseranam,11
+9,SArNgaM,SArNga,nom. sg. n.,NA,viseranam,11
+10,DanuH,Danus,nom. sg. n.,NA,karwa,15
+11,mitram,mitra,nom. sg. n.,NA,prawiyogi,12
+12,iva,iva,ind.,NA,anuyogi,10
+13,asya,idam,g. sg. m.,NA,rartisambanxah,14
+14,antikasTam,antika-sTa,nom. sg. n.,NA,karma,15
+15,aBavat,BU1,impft. ac. sg. 3,NA,,

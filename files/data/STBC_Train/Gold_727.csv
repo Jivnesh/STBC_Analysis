@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yena,yad,i. sg. n.,0,hewuh,5
+1,ayam,idam,nom. sg. m.,2,karwa,5
+2,api,api,conj.,3,sambanxah,1
+3,icCAnusAram,anusAra,adv.,9,kriyaviseranam,4
+4,paryawitum,aw,inf.,17,prayojanam,5
+5,SaknuyAt,Sak,opt. [5] ac. sg. 3,11,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,2
+1,ayam,dam,nom. sg. m.,2,viseranam,2
+2,vyavahAraH,vyavahAra,nom. sg. m.,3,karwa,5
+3,rameSAya,ISa,dat. sg. m.,21,sampraxanam,5
+4,nEva,na,part.,6,sambanxah,5
+5,arocata,ruc,impft. [1] md. sg. 3,7,,

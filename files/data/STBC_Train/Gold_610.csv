@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ArTikakzayaH,kzaya,nom. sg. m.,2,karwa,3
+1,api,api,prep.,4,sambanxah,0
+2,asmAn,asmad,acc. pl. *,5,karma,3
+3,bADate,bAD,pr. [1] md. sg. 3,8,,

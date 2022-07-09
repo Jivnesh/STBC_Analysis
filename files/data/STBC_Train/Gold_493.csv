@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,smartavyaH,kf,pfp. . sg. ,0,,
+1,tu,tu,conj.,1,sambanxah,0
+2,ayaM,idam,nom. sg. m.,2,viseranam,3
+3,janaH,jana,nom. sg. m.,5,karma,0

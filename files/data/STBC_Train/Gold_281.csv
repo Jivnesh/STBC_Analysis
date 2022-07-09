@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,suhfdvftaH,vfta,nom. sg. m.,28,viseranam,1
+1,rAmaH,rAma,nom. sg. m.,11,karwa,10
+2,devatAByaH,deva,abl. pl. f.,13,apaxanam,4
+3,varam,vara,acc. sg. m.,32,karma,4
+4,prApya,Ap,abs.,15,samucciwam,7
+5,vAnarAn,vAnara,acc. pl. m.,17,karma,6
+6,samutTApya,sTA,ca. abs.,18,samucciwam,7
+7,ca,ca,conj.,19,purvakalah,10
+8,puzpakeRa,puzpaka,i. sg. n.,20,karanam,10
+9,ayoDyAm,ayoDyA,acc. sg. f.,21,karma,10
+10,prasTitaH,sTA,pp.,22,,

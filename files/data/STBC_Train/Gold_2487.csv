@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,2
+1,gaNgAtawe,tawa,loc. sg. m.,2,axikaranam,2
+2,Braman,Bram,ppr. [1] ac.,3,bavalakranasapwami_samanakalah,5
+3,ekam,eka,acc. sg. m.,4,viseranam,4
+4,sannyAsinam,tad,acc. sg. m.,7,karma,5
+5,adrAkzIt,dfS,aor. [4] ac. sg. 3,8,,

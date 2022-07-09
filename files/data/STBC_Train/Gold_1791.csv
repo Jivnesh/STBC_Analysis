@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,ca,ca,conj.,1,sambanxah,3
+2,DArmikaH,DArmika,nom. sg. m.,2,karwa,4
+3,eva,eva,prep.,3,sambanxah,2
+4,asti,as,pr. [2] ac. sg. 3,4,,

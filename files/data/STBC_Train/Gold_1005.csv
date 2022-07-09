@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,drutakanakaujjvalAni,ujjvala,nom. pl. n.,1,viseranam,1
+1,SrfNgARi,tad,nom. pl. n.,2,viseranam,10
+2,ganDAH,ganDa,nom. pl. m.,3,viseranam,10
+3,pfTukucakumBasaNgi,saNgin,nom. sg. n.,7,viseranam,5
+4,kOsumBaM,kOsumBa,nom. sg. n.,8,viseranam,5
+5,vAsaH,vAsas,nom. sg. n.,10,viseranam,10
+6,mArdvIkaM,mArdvIka,acc. sg. m.,14,viseranam,10
+7,priyatamasanniDAnaM,tad,nom. sg. n.,17,viseranam,10
+8,iti,iti,conj.,18,sambanxah,10
+9,nArIRAM,nArI,g. pl. f.,19,rartisambanxah,10
+10,jalakelisADanAni,sADana,nom. pl. n.,21,karwa,11
+11,Asan,as,impft . ac. pl. 3,23,,

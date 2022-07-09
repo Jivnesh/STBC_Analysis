@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BagavAn,rAjan,voc. sg. m.,3,samboxyah,12
+1,nityam,nitya,adv.,2,kriyaviseranam,4
+2,yaTecCam,icCA,adv.,4,kriyaviseranam,4
+3,gorasam,rasa,acc. sg. m.,6,karma,4
+4,sevamAnaH,mAna,nom. sg. m.,42,viseranam,6
+5,api,api,conj.,8,sambanxah,4
+6,BavAn,BU,nom. sg. m.,11,karwa,12
+7,SarIreRa,SarIra,i. sg. m.,12,karanam,12
+8,SyAmaH,SyAma,nom. sg. m.,14,samucciwam,10
+9,kfSaH,kfSa,nom. sg. m.,15,samucciwam,10
+10,ca,ca,conj.,16,karwqsamanaxikaranam,12
+11,kaTam,kaTam,adv.,17,kriyaviseranam,12
+12,asti,as,pr. [2] ac. sg. 3,18,,

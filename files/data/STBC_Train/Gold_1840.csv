@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmasya,rAma,g. sg. m.,0,rartisambanxah,1
+1,pIqA,pIqA,nom. sg. f.,11,karwa,2
+2,nazwA,vac,pp. . sg. ,6,karwa,3
+3,Bavati,BU,pr. ac. sg. 3,7,,

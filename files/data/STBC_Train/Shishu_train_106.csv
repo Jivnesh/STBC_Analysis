@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,DftanavaAtapam,Dftanava-Atapa,nom. sg. n.,NA,viseranam,2
+1,amBasi,amBas,loc. sg. n.,NA,axikaranam,7
+2,kamalaM,kamala,nom. sg. n.,NA,karwa,7
+3,yataH,yataH,ind.,NA,apaxanam,7
+4,madapAwalAM,mada-pAwalA,acc. sg. f.,NA,viseranam,6
+5,cakoradfSAM,cakora-dfS,g. pl. f.,NA,rartisambanxah,6
+6,muKasarojarucam,muKasaroja-ruc,acc. sg. f.,NA,karma,7
+7,anucakAra,anu_kf3,pft. ac. sg. 3,NA,,
+8,ataH,ataH,ind.,NA,apaxanam,12
+9,kam,kim,acc. sg. m.,NA,karma,12
+10,utsukatAM,utsukatA,acc. sg. f.,NA,karmasamanaxikaranam,12
+11,na,na,ind.,NA,sambanxah,12
+12,alamBayat,lamB1_Ric,impft.,NA,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,api,api,conj.,1,sambanxah,4
+2,jvarakftam,kfta,nom. sg. n.,10,karwa,4
+3,taTA,taTA,adv.,6,kriyaviseranam,4
+4,Bavizyati,BU,fut. ac. sg. 3,7,,

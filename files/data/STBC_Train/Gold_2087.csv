@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. m.,1,viseranam,3
+1,sevAyAm,sevA,loc. sg. f.,2,axikaranam,2
+2,sTitasya,sTA,g. sg. m.,4,viseranam,3
+3,sevakasya,sevaka,g. sg. m.,5,rartisambanxah,4
+4,jAgaritA,jAgf,nom. pl. f.,9,karwa,5
+5,yat,yad,conj.,10,prawiyogi,6
+6,IdfSaH,IdfS,acc. pl. m.,11,anuyogi,11
+7,sammAnaH,sammAna,nom. sg. m.,22,viseranam,8
+8,icCA,icCA,nom. sg. f.,40,karwa,11
+9,mama,asmad,g. sg. *,25,rartisambanxah,8
+10,api,api,conj.,26,sambanxah,8
+11,Bavet,BU,opt. [1] ac. sg. 3,28,,

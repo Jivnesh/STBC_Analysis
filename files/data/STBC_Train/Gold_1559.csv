@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaH,kim,nom. sg. m.,0,karwa,2
+1,AtmavAn,tad,nom. sg. m.,1,karwqsamanaxikaranam,2
+2,asti,as,pr. [2] ac. sg. 3,2,samucciwam,12
+3,kaH,kim,nom. sg. m.,3,karwa,7
+4,jitakroDaH,kroDa,nom. sg. m.,5,karwqsamanaxikaranam,7
+5,dyutimAn,dyut,nom. sg. m.,6,karwqsamanaxikaranam,7
+6,anasUyakaH,anasUyaka,nom. sg. m.,7,karwqsamanaxikaranam,7
+7,asti,as,pr. [2] ac. sg. 3,8,samucciwam,12
+8,saMyuge,saMyuga,loc. sg. m.,9,axikaranam,13
+9,jAtarozasya,roza,g. sg. n.,25,viseranam,10
+10,kasya,kim,g. sg. n.,15,rartisambanxah,13
+11,devAH,deva,nom. pl. m.,17,karwa,13
+12,ca,ca,conj.,18,,
+13,biByati,BI,pr. [3] ac. pl. 3,19,samucciwam,12

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ambumucaH,muc,nom. pl. m.,1,karwa,10
+1,praviralEH,pravirala,inst. pl. m.,10,viseranam,3
+2,amBasAM,amBas,g. pl. n.,11,rartisambanxah,3
+3,praTamabinduBiH,bindu,inst. pl. m.,13,karanam,10
+4,SamitatApam,tApa,acc. sg. n.,14,viseranam,8
+5,apoQamahIrajaH,rajas,acc. sg. n.,15,viseranam,8
+6,suganDi,suganDi,acc. sg. n.,17,viseranam,8
+7,acalaaNganam,tad,acc. sg. n.,22,viseranam,8
+8,aNganAjanasugaM,tad,acc. sg. n.,28,karma,10
+9,na,na,conj.,29,sambanxah,10
+10,cakrire,kf,pft. md. pl. 3,30,prawiyogi,11
+11,iti,iti,conj.,31,anuyogi,12
+12,na,na,conj.,32,sambanxah,10

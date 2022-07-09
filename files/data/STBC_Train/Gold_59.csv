@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yasya,yad,g. sg. n.,0,rartisambanxah,1
+1,lavaRam,lavaRa,acc. sg. m.,2,karma,2
+2,Bakzyate,Bakz,pr. ps. sg. 3,5,samucciwam,9
+3,tam,tad,acc. sg. m.,8,prawiyogi,4
+4,prati,prati,prep.,9,anuyogi,5
+5,viSvASaGAtaH,GAta,nom. sg. m.,11,karwa,8
+6,na,na,part.,12,sambanxah,8
+7,nEtikaH,kim,nom. sg. m.,14,karwqsamanaxikaranam,8
+8,asti,as,pr. [2] ac. sg. 3,15,samucciwam,9
+9,ca,ca,conj.,16,,

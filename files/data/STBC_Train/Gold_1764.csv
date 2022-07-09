@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfpaRaH,kfpaRa,nom. sg. m.,0,karwa,5
+1,punaH,punar,loc. sg. n.,2,axikaranam,5
+2,putramuKena,na,i. sg. m.,7,karanam,5
+3,eva,eva,prep.,8,sambanxah,2
+4,tam,tad,acc. sg. m.,9,karma,5
+5,sandizwavAn,vac,pp.,10,,

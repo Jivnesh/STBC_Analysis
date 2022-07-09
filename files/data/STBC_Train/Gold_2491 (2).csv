@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,varzAkAle,kAla,loc. sg. m.,2,axikaranam,3
+1,rajaH,rajas,acc. sg. n.,6,karwa,3
+2,praSAntam,praSAnta,pp. . sg. ,10,karwqsamanaxikaranam,3
+3,Bavati,BU,pr. ac. sg. 3,11,,

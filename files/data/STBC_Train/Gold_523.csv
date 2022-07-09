@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samAjAt,samAja,abl. sg. m.,0,samucciwam,2
+1,sarvakArAt,kArA,abl. sg. m.,14,samucciwam,2
+2,ca,ca,conj.,4,apaxanam,5
+3,vEvaSyam,vaSya,acc. sg. n.,6,viseranam,4
+4,tat,tad,acc. sg. n.,9,karma,5
+5,prajAyate,jan,pr. [4] md. sg. 3,11,,

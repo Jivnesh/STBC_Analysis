@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vismitaH,smita,nom. sg. m.,1,viseranam,1
+1,karmacArI,cArin,nom. sg. m.,7,karwa,6
+2,rAjAnam,rAjan,acc. sg. m.,2,karma,3
+3,upagatya,gam,abs.,3,purvakalah,6
+4,sarvAm,sarva,acc. sg. f.,4,viseranam,5
+5,GawanAm,Gawana,acc. sg. f.,5,karma,6
+6,aSrAvayat,Sru,ca. impft. ac. sg. 3,0,,

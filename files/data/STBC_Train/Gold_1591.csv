@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BagavAn,Baga,nom. sg. m.,0,karwa,2
+1,yat,yad,conj.,1,sambanxah,2
+2,karoti,kf,pr. [8] ac. sg. 3,2,samucciwam,7
+3,tat,tad,part.,4,sambanxah,6
+4,acCam,acCa,nom. sg. n.,7,karwa,6
+5,eva,eva,prep.,8,sambanxah,4
+6,karoti,kf,pr. [8] ac. sg. 3,9,samucciwam,7
+7,ca,ca,conj.,10,,

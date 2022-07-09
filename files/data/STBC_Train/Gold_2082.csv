@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAm,tad,loc. sg. f.,0,viseranam,1
+1,nadyAm,nadI,loc. sg. f.,1,axikaranam,4
+2,ekaH,eka,nom. sg. m.,2,viseranam,3
+3,makaraH,makara,nom. sg. m.,3,karwa,4
+4,AsIt,As,aor. [5] ac. sg. 3,4,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,6
+1,ca,ca,conj.,1,sambanxah,0
+2,nivAsArTam,arTa,acc. sg. m.,10,prayojanam,6
+3,kAcit,kim,acc. du. f.,4,viseranam,4
+4,kuwI,kuwI,acc. du. f.,7,karma,6
+5,eva,eva,prep.,8,sambanxah,4
+6,nirmitA,mita,pp.,9,,

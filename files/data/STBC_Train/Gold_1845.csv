@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saparivArAH,parivAra,nom. pl. m.,21,viseranam,3
+1,sarve,sarva,nom. pl. m.,5,viseranam,3
+2,api,api,conj.,10,sambanxah,1
+3,jantavaH,jantu,nom. pl. m.,12,karwa,6
+4,vane,vana,loc. sg. n.,15,axikaranam,6
+5,premRA,preman,adv.,17,kriyaviseranam,6
+6,vasanti,vas,pr. [1] ac. pl. 3,18,,
+7,sma,sma,part.,19,sambanxah,6

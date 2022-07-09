@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pracuram,pracura,acc. sg. m.,0,viseranam,1
+1,DanaDAnyam,DAnya,acc. sg. m.,20,karma,2
+2,gfhItvA,grah,abs.,6,purvakalah,6
+3,dalabalasahitaH,tad,nom. sg. m.,35,viseranam,4
+4,rAjA,rAjan,nom. sg. m.,10,karwa,6
+5,tatpaRqitAvAsam,AvAsa,acc. sg. m.,47,karma,6
+6,prAptaH,Apta,pp.,19,,

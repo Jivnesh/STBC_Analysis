@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,piSaNgamOYjIyujam,yuj,acc. sg. m.,0,viseranam,4
+1,arjunacCaviM,tad,acc. sg. f.,2,viseranam,4
+2,aYjanadyuti,dyuti,acc. sg. f.,3,viseranam,4
+3,eRAjinam,ajina,acc. sg. n.,22,viseranam,4
+4,vasAnaM,vas,acc. sg. n.,8,viseranam,5
+5,suvarRasUtrAkalitADarAmbarAM,ambara,acc. sg. f.,39,viseranam,7
+6,SitivAsasaH,tad,g. sg. m.,13,rartisambanxah,7
+7,tanuM,tanu,acc. sg. f.,14,viseranam,8
+8,viqambayantam,viqamba,nom. sg. n.,15,viseranam,10
+9,amuM,adas,acc. sg. m.,16,karma,13
+10,nAradaH,nArada,nom. sg. m.,17,karmasamanaxikaranam,13
+11,iti,iti,conj.,18,sambanxah,10
+12,saH,tad,nom. sg. m.,19,karwa,13
+13,aboDi,buD,impft. md. sg. 3,20,,

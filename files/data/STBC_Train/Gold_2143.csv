@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BojanapAnAdinA,drupada,i. sg. m.,3,karanam,4
+1,ca,ca,conj.,4,sambanxah,0
+2,tAn,tad,acc. pl. m.,5,karma,4
+3,samyak,samyak,adv.,6,kriyaviseranam,4
+4,satkftavAn,kfta,pp.,9,,

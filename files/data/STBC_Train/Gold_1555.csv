@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mfRmayapAtrezu,pAtra,loc. pl. n.,1,axikaranam,2
+1,pUjAsAmagrIm,sAmagrI,acc. sg. f.,4,karma,2
+2,niDAya,DA,abs.,5,purvakalah,5
+3,raGuH,raGu,nom. sg. m.,6,karwa,7
+4,kOtsam,tad,acc. sg. m.,7,karma,5
+5,satkartum,kf,inf.,10,prayojanam,7
+6,dvAri,dvAr,loc. sg. f.,11,axikaranam,7
+7,upasTitaH,sTita,pp.,12,,

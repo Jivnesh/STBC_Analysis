@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mArge,mArga,loc. sg. m.,0,axikaranam,4
+1,karmacArI,cArin,nom. sg. m.,7,karwa,4
+2,tAn,tad,acc. pl. m.,8,viseranam,3
+3,sADUn,sADu,acc. pl. m.,9,karma,4
+4,apfcCat,upAvft,impft. [6] ac. sg. 3,10,,

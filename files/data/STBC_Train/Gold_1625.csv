@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,3
+1,mAnasikaH,mA,nom. sg. m.,3,viseranam,2
+2,asantozaH,tad,nom. sg. m.,5,karwa,5
+3,varDamAnaH,varDamAna,nom. sg. m.,6,karwqsamanaxikaranam,5
+4,eva,eva,prep.,7,sambanxah,3
+5,AsIt,as,aor. [5] ac. sg. 3,9,,

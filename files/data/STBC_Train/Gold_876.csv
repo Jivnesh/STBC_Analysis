@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kiM,kim,conj.,1,hewuh,5
+1,devyA,devI,inst. sg. f.,2,karwa,5
+2,parijanam,parijana,acc. sg. m.,3,karma,3
+3,atikramya,kram,conj.,4,purvakalah,5
+4,BavAn,BU,nom. sg. m.,6,karma,5
+5,sandizwaH,vac,pp. . sg. ,7,,

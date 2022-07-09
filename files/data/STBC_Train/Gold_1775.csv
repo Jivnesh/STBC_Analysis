@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAraRapatiH,pati,nom. sg. m.,0,karwa,15
+1,muhuH,muhur,conj.,1,viseranam,3
+2,puraH,puras,conj.,3,axikaranam,3
+3,kziptam,kzip,acc. sg. n.,6,viseranam,4
+4,ikzukARqaM,kARqa,acc. sg. n.,8,karma,6
+5,na,na,conj.,10,sambanxah,6
+6,jagfhe,vac,pft. md. sg. 3,11,samucciwam,16
+7,nikawaupagatAM,gam,acc. sg. f.,12,viseranam,8
+8,kareRuM,kareRu,acc. sg. f.,14,karma,10
+9,na,na,conj.,15,sambanxah,10
+10,apekzate,Ikz,pr. md. sg. 3,16,karma,6
+11,sma,sma,conj.,17,sambanxah,10
+12,kintu,ca,conj.,18,sambanxah,15
+13,parimIlitaakzam,akza,nom. sg. n.,21,viseranam,15
+14,icCAvihAravanavAsamahotsavAnAM,mahotsava,g. pl. m.,23,karma,15
+15,sasmAra,smf,pft. ac. sg. 1,25,samucciwam,16
+16,ca,ca,conj.,26,,

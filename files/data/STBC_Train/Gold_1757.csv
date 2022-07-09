@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,yasya,yad,prep.,2,sambanxah,4
+2,atiTiH,tad,nom. sg. m.,5,karwqsamanaxikaranam,3
+3,Asam,tad,acc. sg. m.,6,prawiyogi,1
+4,saH,tad,nom. sg. m.,7,karwa,8
+5,sanAtanaDarmasaBAyAH,saBA,g. sg. f.,10,rartisambanxah,7
+6,karmaWaH,tad,nom. sg. m.,12,viseranam,7
+7,sadasyaH,sadasya,nom. sg. m.,13,karwqsamanaxikaranam,8
+8,avartata,brU,impft. [1] md. sg. 3,15,,

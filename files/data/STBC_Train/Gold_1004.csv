@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmahatyAkArI,prajA,nom. sg. f.,5,karwa,5
+1,maraRottaram,uttara,loc. sg. m.,6,axikaranam,5
+2,api,api,conj.,7,sambanxah,1
+3,SAntim,SAnti,acc. sg. f.,9,karma,5
+4,na,na,part.,11,sambanxah,5
+5,prApnoti,Ap,pr. [5] ac. sg. 3,12,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. m.,1,axikaranam,5
+1,eva,eva,prep.,0,sambanxah,0
+2,kaScit,cit,nom. sg. n.,12,karwa,5
+3,samAcArapatrasya,pattra,g. sg. n.,5,rartisambanxah,5
+4,tatkartanam,kartana,acc. sg. n.,7,karma,5
+5,adarSayat,dfS,ca. impft. ac. sg. 3,9,,

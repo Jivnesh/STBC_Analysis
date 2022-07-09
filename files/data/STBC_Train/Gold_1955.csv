@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yataH,yam,nom. sg. m.,0,hewuh,8
+1,hi,hi,part.,1,sambanxah,0
+2,ezaH,etad,nom. sg. m.,28,karwa,8
+3,tasya,tad,g. sg. m.,4,rartisambanxah,4
+4,mahanIyatamasya,idam,g. sg. m.,9,viseranam,6
+5,aSikzitasya,Sak,g. sg. m.,16,viseranam,6
+6,Bikzukasya,Bikzuka,g. sg. m.,17,rartisambanxah,7
+7,pAdayoH,pAda,loc. du. m.,18,axikaranam,8
+8,tizWati,sTA,pr. [1] ac. sg. 3,20,,
+9,iti,iti,part.,21,sambanxah,8

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vaDAt,vaDa,abl. sg. m.,0,prawiyogi,1
+1,vinA,vinA,conj.,5,anuyogi,4
+2,ariH,ari,nom. sg. m.,2,karwa,4
+3,na,na,conj.,6,sambanxah,4
+4,SAmyati,Sam,pr. ac. sg. 3,7,,

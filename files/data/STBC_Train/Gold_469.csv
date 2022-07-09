@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samaye,samaya,nom. sg. m.,0,karwa,1
+1,Agate,gam,abs.,6,purvakalah,4
+2,devarapatnI,patnI,nom. sg. f.,8,karwa,4
+3,garBavatI,BU,nom. sg. f.,11,karwqsamanaxikaranam,4
+4,ajAyata,jan,impft. [4] md. sg. 3,12,,

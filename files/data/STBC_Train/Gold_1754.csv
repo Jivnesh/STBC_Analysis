@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,i. sg. m.,1,karanam,1
+1,vedanApIqitaH,pIq,nom. sg. m.,4,viseranam,2
+2,guruH,guru,nom. sg. m.,5,karwa,10
+3,tO,tad,acc. du. m.,6,viseranam,6
+4,dvO,tad,acc. du. m.,9,viseranam,6
+5,api,api,conj.,10,sambanxah,4
+6,SizyO,Sizya,acc. du. m.,12,karma,8
+7,jaqamatI,jaqa,acc. du. n.,16,karmasamanaxikaranam,8
+8,matvA,man,abs.,17,purvakalah,10
+9,svasevAtaH,sevA,abl. sg. f.,19,apaxanam,10
+10,dUrIkftavAn,kf,inj. [4] md. sg. 3,46,,
+11,iti,iti,part.,22,sambanxah,10

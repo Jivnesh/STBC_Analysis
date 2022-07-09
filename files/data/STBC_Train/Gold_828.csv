@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kiYcitsamayAnantaram,antara,loc. sg. m.,4,axikaranam,8
+1,eva,eva,part.,5,sambanxah,0
+2,dasyudalasya,dala,g. sg. n.,9,rartisambanxah,3
+3,Agamanam,Agamana,acc. sg. n.,6,karma,4
+4,SrutvA,Sru,abs.,10,purvakalah,8
+5,kuwIsvAmI,svAmin,nom. sg. m.,12,karwa,8
+6,atIva,atIva,prep.,14,viseranam,7
+7,vyAkulaH,vyAkula,nom. sg. m.,15,karwqsamanaxikaranam,8
+8,ajAyata,jan,impft. [4] md. sg. 3,16,,

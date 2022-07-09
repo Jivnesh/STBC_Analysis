@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAgAt,rAga,abl. sg. m.,0,hewuh,5
+1,svam,sva,acc. sg. n.,2,viseranam,2
+2,uttarIyam,uttarIya,acc. sg. n.,4,karma,5
+3,kAntena,kAnta,inst. sg. m.,9,karwa,5
+4,upari,upari,conj.,11,axikaranam,5
+5,vitanvatA,tan,nom. sg. n.,13,bavalakranasapwami_samanakalah,14
+6,satA,as,nom. sg. n.,16,viseranam,5
+7,pratipadavAritaAtapAyAH,Atapa,g. sg. f.,17,viseranam,8
+8,aparasyAH,aparA,g. sg. f.,21,rartisambanxah,9
+9,sacCatrAt,tva,abl. sg. n.,24,viseranam,10
+10,aparavilAsinIsamUhAt,samUha,abl. sg. n.,25,hewuh,11
+11,aDikatarA,katara,nom. sg. f.,27,viseranam,12
+12,CAyA,CAyA,nom. sg. f.,32,karwa,14
+13,tadA,tadA,conj.,35,axikaranam,14
+14,AsIt,as,impft . ac. sg. 3,34,,

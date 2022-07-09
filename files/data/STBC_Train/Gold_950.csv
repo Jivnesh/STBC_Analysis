@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tam,tad,acc. sg. m.,0,karma,7
+1,taTA,taTA,adv.,1,kriyaviseranam,2
+2,palAyamAnam,palAy,acc. sg. n.,4,karmasamanaxikaranam,7
+3,dfzwvA,dfS,abs.,5,purvakalah,7
+4,sADAraRaH,sADAraRa,nom. sg. m.,6,viseranam,5
+5,janaH,jana,nom. sg. m.,9,karwa,7
+6,svagfhe,gfha,loc. sg. n.,13,axikaranam,7
+7,Anayat,nI,impft. [1] ac. sg. 3,31,,

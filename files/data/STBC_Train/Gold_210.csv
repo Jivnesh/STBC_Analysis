@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ye,yad,nom. pl. m.,2,sambanxah,6
+1,ca,ca,conj.,5,sambanxah,5
+2,anye,anya,nom. pl. m.,6,viseranam,3
+3,kAlayavanaSAlvarukmidrumAdayaH,Adi,nom. pl. m.,85,karwa,5
+4,tamaHsvaBAvAH,svaBAva,nom. pl. m.,19,viseranam,3
+5,santi,as,pr. ac. pl. 3,20,samucciwam,12
+6,te,tad,nom. pl. m.,23,viseranam,8
+7,api,api,conj.,28,sambanxah,6
+8,pradozam,duz,nom. sg. n.,33,viseranam,11
+9,enam,idam,acc. sg. m.,34,karma,11
+10,anuyAyinaH,anuyAyin,nom. pl. m.,39,karwa,11
+11,Bavanti,BU,pr. ac. pl. 3,40,samucciwam,12
+12,ca,ca,conj.,41,,

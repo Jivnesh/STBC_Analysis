@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDunA,aDunA,loc. sg. m.,0,axikaranam,8
+1,dvayoH,BrU,g. du. f.,6,rartisambanxah,3
+2,api,api,conj.,7,sambanxah,6
+3,ekaH,eka,nom. sg. m.,9,samucciwam,10
+4,anyasya,anya,g. sg. m.,10,rartisambanxah,5
+5,anizwam,izwa,acc. sg. n.,16,karma,6
+6,kartum,kf,inf.,19,prayojanam,8
+7,avasaram,avasara,acc. sg. m.,20,karma,8
+8,pratIkzate,Ikz,pr. [1] md. sg. 3,43,samucciwam,10
+9,sma,sma,part.,23,sambanxah,8
+10,ca,ca,conj.,24,,

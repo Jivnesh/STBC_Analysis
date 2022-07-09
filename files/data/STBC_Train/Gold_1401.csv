@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,2,axikaranam,4
+1,eva,eva,conj.,0,sambanxah,0
+2,aham,asmad,nom. sg. *.,1,karwa,4
+3,suKam,suKa,acc. sg. m.,3,karma,4
+4,anuBaveyam,BU,opt. ac. sg. 1,6,,
+5,iti,iti,conj.,7,sambanxah,4

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yavakrItaH,tejas,nom. sg. m.,1,karwa,6
+1,punaH,punar,adv.,2,kriyaviseranam,6
+2,api,api,conj.,4,sambanxah,1
+3,tapasyAtaH,tapa,abl. sg. m.,6,apaxanam,6
+4,virataH,rata,nom. sg. m.,7,karwqsamanaxikaranam,6
+5,na,na,part.,8,sambanxah,6
+6,aBavat,BU,impft. [1] ac. sg. 3,9,,

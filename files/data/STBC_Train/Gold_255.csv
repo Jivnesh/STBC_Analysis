@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,balena,bala,i. sg. n.,0,karanam,1
+1,vijayatAm,jaya,imp. [1] md. sg. 3,2,samucciwam,6
+2,SatrUn,Satru,acc. pl. m.,3,karma,1
+3,kareRa,kara,i. sg. m.,6,karanam,5
+4,kozam,koSa,acc. sg. m.,7,karma,5
+5,Baratu,Bf,imp. [1] ac. sg. 3,8,samucciwam,6
+6,ca,ca,conj.,9,,

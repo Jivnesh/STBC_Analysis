@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAtreH,rAtri,g. sg. f.,0,rartisambanxah,2
+1,tftIye,tftIya,loc. sg. m.,3,viseranam,2
+2,prahare,prahara,loc. sg. m.,9,axikaranam,6
+3,grAme,grAma,loc. sg. m.,10,axikaranam,6
+4,dasyudalasya,dala,g. sg. m.,30,rartisambanxah,5
+5,AgamanAt,Agamana,abl. sg. n.,11,apaxanam,6
+6,BItaH,BIta,nom. sg. m.,14,viseranam,7
+7,kfzakaH,kfzaka,nom. sg. m.,15,karwa,13
+8,svakIyam,svakIya,acc. sg. m.,16,viseranam,9
+9,Danam,Dana,acc. sg. f.,20,karma,13
+10,BUmim,BUmi,acc. sg. f.,21,karma,11
+11,KanitvA,Kan,abs.,22,purvakalah,13
+12,tatra,tatra,loc. sg. n,23,axikaranam,13
+13,gopitavAn,gopA,ppa.,24,,

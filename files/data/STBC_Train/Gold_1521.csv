@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAraviH,tad,nom. sg. m.,0,karwa,7
+1,kirAtArjunIyasya,rAma,g. sg. n.,1,rartisambanxah,3
+2,kAnicit,kim,acc. pl. n.,2,viseranam,3
+3,suBAzitAni,suBAzita,acc. pl. n.,5,karma,7
+4,rAtrO,rAtri,loc. sg. f.,7,axikaranam,7
+5,svapatnIm,patnI,acc. sg. f.,9,karma,7
+6,api,api,conj.,10,sambanxah,5
+7,SrAvayati,Sru,ca. pr. ac. sg. 3,12,,
+8,sma,sma,part.,13,sambanxah,7

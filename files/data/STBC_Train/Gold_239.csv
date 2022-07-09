@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfpayA,kfpA,i. sg. f.,0,kriyaviseranam,1
+1,kzamyatAm,kzam,ca. imp. ps. sg. 3,2,,
+2,mAm,asmad,acc. sg. *,3,karma,1
+3,tAvat,tAvat,adv.,4,sambanxah,1
+4,iti,t,part.,5,sambanxah,1

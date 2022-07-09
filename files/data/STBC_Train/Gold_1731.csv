@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,3
+1,sahasA,sahasA,adv.,4,kriyaviseranam,3
+2,tam,tad,acc. sg. m.,5,karma,3
+3,upagacCan,gam,ppr. [1] ac.,6,bavalakranasapwami_samanakalah,8
+4,tasya,tad,g. sg. n.,7,rartisambanxah,5
+5,pAdayoH,pAda,loc. du. m.,9,axikaranam,8
+6,tava,yuzmad,g. sg. *,11,rartisambanxah,7
+7,kirIwam,tad,acc. sg. n.,13,karma,8
+8,arpitavAn,vac,ca. pp.,14,,

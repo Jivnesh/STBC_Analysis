@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvO,vfzwimant,nom. du. m.,1,viseranam,2
+1,api,api,conj.,2,sambanxah,0
+2,janO,jan,nom. du. m.,7,karwa,4
+3,mArgaBrazwO,vfzwimant,nom. du. m.,10,karwqsamanaxikaranam,4
+4,aBavatAm,BU,impft. [1] ac. du. 3,11,,

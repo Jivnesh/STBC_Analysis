@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BikzAm,BikzA,acc. sg. f.,0,karma,1
+1,nizedDum,siD,inf.,1,prayojanam,5
+2,vaDvE,vaDU,dat. sg. f.,3,sampraxanam,5
+3,kaH,kim,nom. sg. m.,4,viseranam,4
+4,aDikAraH,aDikAra,nom. sg. m.,5,karma,5
+5,dattaH,dA,pr. [3] ac. du. 3,6,,

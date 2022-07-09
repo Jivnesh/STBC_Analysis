@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarve,sarva,nom. pl. m.,0,karwa,2
+1,Anandam,Ananda,acc. sg. m.,5,karma,2
+2,anuBavanti,BU,pr. [1] ac. pl. 3,21,,

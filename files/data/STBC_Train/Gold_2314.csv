@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sugrIvaH,sugrIva,nom. sg. m.,0,karwa,7
+1,rAGavapratyayArTam,arTa,acc. sg. m.,30,waxarwyam,7
+2,tu,tu,conj.,3,sambanxah,1
+3,mahAparvatasanniBam,niBa,acc. sg. m.,10,viseranam,6
+4,dunduBeH,dunduBi,g. sg. f.,13,rartisambanxah,6
+5,uttamam,uttama,acc. sg. m.,17,viseranam,6
+6,kAyam,kAya,acc. sg. m.,20,karma,7
+7,darSayAmAsa,dfS,ca. imp. ac. pl. 1,21,,

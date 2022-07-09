@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,5
+1,BagavatkfpayA,kfpA,adv.,3,kriyaviseranam,5
+2,tO,tad,nom. du. m.,5,karwa,5
+3,punaH,punar,loc. sg. n.,7,axikaranam,5
+4,api,api,conj.,8,sambanxah,3
+5,utpannO,pad,pp.,11,,

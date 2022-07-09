@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tO,tad,nom. du. m.,1,karwa,5
+1,tam,tad,acc. sg. m.,2,karma,2
+2,upAgacCataH,gam,pr. [1] ac. du. 3,3,samucciwam,5
+3,upAyam,upAya,acc. sg. m.,4,karma,4
+4,pfcCataH,BU,pr. [6] ac. du. 3,5,samucciwam,5
+5,ca,ca,conj.,6,samucciwam,10
+6,SfgAlaH,SfgAla,nom. sg. m.,7,karwa,9
+7,tO,tad,acc. du. m.,8,sambanxah,9
+8,upAyam,upAya,acc. sg. m.,10,sambanxah,9
+9,kaTayati,kaT,ppr. [10] ac.,11,samucciwam,10
+10,ca,ca,conj.,12,,

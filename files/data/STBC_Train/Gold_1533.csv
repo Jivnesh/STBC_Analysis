@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,sammuKasTe,sTa,loc. sg. n.,5,viseranam,2
+2,pIWe,pIWa,loc. sg. n.,10,axikaranam,7
+3,ekA,eka,nom. sg. f.,25,viseranam,4
+4,vfdDA,vfdDa,nom. sg. f.,13,karwa,8
+5,svapOtreRa,tad,i. sg. m.,16,prawiyogi,6
+6,saha,saha,adv.,17,anuyogi,4
+7,upavizwA,viS,nom. du. m.,20,karwqsamanaxikaranam,8
+8,aBUt,BU,aor. [1] ac. sg. 3,21,,

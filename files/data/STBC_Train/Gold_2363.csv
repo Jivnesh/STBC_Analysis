@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyAH,anyA,nom. pl. f.,1,viseranam,1
+1,AhiterzyAH,IrzyA,nom. pl. f.,2,karwa,7
+2,tatrAntare,tatra,conj.,6,axikaranam,7
+3,niHSaNkaM,niHSaNka,conj.,9,viseranam,7
+4,samaM,samam,conj.,12,sambanxah,7
+5,kawAkzEH,kawAkza,inst. pl. m.,14,upapaxasambanxah,4
+6,amuM,adas,acc. sg. m.,15,karma,7
+7,jaGnuH,han,pft. ac. pl. 3,24,,

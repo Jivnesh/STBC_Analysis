@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kimarTam,arTa,acc. sg. m.,1,sambanxah,8
+1,mama,asmad,g. sg. *,2,samucciwam,3
+2,arjunasya,arjuna,g. sg. m.,3,samucciwam,3
+3,ca,ca,conj.,5,rartisambanxah,4
+4,sahajaBrAtfBAvam,BAva,acc. sg. m.,8,karma,5
+5,utpAwya,kf,ca. abs.,9,purvakalah,8
+6,BIkaradvezaparyavasAyi,avasAyin,acc. sg. n.,17,viseranam,7
+7,vEram,vara,acc. sg. m.,21,karma,8
+8,utpAditam,vac,ca. pp.,24,,

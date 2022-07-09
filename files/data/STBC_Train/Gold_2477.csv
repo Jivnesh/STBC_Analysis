@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIm,idAnIm,loc. sg. m.,0,axikaranam,6
+1,durmuKaH,durmuKa,nom. sg. m.,1,karwa,6
+2,api,api,conj.,2,sambanxah,1
+3,sumuKaH,tad,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,BUtvA,BU,abs.,5,purvakalah,6
+5,cOryakarma,karman,acc. sg. n.,7,karma,6
+6,paryatyajat,tyaj,impft. [1] ac. sg. 3,15,,
+7,iti,iti,part.,10,sambanxah,6

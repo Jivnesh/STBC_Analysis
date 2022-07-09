@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sanDyAmAndyam,mAndya,nom. sg. n.,2,karwa,2
+1,pfTivIm,pfTvI,acc. sg. f.,3,karma,2
+2,AvfRoti,vf,pr. [5] ac. sg. 3,4,samucciwam,6
+3,jalam,jala,nom. sg. n.,7,karwa,5
+4,mOnam,tad,acc. sg. n.,9,karma,5
+5,ASrayate,Sra,pr. [1] md. sg. 3,11,samucciwam,6
+6,ca,ca,conj.,12,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Danikasya,Danika,g. sg. m.,0,rartisambanxah,1
+1,janAH,jana,nom. pl. m.,2,karwa,5
+2,ABaraRAya,ABaraRa,dat. sg. n.,3,waxarwyam,4
+3,sarpasya,sarpa,g. sg. m.,4,karma,4
+4,vaDam,vaDa,acc. sg. m.,6,karma,5
+5,karizyanti,kf,fut. ac. pl. 3,9,,

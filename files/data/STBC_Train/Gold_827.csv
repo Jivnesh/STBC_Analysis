@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kA,kim,nom. pl. f.,5,viseranam,1
+1,hAniH,hAni,nom. sg. f.,1,karwa,3
+2,iha,iha,loc. sg. m.,2,axikaranam,3
+3,asti,as,pr. [2] ac. sg. 3,3,,

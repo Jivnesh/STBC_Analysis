@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,candrasya,candra,g. sg. n.,1,rartisambanxah,1
+1,prakASaH,prakASa,nom. sg. m.,2,karwa,4
+2,janAnAm,jana,g. pl. n.,4,rartisambanxah,3
+3,AhlAdakaH,AhlAdaka,nom. sg. m.,5,karwqsamanaxikaranam,4
+4,Bavati,BU,pr. [1] ac. sg. 3,8,,

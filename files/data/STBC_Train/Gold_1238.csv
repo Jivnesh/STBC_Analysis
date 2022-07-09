@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aparaH,apara,nom. sg. m.,0,karwa,10
+1,anuvanaM,vana,conj.,4,karma,10
+2,saKIBiH,saKI,inst. pl. f.,5,upapaxasambanxah,3
+3,saha,saha,conj.,7,sambanxah,10
+4,purogatAyAH,puroga,g. sg. f.,9,viseranam,5
+5,asitaBruvaH,BrU,g. sg. f.,12,rartisambanxah,6
+6,padavIm,padavI,acc. sg. f.,14,karma,9
+7,urasi,uras,loc. sg. n.,15,axikaranam,9
+8,sarasarAgapAdaleKApratimatayA,tad,inst. sg. f.,19,hewuh,9
+9,asaMSayAnaH,SI,nom. sg. n.,21,bavalakranasapwami_samanakalah,10
+10,anuyayO,yA,pft. ac. sg. 3,40,,

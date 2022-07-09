@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aSezatIrTaupahftAH,tad,nom. pl. m.,2,viseranam,5
+1,fziRA,fzi,inst. sg. m.,3,karwa,5
+2,kamaRqaloH,kamaRqalu,abl. sg. m.,5,apaxanam,4
+3,pARO,pARi,loc. sg. m.,6,axikaranam,4
+4,niDAya,DA,abs.,7,purvakalah,5
+5,aByudIritAH,tad,nom. pl. m.,11,viseranam,8
+6,aGOGaviDvaMsaviDO,viDi,loc. sg. m.,14,axikaranam,12
+7,pawIyasIH,pawIyas,acc. pl. f.,16,viseranam,8
+8,apaH,diS,acc. pl. f.,19,karma,12
+9,hariH,hari,nom. sg. m.,22,karwa,12
+10,natena,nata,inst. sg. m.,25,viseranam,11
+11,mUrDnA,mUrDan,inst. sg. m.,27,karanam,12
+12,agrahIt,grah,impft. ac. sg. 3,26,,

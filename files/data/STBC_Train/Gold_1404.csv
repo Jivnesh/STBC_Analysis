@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,grAmam,grAma,acc. sg. m.,0,karma,1
+1,prApya,Ap,abs.,1,purvakalah,13
+2,saH,tad,nom. sg. m.,3,karwa,13
+3,grAmADipateH,pati,g. sg. m.,5,rartisambanxah,5
+4,eva,eva,prep.,7,sambanxah,3
+5,gfhAt,gfha,abl. sg. n.,8,apaxanam,8
+6,bahumUlyAni,mUlya,acc. pl. n.,10,viseranam,7
+7,vastUni,vastu,acc. pl. n.,12,karma,8
+8,corayitvA,kf,abs.,15,purvakalah,13
+9,gfham,gfha,acc. sg. n.,16,karma,10
+10,AnIya,nI,abs.,18,purvakalah,13
+11,mAtuH,mAtf,g. sg. f.,19,upapaxasambanxah,12
+12,samIpe,samIpa,loc. sg. m.,21,axikaranam,13
+13,arakzat,rakz,impft. [1] ac. sg. 3,27,,

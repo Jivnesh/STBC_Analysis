@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,8
+1,mama,asmad,g. sg. *,4,rartisambanxah,3
+2,idam,idam,acc. sg. n.,18,viseranam,3
+3,uttaram,uttara,acc. sg. m.,9,karma,4
+4,SrutvA,Sru,abs.,12,purvakalah,8
+5,kupitaH,tad,nom. sg. m.,13,karwqsamanaxikaranam,8
+6,tu,tu,conj.,14,sambanxah,5
+7,atIva,atIva,adv.,15,kriyaviseranam,8
+8,aBUt,BU,aor. [1] ac. sg. 3,17,,

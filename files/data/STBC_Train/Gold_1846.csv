@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vaYcanam,vaYcana,nom. sg. n.,1,karwa,5
+1,hi,hi,part.,2,sambanxah,0
+2,mahApApam,pApa,nom. sg. n.,6,samucciwam,4
+3,mahArOravapAtakam,pAtaka,nom. sg. n.,10,samucciwam,4
+4,ca,ca,conj.,11,karwqsamanaxikaranam,5
+5,Bavati,BU,pr. [1] ac. sg. 3,23,,

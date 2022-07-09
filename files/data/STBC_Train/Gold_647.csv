@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yuvakaH,yuvan,nom. sg. n.,1,karwa,8
+1,tat,tad,acc. sg. n.,3,viseranam,2
+2,Palam,Pala,acc. sg. n.,5,karma,8
+3,pUrvavat,pUrva,acc. sg. n.,8,kriyaviseranam,8
+4,eva,eva,prep.,9,sambanxah,3
+5,ekasyAH,eka,abl. sg. f.,11,viseranam,6
+6,veSyAyAH,tad,g. sg. f.,15,rartisambanxah,7
+7,haste,hasta,loc. sg. m.,16,axikaranam,8
+8,vikrItavAn,vikrIta,pp.,17,,

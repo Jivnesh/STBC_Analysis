@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praDAnamantrI,mantrin,nom. sg. m.,1,karwa,6
+1,svasTAne,sTAna,loc. sg. n.,22,axikaranam,6
+2,svasadfSam,sadfSa,acc. sg. m.,4,viseranam,4
+3,eva,eva,prep.,7,sambanxah,2
+4,janam,jana,acc. sg. m.,8,karma,6
+5,kaTam,kaTam,adv.,11,kriyaviseranam,6
+6,anvizwavAn,vac,pp.,12,,

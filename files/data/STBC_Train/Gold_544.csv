@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,conj.,0,axikaranam,5
+1,turaNgavaktraH,vaktra,nom. sg. m.,2,karwa,7
+2,bimbozWaM,bimbozWa,acc. sg. m.,3,viseranam,4
+3,priyAyAH,priyA,g. sg. f.,5,rartisambanxah,4
+4,muKaM,muKa,acc. sg. m.,7,karwa,5
+5,cumbantaM,cumb,acc. sg. m.,8,bavalakranasapwami_samanakalah,7
+6,kinnaraM,tad,acc. sg. m.,9,karma,7
+7,bahumanute,man,pr. md. sgpl. 3,11,,

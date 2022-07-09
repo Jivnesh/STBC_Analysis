@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,upakartrA,upa_kf2,i. sg. m.,NA,viseranam,1
+1,ariRA,ari,i. sg. m.,NA,karwa,4
+2,api,api,ind.,NA,sambanxah,1
+3,sanDiH,sanDi,nom. sg. m.,NA,karma,4
+4,kriyeta,kf3,opt. ps. sg. 3,NA,,
+5,apakAriRA,apakArin,i. sg. m.,NA,viseranam,6
+6,mitreRa,mitra,i. sg. m.,NA,karwa,10
+7,api,api,ind.,NA,sambanxah,6
+8,sanDiH,sanDi,nom. sg. m.,NA,karma,10
+9,na,na,ind.,NA,sambanxah,10
+10,kriyeta,kf3,opt. ps. sg. 3,NA,,
+11,hi,hi,ind.,NA,sambanxah,15
+12,upakArApakArO,upakArApakAra,nom. du. m.,NA,karma,15
+13,etayoH,etad,g. du. m.,NA,rartisambanxah,14
+14,lakzaRaM,lakz1,nom. sg. n.,NA,viseranam,15
+15,lakzyam,lakzy1,acc. sg. n.,NA,,

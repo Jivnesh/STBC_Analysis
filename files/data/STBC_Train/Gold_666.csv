@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyA,anyA,nom. sg. f.,0,karwa,11
+1,priyam,priya,acc. sg. m.,1,upapaxasambanxah,2
+2,aBi,aBi,conj.,4,axikaranam,11
+3,kusumodyatasya,tad,g. sg. m.,5,viseranam,4
+4,bAhoH,bAhu,g. sg. m.,6,rartisambanxah,5
+5,navanaKamaRqanacAru,cAru,acc. sg. n.,22,viseranam,11
+6,mUlaM,mUla,acc. sg. n.,9,viseranam,11
+7,muhuH,muhur,conj.,11,sambanxah,11
+8,itarakaraAhitena,hita,inst. sg. m.,13,viseranam,9
+9,aMSukena,aMSuka,inst. sg. m.,14,karanam,11
+10,pInastanatawaroDi,tad,acc. sg. n.,15,karma,11
+11,tirodaDe,DA,pft. md. sg. 3,45,,

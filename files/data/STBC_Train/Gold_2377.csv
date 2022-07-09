@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sA,tad,nom. sg. f.,0,karwa,6
+1,palAyitA,palAy,nom. pl. f.,3,sambanxah,5
+2,apahftA,tad,nom. sg. f.,6,sambanxah,5
+3,balAtkftA,kfta,nom. sg. f.,21,sambanxah,5
+4,mAritA,mf,nom. sg. f.,14,sambanxah,5
+5,vA,va,conj.,15,karwqsamanaxikaranam,6
+6,asti,as,pr. [2] ac. sg. 3,16,,

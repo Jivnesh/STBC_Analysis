@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guruH,guru,nom. sg. m.,0,karwa,9
+1,tasya,tad,g. sg. m.,2,rartisambanxah,2
+2,mastake,mastaka,loc. sg. m.,3,axikaranam,3
+3,hastaM,hasta,acc. sg. m.,7,karma,4
+4,DftvA,Df,conj.,9,purvakalah,9
+5,eva,eva,conj.,8,sambanxah,4
+6,sarvAm,tad,acc. sg. f.,10,viseranam,8
+7,api,api,conj.,11,sambanxah,6
+8,vidyAM,vidyA,acc. sg. f.,13,karma,9
+9,dadO,dA,pft. ac. sg. 3,18,,

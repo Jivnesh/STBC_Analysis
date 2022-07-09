@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prativeSI,rama,nom. sg. m.,1,karwa,3
+1,SyAmasundaraM,rAma,acc. sg. m.,5,karma,3
+2,kiM,kim,conj.,7,karma,3
+3,kaTitavAn,vac,pp. . sg. ,8,,

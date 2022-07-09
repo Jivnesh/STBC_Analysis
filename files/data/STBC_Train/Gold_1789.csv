@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BUmiBftAM,Bfta,g. pl. m.,3,rartisambanxah,1
+1,sahasrEH,sahasra,inst. pl. m.,4,karanam,11
+2,kftAspadA,Aspada,nom. sg. f.,36,viseranam,4
+3,udanvadamBaHparivItamUrtiH,mUrti,nom. sg. f.,6,viseranam,4
+4,pfTvI,pfTvI,nom. sg. f.,7,karma,11
+5,yA,yad,nom. sg. f.,31,viseranam,4
+6,anirvidA,anirvid,inst. sg. m.,23,viseranam,7
+7,viDAtrA,viDAtf,inst. sg. m.,11,karwa,11
+8,pfTivyAH,pfTivI,g. sg. f.,12,rartisambanxah,9
+9,pratiyAtanA,pratiyAtanA,nom. sg. f.,17,prawiyogi,10
+10,iva,iva,conj.,18,anuyogi,4
+11,vidaDe,DA,pft. md. sg. 3,20,,

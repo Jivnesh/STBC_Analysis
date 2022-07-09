@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAn,tad,acc. pl. m.,0,karma,1
+1,dfzwvA,dfS,abs.,1,purvakalah,5
+2,kfttahastaH,hasta,nom. sg. m.,3,viseranam,3
+3,mahAtmA,Atman,nom. sg. m.,23,karwa,5
+4,rAjAnam,rAjan,acc. sg. m.,5,karma,5
+5,kaTitavAn,kaT,ppa.,6,,

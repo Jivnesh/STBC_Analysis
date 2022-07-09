@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvARi,sarva,nom. pl. n.,1,viseranam,3
+1,dedIpyamAnAni,dIp,nom. pl. n.,3,viseranam,3
+2,bahumUlyAni,mUlya,nom. pl. n.,6,viseranam,3
+3,ratnAni,ratna,nom. pl. n.,8,karwa,10
+4,bahiH,bahis,loc. sg. n.,10,axikaranam,5
+5,niHsftya,sf,abs.,11,purvakalah,10
+6,sarvAm,sarva,acc. sg. f.,12,viseranam,8
+7,api,api,conj.,13,sambanxah,6
+8,saBAm,saBA,acc. sg. f.,15,karma,10
+9,vismayavatIm,vismaya,adv.,16,kriyaviseranam,10
+10,kftavanti,kf,ppa.,18,,

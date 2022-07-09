@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AsIt,as,aor. [5] ac. sg. 3,1,,
+1,ekaH,eka,nom. sg. m.,2,viseranam,2
+2,mahAtmA,Atman,nom. sg. *,5,karwa,0

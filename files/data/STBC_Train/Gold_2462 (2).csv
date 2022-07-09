@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guRAnAm,guRa,g. pl. m.,0,rartisambanxah,1
+1,AyaTAtaTyAt,AyaTAtaTya,abl. sg. n.,1,apaxanam,4
+2,arTaM,arTa,acc. sg. m.,2,karma,4
+3,ye,yad,nom. pl. m.,5,karwa,4
+4,viplAvayanti,Ric,pr. ac. sg. 3,8,samucciwam,11
+5,amAtyavyaYjanAH,vyaYjana,nom. pl. m.,10,viseranam,9
+6,SatrusaMjYitAH,tad,nom. pl. m.,15,viseranam,9
+7,te,tad,nom. pl. m.,18,viseranam,9
+8,rAjYAM,rAjan,g. pl. m.,23,rartisambanxah,9
+9,dUzyAH,dUzya,g. pl. m.,26,karwa,10
+10,Bavanti,BU,pr. ac. pl. 3,27,samucciwam,11
+11,ca,ca,conj.,28,,

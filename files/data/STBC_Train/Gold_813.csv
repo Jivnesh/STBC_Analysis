@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekatra,ekatra,loc. sg. n.,0,axikaranam,2
+1,tAnapUrikayA,pUraka,i. sg. f.,2,karanam,2
+2,gAyantam,gA,acc. sg. m.,3,viseranam,4
+3,prasannamuKam,muKa,acc. sg. m.,27,viseranam,4
+4,Bikzukam,Bikzuka,acc. sg. m.,8,karma,5
+5,dfzwvA,dfS,abs.,9,purvakalah,9
+6,sTitaH,sTA,acc. sg. m.,10,viseranam,8
+7,tam,tad,acc. sg. m.,11,karma,9
+8,saH,tad,nom. sg. m.,12,karwa,9
+9,kaTitavAn,kaT,ppa.,13,,

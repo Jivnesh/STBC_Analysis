@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,8
+1,smitasaroruhanetrasarojalAm,jala,acc. sg. f.,26,viseranam,4
+2,atisitANgavihaNgahasaddivaM,div,acc. sg. f.,6,viseranam,4
+3,SaradanturadiNmuKAM,tad,acc. sg. f.,8,viseranam,4
+4,SaradaM,Sarad,acc. sg. f.,9,upapaxasambanxah,5
+5,sarvataH,ca,conj.,10,sambanxah,8
+6,muditAm,mud,pp. . sg. ,11,prawiyogi,7
+7,iva,iva,conj.,12,anuyogi,4
+8,akalayat,kala,impft . ac. sg. 3,13,,

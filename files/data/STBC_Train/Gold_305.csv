@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tayA,tad,i. sg. f.,0,karwa,1
+1,kftam,kf,acc. sg. n.,3,viseranam,2
+2,AtiTyasatkAram,satkAra,acc. sg. n.,16,karma,3
+3,anuBUya,BU,abs.,6,purvakalah,8
+4,dvO,tad,nom. du. m.,8,karwa,8
+5,api,api,conj.,9,sambanxah,4
+6,ati,ati,nom. du. m.,12,viseranam,7
+7,santuzwO,tuz,nom. du. m.,14,karwqsamanaxikaranam,8
+8,aBUtAm,BU,aor. [1] ac. du. 3,15,,

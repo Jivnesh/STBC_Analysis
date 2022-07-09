@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAkinAM,nAkin,g. pl. m.,0,rartisambanxah,1
+1,prItaye,prIti,dat. sg. f.,1,waxarwyam,2
+2,arivaDaH,vaDa,nom. sg. m.,4,viseranam,3
+3,SreyAn,Sreyas,nom. sg. m.,5,prawiyogi,4
+4,iti,iti,conj.,6,anuyogi,5
+5,manyase,man,pr. md. sg. 2,7,samucciwam,13
+6,cet,ced,conj.,8,sambanxah,12
+7,puroqASaBujAm,Buja,g. pl. m.,10,rartisambanxah,8
+8,izwaM,iz,acc. sg. m.,16,karma,9
+9,kartum,kf,inf.,17,prayojanam,12
+10,izwam,yaj,acc. sg. m.,23,karma,12
+11,alaMtarAm,tarAm,conj.,25,sambanxah,12
+12,Bavati,BU,pr. ac. sg. 3,26,samucciwam,13
+13,ca,ca,conj.,27,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,prasADitasya,pra_sAD1,pp.,NA,viseranam,2
+1,asya,idam,g. sg. m.,NA,viseranam,2
+2,maDudvizaH,maDu-dviza,g. sg. m.,NA,rartisambanxah,3
+3,anyA,anyA,nom. sg. f.,NA,viseranam,5
+4,eva,eva,ind.,NA,sambanxah,3
+5,lakzmIH,lakzmI,nom. sg. f.,NA,karwa,6
+6,aBUt,BU1,aor. ac. sg. 3,NA,prawiyogi,7
+7,iti,iti,ind.,NA,anuyogi,8
+8,etat,etad,nom. sg. n.,NA,karma,9
+9,yuktam,yuj1,pp.,NA,,

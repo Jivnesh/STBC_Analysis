@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sAgarasya,sAgara,g. sg. m.,0,rartisambanxah,1
+1,mahormiBiH,Urmi,inst. pl. m.,1,karwa,6
+2,yacCAlam,SAla,acc. sg. m.,24,karma,4
+3,uttuNgatayA,uttuNga,inst. sg. f.,3,karanam,4
+4,vijetuM,ji,inf.,4,prayojanam,6
+5,dUrAt,dUra,abl. sg. m.,5,apaxanam,6
+6,udasTIyata,sTA,impft . md. sg. 3,7,samucciwam,12
+7,aByAsagatEH,gam,inst. pl. m.,10,viseranam,8
+8,vyAhatavAYCitArTEH,arTa,inst. pl. m.,13,karwa,11
+9,vrIqAt,vrIqa,abl. sg. m.,14,prawiyogi,10
+10,iva,iva,conj.,15,anuyogi,5
+11,vililye,lI,pft. md. sg. 3,16,samucciwam,12
+12,ca,ca,conj.,18,,

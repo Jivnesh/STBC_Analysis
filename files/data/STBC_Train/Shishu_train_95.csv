@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,yatra,yatra,ind.,NA,viseranam,3
+1,pratikzapam,prati-kzapa,ind.,NA,viseranam,3
+2,kAntaindukAntaupalakuwwimezu,kAnta-indukAnta-upala-kuwwima,loc. pl. n.,NA,viseranam,3
+3,harmyatalezu,harmya-tala,loc. pl. n.,NA,axikaranam,10
+4,uccEH,uccEH,ind.,NA,viseranam,5
+5,praRAlyaH,praRAlI,nom. pl. f.,NA,viseranam,6
+6,aDaHpAtipayomucaH,aDaH-pAti-payomuc,nom. pl. f.,NA,karwa,10
+7,api,api,ind.,NA,sambanxah,6
+8,payasAM,payas,g. pl. n.,NA,rartisambanxah,9
+9,samUham,sam_vah1,acc. sg. m.,NA,karma,10
+10,UhuH,vah1,pft. ac. pl. 3,NA,,

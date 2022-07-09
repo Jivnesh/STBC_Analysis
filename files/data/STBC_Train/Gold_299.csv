@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. n.,1,axikaranam,3
+1,aham,asmad,nom. sg. *,0,karwa,3
+2,sampannaH,pad,nom. sg. m.,2,karwqsamanaxikaranam,3
+3,Asam,as,impft. [2] ac. sg. 1,8,,

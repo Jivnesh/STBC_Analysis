@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,aham,asmad,nom. sg. *,1,karwa,4
+2,agre,agra,loc. sg. n.,4,axikaranam,4
+3,idam,idam,acc. sg. n.,9,karma,4
+4,karizyAmi,kf,fut. ac. sg. 1,6,,

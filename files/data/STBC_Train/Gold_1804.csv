@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAmadevaH,deva,nom. sg. m.,1,karwa,4
+1,ekaH,eka,nom. sg. m.,2,viseranam,2
+2,mahAn,mahant,nom. sg. m.,3,viseranam,3
+3,sADuH,sADu,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,aBavat,BU,impft. [1] ac. sg. 3,5,,

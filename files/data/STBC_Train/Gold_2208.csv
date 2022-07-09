@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvaTA,sarvaTA,loc. sg. n.,1,axikaranam,3
+1,idam,idam,acc. sg. m.,0,viseranam,2
+2,durlaBam,durlaBa,acc. sg. m.,2,karma,3
+3,manye,man,pr. ps. sg. 1,9,,

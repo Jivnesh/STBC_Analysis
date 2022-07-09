@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viDAnasaBAyAH,saBA,g. sg. f.,1,rartisambanxah,1
+1,aDiveSane,sva,loc. sg. n.,5,axikaranam,10
+2,tasmin,tad,loc. sg. n.,6,viseranam,3
+3,dine,dina,loc. sg. n.,10,axikaranam,10
+4,sadasyAnAm,sadasya,g. pl. n.,12,rartisambanxah,5
+5,BAzaRe,BAzaRa,loc. sg. n.,16,axikaranam,10
+6,apekzAtaH,apekzA,abl. sg. f.,17,apaxanam,10
+7,aDikA,aDika,nom. pl. f.,20,viseranam,9
+8,eva,eva,prep.,21,sambanxah,7
+9,ugratA,ugra,nom. pl. f.,23,karwa,10
+10,AsIt,as,aor. [5] ac. sg. 3,25,,

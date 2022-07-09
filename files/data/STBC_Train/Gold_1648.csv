@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ize,iza,loc. sg. m.,0,axikaranam,8
+1,kalamagopavaDUH,vaDU,nom. sg. f.,8,karwa,8
+2,SrutatadIritakomalagItakaDvanim,Dvani,acc. sg. m.,10,viseranam,6
+3,agrataH,agra,conj.,11,apaxanam,8
+4,animizaIkzaRaM,IkzaRa,acc. sg. m.,13,viseranam,6
+5,vigatasasyajiGatsaM,putra,acc. sg. m.,14,viseranam,6
+6,mfgavrajaM,vraja,acc. sg. m.,15,karma,8
+7,na,na,conj.,18,sambanxah,8
+8,aGawwayat,Gaww,impft . ac. sg. 3,19,,

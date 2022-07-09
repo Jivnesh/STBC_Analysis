@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mfduvyavahitaM,DA,nom. sg. n.,2,viseranam,1
+1,tejaH,tejas,nom. sg. n.,4,karwa,4
+2,arTAn,arTa,acc. pl. m.,6,karma,4
+3,BoktuM,Buj,inf.,12,prayojanam,4
+4,prakalpate,kfp,pr. md. sg. 3,9,,

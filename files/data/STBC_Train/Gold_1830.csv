@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atyalpaH,alpa,nom. sg. m.,2,viseranam,2
+1,eva,eva,prep.,3,sambanxah,0
+2,samayaH,samaya,nom. sg. m.,4,karwa,4
+3,avaSizwaH,Sizwa,nom. sg. m.,12,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,6,,

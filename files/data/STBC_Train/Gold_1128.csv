@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,5
+1,mahArGatAkAraRAt,kAraRa,abl. sg. n.,16,apaxanam,5
+2,aDunA,aDunA,loc. sg. m.,6,axikaranam,5
+3,nEva,eva,prep.,17,sambanxah,5
+4,paScAt,paSca,loc. sg. m.,8,axikaranam,5
+5,krezyAmi,krI,fut. ac. sg. 1,10,,

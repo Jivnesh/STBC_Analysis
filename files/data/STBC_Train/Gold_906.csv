@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDukarEH,maDukara,inst. pl. m.,2,karanam,12
+1,apavAdakarEH,kara,inst. pl. m.,5,prawiyogi,2
+2,iva,iva,conj.,11,anuyogi,0
+3,paTikAH,paTika,nom. pl. m.,7,karwa,12
+4,hariRAH,hariRa,nom. pl. m.,10,prawiyogi,5
+5,iva,iva,conj.,6,anuyogi,3
+6,parivAdinIsvarajitA,jit,inst. sg. f.,14,viseranam,8
+7,vacasaH,vacas,g. sg. n.,15,rartisambanxah,8
+8,kalatayA,kala,inst. sg. f.,18,hewuh,9
+9,rajitAH,raYj,pp. . pl. ,17,viseranam,3
+10,smftiBuvaH,BU,g. sg. m.,23,rartisambanxah,11
+11,vaSam,vaSa,acc. sg. m.,24,karma,12
+12,AyayuH,yA,pft. ac. pl. 3,27,,

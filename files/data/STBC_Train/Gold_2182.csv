@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,8
+1,vfkzARAm,vfkza,g. pl. m.,1,rartisambanxah,2
+2,maDye,maDya,loc. sg. m.,2,axikaranam,8
+3,lakzmaRaH,lakzmaRa,nom. sg. m.,8,karwa,8
+4,rAmAya,rAma,dat. sg. m.,11,samucciwam,6
+5,sItAyE,sItA,dat. sg. f.,13,samucciwam,6
+6,ca,ca,conj.,14,waxarwyam,8
+7,parRaSAlAm,SAlA,acc. sg. f.,16,karma,8
+8,racayati,BU,pr. [10] ac. sg. 3,18,,

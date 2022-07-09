@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tataH,tataH,ind.,NA,apaxanam,1
+1,samAhitEH,sam_AN_DA1,pp.,NA,karwa,3
+2,api,api,ind.,NA,sambanxah,1
+3,anirUpitaH,anirUpita,nom. sg. m.,NA,viseranam,4
+4,tvaM,yuzmad,nom. sg. *.,NA,karwa,10
+5,ISa,ISa,voc. sg. m.,NA,samboxyah,10
+6,mAdfSAM,mAdfS,g. pl. m.,NA,rartisambanxah,7
+7,dfSaH,dfS,g. sg. f.,NA,rartisambanxah,10
+8,padaM,pada,nom. sg. n.,NA,karwqsamanaxikaranam,10
+9,kaTaM,kaTam,ind.,NA,kriyaviseranam,10
+10,syAH,as2,opt. ac. sg. 2,NA,,

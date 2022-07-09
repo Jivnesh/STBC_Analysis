@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ezAm,idam,g. pl. n.,12,rartisambanxah,1
+1,anupasTitO,devI,loc. sg. f.,2,bavalakranasapwami_samanakalah,4
+2,sati,tad,nom. sg. f.,4,karwa,4
+3,asmAn,asmad,acc. pl. *,5,karma,4
+4,Cetsyanti,BU,fut. ac. pl. 3,6,samucciwam,6
+5,kartayizyanti,iz,pr. [4] ac. pl. 3,9,samucciwam,6
+6,ca,ca,conj.,11,,
+7,eva,eva,prep.,10,sambanxah,6

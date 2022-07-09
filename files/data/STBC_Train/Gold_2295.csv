@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,paYcaviMSatitame,dvi,nom. du. f.,5,viseranam,2
+2,varze,varzA,loc. sg. m.,11,axikaranam,5
+3,samastam,samasta,acc. sg. m.,14,viseranam,4
+4,BAratam,BArata,acc. sg. m.,15,karma,5
+5,aBramat,Bram,impft . ac. sg. 3,19,,

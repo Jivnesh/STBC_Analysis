@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kecit,kim,nom. pl. m.,2,viseranam,2
+1,api,api,conj.,6,sambanxah,2
+2,puruzAH,puruza,nom. pl. m.,8,karwa,6
+3,kvacit,kvacid,loc. sg. n.,9,axikaranam,6
+4,putramaraRam,maraRa,acc. sg. n.,22,karma,6
+5,na,na,part.,12,sambanxah,6
+6,drakzyanti,dfS,fut. ac. pl. 3,13,,

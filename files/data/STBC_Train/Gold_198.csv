@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,6
+1,sadA,sadA,loc. sg. m.,2,axikaranam,6
+2,eva,eva,prep.,1,sambanxah,1
+3,tO,tad,acc. du. m.,3,viseranam,4
+4,vfzaBO,vfzaBa,acc. du. m.,5,karma,5
+5,dfzwvA,dfS,abs.,8,purvakalah,6
+6,acintayat,utTA,impft. [10] ac. sg. 3,7,,

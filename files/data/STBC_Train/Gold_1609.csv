@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jananIvat,jananI,acc. sg. n.,1,kriyaviseranam,5
+1,vimAtA,mAtf,nom. sg. f.,4,karwa,5
+2,api,api,conj.,2,sambanxah,1
+3,sneham,sneha,acc. sg. m.,5,karma,5
+4,nEva,eva,prep.,16,sambanxah,3
+5,aBivarzati,aDigam,pr. [1] ac. sg. 3,7,,

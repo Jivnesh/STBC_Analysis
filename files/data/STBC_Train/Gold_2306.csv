@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,acc. sg. n.,0,viseranam,2
+1,prAyaScittAya,citta,dat. sg. n.,3,waxarwyam,3
+2,tapaH,tapas,acc. sg. n.,5,karma,3
+3,taptum,tap,inf.,8,prayojanam,4
+4,gacCAmi,gam,pr. [1] ac. sg. 1,9,,

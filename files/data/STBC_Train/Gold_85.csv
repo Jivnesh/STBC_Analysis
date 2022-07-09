@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtman,Atman,voc. sg. *,18,samboxyah,6
+1,aham,asmad,nom. sg. *,1,karwa,6
+2,AtmIyam,AtmIya,acc. sg. m.,2,viseranam,3
+3,tapaHPalam,Pala,acc. sg. m.,16,karma,5
+4,Bavate,BU,dat. sg. n.,9,prayojanam,5
+5,samarpayitum,f,ca. inf.,10,karma,6
+6,icCAmi,z,pr. [6] ac. sg. 1,11,,

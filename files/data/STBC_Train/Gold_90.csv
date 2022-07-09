@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmodayaH,udaya,nom. sg. m.,32,sambanxah,2
+1,parajyAniH,jyAni,nom. sg. f.,3,sambanxah,2
+2,iti,iti,conj.,4,sambanxah,3
+3,dvayam,dvaya,nom. sg. n.,7,karwa,6
+4,iyatI,tad,nom. sg. f.,10,viseranam,5
+5,nItiH,nIti,nom. sg. f.,11,karwqsamanaxikaranam,6
+6,asti,as,pr. ac. sg. 3,12,samucciwam,12
+7,tat,tad,acc. sg. n.,13,karma,8
+8,UrIkftya,kf,abs.,15,purvakalah,10
+9,kftiBiH,kfti,inst. pl. f.,18,karwa,10
+10,vAcaspatyaM,vAcaspatya,nom. sg. n.,21,karma,11
+11,pratAyate,tan,pr. md. sg. 3,22,samucciwam,12
+12,ca,ca,conj.,23,,

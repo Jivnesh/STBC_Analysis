@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pARqavaH,pARqava,nom. sg. m.,0,karwa,1
+1,yajatAm,yaj,imp. md. sg. 3,3,samucciwam,13
+2,indraH,indra,nom. sg. m.,4,karwa,4
+3,svargam,svarga,acc. sg. m.,5,karma,4
+4,avatu,av,imp. ac. sg. 3,8,samucciwam,13
+5,inaH,ina,nom. sg. m.,9,karwa,6
+6,tapatu,tap,imp. ac. sg. 3,10,samucciwam,13
+7,vayaM,asmad,nom. pl. n.,11,karwa,9
+8,dvizataH,tad,acc. pl. m.,12,karma,9
+9,hanAma,han,imp. ac. pl. 1,13,samucciwam,13
+10,sarvaH,sarva,nom. sg. m.,14,karwa,12
+11,svArTaM,svArTa,acc. sg. m.,15,karma,12
+12,samIhate,Ih,pr. md. sg. 3,18,samucciwam,13
+13,ca,ca,conj.,19,,

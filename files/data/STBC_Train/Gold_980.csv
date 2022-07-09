@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmA,Atman,nom. sg. *,12,karwa,4
+1,kAMScit,kim,acc. pl. m.,1,viseranam,2
+2,kamaRqalUn,kamaRqalu,acc. pl. m.,5,karma,3
+3,nirdiSya,diS,abs.,3,purvakalah,4
+4,kaTitavAn,kaT,ppa.,4,,

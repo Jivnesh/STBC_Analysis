@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yat,yat,conj.,0,sambanxah,2
+1,antaHkaraRena,antaHkaraRa,inst. sg. n.,4,karwa,2
+2,kzuRRaM,kzud,nom. sg. n.,7,samucciwam,8
+3,kalpopapadAH,upapada,nom. pl. m.,30,viseranam,4
+4,vfkzAH,vfkza,nom. pl. m.,10,karwa,7
+5,tat,tad,conj.,12,sambanxah,7
+6,eva,eva,conj.,13,sambanxah,5
+7,Palanti,Pal,pr. ac. pl. 3,14,samucciwam,8
+8,ca,ca,conj.,15,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paraSunA,paraSu,inst. sg. m.,0,karanam,2
+1,vfkzam,vfkza,acc. sg. m.,1,karma,2
+2,kartitvA,kft,conj.,2,purvakalah,5
+3,tvam,yuzmad,nom. sg. *.,3,karwa,5
+4,inDanam,inDana,acc. sg. n.,4,karma,5
+5,Anayasi,nI,pr. ac. sg. 2,6,,

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,SriyaH,SrI,g. sg. f.,NA,rartisambanxah,1
+1,patiH,pati,nom. sg. m.,NA,viseranam,2
+2,jagannivAsaH,jagannivAsa,nom. sg. m.,NA,viseranam,3
+3,hariH,hari,nom. sg. m.,NA,karwa,13
+4,jagat,jagat,nom. sg. n.,NA,karma,5
+5,SAsituM,SAs1,inf.,NA,prayojanam,8
+6,SrImati,SrImat,loc. sg. m.,NA,viseranam,7
+7,vasudevasadmani,vasudeva-sadman,loc. sg. m.,NA,axikaranam,8
+8,vasan,vas1,ppr. ac,NA,viseranam,3
+9,ambarAt,ambara,abl. sg. n.,NA,apaxanam,10
+10,avatarantaM,ava_tF1,ppr. ac,NA,viseranam,11
+11,hiraRyagarBaaNgaBuvam,hiraRyagarBa-aNga-BU,acc. sg. f.,NA,viseranam,12
+12,muniM,muni,acc. sg. m.,NA,karma,13
+13,dadarSa,dfS1,pft. ac. sg. 1,NA,,

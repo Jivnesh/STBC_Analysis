@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lipikaH,tad,nom. sg. m.,0,karwa,2
+1,satyaM,satya,acc. sg. m.,1,karma,2
+2,vadati,vad,pr. ac. sg. 3,4,,

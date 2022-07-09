@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,conj.,0,axikaranam,11
+1,vaprAH,vapra,nom. pl. m.,1,karwa,11
+2,sAyaM,sAyam,conj.,5,axikaranam,11
+3,SaSANkakiraRaAhatacandrakAntanisyandinIranikareRa,nikara,inst. sg. m.,6,karanam,11
+4,kftABizekAH,kftABizeka,nom. pl. m.,8,viseranam,11
+5,ahni,ahan,loc. sg. n.,9,axikaranam,11
+6,arkopalaullasitavahniBiH,tad,inst. pl. m.,11,karwa,7
+7,taptAH,tap,nom. pl. m.,14,viseranam,1
+8,tIvraM,tIvra,acc. sg. m.,15,viseranam,9
+9,mahAvratam,vrata,acc. sg. m.,19,prawiyogi,10
+10,iva,iva,conj.,20,anuyogi,11
+11,caranti,car,pr. ac. pl. 3,21,,

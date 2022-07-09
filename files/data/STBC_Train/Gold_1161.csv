@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tad,abl. pl. n.,19,apaxanam,3
+1,ca,ca,conj.,1,sambanxah,0
+2,leKanAya,hita,dat. sg. n.,2,sampraxanam,5
+3,prakASABAvaH,BAva,nom. sg. m.,4,karwa,5
+4,kazwam,kazwa,pp.,7,karma,5
+5,dadAti,dA,pr. [3] ac. sg. 3,8,,
+6,sma,sma,part.,9,sambanxah,5

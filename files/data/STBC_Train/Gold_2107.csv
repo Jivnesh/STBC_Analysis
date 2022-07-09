@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,7
+1,AryaH,Arya,nom. sg. m.,1,samucciwam,6
+2,sarvasamaH,sama,nom. sg. m.,3,samucciwam,6
+3,sadA,sadA,loc. sg. m.,5,axikaranam,7
+4,eva,eva,prep.,4,sambanxah,3
+5,priyadarSanaH,darSana,nom. sg. m.,7,samucciwam,6
+6,ca,ca,conj.,8,karwqsamanaxikaranam,7
+7,asti,as,pr. [2] ac. sg. 3,9,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SaWa,SaWa,voc. sg. m.,0,samboxyah,10
+1,tasyAH,tad,g. sg. f.,2,rartisambanxah,2
+2,DAmni,DAman,loc. sg. n.,4,axikaranam,4
+3,vasatim,vasati,acc. sg. f.,5,karma,4
+4,upagatena,gam,pp. . sg. ,7,viseranam,5
+5,tvayA,yuzmad,inst. sg. n.,9,karwa,10
+6,adya,adya,conj.,10,axikaranam,10
+7,ezaH,etad,nom. sg. m.,20,viseranam,9
+8,mahAn,tad,nom. sg. m.,12,viseranam,9
+9,kaliH,kali,nom. sg. m.,13,karma,10
+10,dattaH,dA,pp. . sg. ,14,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idaM,idam,nom. sg. n.,9,karma,4
+1,tu,tu,conj.,1,sambanxah,0
+2,tasmAt,tad,abl. sg. m.,3,viseranam,3
+3,vfkzAt,vfkza,abl. sg. m.,4,apaxanam,4
+4,trowitam,vac,pp. . sg. ,7,,

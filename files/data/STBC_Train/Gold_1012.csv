@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tABiH,tad,inst. pl. f.,0,karwa,7
+1,anunadi,nadI,conj.,3,axikaranam,7
+2,janatAmanaHSaravyavyaDapawumanmaTacApanAdaSaNkAM,SaNkA,acc. sg. f.,4,karma,3
+3,vidaDati,DA,nom. sg. n.,6,bavalakranasapwami_samanakalah,7
+4,SrutipaTamaDurARi,maDura,nom. pl. n.,10,viseranam,6
+5,sArasAnAM,sArasa,g. pl. m.,11,rartisambanxah,6
+6,rutAni,ruta,nom. pl. n.,13,karma,7
+7,SuSruvire,Sru,pft. md. pl. 3,14,,

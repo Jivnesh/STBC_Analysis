@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDirajani,ca,conj.,2,axikaranam,3
+1,tasyAH,tad,g. sg. f.,3,rartisambanxah,2
+2,DAma,DAman,acc. sg. n.,5,karma,3
+3,jagAma,gam,pft. ac. sg. 3,8,prawiyogi,4
+4,iti,iti,conj.,9,anuyogi,5
+5,ruzA,ruz,inst. sg. f.,11,hewuh,6
+6,priyatamayA,tamA,inst. sg. f.,12,karwa,8
+7,srajA,sraj,inst. sg. f.,14,karanam,8
+8,avanadDaH,nah,pp. . sg. ,16,viseranam,9
+9,yuvA,yuvan,nom. sg. m.,17,karwa,14
+10,padam,pad,acc. sg. n.,20,karma,12
+11,api,api,conj.,21,sambanxah,10
+12,calituM,cal,conj.,23,sambanxah,14
+13,na,na,conj.,24,sambanxah,14
+14,sehe,sah,pft. md. sg. 3,25,,

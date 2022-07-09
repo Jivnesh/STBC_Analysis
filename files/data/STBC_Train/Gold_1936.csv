@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kevalam,kevala,i. sg. n.,2,viseranam,1
+1,tapasA,tapas,i. sg. n.,3,karanam,4
+2,vidyA,vidyA,nom. pl. f.,6,karwa,4
+3,nEva,eva,prep.,24,sambanxah,4
+4,laByA,kf,pfp. [1],8,,
+5,kadAcana,cana,loc. sg. n.,10,axikaranam,4

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ajYAtadozEH,doza,inst. pl. m.,2,viseranam,3
+1,dozajYEH,jYa,inst. pl. m.,7,viseranam,3
+2,aBivyaktaSAsanEH,SAsana,inst. pl. m.,10,viseranam,3
+3,uBayavetanEH,vetana,inst. pl. m.,12,karanam,6
+4,SatroH,Satru,g. sg. m.,13,rartisambanxah,5
+5,sAmavAyikAH,diS,acc. pl. f.,15,viseranam,7
+6,uddUzya,duz,abs.,16,purvakalah,8
+7,BedyAH,Bid,acc. sg. m.,22,karwa,8
+8,Bavanti,BU,pr. ac. pl. 3,23,,

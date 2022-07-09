@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,karwa,4
+1,rakzAMsi,rakzas,acc. pl. n.,1,karma,2
+2,hatvA,han,conj.,3,purvakalah,4
+3,yaSaH,yaSas,acc. sg. n.,4,karma,4
+4,avindata,vid,impft . md. sg. 3,8,,

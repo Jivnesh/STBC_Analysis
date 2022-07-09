@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,padamArgeRa,mArga,i. sg. m.,1,karanam,1
+1,gacCat,gam,ppr. [1] ac.,4,bavalakranasapwami_samanakalah,5
+2,tat,tad,nom. sg. n.,6,karwa,5
+3,ekam,eka,acc. sg. n.,8,viseranam,4
+4,vanam,vana,acc. sg. n.,10,karma,5
+5,prAptam,Ap,aor. [4] ac. du. 2,12,,

@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BImatyaH,BI,nom. pl. f.,2,viseranam,3
+1,priyakaraDAryamARahastAH,hastA,nom. pl. f.,3,viseranam,3
+2,satyaH,as,nom. sg. n.,5,viseranam,1
+3,yozitaH,yozit,nom. pl. f.,7,karwa,7
+4,yAvat,yAvat,conj.,10,sambanxah,7
+5,kaTamapi,api,conj.,12,kriyaviseranam,7
+6,na,na,conj.,14,sambanxah,7
+7,Askandan,skand,impft . ps. pl. 3,1,samucciwam,18
+8,tAvat,tAvat,conj.,15,sambanxah,16
+9,tat,tad,nom. sg. n.,17,viseranam,10
+10,ambu,ambu,nom. sg. n.,19,karwa,16
+11,amUH,adas,acc. pl. f.,20,karma,16
+12,saNkrAntapratimatayA,man,inst. sg. f.,23,karanam,16
+13,OtsukyAt,Otsukya,abl. sg. n.,0,hewuh,14
+14,tvaritam,tvaritam,conj.,29,kriyaviseranam,16
+15,antaH,antar,conj.,31,axikaranam,16
+16,daDO,DA,pft. ac. sg. 3,34,samucciwam,18
+17,iva,iva,conj.,36,sambanxah,16
+18,ca,ca,conj.,37,,

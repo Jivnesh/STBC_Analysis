@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarve,sarva,nom. pl. m.,0,viseranam,1
+1,janAH,jana,nom. pl. m.,5,karwa,6
+2,vicitram,vicitra,acc. sg. m.,6,viseranam,3
+3,nyAyam,nyAya,acc. sg. m.,9,karma,6
+4,AkarRya,karRa,conj.,10,purvakalah,6
+5,vismitAH,vismita,pp. . pl. ,13,karwqsamanaxikaranam,6
+6,aBavan,BU,impft . ac. pl. 3,14,,

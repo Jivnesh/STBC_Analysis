@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sanDyopAsanAtaH,upAsana,abl. sg. f.,1,apaxanam,1
+1,nivfttaH,vftta,nom. sg. m.,2,viseranam,2
+2,mahAtmA,Atman,nom. sg. *,24,karwa,7
+3,punaH,punar,loc. sg. n.,5,axikaranam,7
+4,agre,agra,loc. sg. n.,8,axikaranam,7
+5,SizyeRa,Sizya,i. sg. n.,9,prawiyogi,6
+6,saha,saha,prep.,12,anuyogi,2
+7,prasTitaH,sTA,pp.,13,,

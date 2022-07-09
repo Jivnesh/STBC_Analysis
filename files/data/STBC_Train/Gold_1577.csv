@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAvat,tAvat,adv.,0,sambanxah,5
+1,ca,ca,conj.,28,sambanxah,0
+2,svadAyitvam,tva,acc. sg. n.,33,karma,5
+3,na,na,part.,25,sambanxah,5
+4,eva,eva,prep.,9,sambanxah,3
+5,pUrayizyAmi,vac,ca. fut. ac. sg. 1,10,samucciwam,16
+6,yAvat,yAvat,nom. sg. n.,39,viseranam,7
+7,sarve,sarva,nom. pl. m.,12,viseranam,9
+8,api,api,conj.,17,sambanxah,7
+9,sadasyAH,sadasya,nom. pl. m.,19,karwa,15
+10,yaTA,yaTA,conj.,29,sambanxah,12
+11,aham,asmad,nom. sg. *,22,karwa,12
+12,icCAmi,iz,pr. [6] ac. sg. 1,23,samucciwam,16
+13,taTA,taTA,adv.,24,sambanxah,15
+14,na,na,part.,8,sambanxah,15
+15,Acarizyanti,car,fut. ac. pl. 3,64,samucciwam,16
+16,ca,ca,conj.,1,,

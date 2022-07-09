@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyA,anyA,nom. sg. f.,1,karwa,10
+1,uccatarauccicIzayA,yad,inst. sg. f.,4,karanam,10
+2,mfducaraRatalAgraduHsTitatvAt,duHsTita,inst. sg. m.,5,hewuh,5
+3,kucakumBayoH,kumBa,g. du. m.,7,rartisambanxah,4
+4,Barasya,Bara,g. sg. m.,10,rartisambanxah,5
+5,asahatarA,tad,nom. sg. f.,15,viseranam,0
+6,aTa,aTa,conj.,16,sambanxah,10
+7,niravalambanaM,tad,nom. sg. n.,19,viseranam,10
+8,priyasya,priya,g. sg. m.,22,upapaxasambanxah,9
+9,upari,upari,conj.,21,axikaranam,10
+10,nyapatat,pat,impft . ac. sg. 3,24,,

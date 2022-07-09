@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
+1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
+2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10
+3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
+4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,38,karwa,10
+6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7
+7,vinA,vinA,conj.,24,sambanxah,11
+8,api,api,conj.,18,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10
+10,alaM,alam,conj.,21,sambanxah,11
+11,BUzRuH,BU,nom. sg. m.,23,,

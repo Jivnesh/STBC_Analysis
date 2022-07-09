@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIm,idAnIm,loc. sg. n.,0,axikaranam,5
+1,ezaH,etad,nom. sg. m.,8,karwa,5
+2,nirantaram,nirantara,adv.,4,kriyaviseranam,3
+3,palAyamAnaH,palAy,nom. sg. m.,5,karwqsamanaxikaranam,5
+4,SrAntaH,SrAnta,nom. sg. m.,6,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,7,,

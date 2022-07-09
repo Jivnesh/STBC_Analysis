@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yadi,conj.,0,,
+1,saH,tad,nom. sg. m.,1,viseranam,2
+2,vAnaraH,vAnara,nom. sg. m.,2,karwa,6
+3,pratidinam,pratidinam,conj.,5,axikaranam,6
+4,maDurARi,maDura,acc. pl. n.,6,viseranam,5
+5,PalAni,Pala,acc. pl. n.,8,karma,6
+6,KAdati,KAd,pr. ac. sg. 3,10,prawiyogi,0
+7,tadA,tadA,conj.,11,axikaranam,11
+8,tasya,tad,g. sg. m.,13,rartisambanxah,9
+9,hfdayam,hfdaya,nom. sg. n.,15,karwa,11
+10,maDuram,maDura,nom. sg. n.,18,karwqsamanaxikaranam,9
+11,Bavizyati,BU,fut. ac. sg. 3,19,prawiyogi,0

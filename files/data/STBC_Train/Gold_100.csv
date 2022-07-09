@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,smarasarasam,sarasa,conj.,2,sambanxah,10
+1,patyuH,pati,g. sg. m.,3,rartisambanxah,2
+2,uraHsTalena,uraHsTala,inst. sg. n.,7,hewuh,3
+3,vinimayasaNkramitANgarAgarAgEH,rAga,inst. pl. m.,8,viseranam,9
+4,atiSayaKedasampadA,sampad,inst. sg. f.,10,prawiyogi,5
+5,iva,iva,conj.,11,anuyogi,6
+6,BfSam,BfSam,conj.,14,viseranam,11
+7,itaraitaram,tara,conj.,15,sambanxah,9
+8,nizaRREH,sad,pp. . pl. ,16,viseranam,9
+9,stanayugalEH,yugala,inst. pl. n.,18,karanam,11
+10,nitambinIBiH,nitambinI,inst. pl. f.,19,karwa,11
+11,atami,tam,impft. ac. sg. 3,20,,

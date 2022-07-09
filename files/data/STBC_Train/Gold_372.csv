@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjakumArI,kumAra,nom. sg. f.,1,karwa,4
+1,api,api,conj.,2,sambanxah,0
+2,svahAram,hAra,acc. sg. m.,8,karma,4
+3,nawyE,naw,dat. sg. n.,11,sampraxanam,4
+4,dattavatI,dA,ppa.,14,,

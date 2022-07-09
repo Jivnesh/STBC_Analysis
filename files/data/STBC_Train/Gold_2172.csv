@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvaguRopetaH,upa,nom. sg. m.,2,samucciwam,3
+1,saH,tad,nom. sg. m.,3,karwa,4
+2,kOsalyAnandavarDanaH,varDana,nom. sg. m.,6,samucciwam,3
+3,ca,ca,conj.,7,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,8,,

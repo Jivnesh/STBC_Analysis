@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tayoH,tad,loc. du. n.,0,sambanxah,1
+1,ekaH,eka,loc. sg. m.,6,viseranam,2
+2,nagare,nagara,loc. sg. m.,7,axikaranam,3
+3,gatvA,gam,abs.,11,purvakalah,5
+4,pakvAnnam,anna,acc. sg. n.,21,karma,5
+5,Anayatu,nI,imp. [1] ac. sg. 3,16,,

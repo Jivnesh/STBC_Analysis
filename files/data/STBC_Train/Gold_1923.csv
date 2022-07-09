@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saMvftEH,saMvfta,inst. pl. n.,1,viseranam,1
+1,sarvANgEH,sarvANga,inst. pl. n.,5,hewuh,3
+2,api,api,conj.,6,sambanxah,1
+3,mantraH,mantra,nom. sg. m.,8,viseranam,5
+4,aDIraH,aDIra,nom. sg. m.,12,viseranam,5
+5,yoDaH,yoDa,nom. sg. m.,13,prawiyogi,6
+6,iva,iva,conj.,14,anuyogi,12
+7,pareByaH,para,abl. pl. m.,15,apaxanam,12
+8,BedaSaNkayA,SaNkA,inst. sg. f.,20,karanam,12
+9,ciraM,cira,conj.,23,viseranam,10
+10,sTAtuM,sTA,inf.,24,prayojanam,12
+11,na,na,conj.,25,sambanxah,12
+12,sahate,sah,pr. md. sg. 3,27,,

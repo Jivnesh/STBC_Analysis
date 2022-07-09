@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paScAt,paScAt,conj.,1,axikaranam,3
+1,kaWinakucatawaagrapAti,pAtin,loc. sg. n.,4,axikaranam,3
+2,SataSarkaratAM,tad,acc. sg. f.,5,karma,3
+3,jagAma,gam,pft. ac. sg. 1,7,,

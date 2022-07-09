@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahASaye,ASaya,loc. sg. m.,26,sambanxah,8
+1,ezu,dam,loc. pl. n.,8,viseranam,2
+2,vastuzu,vastu,loc. pl. n.,9,sambanxah,3
+3,aham,asmad,nom. sg. *,11,karwa,8
+4,api,api,conj.,12,sambanxah,3
+5,tu,tu,conj.,14,sambanxah,3
+6,ekam,eka,nom. sg. n.,17,viseranam,7
+7,vastu,vastu,nom. sg. n.,19,karwqsamanaxikaranam,8
+8,asmi,as,pr. [2] ac. sg. 1,20,,

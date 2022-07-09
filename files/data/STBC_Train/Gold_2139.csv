@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarve,sarva,nom. pl. m.,0,viseranam,1
+1,samfdDAH,fdDa,nom. pl. m.,7,karwa,2
+2,vartante,vft,pr. [1] md. pl. 3,8,,

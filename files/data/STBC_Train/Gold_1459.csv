@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,navakadambarajoruRitAmbarEH,ambara,inst. pl. m.,0,viseranam,2
+1,SilInDrasuganDiBiH,tad,inst. pl. m.,5,viseranam,2
+2,vanavAyuBiH,vAyu,inst. pl. m.,7,karwa,8
+3,aDipuranDri,ca,conj.,8,viseranam,5
+4,rAgavatAM,rAga,g. pl. m.,10,rartisambanxah,5
+5,manasi,manas,loc. sg. n.,11,axikaranam,8
+6,navanavA,navA,nom. sg. f.,18,viseranam,7
+7,anurAgitA,tad,nom. sg. f.,20,karma,8
+8,AdaDe,DA,pft. md. sg. 3,22,,

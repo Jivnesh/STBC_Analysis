@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BuvanAntarezu,antara,loc. pl. m.,34,axikaranam,11
+1,saYcArizRuH,tad,nom. sg. m.,3,viseranam,4
+2,SriyaH,SrI,g. sg. f.,6,rartisambanxah,3
+3,ASrayaH,ASraya,nom. sg. m.,8,viseranam,4
+4,saH,tad,nom. sg. m.,9,karwa,8
+5,yadfcCayA,ca,conj.,11,kriyaviseranam,8
+6,yAM,yad,acc. sg. f.,12,viseranam,7
+7,diSam,diS,acc. sg. f.,13,karma,8
+8,aSiSriyat,Sri,impft. ac. sg. 3,14,samucciwam,16
+9,mukuwopalasKalatkarEH,kara,inst. pl. m.,19,viseranam,10
+10,tridaSEH,tridaSa,inst. pl. m.,22,karwa,15
+11,trisanDyaM,tad,nom. sg. n.,26,karma,15
+12,tasyE,tad,dat. sg. f.,27,viseranam,13
+13,diSe,diS,dat. sg. f.,30,upapaxasambanxah,14
+14,namaH,namas,conj.,31,sambanxah,15
+15,akAri,kf,impft. md. sg. 3,32,samucciwam,16
+16,ca,ca,conj.,33,,

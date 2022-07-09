@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nagarAt,nagara,abl. sg. m.,0,upapaxasambanxah,1
+1,bahiH,bahis,loc. sg. n.,3,axikaranam,6
+2,ekasmin,eka,loc. sg. n.,5,viseranam,3
+3,upavane,upavana,loc. sg. n.,8,axikaranam,6
+4,kaScit,kim,nom. sg. m.,9,viseranam,5
+5,sannyAsI,tad,nom. sg. m.,11,karwa,6
+6,nivasati,vas,pr. [1] ac. sg. 3,12,,
+7,sma,sma,part.,13,sambanxah,6

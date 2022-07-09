@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,trilokajYaH,jYa,nom. sg. m.,2,viseranam,1
+1,nAradaH,nArada,nom. sg. m.,3,karwa,12
+2,vAlmIkeH,vAlmIki,g. sg. m.,4,rartisambanxah,4
+3,etat,etad,acc. sg. n.,23,viseranam,4
+4,vacaH,vacas,acc. sg. n.,7,karma,5
+5,SrutvA,Sru,abs.,10,samucciwam,9
+6,SrUyatAm,Sru,imp. ps. sg. 3,11,prawiyogi,7
+7,iti,iti,part.,12,anuyogi,8
+8,Amantrya,mantra,abs.,14,samucciwam,9
+9,ca,ca,conj.,15,purvakalah,12
+10,prahfzwaH,tad,nom. sg. m.,16,viseranam,1
+11,vAkyam,vAkya,acc. sg. n.,17,karma,12
+12,abravIt,brU,impft. [2] ac. sg. 3,20,,

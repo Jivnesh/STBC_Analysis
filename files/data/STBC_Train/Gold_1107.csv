@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,dam,nom. sg. m.,0,karwa,7
+1,asO,adas,nom. sg. m.,15,viseranam,0
+2,mama,asmad,nom. sg. *,3,viseranam,3
+3,jyAyAn,jyAyas,nom. sg. m.,4,viseranam,4
+4,AryaH,Arya,nom. sg. m.,5,viseranam,5
+5,kOSaH,kOSa,nom. sg. m.,7,karwqsamanaxikaranam,7
+6,nAma,nAman,nom. sg. n.,9,viseranam,5
+7,asti,as,pr. [2] ac. sg. 3,10,,
+8,BaratASramAt,ASrama,abl. sg. m.,49,apaxanam,9
+9,pratinivfttaH,vfta,nom. sg. m.,13,viseranam,10
+10,yaH,yad,nom. sg. m.,14,karwa,7

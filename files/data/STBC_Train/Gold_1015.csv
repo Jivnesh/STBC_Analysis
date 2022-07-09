@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAkAlaH,kAla,nom. sg. m.,2,karwa,3
+1,smayamAnaH,mAna,nom. sg. m.,27,karwqsamanaxikaranam,3
+2,tAm,tad,acc. sg. f.,4,karma,3
+3,udatarat,tf,impft. [1] ac. sg. 3,5,,

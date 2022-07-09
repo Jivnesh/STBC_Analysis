@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hi,hi,conj.,0,sambanxah,6
+1,avaDIritAnAM,Df,pp. . pl. ,3,viseranam,3
+2,api,api,conj.,4,sambanxah,1
+3,laGIyasAm,laGIyas,g. pl. m.,6,rartisambanxah,4
+4,uccEH,ucca,conj.,9,viseranam,6
+5,DArzwyam,DArzwya,nom. sg. n.,10,karwa,6
+6,Bavati,BU,pr. ac. sg. 3,11,,

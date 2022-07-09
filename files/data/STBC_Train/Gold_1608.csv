@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yAvat,yAvat,adv.,0,sambanxah,4
+1,aham,asmad,nom. sg. *,1,karwa,3
+2,na,na,part.,4,sambanxah,3
+3,Ahvayeyam,kf,opt. [1] ac. sg. 1,5,prawiyogi,0
+4,tAvat,tAvat,adv.,6,anuyogi,9
+5,svamuKam,muKa,acc. sg. n.,22,karma,9
+6,mAm,asmad,acc. sg. *,11,karmasamanaxikaranam,9
+7,kadApi,Ap,loc. sg. n.,12,axikaranam,9
+8,mA,mA,part.,29,sambanxah,9
+9,darSaya,dfS,ca. imp. ac. sg. 2,14,,

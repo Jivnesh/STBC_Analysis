@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jagataH,tad,g. sg. n.,4,rartisambanxah,1
+1,SAntaye,SAnti,dat. sg. f.,5,prayojanam,7
+2,samupeyuzI,tad,nom. sg. f.,9,viseranam,5
+3,jAjvalyamAnA,jval,nom. sg. f.,18,viseranam,5
+4,asO,adas,nom. sg. f.,27,viseranam,5
+5,naraSiKitrayI,trayI,nom. sg. f.,14,karwa,7
+6,saBAvedyAm,vedi,loc. sg. f.,16,axikaranam,7
+7,vyadyotizwa,dyut,impft. md. sg. 3,17,,

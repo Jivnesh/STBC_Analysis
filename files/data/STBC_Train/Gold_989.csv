@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bahusamayAnantaram,antara,loc. sg. m.,4,axikaranam,3
+1,dve,dvi,nom. du. f.,8,viseranam,2
+2,saKyO,dvi,nom. du. f.,11,karwa,3
+3,milite,mil,pp.,17,,

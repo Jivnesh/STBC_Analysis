@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,AtmAnam,Atman,acc. sg. *,1,karma,4
+2,cikitsAlayasya,Alaya,g. sg. m.,24,rartisambanxah,3
+3,karmacAriRam,cArin,acc. sg. m.,6,karmasamanaxikaranam,4
+4,paricAyayan,ci,ca. ppr. ac.,7,bavalakranasapwami_samanakalah,5
+5,uktaH,vac,pp.,8,,

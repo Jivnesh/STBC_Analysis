@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ugratAyAm,ugra,loc. sg. f.,0,axikaranam,4
+1,api,api,conj.,1,sambanxah,0
+2,svIyaH,svIya,nom. sg. m.,3,viseranam,6
+3,nEva,eva,prep.,14,sambanxah,4
+4,tyAjyaH,tyaj,ca. pfp. [1],6,,
+5,hi,hi,part.,7,sambanxah,4
+6,saMyamaH,saMyama,nom. sg. m.,8,karma,4

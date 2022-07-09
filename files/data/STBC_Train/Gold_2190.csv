@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAta,tAta,voc. sg. m.,0,samboxyah,5
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,vivAham,vivAha,acc. sg. m.,2,karma,5
+3,tu,tu,conj.,3,sambanxah,2
+4,BavAn,BU,nom. sg. m.,5,karwa,5
+5,karoti,kf,pr. [8] ac. sg. 3,6,,

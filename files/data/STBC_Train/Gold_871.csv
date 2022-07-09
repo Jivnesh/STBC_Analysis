@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,6
+1,tAsAM,tad,g. pl. f.,1,rartisambanxah,2
+2,SramajalaM,jala,nom. sg. n.,4,karwa,6
+3,praTamam,praTama,nom. sg. n.,7,viseranam,5
+4,ujjvalagaRqamaRqalezu,maRqala,loc. pl. n.,9,axikaranam,6
+5,alaGumOktikaABam,ABA,nom. sg. n.,10,karwqsamanaxikaranam,6
+6,AsIt,as,impft . ac. sg. 3,12,,

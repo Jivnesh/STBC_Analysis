@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDokzajaH,aDokzaja,nom. sg. m.,0,karwa,10
+1,tAH,tad,acc. pl. f.,1,viseranam,2
+2,SezagavIH,tad,acc. sg. f.,4,karma,3
+3,niSamya,Sam,abs.,5,purvakalah,7
+4,bfhatAM,tad,g. pl. m.,7,rartisambanxah,5
+5,patyuH,pati,g. sg. m.,8,rartisambanxah,6
+6,SizyAya,Sizya,dat. sg. m.,11,prayojanam,7
+7,aBiDAtuM,DA,inf.,43,prayojanam,10
+8,dfSA,dfS,inst. sg. f.,15,karanam,10
+9,prastAvam,prastAva,acc. sg. m.,16,karma,10
+10,AdiSat,diS,impft . ps. sg. 3,17,,

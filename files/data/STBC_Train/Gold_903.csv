@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Satrum,Satru,acc. sg. m.,0,karma,1
+1,jetum,j,inf.,1,prayojanam,5
+2,nfpaH,nfpa,nom. sg. m.,2,karwa,5
+3,raTena,tad,i. sg. m.,3,karanam,5
+4,yudDasTalam,sTala,acc. sg. n.,5,karma,5
+5,gacCati,gam,pr. [1] ac. sg. 3,8,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,3
+1,mayA,maya,nom. pl. m.,1,karwa,3
+2,BAzaRam,BAzaRa,acc. sg. n.,2,karma,3
+3,deyam,dA,nom. sg. n.,12,karwa,4
+4,AsIt,as,aor. [5] ac. sg. 3,14,,

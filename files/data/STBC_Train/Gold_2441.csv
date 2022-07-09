@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aNgulicCedanam,Cedana,nom. sg. n.,2,karwa,5
+1,eva,eva,prep.,3,sambanxah,0
+2,adya,adya,loc. sg. m.,4,axikaranam,5
+3,me,asmad,g. sg. *,5,rartisambanxah,4
+4,prARarakzAm,rakzA,acc. sg. f.,8,karma,5
+5,akarot,kf,impft. [8] ac. sg. 3,10,prawiyogi,6
+6,iti,iti,part.,11,anuyogi,7
+7,kaTayitvA,kaT,abs.,14,purvakalah,14
+8,AtmanA,Atman,i. sg. *,12,prawiyogi,9
+9,saha,saha,prep.,16,anuyogi,12
+10,GawitAm,tad,acc. sg. f.,18,viseranam,12
+11,sarvAm,sarva,acc. sg. f.,19,viseranam,12
+12,GawanAm,Gawana,acc. sg. f.,20,karma,14
+13,vistareRa,vistara,adv.,21,kriyaviseranam,14
+14,aSrAvayat,Sru,ca. impft. ac. sg. 3,22,,

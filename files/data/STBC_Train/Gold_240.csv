@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n.,0,axikaranam,1
+1,anuttIrRaH,tad,nom. sg. m.,2,prawiyogi,2
+2,cet,ced,conj.,3,anuyogi,5
+3,jIvane,jIvana,loc. sg. m.,4,axikaranam,5
+4,anuttIrRaH,tad,nom. sg. m.,9,karwa,5
+5,manyate,man,pr. ps. sg. 3,10,,
+6,sma,sma,part.,11,sambanxah,5

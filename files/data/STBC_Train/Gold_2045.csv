@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taM,tad,acc. sg. m.,0,karma,2
+1,ca,ca,conj.,1,sambanxah,0
+2,kaTitavantaH,kf,pp. . pl. ,2,prawiyogi,3
+3,yat,yat,conj.,3,anuyogi,4
+4,tvayA,yuzmad,inst. sg. *.,5,karwa,7
+5,asmAkaM,asmad,g. pl. *.,6,rartisambanxah,6
+6,lavaRaM,lavaRa,acc. sg. m.,7,karma,7
+7,BakzitaM,Bakz,pp. . sg. ,10,,

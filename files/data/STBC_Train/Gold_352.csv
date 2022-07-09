@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sPuradaDIrataqinnayanA,nayana,nom. sg. f.,6,viseranam,2
+1,agalitaurupayoDarA,DarA,nom. sg. f.,10,viseranam,2
+2,jalaDaraAvaliH,Avali,nom. sg. f.,11,karwa,9
+3,apratipAlitasvasamayA,samayA,nom. sg. f.,14,viseranam,2
+4,satI,as,nom. sg. f.,15,bavalakranasapwami_samanakalah,9
+5,jagatIDaraM,Dara,acc. sg. m.,16,karma,9
+6,priyam,priya,acc. sg. m.,19,prawiyogi,7
+7,iva,iva,conj.,22,anuyogi,5
+8,muhuH,muhur,conj.,23,viseranam,9
+9,samayAt,yA,impft . ac. sg. 3,24,,

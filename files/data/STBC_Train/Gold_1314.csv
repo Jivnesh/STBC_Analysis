@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hiraRyaDanuzaH,Danus,g. sg. m.,5,viseranam,1
+1,BillarAjasya,rAjan,g. sg. m.,8,rartisambanxah,2
+2,putraH,putra,nom. sg. m.,10,viseranam,3
+3,ekalavyaH,ekalavya,nom. sg. m.,12,karwa,8
+4,DanurvidyAm,vidyA,acc. sg. f.,14,karma,5
+5,Sikzitum,Sikz,inf.,15,prayojanam,8
+6,AcAryam,AcArya,acc. sg. n.,22,viseranam,7
+7,gurudroRam,droRa,acc. sg. m.,24,karma,8
+8,upAgataH,gam,pp.,25,,

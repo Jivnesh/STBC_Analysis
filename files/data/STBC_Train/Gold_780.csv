@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n,0,axikaranam,4
+1,vfkzacCedane,Cedana,loc. sg. n.,4,axikaranam,4
+2,mama,asmad,g. sg. *,5,rartisambanxah,3
+3,manasi,manas,loc. sg. n.,6,axikaranam,4
+4,AyAtam,yA,imp. [2] ac. du. 2,9,samucciwam,11
+5,yat,yad,conj.,10,sambanxah,4
+6,idam,idam,acc. sg. n.,28,karma,9
+7,mayA,maya,nom. pl. m.,12,karwa,9
+8,na,na,part.,13,sambanxah,9
+9,kartavyam,kartavya,nom. sg. n.,15,karwa,10
+10,AsIt,as,aor. [5] ac. sg. 3,18,samucciwam,11
+11,ca,ca,conj.,19,,

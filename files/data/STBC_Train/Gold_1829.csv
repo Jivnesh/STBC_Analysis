@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,caraRayoH,caraRa,loc. du. n.,4,axikaranam,2
+2,vanditvA,vand,abs.,6,purvakalah,4
+3,ca,ca,conj.,7,sambanxah,2
+4,avocat,vac,aor. [2] ac. sg. 3,8,,

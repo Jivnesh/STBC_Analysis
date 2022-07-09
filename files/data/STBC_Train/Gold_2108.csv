@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadaparADe,aparADa,loc. sg. m.,1,axikaranam,5
+1,ca,ca,conj.,2,sambanxah,0
+2,hantum,hantu,acc. sg. m.,3,karma,3
+3,nirRayam,nirRaya,acc. sg. m.,4,prayojanam,5
+4,AtmAnam,Atman,acc. sg. *,5,karma,5
+5,SrAvitavAn,Sru,ca. ppa.,7,,

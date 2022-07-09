@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAnarAH,vAnara,nom. pl. m.,0,karwa,3
+1,api,api,conj.,1,sambanxah,0
+2,taTA,taTA,conj.,4,kriyaviseranam,3
+3,anvakurvan,kf,impft . ac. pl. 3,3,,

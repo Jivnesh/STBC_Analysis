@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,vinA,conj.,0,samucciwam,10
+1,BojanaM,Bojana,acc. sg. n.,1,karma,2
+2,kartuM,kf,conj.,3,prayojanam,9
+3,kaScit,cit,nom. sg. m.,23,karwa,9
+4,api,api,conj.,6,sambanxah,3
+5,svakIyaM,svakIya,acc. sg. m.,8,viseranam,6
+6,kUrparaM,kUrpara,acc. sg. m.,11,karma,9
+7,tiraScInaM,tiraScIna,nom. sg. n.,14,karmasamanaxikaranam,9
+8,na,na,conj.,15,sambanxah,9
+9,kuryAt,kf,opt. ac. sg. 3,16,samucciwam,10
+10,ca,ca,conj.,17,,

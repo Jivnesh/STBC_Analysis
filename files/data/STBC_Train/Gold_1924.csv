@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,nom. sg. n.,1,viseranam,1
+1,parameSvaraH,ISvara,nom. sg. m.,31,karwa,7
+2,asmAkam,asmad,g. pl. *,7,rartisambanxah,3
+3,santAnAnAm,tad,g. pl. m.,10,rartisambanxah,4
+4,balim,bali,acc. sg. m.,11,karma,5
+5,gfhItvA,grah,abs.,12,purvakalah,7
+6,prasannaH,sanna,nom. sg. m.,13,karwqsamanaxikaranam,7
+7,Bavati,BU,pr. [1] ac. sg. 3,20,,

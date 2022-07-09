@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aSaktaH,Sak,nom. sg. m.,1,viseranam,1
+1,saH,tad,nom. sg. m.,2,karwa,3
+2,mftyu-dinAni,dina,acc. pl. n.,3,karma,3
+3,gaRayati,gaR,pr. [10] ac. sg. 3,5,,
+4,iti,iti,part.,6,sambanxah,3

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,makaraH,makara,nom. sg. m.,0,karwa,5
+1,tAni,tad,acc. pl. n.,1,viseranam,4
+2,supakvAni,supakva,acc. pl. n.,3,viseranam,4
+3,maDurARi,maDura,acc. pl. n.,5,viseranam,4
+4,PalAni,Pala,acc. pl. n.,7,karma,5
+5,aKAdat,KAd,impft . ac. sg. 3,9,,

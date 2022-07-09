@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aNgarakzakam,rakzaka,acc. sg. m.,1,karma,2
+1,ca,ca,conj.,5,sambanxah,2
+2,AhUya,praRam,abs.,4,purvakalah,3
+3,kaTitavAn,kaT,ppa.,6,,

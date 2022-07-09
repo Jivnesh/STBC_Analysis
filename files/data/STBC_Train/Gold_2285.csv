@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mitra,mitra,voc. sg. m.,1,samboxyah,7
+1,mama,asmad,g. sg. *,2,rartisambanxah,2
+2,patnI,patnI,nom. sg. f.,3,karwa,7
+3,tava,yuzmad,g. sg. *,4,rartisambanxah,5
+4,maDuram,maDura,acc. sg. n.,6,viseranam,5
+5,hfdayam,hfdaya,acc. sg. n.,8,karma,6
+6,KAditum,KAd,inf.,10,karma,7
+7,icCati,z,pr. [6] ac. sg. 3,11,,

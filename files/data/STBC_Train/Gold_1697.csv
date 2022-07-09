@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrIH,SrI,nom. sg. f.,1,karwa,6
+1,api,api,conj.,2,sambanxah,0
+2,svAm,sva,acc. sg. f.,4,karma,6
+3,BAgyam,BAgya,acc. sg. m.,16,prawiyogi,4
+4,vinA,vinA,prep.,8,anuyogi,6
+5,kaYcit,kim,acc. sg. m.,9,viseranam,3
+6,darSayate,dfS,ca. pr. md. sg. 3,11,,
+7,nahi,nah,part.,12,sambanxah,6

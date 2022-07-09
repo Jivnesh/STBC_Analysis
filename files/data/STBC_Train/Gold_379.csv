@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,avasitalalitakriyeRa,tad,inst. sg. m.,0,viseranam,4
+1,lalitatareRa,tara,inst. sg. m.,2,viseranam,4
+2,tanIyasA,tad,inst. sg. m.,14,viseranam,4
+3,bAhvoH,bAhu,g. du. m.,5,rartisambanxah,4
+4,yugena,yuga,inst. sg. m.,3,hewuh,10
+5,sarasakisalayaanuraYjitEH,tad,inst. pl. m.,7,viseranam,8
+6,vA,vA,conj.,8,sambanxah,5
+7,punaruktaraktaBABiH,BA,inst. pl. m.,9,viseranam,8
+8,karakamalEH,kamala,inst. pl. m.,11,karanam,10
+9,nitambinIBiH,nitambinI,inst. pl. f.,12,karwa,10
+10,atami,tam,impft. ac. sg. 3,13,,

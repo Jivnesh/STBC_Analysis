@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dASArhAH,dASArha,nom. pl. m.,0,karwa,1
+1,nirudDavIvaDAsAraprasArAH,prasAra,nom. pl. m.,5,viseranam,2
+2,vrajaM,vraja,acc. sg. m.,6,karma,4
+3,gAH,go,acc. pl. m.,9,sambanxah,8
+4,iva,iva,conj.,11,anuyogi,5
+5,mAhizmatIM,mAhizmatI,acc. sg. f.,12,viseranam,6
+6,purIM,purI,acc. sg. f.,13,karma,8
+7,dvizaH,tad,acc. sg. m.,18,karma,8
+8,uparunDantu,ruD,imp. ps. pl. 3,20,,

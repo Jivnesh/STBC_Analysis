@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,BagavatpreraRayA,ya,i. pl. f.,5,karanam,4
+2,eva,eva,prep.,6,sambanxah,1
+3,Bavantam,BU,acc. sg. m.,7,karma,4
+4,anvizyan,anu,nom. sg. m.,8,karwqsamanaxikaranam,5
+5,upAgataH,gam,pp.,9,,

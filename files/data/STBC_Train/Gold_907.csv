@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svarBAnuH,svarBAnu,nom. sg. m.,2,karwa,7
+1,aparADe,aparADa,loc. sg. m.,3,viseranam,2
+2,tulye,tulya,loc. sg. m.,9,axikaranam,7
+3,api,api,conj.,10,sambanxah,2
+4,BAnumantaM,tad,acc. sg. m.,61,karma,7
+5,yat,yat,conj.,13,sambanxah,7
+6,cireRa,cireRa,conj.,15,viseranam,7
+7,grasate,gras,pr. md. sg. 3,16,samucciwam,17
+8,himAMSum,himAMSu,acc. sg. m.,17,karma,10
+9,ASu,ASu,conj.,18,viseranam,10
+10,grasate,gras,pr. md. sg. 3,19,samucciwam,17
+11,yat,yad,nom. sg. n.,55,sambanxah,12
+12,tat,tad,nom. sg. n.,22,viseranam,14
+13,mradimnaH,tad,g. sg. m.,25,rartisambanxah,14
+14,PalaM,Pala,nom. sg. n.,27,karwa,16
+15,sPuwam,sPuwa,nom. sg. n.,30,viseranam,14
+16,Bavati,BU,pr. ac. sg. 3,31,samucciwam,17
+17,ca,ca,conj.,32,,

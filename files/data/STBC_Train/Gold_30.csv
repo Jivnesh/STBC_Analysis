@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAH,tad,g. sg. f.,0,rartisambanxah,1
+1,rodanam,rodana,acc. sg. n.,2,karma,2
+2,AkarRya,AkarRa,pfp. [1],4,samucciwam,5
+3,tasyAH,tad,g. sg. f.,5,rartisambanxah,4
+4,daSAm,daSA,acc. sg. f.,7,karma,6
+5,ca,ca,conj.,8,purvakalah,8
+6,dfzwvA,dfS,abs.,9,samucciwam,5
+7,nfpaH,nfpa,nom. sg. m.,10,karwa,8
+8,avadat,vad,impft. [1] ac. sg. 3,11,,
+9,ezAH,eza,nom. sg. f.,14,viseranam,10
+10,nArI,nAra,nom. sg. f.,15,karwa,13
+11,SiSoH,SiSu,g. sg. m.,16,rartisambanxah,12
+12,jananI,janana,nom. sg. f.,18,karwqsamanaxikaranam,13
+13,yat,yat,ppr. [2] ac.,19,sambanxah,8

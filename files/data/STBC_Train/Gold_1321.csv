@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,idam,loc. sg. n.,0,viseranam,2
+1,eva,eva,conj.,2,sambanxah,0
+2,antarAle,antarAla,loc. sg. n.,3,axikaranam,6
+3,ekaH,eka,nom. sg. m.,4,samucciwam,7
+4,anyaH,anya,nom. sg. m.,5,viseranam,5
+5,janaH,jana,nom. sg. m.,8,karwa,6
+6,AgataH,Agata,pp. . sg. ,9,samucciwam,7
+7,ca,ca,conj.,10,,

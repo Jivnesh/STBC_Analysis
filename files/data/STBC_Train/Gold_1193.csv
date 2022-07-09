@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kamanI,tad,nom. sg. f.,0,viseranam,1
+1,yozit,yozit,nom. sg. f.,1,karma,11
+2,anIcakASe,kASa,loc. sg. m.,2,viseranam,3
+3,kAle,kAla,loc. sg. m.,9,axikaranam,11
+4,manojanmasuKaudayezu,udaya,loc. pl. m.,13,axikaranam,11
+5,DftaASam,ASa,acc. sg. m.,15,viseranam,8
+6,aBIzwaM,iz,pp. . sg. ,18,viseranam,8
+7,cirAya,cirAya,conj.,20,viseranam,9
+8,samudDftaASaNkam,ASaNkA,acc. sg. m.,23,karma,9
+9,AsAdya,sad,abs.,25,purvakalah,11
+10,samud,tad,nom. sg. f.,26,viseranam,1
+11,cakASe,kAS,pft. md. sg. 3,27,,

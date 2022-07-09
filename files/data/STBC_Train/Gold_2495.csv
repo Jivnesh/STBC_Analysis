@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kundakuqmalAgradataH,danta,g. sg. m.,3,viseranam,1
+1,tasya,tad,g. sg. m.,6,rartisambanxah,2
+2,sarasvatI,sarasvatI,nom. sg. f.,9,karma,5
+3,dyotitAntaHsaBEH,saBA,inst. pl. m.,12,viseranam,4
+4,smitEH,smi,inst. pl. m.,14,karwa,5
+5,snapitA,tad,nom. sg. f.,16,prawiyogi,6
+6,iva,iva,conj.,15,anuyogi,7
+7,SudDavarRA,varRa,nom. sg. f.,18,karwqsamanaxikaranam,8
+8,aBavat,BU,impft . ac. sg. 3,19,,

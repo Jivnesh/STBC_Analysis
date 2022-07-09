@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atiSayapariRAhavAn,tad,nom. sg. m.,0,viseranam,2
+1,bahutaramarpitaratnakiNkiRIkaH,kiNkiRIka,nom. sg. m.,4,viseranam,2
+2,kalameKalAkalApaH,kalApa,nom. sg. m.,5,karwa,8
+3,aparasyAH,aparA,g. sg. f.,9,rartisambanxah,5
+4,alaGuni,alaGu,loc. sg. n.,11,viseranam,5
+5,jaGanasTale,sTala,loc. sg. n.,14,axikaranam,8
+6,aDikaM,aDika,acc. sg. m.,18,viseranam,7
+7,DvaniM,Dvani,acc. sg. m.,21,karma,8
+8,vitene,tan,pft. ps. sg. 3,23,,

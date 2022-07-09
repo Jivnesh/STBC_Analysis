@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,4
+1,saH,tad,nom. sg. m.,4,karwa,4
+2,na,na,part.,7,sambanxah,4
+3,eva,eva,prep.,8,sambanxah,2
+4,militaH,mil,pp.,9,,

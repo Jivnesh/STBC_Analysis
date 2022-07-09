@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAnini,mAninI,voc. sg. f.,1,samboxyah,6
+1,praRayini,praRayin,voc. sg. f.,20,samboxyah,6
+2,yadi,yadi,conj.,4,sambanxah,6
+3,prasAdabudDiH,budDi,nom. sg. f.,5,karwa,5
+4,na,na,conj.,6,sambanxah,5
+5,asti,as,pr. ac. sg. 3,7,samucciwam,12
+6,cet,ced,conj.,8,sambanxah,11
+7,taTApi,api,conj.,54,sambanxah,11
+8,mama,asmad,g. sg. n.,12,rartisambanxah,9
+9,jIvite,jIv,loc. sg. m.,14,axikaranam,11
+10,dayAluH,dayAlu,nom. sg. m.,15,karwa,11
+11,Bava,BU,imp. ac. sg. 2,17,samucciwam,12
+12,ca,ca,conj.,18,,

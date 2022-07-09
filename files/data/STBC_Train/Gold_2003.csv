@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putraH,putra,nom. sg. m.,0,karwa,2
+1,yadi,yad,conj.,1,sambanxah,3
+2,BavitA,BU,per. fut. ac. sg. 3,15,prawiyogi,1
+3,tarhi,tarhi,adv.,3,anuyogi,7
+4,SyAmam,SyAma,acc. sg. m.,4,karma,7
+5,tasya,tad,g. sg. n.,7,rartisambanxah,6
+6,nAma,nAman,acc. sg. n.,9,viseranam,4
+7,rakzizyAmi,rakz,fut. ac. sg. 1,11,,

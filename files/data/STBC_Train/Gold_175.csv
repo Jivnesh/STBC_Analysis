@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,dam,loc. sg. n.,1,viseranam,1
+1,tIre,tIra,loc. sg. n.,4,axikaranam,7
+2,kOravARAm,tad,g. pl. m.,7,rartisambanxah,3
+3,vastrapawalagfhaSiKarARi,SiKara,acc. pl. n.,11,karma,7
+4,sAgarasya,sAgara,g. sg. m.,13,rartisambanxah,5
+5,stabDataraNgAH,tad,nom. pl. m.,15,prawiyogi,6
+6,iva,va,part.,16,anuyogi,7
+7,dfSyante,dfS,pr. ps. pl. 3,17,,

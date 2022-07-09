@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,agre,agre,conj.,2,kriyaviseranam,1
+1,gatena,gam,nom. sg. n.,4,viseranam,6
+2,ramyAM,ramyA,acc. sg. f.,6,viseranam,3
+3,vasatiM,vasati,acc. sg. f.,7,karma,4
+4,parigfhya,kf,abs.,8,purvakalah,10
+5,ApAtyasEnikanirAkaraRaAkulena,Akula,inst. sg. m.,26,viseranam,6
+6,udbAhunA,udbAhu,inst. sg. m.,28,karanam,16
+7,kenacit,ca,conj.,11,sambanxah,10
+8,janena,jana,inst. sg. m.,13,karanam,10
+9,anyataH,anya,conj.,14,apaxanam,10
+10,yAntaH,yA,nom. pl. m.,15,bavalakranasapwami_samanakalah,16
+11,AtmavargyA,vargya,nom. pl. m.,16,karwa,16
+12,plutakftasvaram,svara,acc. sg. m.,27,karma,16
+13,ASu,ASu,conj.,19,kriyaviseranam,16
+14,dUrAt,dUrAt,conj.,21,sambanxah,16
+15,muhuH,muhur,conj.,22,kriyaviseranam,16
+16,Ajuhuvire,hu,pft. ps. pl. 3,24,,

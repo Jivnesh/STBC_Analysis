@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmA,Atman,nom. sg. *,8,karwa,3
+1,tataH,tad,abl. pl. n.,10,hewuh,3
+2,kim,kim,acc. sg. n.,2,karma,3
+3,kftavAn,kf,ppa.,4,,

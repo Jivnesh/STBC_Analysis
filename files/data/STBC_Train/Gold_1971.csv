@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atra,atra,loc. sg. n.,1,axikaranam,7
+1,eva,eva,prep.,0,sambanxah,0
+2,tvayA,yuzmad,i. sg. *,2,prawiyogi,3
+3,saha,saha,prep.,4,anuyogi,4
+4,dAsataH,das,abl. sg. n.,5,apaxanam,7
+5,api,api,conj.,6,sambanxah,4
+6,nikfzwataraH,taras,nom. sg. n.,10,karwqsamanaxikaranam,7
+7,karizyate,kf,fut. md. sg. 3,20,,
+8,vyavahAraH,vyavahAra,nom. sg. m.,14,karwa,7

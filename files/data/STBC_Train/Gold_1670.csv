@@ -1,0 +1,29 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sataH,sat,g. sg. m.,3,rartisambanxah,1
+1,budDiH,budDi,nom. sg. f.,5,karwa,3
+2,tIkzRA,tIkzRA,nom. sg. f.,6,viseranam,1
+3,syAt,as,opt. ac. sg. 3,7,prawiyogi,4
+4,iti,iti,conj.,8,anuyogi,5
+5,vidDi,vid,imp. ac. sg. 2,9,samucciwam,27
+6,taTApi,api,conj.,111,sambanxah,9
+7,aruntudA,aruntuda,nom. sg. f.,56,karwa,9
+8,na,na,conj.,16,sambanxah,9
+9,syAt,as,opt. ac. sg. 3,17,samucciwam,27
+10,karma,karman,acc. sg. n.,18,karwa,12
+11,pratApavat,pratApa,nom. sg. n.,21,viseranam,10
+12,Bavet,BU,opt. ac. sg. 3,22,samucciwam,27
+13,taTApi,api,conj.,113,sambanxah,15
+14,SAntaM,SAnta,nom. sg. n.,27,karwa,15
+15,syAt,as,opt. ac. sg. 3,29,samucciwam,27
+16,manaH,manas,nom. sg. n.,31,karwa,18
+17,sozma,sozman,nom. sg. n.,32,viseranam,16
+18,syAt,as,opt. ac. sg. 3,33,samucciwam,27
+19,taTApi,api,conj.,115,sambanxah,22
+20,upatApi,upatApin,nom. sg. n.,38,karwa,21
+21,na,na,conj.,39,sambanxah,22
+22,syAt,as,opt. ac. sg. 3,40,samucciwam,27
+23,vAgminaH,vAgmin,g. sg. m.,43,rartisambanxah,24
+24,vAg,vAc,nom. sg. f.,47,karwa,26
+25,ekA,eka,nom. sg. f.,70,viseranam,24
+26,Bavati,BU,pr. ac. sg. 3,50,samucciwam,27
+27,ca,ca,conj.,51,,

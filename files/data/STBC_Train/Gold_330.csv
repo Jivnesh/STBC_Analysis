@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,7
+1,saH,tad,nom. sg. m.,4,viseranam,2
+2,kOtsaH,tad,nom. sg. m.,5,karwa,7
+3,tataH,tad,abl. pl. n.,21,apaxanam,4
+4,apekzitAH,apekz,acc. pl. f.,8,karma,6
+5,eva,eva,prep.,9,sambanxah,4
+6,grahItum,grah,inf.,10,prayojanam,7
+7,icCati,iz,pr. [6] ac. sg. 3,11,,
+8,sma,sma,part.,12,sambanxah,7

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nirDanam,nirDana,acc. sg. m.,0,viseranam,1
+1,mAm,asmad,acc. sg. *,3,karma,6
+2,kuwumbinaH,kuwumbin,nom. pl. m.,5,karwa,6
+3,api,api,conj.,10,sambanxah,2
+4,na,na,part.,14,sambanxah,6
+5,eva,eva,prep.,15,sambanxah,4
+6,rocayanti,ruc,ca. pr. ac. pl. 3,16,,

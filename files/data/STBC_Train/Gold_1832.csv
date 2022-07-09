@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sadA,sadA,conj.,0,axikaranam,2
+1,prasUnaklfptim,tad,nom. sg. f.,1,karma,2
+2,daDataH,DA,nom. sg. m.,2,viseranam,3
+3,ftavaH,ftu,nom. pl. m.,3,karwa,15
+4,varzAH,varza,nom. pl. m.,6,samucciwam,10
+5,tapena,tapa,inst. sg. m.,7,sambanxah,6
+6,himAgamaH,himAgama,nom. sg. m.,9,samucciwam,10
+7,SaradA,Sarad,inst. sg. f.,10,sambanxah,6
+8,SiSiraH,SiSira,nom. sg. m.,11,samucciwam,10
+9,vasantalakzmyA,lakzmI,inst. sg. f.,15,sambanxah,8
+10,ca,ca,conj.,16,sambanxah,15
+11,sametya,i,abs.,84,purvakalah,15
+12,asya,idam,g. sg. m.,19,rartisambanxah,14
+13,pure,pura,loc. sg. n.,22,axikaranam,15
+14,vAstavyakuwumbitAM,tad,acc. sg. f.,57,karma,15
+15,yayuH,yA,pft. ac. pl. 3,25,,

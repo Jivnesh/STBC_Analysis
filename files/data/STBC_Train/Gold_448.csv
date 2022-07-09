@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,i. sg. m.,1,karanam,1
+1,aBiruzwaH,tad,nom. sg. m.,3,viseranam,2
+2,pitA,tad,nom. sg. m.,4,karwa,4
+3,asmAn,asmad,acc. pl. *,5,karma,4
+4,aBiSaptavAn,tad,nom. sg. m.,6,prawiyogi,5
+5,yat,yad,acc. sg. n.,17,anuyogi,6
+6,yUyam,yuzmad,nom. pl. *,8,karwa,10
+7,api,api,conj.,9,sambanxah,6
+8,gfDrAH,gfDra,nom. pl. m.,11,karwqsamanaxikaranam,10
+9,eva,eva,prep.,14,sambanxah,8
+10,Bavata,BU,imp. [1] ac. pl. 2,15,,

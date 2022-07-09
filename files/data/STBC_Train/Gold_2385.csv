@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mArge,mArga,loc. sg. n.,3,axikaranam,4
+1,ekatra,ekatra,loc. sg. m.,6,axikaranam,4
+2,rAtrO,rAtri,loc. sg. f.,7,axikaranam,4
+3,viSrAmaH,viSrAma,nom. sg. m.,8,karma,4
+4,kalpitaH,vac,ca. pp.,9,,

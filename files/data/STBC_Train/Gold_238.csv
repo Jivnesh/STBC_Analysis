@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAm,asmad,acc. sg. *,0,karma,3
+1,ca,ca,conj.,1,sambanxah,3
+2,taTAviDAm,viDA,acc. sg. f.,3,karmasamanaxikaranam,3
+3,dfzwvA,dfS,abs.,4,purvakalah,4
+4,stabDA,stabDa,acc. pl. f.,5,prawiyogi,5
+5,iva,iva,part.,8,anuyogi,6
+6,saYjAtA,jAta,pp.,9,,

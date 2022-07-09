@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,conj.,0,kriyaviseranam,1
+1,uktvA,vac,conj.,1,purvakalah,4
+2,saH,tad,nom. sg. m.,2,karwa,4
+3,uccEH,ucca,inst. pl. m.,4,kriyaviseranam,4
+4,hasitavAn,has,pp. . sg. ,5,,

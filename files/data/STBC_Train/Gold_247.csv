@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfpAluH,kfpAlu,nom. sg. m.,0,viseranam,1
+1,kfzRaH,kfzRa,nom. sg. m.,1,karwa,3
+2,uttaraM,uttara,acc. sg. m.,5,karma,3
+3,dattavAn,datta,pp. . sg. ,8,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,janatAH,janatA,nom. pl. f.,1,karwa,9
+1,tarURAM,taru,g. pl. m.,2,rartisambanxah,2
+2,vartamAnAM,vft,acc. sg. f.,3,viseranam,5
+3,mahatIm,mahatI,acc. sg. f.,4,viseranam,5
+4,api,api,conj.,5,sambanxah,3
+5,CAyAm,CAyA,acc. sg. f.,7,karma,6
+6,apAsya,as,abs.,9,purvakalah,9
+7,AgAminIM,AgAmin,acc. sg. f.,10,viseranam,8
+8,CAyAM,CAyA,acc. sg. f.,11,karma,9
+9,jagfhire,ah,pft. md. pl. 3,13,,

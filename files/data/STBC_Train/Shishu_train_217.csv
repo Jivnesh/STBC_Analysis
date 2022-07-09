@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,amAnavam,amAnava,nom. sg. m.,NA,viseranam,1
+1,ajaM,aja,acc. sg. m.,NA,karma,4
+2,manoH,manu,g. sg. m.,NA,rartisambanxah,3
+3,kule,kula,loc. sg. n.,NA,axikaranam,4
+4,jAtaM,jE1,pp.,NA,viseranam,6
+5,praBAvinam,pra-BAvin,acc. sg. m.,NA,viseranam,6
+6,BavantaM,Bavat,acc. sg. m.,NA,viseranam,9
+7,AtmanaH,Atman,g. sg. m.,NA,rartisambanxah,9
+8,antaM,anta,acc. sg. m.,NA,viseranam,9
+9,BAvinaM,BAvin,acc. sg. m.,NA,karma,10
+10,jAnan,jYA1,ppr. ac,NA,bavalakranasapwami_samanakalah,15
+11,api,api,ind.,NA,sambanxah,15
+12,yaH,yad,nom. sg. m.,NA,karwa,15
+13,jAnakIM,jAnakI,acc. sg. f.,NA,karma,15
+14,na,na,ind.,NA,sambanxah,15
+15,mumoca,muc1,pft. ac. sg. 3,NA,,
+16,hi,hi,ind.,NA,sambanxah,20
+17,mAninaH,mAnin,nom. pl. m.,NA,viseranam,19
+18,sadA,sadA,ind.,NA,kriyaviseranam,20
+19,aBimAnaekaDanAH,aBimAna-ekaDana,nom. pl. m.,NA,karwa,20
+20,Bavanti,BU1,pr. ac. pl. 3,NA,,

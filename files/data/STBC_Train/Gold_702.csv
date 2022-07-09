@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sadA,sadA,adv.,1,sambanxah,5
+1,eva,eva,prep.,0,sambanxah,5
+2,na,na,part.,2,kriyaviseranam,5
+3,dUre,dUra,nom. sg. m.,8,viseranam,4
+4,dUraH,dUra,nom. sg. m.,9,karwa,5
+5,atizWatAm,sTA,impft. [1] ac. du. 3,10,,

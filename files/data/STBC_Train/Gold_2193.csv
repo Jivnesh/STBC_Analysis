@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vayam,asmad,nom. pl. *,0,karwa,4
+1,eva,eva,prep.,1,sambanxah,0
+2,tam,tad,acc. sg. m.,2,karma,4
+3,mftyoH,mftyu,abl. sg. m.,4,apaxanam,4
+4,amocayAma,muc,ca. impft. ac. pl. 1,5,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDukaraviwapAnam,pAna,nom. sg. n.,49,karwa,4
+1,itAH,i,acc. pl. f.,4,viseranam,3
+2,viwapaAnamitAH,mita,acc. pl. f.,9,viseranam,3
+3,tarupaNktIH,paNkti,acc. pl. f.,12,karma,4
+4,biBrataH,Bf,g. sg. m.,18,bavalakranasapwami_samanakalah,10
+5,asya,idam,g. sg. m.,20,rartisambanxah,6
+6,roDaH,roDa,nom. sg. m.,21,karwa,10
+7,galatA,gal,inst. sg. n.,23,viseranam,8
+8,paripAkapiSaNgalatArajasA,rajas,inst. sg. n.,24,karanam,10
+9,kapiSaM,kapiSa,acc. sg. n.,26,karma,10
+10,cakAsti,cakAs,pr. ac. sg. 3,28,,

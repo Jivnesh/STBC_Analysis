@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samarTaguruH,guru,nom. sg. m.,1,viseranam,2
+1,SizyAn,Sizya,acc. pl. m.,2,karma,4
+2,SivavIraH,vIra,nom. sg. m.,4,karwa,4
+3,samarTagururAmadAsasya,dAsa,g. sg. m.,16,rartisambanxah,2
+4,avadat,vad,impft. [1] ac. sg. 3,9,,

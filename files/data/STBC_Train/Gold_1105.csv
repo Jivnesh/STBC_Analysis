@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tam,tad,acc. sg. m.,0,karma,2
+1,api,api,conj.,1,sambanxah,0
+2,nivArayantI,vAra,nom. sg. f.,5,viseranam,3
+3,paricArikA,paricArikA,nom. sg. f.,6,karwa,5
+4,pratIkzituM,Ikz,conj.,7,prayojanam,5
+5,kaTitavatI,vac,pp. . sg. ,10,,

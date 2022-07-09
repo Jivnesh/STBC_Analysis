@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjapuruzaH,rAjan,nom. sg. m.,1,karwa,6
+1,asiM,asi,acc. sg. m.,2,karma,3
+2,kare,kara,loc. sg. m.,9,axikaranam,3
+3,DftvA,Df,conj.,10,purvakalah,6
+4,SiSum,SiSu,acc. sg. m.,11,upapaxasambanxah,5
+5,prati,prati,conj.,12,sambanxah,6
+6,acalat,cal,impft . ac. sg. 3,13,,

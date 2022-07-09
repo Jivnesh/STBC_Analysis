@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tad,abl. sg. n.,15,apaxanam,5
+1,atulitAm,tad,acc. sg. f.,2,viseranam,2
+2,sampattim,sampatti,acc. sg. f.,3,samucciwam,4
+3,suKasamfdDim,samfdDi,acc. sg. f.,5,samucciwam,4
+4,ca,ca,conj.,6,karma,5
+5,ayAcata,yAc,impft. [1] md. sg. 3,7,,

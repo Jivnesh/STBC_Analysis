@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,banDo,banDu,voc. sg. m.,0,samboxyah,5
+1,tvam,yuzmad,nom. sg. *,1,karwa,5
+2,etAm,etad,acc. sg. f.,2,karma,3
+3,avalambya,lamb,abs.,3,purvakalah,5
+4,upari,upari,loc. sg. n.,5,axikaranam,5
+5,AyAhi,yA,imp. [2] ac. sg. 2,6,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svarRakAraH,kAra,nom. sg. m.,7,karwa,4
+1,ABUzaRAni,uzaRa,acc. pl. n.,24,karma,2
+2,racayitum,api,conj.,2,prayojanam,4
+3,svarRam,svarRa,acc. sg. n.,3,karma,4
+4,Anayat,nI,impft . ac. sg. 3,5,,

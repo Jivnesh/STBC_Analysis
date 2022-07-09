@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,aham,asmad,nom. sg. *,1,sambanxah,2
+2,prativeSI,anuja,nom. sg. m.,3,,
+3,aham,asmad,nom. sg. *,4,sambanxah,2
+4,mama,asmad,g. sg. *,5,rartisambanxah,3

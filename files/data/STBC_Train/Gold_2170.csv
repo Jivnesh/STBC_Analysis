@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jigIzuRA,jigIzu,inst. sg. m.,1,viseranam,1
+1,tena,tad,inst. sg. m.,3,karwa,7
+2,balAvalepAt,alepa,abl. sg. m.,5,apaxanam,7
+3,aDunA,aDunA,conj.,8,sambanxah,7
+4,api,api,conj.,23,sambanxah,5
+5,pUrvavat,pUrvavat,conj.,10,viseranam,7
+6,jagat,tad,nom. sg. n.,12,karma,7
+7,prabADyate,bAD,pr. md. sg. 3,14,samucciwam,17
+8,suniScalA,cala,nom. sg. f.,15,viseranam,9
+9,prakftiH,prakfti,nom. sg. f.,16,karwa,16
+10,satI,satI,nom. sg. f.,17,viseranam,11
+11,yozit,yozit,nom. sg. f.,18,prawiyogi,12
+12,iva,iva,conj.,19,anuyogi,9
+13,BavAntarezu,antara,loc. pl. n.,75,axikaranam,16
+14,api,api,conj.,6,sambanxah,13
+15,pumAMsAm,puMs,acc. sg. m.,25,karma,16
+16,aByeti,i,pr. ac. sg. 3,27,samucciwam,17
+17,ca,ca,conj.,28,,

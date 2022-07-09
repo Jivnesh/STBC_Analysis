@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,10
+1,hanta,hanta,voc. sg. n.,1,samboxyah,10
+2,tasmin,tad,loc. sg. m.,3,viseranam,4
+3,eva,eva,prep.,4,sambanxah,2
+4,kzaRe,kzaRa,loc. sg. m.,5,axikaranam,10
+5,tasya,tad,g. sg. m.,7,rartisambanxah,6
+6,pAdayoH,pAda,loc. du. m.,8,axikaranam,10
+7,ekaH,eka,nom. sg. m.,10,viseranam,8
+8,tIkzRaH,tIkzRa,nom. sg. m.,11,viseranam,9
+9,kaRwakaH,kaRwaka,nom. sg. m.,12,karwa,10
+10,lagnaH,lagna,pp.,13,,

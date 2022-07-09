@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BagavataH,Baga,g. sg. n.,4,viseranam,1
+1,govindadevasya,deva,g. sg. m.,12,rartisambanxah,4
+2,ekaH,eka,nom. sg. m.,13,viseranam,3
+3,nirDanaH,nirDana,nom. sg. m.,14,viseranam,4
+4,BaktaH,Bakta,nom. sg. m.,15,karwa,10
+5,pratidinam,tad,nom. sg. n.,18,sambanxah,10
+6,niyamitarUpeRa,rUpa,loc. sg. m.,20,axikaranam,10
+7,prAtaH,prAtar,adv.,21,kriyaviseranam,10
+8,darSanam,darSana,acc. sg. n.,22,karma,9
+9,kartum,kf,inf.,24,prayojanam,10
+10,gacCati,gam,pr. [1] ac. sg. 3,25,,
+11,sma,sma,part.,26,sambanxah,10

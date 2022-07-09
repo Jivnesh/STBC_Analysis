@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmin,tad,loc. sg. n.,0,axikaranam,5
+1,cawakA,cawakA,nom. sg. f.,4,karwa,5
+2,dvO,dvi,acc. du. m.,6,viseranam,3
+3,aRqO,aRqa,acc. du. m.,7,karma,5
+4,api,api,conj.,9,sambanxah,3
+5,dattavatI,datta,pp. . sg. ,13,,

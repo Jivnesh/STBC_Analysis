@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,anyApaSakunam,Sakuna,acc. sg. m.,2,karma,2
+2,kartum,kf,inf.,5,prayojanam,3
+3,Cintte,Cid,pr. [7] md. sg. 3,6,,
+4,svAm,sva,acc. sg. f.,7,viseranam,5
+5,nAsikAm,nAsika,acc. sg. f.,8,karma,3
+6,api,api,conj.,9,sambanxah,5

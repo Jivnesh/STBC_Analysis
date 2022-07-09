@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadA,yadA,conj.,0,axikaranam,7
+1,aNganAnAM,aNganA,g. pl. f.,2,rartisambanxah,2
+2,priyakaraparimArgAt,mArga,abl. sg. m.,3,hewuh,3
+3,svedatoyodayaSrIH,SrI,nom. sg. f.,6,karwa,7
+4,punaH,punar,conj.,8,sambanxah,5
+5,aDikatarA,katara,nom. sg. f.,12,karwqsamanaxikaranam,7
+6,eva,eva,conj.,13,sambanxah,5
+7,aBUt,as,impft. ac. sg. 3,14,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,siMhaH,siMha,nom. sg. m.,0,karwa,3
+1,naKEH,naKa,inst. pl. m.,2,karanam,3
+2,gajAn,ja,acc. pl. m.,3,karma,3
+3,dArayati,yojay,pr. ac. sg. 3,4,,

@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SItAluH,Alu,nom. sg. f.,74,karwa,2
+1,sarasi,saras,loc. sg. n.,1,axikaranam,2
+2,avataritum,ca,conj.,2,prayojanam,16
+3,anicCuH,anicCu,nom. sg. f.,5,viseranam,0
+4,ataH,atas,conj.,6,sambanxah,7
+5,eva,eva,conj.,7,sambanxah,4
+6,tawaBuvi,BU,loc. sg. f.,8,axikaranam,7
+7,AsInA,As,nom. sg. n.,14,bavalakranasapwami_samanakalah,16
+8,karayugaM,yuga,acc. sg. n.,15,karma,9
+9,DunvAnA,Du,nom. sg. n.,20,bavalakranasapwami_samanakalah,16
+10,ramBaUrUH,Uru,nom. sg. f.,17,karma,16
+11,salilagatena,gam,pp. . sg. ,22,viseranam,13
+12,sasmitena,sasmita,inst. sg. m.,24,viseranam,13
+13,BartrA,Bartf,inst. sg. m.,25,karwa,16
+14,vilAsAn,las,nom. sg. n.,26,karma,15
+15,Ikzitum,Ikz,conj.,27,prayojanam,16
+16,sicyate,sic,pr. md. sg. 3,28,,
+17,sma,sma,conj.,29,sambanxah,16

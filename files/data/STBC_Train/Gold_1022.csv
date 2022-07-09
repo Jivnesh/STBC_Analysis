@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,3
+1,taTA,taTA,adv.,4,anuyogi,3
+2,eva,eva,prep.,1,sambanxah,1
+3,AsIt,as,aor. [5] ac. sg. 3,3,,
+4,yaTA,yaTA,conj.,5,sambanxah,1
+5,vfdDavfkzEH,vfkza,i. pl. m.,7,karwa,6
+6,samBAvitam,BU,nom. sg. n.,10,karwa,7
+7,pariRatam,nata,acc. sg. n.,11,prawiyogi,4

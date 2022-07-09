@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,upavanasya,upavana,g. sg. n.,1,rartisambanxah,2
+2,SoBAm,SoBA,acc. sg. f.,2,karma,3
+3,drakzyAmi,dfS,fut. ac. sg. 1,3,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjA,rAjan,nom. sg. m.,0,karwa,4
+1,yuvakam,yuvan,acc. sg. n.,4,karma,4
+2,praDAnamantrirUpe,rUpa,acc. du. n.,9,kriyaviseranam,4
+3,kim,kim,acc. sg. n.,12,waxarwyam,4
+4,niyuktavAn,vac,pp.,14,,

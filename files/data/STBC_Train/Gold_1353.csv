@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,nagarasya,nagara,g. sg. n.,2,rartisambanxah,2
+2,sarovaram,sarovara,acc. sg. n.,3,karma,3
+3,gacCati,gam,pr. ac. sg. 3,4,,

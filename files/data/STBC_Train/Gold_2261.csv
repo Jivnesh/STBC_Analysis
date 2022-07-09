@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratisaKi,saKi,conj.,1,axikaranam,3
+1,kAminA,kAmin,inst. sg. m.,3,karwa,3
+2,anyanAmnA,nAman,inst. sg. n.,4,karanam,3
+3,hUtAyAH,tad,g. sg. f.,6,viseranam,5
+4,galanmuKendukAnteH,kAnti,g. sg. f.,7,viseranam,5
+5,hrImatyAH,mati,g. sg. f.,40,rartisambanxah,7
+6,kasyAScit,tad,g. sg. f.,13,viseranam,5
+7,aSruvarzEH,varza,inst. pl. m.,15,karwa,15
+8,sarasi,saras,loc. sg. n.,16,axikaranam,15
+9,drutam,drutam,conj.,19,viseranam,11
+10,antarDiM,antarDi,acc. sg. m.,20,karma,11
+11,kartum,kf,conj.,21,prayojanam,15
+12,payAMsi,payas,nom. pl. n.,23,karma,15
+13,BUmAnam,BUman,acc. sg. m.,24,karma,14
+14,gamayitum,Ric,conj.,25,prayojanam,15
+15,Izire,iz,pft. md. pl. 3,27,,
+16,iva,iva,conj.,28,sambanxah,15

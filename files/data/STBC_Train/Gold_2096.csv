@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,darpacalitena,calita,inst. sg. m.,1,viseranam,14
+1,rajjvA,rajju,inst. sg. m.,2,upapaxasambanxah,2
+2,saha,saha,conj.,4,sambanxah,5
+3,eva,eva,conj.,5,sambanxah,2
+4,kIlam,kIla,acc. sg. m.,6,karma,5
+5,utKAya,Kan,abs.,7,purvakalah,16
+6,tUrRaM,tUrRam,conj.,10,viseranam,7
+7,vidrutam,dru,acc. sg. m.,13,viseranam,9
+8,anyam,anya,acc. sg. m.,14,viseranam,9
+9,aSvam,aSva,acc. sg. m.,15,karma,12
+10,aSvA,aSvA,nom. sg. f.,18,prawiyogi,11
+11,iti,iti,conj.,19,anuyogi,12
+12,anudravatA,dru,inst. sg. m.,21,viseranam,14
+13,prayatnaparamAnavadurgraheRa,durgraha,inst. sg. m.,23,viseranam,14
+14,turageRa,turaga,inst. sg. m.,24,karwa,16
+15,kawakaH,kawaka,nom. sg. m.,25,karma,16
+16,AkuliakAri,kf,impft. md. sg. ,26,,

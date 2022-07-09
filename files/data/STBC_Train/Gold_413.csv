@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svecCayA,svecCA,inst. sg. f.,0,karwa,5
+1,prakIrRaM,prakIrRa,nom. sg. n.,3,karma,5
+2,bahu,bahu,nom. sg. n.,5,viseranam,1
+3,api,api,conj.,6,sambanxah,2
+4,kAmam,kAmam,conj.,10,viseranam,5
+5,aBiDIyate,DA,pr. md. sg. 3,12,,

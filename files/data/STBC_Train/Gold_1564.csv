@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,nom. sg. n.,10,viseranam,4
+1,eva,eva,prep.,1,sambanxah,0
+2,me,asmad,g. sg. *,2,rartisambanxah,3
+3,daridratAyAH,kzatriyA,g. sg. f.,5,rartisambanxah,4
+4,kAraRam,kAraRa,nom. sg. n.,7,karwa,5
+5,asti,as,pr. [2] ac. sg. 3,8,,

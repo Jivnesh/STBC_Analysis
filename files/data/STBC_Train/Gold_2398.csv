@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paTikeByaH,paTika,dat. pl. m.,1,waxarwyam,2
+1,saH,tad,nom. sg. m.,4,karwa,3
+2,viSrAmasTAnam,sTAna,nom. sg. n.,7,karwqsamanaxikaranam,3
+3,aBavat,BU,impft. [1] ac. sg. 3,8,,

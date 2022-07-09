@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Amravanasya,vana,g. sg. n.,0,rartisambanxah,1
+1,rajaH kaRAH,kaRa,nom. pl. m.,2,karwa,3
+2,smarahutASanamurmuracUrRatAM,cUrRa,acc. du. f.,5,karma,3
+3,daDuH,DA,pft. ac. pl. 3,7,prawiyogi,4
+4,iva,iva,conj.,8,anuyogi,12
+5,ataH,atas,conj.,9,hewuh,8
+6,paritaH,ca,conj.,10,axikaranam,8
+7,upari,upari,conj.,12,axikaranam,12
+8,nipatitAH,pat,pp. . pl. ,15,viseranam,9
+9,te,tad,nom. pl. m.,18,karwa,12
+10,paTikavrajAn,vraj,acc. pl. m.,23,karma,12
+11,BfSaM,BfSam,conj.,26,viseranam,12
+12,paritepuH,tap,pft. ac. pl. 3,37,,

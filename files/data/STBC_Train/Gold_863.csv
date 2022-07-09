@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paraH,para,nom. sg. m.,18,karwa,2
+1,Apadi,Apad,loc. sg. f.,2,axikaranam,2
+2,gamyaH,gama,nom. sg. m.,4,prawiyogi,3
+3,iti,iti,conj.,5,anuyogi,4
+4,nItiH,nIti,nom. sg. f.,6,karwa,9
+5,yat,yad,nom. sg. n.,20,viseranam,6
+6,tat,tad,nom. sg. n.,9,sambanxah,9
+7,mAninaH,mAnin,g. sg. m.,12,rartisambanxah,8
+8,hriye,hrI,dat. sg. f.,16,prayojanam,9
+9,Bavati,BU,pr. ac. sg. 3,17,,

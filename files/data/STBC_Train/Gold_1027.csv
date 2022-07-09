@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tan,pft. md. sg. 3,2,prawiyogi,2
+1,eva,eva,prep.,4,sambanxah,2
+2,saha,saha,adv.,5,anuyogi,5
+3,BAzaRaSrotari,Srotf,loc. sg. m.,8,axikaranam,5
+4,api,api,conj.,9,sambanxah,3
+5,virAmaH,virAma,nom. sg. m.,11,karwa,6
+6,lagnaH,lag,pp.,12,,

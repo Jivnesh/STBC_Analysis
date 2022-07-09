@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,prativeSI,pArTiva,nom. sg. f.,2,karwa,5
+2,sampannaH,pad,nom. sg. m.,3,karwqsamanaxikaranam,5
+3,tu,tu,conj.,4,sambanxah,2
+4,bahuH,bahu,adv.,6,kriyaviseranam,5
+5,asti,as,pr. [2] ac. sg. 3,7,,

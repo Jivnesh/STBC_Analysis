@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmA,Atman,nom. sg. *,22,karwa,6
+1,Sizyam,Sizya,acc. sg. n.,1,karma,3
+2,sAvaDAnam,sAvaDAna,acc. sg. m.,4,karmasamanaxikaranam,3
+3,kftvA,kf,abs.,7,purvakalah,6
+4,svayam,svayam,nom. sg. n.,9,karwqsamanaxikaranam,6
+5,sanDyopAsanArTam,arTa,acc. sg. m.,55,prayojanam,6
+6,upavizwaH,vac,pp.,12,,

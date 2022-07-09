@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,atas,i. sg. n.,0,hewuh,5
+1,pUjanIyam,tad,acc. sg. m.,3,viseranam,3
+2,tapasvinam,tapasvin,acc. sg. m.,4,viseranam,3
+3,Bavantam,BU,acc. sg. m.,5,karma,5
+4,aham,asmad,nom. sg. *,6,karwa,5
+5,kzame,kzamA,nom. du. n.,14,prawiyogi,6
+6,iti,iti,part.,15,anuyogi,7
+7,abravIt,brU,impft. [2] ac. sg. 3,16,,

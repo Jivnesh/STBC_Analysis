@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAri,vAri,nom. pl. n.,4,karwa,5
+1,yadUnAM,yadu,g. pl. m.,5,rartisambanxah,2
+2,vakzoByaH,vakzas,abl. pl. m.,8,apaxanam,3
+3,Ganam,Gana,acc. sg. n.,11,viseranam,4
+4,anulepanam,lip,nom. sg. n.,16,karma,5
+5,aharata,hf,impft . md. sg. 3,18,samucciwam,21
+6,mUrDajeByaH,mUrDaja,abl. pl. m.,19,apaxanam,8
+7,uttaMsAn,tad,nom. sg. n.,21,karma,8
+8,aharata,hf,impft . ac. pl. 2,23,samucciwam,21
+9,netrARAM,netra,g. pl. n.,25,rartisambanxah,10
+10,madaruciH,ruci,nom. sg. f.,26,karwqsamanaxikaranam,13
+11,akzatA,akzatA,nom. sg. f.,28,karwa,13
+12,eva,eva,conj.,29,sambanxah,11
+13,tasTO,sTA,pft. ac. sg. 3,30,samucciwam,21
+14,taTAhi,api,conj.,33,sambanxah,13
+15,mahatAM,tad,g. pl. m.,35,rartisambanxah,16
+16,cakzuzyaH,cakzuzya,nom. sg. m.,36,karma,18
+17,parEH,para,inst. pl. m.,38,karwa,18
+18,alaNGyaH,alaNGya,nom. sg. m.,41,karwa,19
+19,Bavati,BU,pr. ac. sg. 3,42,samucciwam,21
+20,Kalu,Kalu,conj.,43,sambanxah,19
+21,ca,ca,conj.,44,,

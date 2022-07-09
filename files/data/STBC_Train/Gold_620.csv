@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,nom. sg. n.,1,karwa,2
+1,na,na,part.,2,sambanxah,13
+2,arhasi,arh,pr. [1] ac. sg. 2,3,samucciwam,14
+3,kaTam,kaTam,adv.,4,sambanxah,4
+4,kaTam,kaTam,adv.,5,kriyaviseranam,6
+5,api,api,conj.,6,sambanxah,4
+6,viDftAn,tad,acc. pl. m.,8,viseranam,9
+7,imAn,idam,acc. pl. m.,9,viseranam,9
+8,asulaBAn,tad,acc. pl. m.,11,viseranam,9
+9,asUn,asu,acc. pl. m.,12,sambanxah,13
+10,punaH,punar,adv.,13,sambanxah,11
+11,punaH,punar,adv.,15,sambanxah,12
+12,smaraRaSokAnalanDanatAm,Dana,acc. sg. f.,20,sambanxah,13
+13,upanetum,nI,inf.,21,samucciwam,14
+14,ca,ca,conj.,22,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rugRaH,tad,nom. sg. m.,0,viseranam,3
+1,ca,ca,conj.,1,sambanxah,0
+2,tu,tu,conj.,2,sambanxah,0
+3,BavAn,BU,nom. sg. m.,4,karwa,5
+4,sadA,sadA,loc. sg. m.,5,axikaranam,5
+5,tizWati,sTA,pr. [1] ac. sg. 3,6,,
+6,eva,eva,prep.,7,sambanxah,5

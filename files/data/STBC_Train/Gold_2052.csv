@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAqanAtaH,tAqana,abl. sg. f.,0,apaxanam,1
+1,atiriktam,rikta,acc. sg. n.,16,viseranam,4
+2,sA,tad,nom. sg. f.,4,karwa,7
+3,tataH,tad,abl. sg. m.,26,apaxanam,7
+4,kim,kim,acc. sg. n.,6,karma,7
+5,api,api,conj.,8,sambanxah,4
+6,na,na,part.,10,sambanxah,7
+7,alaBata,laBa,impft. [1] md. sg. 3,12,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjYA,rAjya,nom. sg. m.,0,karwa,8
+1,sADuvAdena,vAda,i. sg. m.,2,prawiyogi,2
+2,saha,saha,prep.,5,anuyogi,0
+3,aDunA,aDunA,loc. sg. n.,8,axikaranam,8
+4,api,api,conj.,6,sambanxah,3
+5,puraskArarUpe,rUpa,loc. du. n.,12,axikaranam,8
+6,na,na,part.,13,sambanxah,8
+7,kiYcit,kim,acc. sg. m.,14,karma,8
+8,dattam,dA,imp. [3] ac. du. 2,15,,

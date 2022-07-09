@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,parantu,conj.,3,samucciwam,7
+1,vfkaH,vfka,nom. sg. m.,4,karwa,4
+2,tu,tu,conj.,5,sambanxah,1
+3,tatra,tatra,conj.,7,axikaranam,4
+4,AsIt,as,impft . ac. sg. 3,9,samucciwam,7
+5,eva,eva,conj.,10,sambanxah,4
+6,na,na,conj.,11,sambanxah,4
+7,ca,ca,conj.,12,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,trAsAkulaH,Akula,nom. sg. m.,15,karwa,3
+1,niketAn,niketa,acc. pl. m.,1,upapaxasambanxah,2
+2,paritaH,ca,conj.,2,sambanxah,3
+3,paripatan,pad,nom. sg. m.,14,bavalakranasapwami_samanakalah,10
+4,mfgaH,mfga,nom. sg. m.,3,karma,10
+5,kEScit,cit,conj.,6,viseranam,8
+6,api,api,conj.,7,sambanxah,5
+7,DanviBiH,Danvin,inst. pl. m.,10,viseranam,8
+8,pumBiH,puMs,inst. pl. m.,11,karwa,10
+9,na,na,conj.,12,sambanxah,10
+10,anvabanDi,banD,impft. md. sg. ,13,,

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekasaptAhapUrvam,pUrva,loc. sg. m.,3,axikaranam,11
+1,eva,eva,prep.,6,sambanxah,0
+2,anyaH,anya,nom. sg. m.,7,viseranam,6
+3,ekaH,eka,nom. sg. m.,8,samucciwam,12
+4,tAdfSaH,tAdfS,nom. pl. m.,10,viseranam,6
+5,eva,eva,prep.,20,sambanxah,6
+6,mizwAnnavyavasAyI,vyavasAyin,nom. sg. m.,50,karwa,11
+7,tatra,tatra,loc. sg. m.,26,axikaranam,8
+8,Agatya,gam,abs.,27,purvakalah,11
+9,svakIyam,svakIya,acc. sg. m.,28,viseranam,10
+10,vyavasAyam,tad,acc. sg. n.,31,karma,11
+11,prAraBata,brU,impft. [1] md. sg. 3,32,samucciwam,12
+12,ca,ca,conj.,33,,

@@ -1,0 +1,24 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lolaUrmO,Urmi,loc. sg. m.,1,viseranam,1
+1,payasi,payas,loc. sg. n.,2,axikaranam,9
+2,mahotpalaM,mahotpala,nom. sg. n.,3,karwa,21
+3,kAntAnAM,kAntA,g. pl. f.,6,rartisambanxah,4
+4,muKarucA,ruc,inst. sg. f.,9,karwa,9
+5,aham,asmad,nom. sg. n.,10,karma,9
+6,ekam,eka,acc. sg. m.,11,viseranam,5
+7,eva,eva,conj.,14,sambanxah,6
+8,na,na,conj.,15,sambanxah,9
+9,apAstam,as,pp. . sg. ,18,prawiyogi,10
+10,kintu,ca,conj.,19,anuyogi,16
+11,tAsAm,tad,g. pl. f.,20,rartisambanxah,12
+12,akzRoH,akzi,g. du. n.,22,rartisambanxah,13
+13,SoBABiH,SoBA,inst. pl. f.,23,karwa,16
+14,kuvalayam,kuvalaya,nom. sg. n.,25,karma,16
+15,api,api,conj.,26,sambanxah,14
+16,apAstam,as,pp. . sg. ,30,prawiyogi,17
+17,iti,iti,conj.,31,anuyogi,18
+18,saMharzAt,saMharza,abl. sg. m.,32,hewuh,19
+19,alivirutEH,viruta,inst. pl. n.,34,karanam,21
+20,gAyat,tad,nom. sg. n.,36,bavalakranasapwami_samanakalah,21
+21,nanarta,nft,pft. ac. sg. 3,38,,
+22,iva,iva,conj.,39,sambanxah,21

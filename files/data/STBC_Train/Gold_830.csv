@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rameSaH,ISa,nom. sg. m.,37,karwa,3
+1,arDam,arDa,acc. sg. n.,2,viseranam,2
+2,patram,pattra,acc. sg. n.,4,karma,3
+3,aliKat,brU,impft. [6] ac. sg. 3,6,samucciwam,11
+4,eva,eva,prep.,7,sambanxah,3
+5,yat,yad,conj.,8,sambanxah,3
+6,paryavekzakaH,tad,nom. sg. m.,10,karwa,10
+7,tasya,tad,g. sg. n.,11,rartisambanxah,8
+8,samIpe,samIpa,loc. sg. m.,13,axikaranam,10
+9,Agatya,gam,abs.,19,purvakalah,10
+10,sTitaH,sTA,pp.,20,samucciwam,11
+11,ca,ca,conj.,21,,

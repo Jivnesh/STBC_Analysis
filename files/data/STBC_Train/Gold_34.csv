@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,satyam,satya,acc. sg. m.,0,samucciwam,2
+1,hitakaram,kara,acc. sg. m.,8,samucciwam,2
+2,ca,ca,conj.,9,viseranam,3
+3,vAkyam,vac,acc. sg. n.,12,karma,4
+4,BAzante,BAz,pr. [1] md. pl. 3,13,,
+5,prajYAH,prajYa,nom. pl. f.,18,karwa,4

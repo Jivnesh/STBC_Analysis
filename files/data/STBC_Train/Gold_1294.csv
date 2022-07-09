@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yasya,yad,g. sg. n.,0,rartisambanxah,1
+1,saNgatyA,tad,i. sg. f.,3,karanam,5
+2,aham,asmad,nom. sg. *,4,karwa,6
+3,tava,yuzmad,g. sg. *,5,rartisambanxah,4
+4,darSanam,darSana,acc. sg. n.,6,karma,5
+5,prAptum,pra,inf.,8,prayojanam,6
+6,SaknuyAm,Sak,opt. [5] ac. sg. 1,9,,

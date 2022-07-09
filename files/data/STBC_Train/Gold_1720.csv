@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mune,muni,voc. sg. m.,0,samboxyah,6
+1,tvayA,yuzmad,inst. sg. *.,2,karwa,6
+2,ye,yad,nom. pl. m.,5,viseranam,5
+3,bahavaH,bahu,nom. pl. m.,8,viseranam,5
+4,durlaBAH,durlaBa,nom. pl. m.,10,viseranam,5
+5,guRAH,guRa,nom. pl. m.,13,karma,6
+6,kIrtitAH,kIrti,pp. . pl. ,15,,

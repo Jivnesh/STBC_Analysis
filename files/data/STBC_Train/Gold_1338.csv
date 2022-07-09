@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,sambanxah,6
+1,kutaScana,kutas,abl. sg. n.,3,apaxanam,5
+2,mahyam,asmad,dat. sg. *,4,sampraxanam,5
+3,pAdatrARayoH,trARa,g. du. n.,7,rartisambanxah,4
+4,vyavasTAm,vyavasTA,acc. sg. f.,8,karma,5
+5,kuryAH,kf,opt. [8] ac. sg. 2,9,prawiyogi,0
+6,tarhi,tarhi,adv.,10,anuyogi,9
+7,mahyam,asmad,dat. sg. *,11,sampraxanam,9
+8,suKakaram,kara,nom. sg. n.,34,karwa,9
+9,syAt,as,opt. [2] ac. sg. 3,35,,

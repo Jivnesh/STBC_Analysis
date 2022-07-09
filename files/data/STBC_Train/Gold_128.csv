@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,loc. sg. n.,1,axikaranam,7
+1,asya,idam,g. sg. n.,2,rartisambanxah,2
+2,saYcayaH,tad,nom. sg. m.,4,karwa,7
+3,daSavarzezu,varza,loc. pl. m.,6,axikaranam,2
+4,api,api,conj.,8,sambanxah,3
+5,na,na,part.,12,sambanxah,7
+6,eva,eva,prep.,13,sambanxah,5
+7,samBavaH,samBava,pp.,15,,

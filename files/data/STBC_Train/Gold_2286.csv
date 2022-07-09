@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,muktAH,muc,nom. pl. m.,1,karwa,4
+1,kawakaM,kawaka,acc. sg. m.,2,upapaxasambanxah,2
+2,paritaH,prati,conj.,5,axikaranam,3
+3,tfRAni,tfRa,acc. pl. n.,6,karma,4
+4,carantaH,car,nom. pl. m.,8,bavalakranasapwami_samanakalah,9
+5,truwyadvitAnatanikAvyatizaNgaBAjaH,BAj,nom. pl. m.,9,viseranam,7
+6,sarozaparicArakavAryamARAH,mARa,nom. pl. m.,12,viseranam,7
+7,turaNgAH,Kaga,nom. pl. m.,13,karwa,9
+8,dAmAYcalasKalitalolapadaM,pad,acc. sg. m.,16,karma,9
+9,sasruH,sf,pft. ac. pl. 3,17,,

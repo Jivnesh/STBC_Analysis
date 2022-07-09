@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BaktajanEH,jana,nom. pl. m.,2,karwa,2
+1,yatkiYcit,kim,acc. sg. n.,30,karma,2
+2,dattena,dA,i. sg. n.,7,karanam,4
+3,AtmAnam,Atman,acc. sg. *,8,karma,4
+4,DArayAmi,Df,ca. pr. ac. sg. 1,10,,
+5,ca,ca,conj.,11,sambanxah,4

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kumAraH,kumAra,nom. sg. m.,0,viseranam,1
+1,malayaketuH,ketu,nom. sg. m.,2,karwa,3
+2,amAtyam,amAtya,acc. sg. m.,3,karwa,3
+3,vijYApayati,jYA,ca. pr. ac. sg. 3,4,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,3
+1,kasya,kim,g. sg. n.,1,upapaxasambanxah,2
+2,samIpe,samIpa,loc. sg. m.,3,axikaranam,3
+3,AsIt,as,aor. [5] ac. sg. 3,10,,
+4,tasyAH,tad,g. sg. f.,11,rartisambanxah,5
+5,sahAyatAm,sahAya,acc. sg. f.,13,karma,6
+6,kartum,kf,inf.,14,prayojanam,3
+7,samayaH,samaya,nom. sg. m.,15,karwa,3

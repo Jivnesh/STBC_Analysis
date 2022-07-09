@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nagarasya,rasya,g. sg. m.,1,rartisambanxah,3
+1,ekaH,eka,nom. sg. m.,2,viseranam,2
+2,dAnavIraH,vIra,nom. sg. m.,27,viseranam,3
+3,SrezWI,SrezWin,nom. sg. m.,7,karwa,6
+4,niHSulkam,Sulka,acc. sg. n.,9,viseranam,5
+5,annakzetram,kzetra,acc. sg. n.,11,karma,6
+6,cAlayati,cal,ca. pr. ac. sg. 3,13,,
+7,sma,sma,part.,14,sambanxah,6

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dalitakomalapawAlakuqmale,kuqmala,loc. sg. m.,0,viseranam,3
+1,nijavaDUSvasitaanuviDAyini,rAjan,loc. sg. m.,7,viseranam,3
+2,unmadaBramadalO,dala,loc. sg. m.,8,viseranam,3
+3,maruti,marut,loc. sg. m.,9,karwa,4
+4,vAti,vA,nom. sg. n.,10,purvakalah,8
+5,sati,as,loc. sg. m.,12,sambanxah,4
+6,vilAsiBiH,vilAsin,inst. pl. m.,14,karwa,8
+7,madalOlyam,lOlya,nom. sg. n.,16,karma,8
+8,upaAdade,dA,pft. md. sg. 3,19,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gataBartfkAH,Bartf,nom. pl. f.,3,karwa,5
+1,aparAH,aparA,nom. pl. f.,4,viseranam,0
+2,kusumakArmukakArmukasaMhitadrutaSilImuKaKaRqitavigrahAH,vigraha,nom. pl. f.,5,viseranam,0
+3,maraRam,maraRa,acc. sg. n.,6,karma,5
+4,api,api,conj.,8,sambanxah,3
+5,pratipedire,pad,pft. md. pl. 3,21,,
+6,muhuH,muhur,conj.,11,viseranam,7
+7,mumuhuH,muh,pft. ac. pl. 3,12,prawiyogi,8
+8,iti,iti,conj.,13,anuyogi,5
+9,kimu,kimu,conj.,14,sambanxah,7

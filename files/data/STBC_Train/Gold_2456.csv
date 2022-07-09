@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,4
+1,tAm,tad,acc. sg. f.,1,karma,2
+2,ASvAsya,Svas,ca. abs.,2,purvakalah,4
+3,BArimanasA,manas,nom. sg. f.,8,kriyaviseranam,4
+4,prasTitA,sTita,pp.,9,,

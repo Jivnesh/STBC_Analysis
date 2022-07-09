@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAGavaH,rAGava,nom. sg. m.,0,karwa,6
+1,ca,ca,conj.,2,,
+2,enam,ena,acc. sg. m.,1,karma,6
+3,tatra,tatra,loc. sg. n.,4,axikaranam,6
+4,ekena,eka,i. sg. m.,5,viseranam,5
+5,SareRa,Sara,i. sg. m.,7,karanam,6
+6,nijaGAna,han,pft. ac. sg. 3,8,samucciwam,1
+7,samAgataH,gam,nom. sg. m.,10,samucciwam,1

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asya,idam,g. sg. m.,1,rartisambanxah,1
+1,muktAmayaM,maya,nom. sg. n.,81,viseranam,4
+2,sArasanAvalambi,avalambin,nom. sg. n.,91,viseranam,4
+3,AprapadInaM,svarUpa,nom. sg. n.,8,viseranam,4
+4,dAma,dAman,nom. sg. n.,10,karwa,12
+5,aNguzWanizWyUtam,nizWyUta,nom. sg. n.,11,viseranam,4
+6,UrDvam,UrDvam,conj.,14,axikaranam,12
+7,uccEH,ucca,conj.,16,viseranam,9
+8,trisrotasaH,trisrotas,g. sg. f.,19,rartisambanxah,9
+9,santataDAram,DAra,nom. sg. n.,49,viseranam,10
+10,amBaH,amBas,nom. sg. n.,25,prawiyogi,11
+11,iva,iva,conj.,26,anuyogi,5
+12,BAti,BA,pr. ac. sg. 3,27,,
+13,sma,sma,conj.,28,sambanxah,12

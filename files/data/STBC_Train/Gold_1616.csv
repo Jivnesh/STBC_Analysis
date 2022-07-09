@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BartrA,Bartf,inst. sg. m.,0,upapaxasambanxah,1
+1,saha,saha,conj.,2,sambanxah,2
+2,vrajantyAH,vraj,nom. sg. n.,4,viseranam,3
+3,taruRyAH,taruRI,g. sg. f.,6,rartisambanxah,4
+4,aviralapulakaH,pulaka,nom. sg. m.,7,viseranam,6
+5,ekataraH,ekatara,nom. sg. m.,8,viseranam,6
+6,stanaH,stana,nom. sg. m.,9,karwa,12
+7,priyasya,priya,g. sg. m.,10,rartisambanxah,8
+8,vakzastawaBuvi,BU,loc. sg. f.,12,axikaranam,12
+9,pratipadaM,pada,conj.,14,axikaranam,12
+10,GawitaviGawitaH,tad,nom. sg. m.,16,viseranam,6
+11,kandukaviBramaM,viBrama,acc. sg. m.,17,karma,12
+12,baBAra,Bf,pft. md. sg. 3,19,,

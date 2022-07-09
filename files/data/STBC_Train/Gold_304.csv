@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTam,kaTam,conj.,0,kriyaviseranam,2
+1,SiraskAni,Siraska,acc. pl. n.,1,karma,2
+2,aDigacCAmi,gam,pr. ac. sg. 1,2,prawiyogi,3
+3,iti,iti,conj.,3,anuyogi,4
+4,saH,tad,nom. sg. m.,4,karwa,5
+5,acintayat,cit,impft . ac. sg. 3,5,,

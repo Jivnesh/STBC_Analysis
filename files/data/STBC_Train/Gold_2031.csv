@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,9
+1,AveSe,AveSa,loc. sg. m.,1,axikaranam,4
+2,yat,yad,nom. sg. n.,22,sambanxah,4
+3,tayA,tad,inst. sg. f.,3,karwa,4
+4,kaTitaM,kaTita,pp. . sg. ,6,samucciwam,9
+5,tat,tad,nom. sg. n.,8,sambanxah,7
+6,tu,tu,conj.,9,sambanxah,5
+7,kaTitam,kaTita,pp. . sg. ,12,samucciwam,9
+8,eva,eva,conj.,13,sambanxah,7
+9,ca,ca,conj.,14,,

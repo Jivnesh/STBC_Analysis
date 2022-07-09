@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjADirAjanandana,nandana,voc. sg. m.,2,samboxyah,7
+1,nagaranDragatasya,gam,g. sg. n.,7,viseranam,2
+2,te,tad,g. sg. *,14,rartisambanxah,3
+3,gatim,gati,acc. sg. f.,15,karma,4
+4,jYAsyan,jYA,pfu. ac.,16,sambanxah,7
+5,aham,asmad,nom. sg. *,17,karwa,7
+6,ca,ca,conj.,18,sambanxah,8
+7,gataH,gam,pp.,19,,
+8,kadA,kadA,loc. sg. m.,20,axikaranam,7
+9,cit,ca,part.,21,sambanxah,8
+10,kaliNgAn,kaliNga,acc. pl. m.,22,karma,7

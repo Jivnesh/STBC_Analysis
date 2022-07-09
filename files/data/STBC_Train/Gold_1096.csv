@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,vasatO,vasati,loc. sg. f.,1,axikaranam,5
+2,dvayoH,tad,g. du. m.,7,viseranam,3
+3,prativeSinoH,tad,g. du. m.,11,rartisambanxah,4
+4,BUmivivAdam,vivAda,acc. sg. m.,13,karma,5
+5,AdAya,dA,abs.,14,purvakalah,9
+6,sarpanakulavat,ca,adv.,18,kriyaviseranam,9
+7,cirAt,cira,abl. sg. m.,19,apaxanam,9
+8,vEram,vara,nom. sg. n.,23,karwa,9
+9,AsIt,as,aor. [5] ac. sg. 3,25,,

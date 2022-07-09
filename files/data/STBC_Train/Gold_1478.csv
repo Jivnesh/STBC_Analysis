@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvizatSiracCedaprocCalaSoRitokzitEH,ukz,inst. pl. n.,1,viseranam,1
+1,SastrEH,Sastra,inst. pl. n.,2,karwa,6
+2,arkarocizAM,rocis,g. pl. n.,4,rartisambanxah,3
+3,samparkAt,samparka,abl. sg. m.,5,apaxanam,6
+4,vidyutAM,vidyut,g. pl. f.,6,rartisambanxah,5
+5,sampat,sampat,nom. sg. f.,7,karma,6
+6,prApyatAm,Ap,imp. md. sg. 3,10,,

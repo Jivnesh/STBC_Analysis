@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yuzmAkam,yuzmad,g. pl. *.,2,rartisambanxah,1
+1,rAjA,rAjan,nom. sg. m.,7,karwa,5
+2,api,api,conj.,8,sambanxah,1
+3,AgacCatu,gam,imp. ac. sg. 3,10,samucciwam,5
+4,gacCatu,gam,imp. ac. sg. 3,11,samucciwam,5
+5,ca,ca,conj.,12,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,karwa,10
+1,mahoraskaH,uraska,nom. sg. m.,32,samucciwam,9
+2,mahezvAsaH,adas,nom. sg. m.,4,samucciwam,9
+3,gUQajatruH,jatru,nom. sg. m.,6,samucciwam,9
+4,arindamaH,adas,nom. sg. m.,7,samucciwam,9
+5,AjAnubAhuH,bAhu,nom. sg. m.,9,samucciwam,9
+6,suSirAH,Siras,nom. sg. f.,11,samucciwam,9
+7,sulalAwaH,adas,nom. sg. m.,12,samucciwam,9
+8,suvikramaH,vikrama,nom. sg. m.,13,samucciwam,9
+9,ca,ca,conj.,14,karwqsamanaxikaranam,10
+10,asti,as,pr. [2] ac. sg. 3,15,,

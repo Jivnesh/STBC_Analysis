@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAvikaH,nAvika,nom. sg. m.,0,karwa,3
+1,evam,evam,adv.,1,kriyaviseranam,3
+2,eva,eva,prep.,2,sambanxah,1
+3,kftavAn,kf,ppa.,3,,

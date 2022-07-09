@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praSaMsA,praSaMsA,nom. sg. f.,0,karwa,1
+1,pragatO,devI,loc. sg. f.,1,axikaranam,3
+2,pUrRavirAmam,virAma,acc. sg. m.,3,karma,3
+3,yojayati,yuj,ca. pr. ac. sg. 3,4,,

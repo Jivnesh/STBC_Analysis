@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,atas,adv.,0,hewuh,6
+1,anena,anena,i. sg. n.,2,karanam,6
+2,AdAnam,AdAna,nom. sg. n.,4,samucciwam,4
+3,pradAnam,pradAna,nom. sg. n.,6,samucciwam,4
+4,ca,ca,conj.,7,karwa,6
+5,samAnam,samAna,nom. sg. n.,17,karwqsamanaxikaranam,6
+6,samajAyata,jan,impft. [4] md. sg. 3,18,,

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,eva,conj.,0,samucciwam,12
+1,yaTA,yaTA,conj.,24,sambanxah,7
+2,eva,eva,conj.,14,sambanxah,1
+3,arjunaH,arjuna,nom. sg. m.,2,karwa,6
+4,idaM,idam,acc. sg. n.,28,viseranam,5
+5,kAryaM,kArya,acc. sg. n.,10,karma,6
+6,samBAlitavAn,droRa,nom. sg. m.,13,prawiyogi,1
+7,taTA,taTA,conj.,15,anuyogi,11
+8,eva,eva,conj.,1,sambanxah,7
+9,sarvaM,sarva,nom. sg. n.,18,karwa,11
+10,nizPalam,nizPala,nom. sg. n.,21,kriyaviseranam,11
+11,aBavat,BU,impft . ac. sg. 3,22,samucciwam,12
+12,ca,ca,conj.,23,,

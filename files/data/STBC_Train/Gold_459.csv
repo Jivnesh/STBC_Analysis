@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bahUni,bahu,acc. pl. n.,0,viseranam,1
+1,kAvyAni,kAvya,acc. pl. n.,2,karma,2
+2,paWitAni,paW,pp.,5,,
+3,hariRA,hari,nom. sg. n.,9,karwa,2

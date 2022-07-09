@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,avivekaH,viveka,nom. sg. m.,1,karwa,3
+1,paramApadAm,Apad,g. pl. f.,39,rartisambanxah,2
+2,padam,pada,acc. sg. m.,4,karma,3
+3,vfRute,vf,pr. [5] md. sg. 3,7,,
+4,hi,hi,part.,8,sambanxah,3
+5,vimfSyakAriRam,kArin,acc. sg. m.,10,karmasamanaxikaranam,3
+6,guRa,guRa,voc. sg. m.,11,samboxyah,3
+7,lubDAH,lubDa,nom. pl. f.,13,viseranam,10
+8,svayam,svayam,adv.,16,kriyaviseranam,3
+9,eva,eva,prep.,17,sambanxah,8
+10,sampadaH,sampad,nom. pl. f.,19,karwqsamanaxikaranam,3

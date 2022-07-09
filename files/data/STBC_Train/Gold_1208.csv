@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svayam,svayam,acc. sg. n.,1,karma,2
+1,tu,tu,conj.,2,sambanxah,0
+2,vaYcyatAm,vaYc,ca. imp. ps. sg. 3,3,samucciwam,9
+3,nAma,nAman,acc. sg. n.,4,karma,2
+4,kintu,iti,adv.,6,sambanxah,8
+5,anyaH,anya,nom. sg. m.,7,karwa,8
+6,na,na,part.,8,sambanxah,8
+7,hi,hi,part.,9,sambanxah,6
+8,vaYcyatAm,vaYc,ca. imp. ps. sg. 3,10,samucciwam,9
+9,ca,ca,conj.,11,,

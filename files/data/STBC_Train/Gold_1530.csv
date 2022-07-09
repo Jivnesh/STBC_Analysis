@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahatA,mahant,i. sg. n.,1,viseranam,1
+1,kAWinyena,kAWinya,i. sg. n.,2,karanam,4
+2,BavadByaH,BU,abl. pl. n.,4,apaxanam,4
+3,catuHSatarUpyakARi,rUpyaka,nom. pl. n.,8,karwa,4
+4,militAni,vac,pp.,10,,

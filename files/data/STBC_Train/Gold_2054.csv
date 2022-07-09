@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ASlezalolupavaDUstanakArkaSyasAkziRIM,tad,acc. sg. f.,0,viseranam,1
+1,vanamAlAm,vanamAlA,acc. sg. f.,2,karma,4
+2,aBimAnozREH,uzRa,inst. pl. m.,4,viseranam,3
+3,muKAnilEH,muKAnila,inst. pl. m.,6,karanam,4
+4,mlApayan,tad,nom. sg. m.,7,bavalakranasapwami_samanakalah,6
+5,rAmaH,rAma,nom. sg. m.,8,karwa,6
+6,jagAda,gad,pft. ac. sg. 3,9,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDunA,aDunA,conj.,5,axikaranam,4
+1,anyA,anyA,nom. sg. f.,1,viseranam,2
+2,gatiH,gati,nom. sg. f.,2,karwa,4
+3,na,na,conj.,3,sambanxah,4
+4,asti,as,pr. ac. sg. 3,4,,

@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asti,as,pr. [2] ac. sg. 3,0,samucciwam,18
+1,tAvat,tAvat,adv.,1,sambanxah,0
+2,ekadA,ekadA,loc. sg. m.,2,axikaranam,4
+3,prasaNgataH,prasaNga,adv.,3,kriyaviseranam,4
+4,kaTitaH,tad,nom. sg. m.,4,viseranam,8
+5,eva,eva,prep.,5,sambanxah,6
+6,mayA,maya,nom. pl. m.,6,karwa,4
+7,mADavABiDAnaH,aBiDAna,nom. sg. m.,50,viseranam,8
+8,kumAraH,kumAra,nom. sg. m.,10,karwa,0
+9,yaH,yad,nom. sg. m.,11,karwqsamanaxikaranam,0
+10,tvam,yuzmad,nom. sg. *,12,prawiyogi,11
+11,iva,iva,part.,13,anuyogi,9
+12,mAmakInasya,tad,g. sg. n.,15,viseranam,13
+13,manasaH,manas,g. sg. n.,16,rartisambanxah,15
+14,dvitIyam,dvitIya,nom. sg. n.,28,viseranam,15
+15,nibanDanam,banDana,nom. sg. n.,31,karwqsamanaxikaranam,16
+16,asti,as,pr. [2] ac. sg. 3,32,samucciwam,18
+17,saH,tad,nom. sg. m.,33,karwa,16
+18,ca,ca,conj.,34,,

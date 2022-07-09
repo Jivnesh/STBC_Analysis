@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gfhasTaH,gfhasTa,nom. sg. m.,0,karwa,7
+1,api,api,conj.,1,sambanxah,0
+2,tam,tad,acc. sg. m.,3,karma,5
+3,evam,evam,adv.,4,kriyaviseranam,4
+4,Acarantam,car,ppr. [1] ac.,5,bavalakranasapwami_samanakalah,5
+5,avalokya,loka,abs.,6,purvakalah,7
+6,BAvavihvalaH,vihvala,nom. sg. m.,8,karwqsamanaxikaranam,7
+7,jAtaH,jAta,pp.,9,,

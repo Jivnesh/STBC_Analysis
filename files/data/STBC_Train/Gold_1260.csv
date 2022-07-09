@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hiMsakeByaH,hiMsaka,abl. pl. m.,0,viseranam,1
+1,sArameyeByaH,sArameya,abl. pl. m.,4,apaxanam,2
+2,BItaH,BIta,pp. . sg. ,6,viseranam,4
+3,ekaH,eka,nom. sg. m.,7,viseranam,4
+4,putraH,putra,nom. sg. m.,8,karwa,6
+5,palAyanam,palAyana,acc. sg. n.,9,karma,6
+6,akarot,kf,impft . ac. sg. 3,11,,

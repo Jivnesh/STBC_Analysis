@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,siMhaH,siMha,nom. sg. m.,0,karwa,2
+1,mahAtmAnam,Atman,acc. sg. *,16,karma,2
+2,ajiGrat,GrA,ppr. [1] ac.,5,samucciwam,4
+3,nirgataH,gam,pp.,6,samucciwam,4
+4,ca,ca,conj.,7,,
+5,tUzRIm,tUzRIm,adv.,8,kriyaviseranam,3

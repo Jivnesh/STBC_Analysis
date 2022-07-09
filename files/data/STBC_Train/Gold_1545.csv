@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sadA,sadA,adv.,0,kriyaviseranam,6
+1,mahArAja,raja,loc. sg. m.,2,axikaranam,6
+2,aham,asmad,nom. sg. *,3,karwa,6
+3,eva,eva,prep.,4,sambanxah,2
+4,BavataH,BU,g. sg. m.,5,rartisambanxah,5
+5,sevAm,sevA,acc. sg. f.,6,karma,6
+6,karomi,kf,pr. [8] ac. sg. 1,7,,

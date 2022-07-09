@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatPalAnuBAvam,anuBAva,acc. sg. m.,19,prawiyogi,1
+1,vinA,vinA,prep.,4,anuyogi,6
+2,tat,tad,nom. sg. n.,6,viseranam,3
+3,mandaH,manda,nom. sg. m.,7,karwa,6
+4,na,na,part.,10,sambanxah,6
+5,eva,eva,prep.,11,sambanxah,4
+6,manyate,man,pr. ps. sg. 3,12,,

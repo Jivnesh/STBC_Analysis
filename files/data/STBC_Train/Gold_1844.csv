@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SamIkam,SamIka,acc. sg. m.,0,viseranam,1
+1,fzim,fz,acc. sg. m.,1,karma,2
+2,praRamya,nam,abs.,2,purvakalah,10
+3,manuzyavAcA,vAcA,i. sg. f.,5,karanam,10
+4,tam,tad,acc. sg. m.,6,prawiyogi,5
+5,prati,prati,prep.,7,anuyogi,7
+6,svIyAm,svIya,acc. sg. f.,8,viseranam,7
+7,kftajYatAm,jYa,acc. sg. f.,11,karma,10
+8,BUri,BUri,acc. sg. n.,12,sambanxah,9
+9,BUri,BUri,acc. sg. n.,14,sambanxah,10
+10,niveditavantaH,vac,ca. pp.,16,,

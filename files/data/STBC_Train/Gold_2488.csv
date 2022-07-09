@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,daSaraTAtmajaH,Atmaja,nom. sg. m.,16,viseranam,1
+1,rAmaH,rAma,nom. sg. m.,3,karwa,4
+2,SabaryA,arya,nom. sg. f.,17,karwa,4
+3,samyak,samyak,adv.,5,kriyaviseranam,4
+4,pUjitaH,smf,pp.,6,,

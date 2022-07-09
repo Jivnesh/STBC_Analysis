@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prativAdI,Adin,nom. sg. m.,10,viseranam,3
+1,ca,ca,conj.,2,sambanxah,4
+2,mama,asmad,g. sg. *,3,rartisambanxah,3
+3,agrajaH,agraja,nom. sg. m.,4,karwa,4
+4,asti,as,pr. [2] ac. sg. 3,5,,

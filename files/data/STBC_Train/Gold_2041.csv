@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,param,para,acc. sg. m.,0,viseranam,1
+1,anyadvayam,dvaya,acc. sg. m.,21,karma,10
+2,tu,tu,conj.,6,sambanxah,1
+3,parIkzAyAm,parIkzA,loc. sg. f.,7,axikaranam,5
+4,asaPalam,saPala,acc. sg. m.,42,karma,5
+5,matvA,man,abs.,11,purvakalah,9
+6,gurukule,kula,loc. sg. n.,15,axikaranam,8
+7,eva,eva,prep.,16,sambanxah,6
+8,sTAtum,sTA,inf.,17,prayojanam,9
+9,AdiSat,diS,impft. [6] ac. sg. 3,18,,
+10,iti,iti,part.,19,sambanxah,9

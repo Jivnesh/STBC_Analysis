@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,arivaDodayAt,udaya,abl. sg. m.,29,hewuh,1
+1,purandarasya,tad,g. sg. m.,5,rartisambanxah,2
+2,udUQadraQima,tad,nom. sg. n.,4,viseranam,3
+3,hfdayaM,hfdaya,nom. sg. n.,7,karwa,6
+4,punaH,punar,conj.,9,kriyaviseranam,6
+5,GanapulakapulomajAkucAgradrutapariramBanipIqanakzamatvaM,kzamatva,acc. sg. n.,11,karma,6
+6,daDAtu,DA,imp. ac. sg. 3,12,,

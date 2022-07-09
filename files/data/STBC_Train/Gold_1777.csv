@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atra,atra,conj.,0,axikaranam,6
+1,vanaspatiskanDanizazRabAlapravAlahastAH,hasta,nom. pl. f.,22,karma,6
+2,maDuvratavrAtavfttEH,vft,inst. pl. m.,4,viseranam,5
+3,lamBitalocakEH,tad,inst. pl. m.,7,viseranam,5
+4,vA,vA,conj.,8,sambanxah,6
+5,puzpaIkzaREH,IkzaRa,inst. pl. m.,9,karwa,6
+6,upalakzitAH,lakz,nom. pl. m.,12,viseranam,7
+7,vratatyaH,vratati,nom. pl. m.,13,karwa,10
+8,pramadAH,pramada,nom. pl. m.,16,prawiyogi,9
+9,iva,iva,conj.,19,anuyogi,7
+10,lakzyante,lakz,pr. md. pl. 3,20,,

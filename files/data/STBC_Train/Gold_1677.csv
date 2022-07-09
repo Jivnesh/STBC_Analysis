@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,tAni,tad,acc. pl. n.,1,karma,3
+2,BAre,BAra,loc. sg. m.,3,axikaranam,3
+3,nyakzipat,kzip,impft . ac. sg. 3,4,samucciwam,5
+4,agacCat,gam,impft . ac. sg. 3,5,samucciwam,5
+5,ca,ca,conj.,6,,

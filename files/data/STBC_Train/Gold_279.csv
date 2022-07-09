@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,satyam,satya,nom. sg. n.,2,karwa,2
+1,eva,eva,prep.,3,sambanxah,0
+2,asti,as,pr. [2] ac. sg. 3,4,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svArTinaH,arTin,nom. pl. m.,32,viseranam,1
+1,SAsakAH,SAsaka,nom. pl. m.,4,karwa,7
+2,tasyAH,tad,g. sg. f.,5,rartisambanxah,5
+3,suKe,suKa,loc. sg. m.,7,samucciwam,5
+4,SAntyAm,rAjan,loc. sg. m.,15,samucciwam,5
+5,ca,ca,conj.,16,axikaranam,7
+6,bADakAH,bADaka,nom. pl. m.,17,karwqsamanaxikaranam,7
+7,Bavanti,BU,pr. [1] ac. pl. 3,18,,

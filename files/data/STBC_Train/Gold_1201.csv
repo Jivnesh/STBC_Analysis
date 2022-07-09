@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kopi,kim,nom. sg. m.,1,karwa,7
+1,dvitIyena,dvitIya,i. sg. m.,2,upapaxasambanxah,3
+2,saha,saha,adv.,4,sambanxah,0
+3,na,na,part.,6,sambanxah,5
+4,atizWat,sTA,impft. [1] ac. sg. 3,7,samucciwam,6
+5,na,na,part.,8,sambanxah,6
+6,ca,ca,conj.,9,,
+7,avadat,vad,impft. [1] ac. sg. 3,10,samucciwam,6

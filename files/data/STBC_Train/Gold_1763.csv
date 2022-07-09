@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,etezu,etad,loc. pl. n.,0,sambanxah,1
+1,katamaH,katama,nom. sg. m.,2,viseranam,2
+2,putraH,putra,nom. sg. m.,3,karwa,4
+3,rAjA,rAjan,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,Bavatu,BU,imp. [1] ac. sg. 3,8,karma,7
+5,iti,iti,part.,9,sambanxah,7
+6,ciram,cira,adv.,12,kriyaviseranam,7
+7,acintayat,brU,impft. [10] ac. sg. 3,13,,
+8,mahArAjaH,tad,nom. pl. m.,16,karwa,7

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AyatavalgaM,tad,nom. sg. n.,3,karma,4
+1,yatnanirudDavAhEH,vAha,inst. pl. m.,7,viseranam,2
+2,turaNgiBiH,tad,inst. pl. m.,10,karwa,4
+3,agre,agre,conj.,13,axikaranam,4
+4,avekzitAn,Ikzita,acc. pl. m.,40,viseranam,7
+5,reRuBiH,reRu,inst. pl. m.,16,karanam,12
+6,prakrIqitAn,Iq,acc. pl. m.,18,viseranam,7
+7,pfTukAn,pfTuka,acc. pl. m.,19,karma,12
+8,jananyaH,jananI,nom. pl. f.,20,karwa,12
+9,tUrRam,tUrRam,conj.,23,kriyaviseranam,10
+10,etya,i,abs.,24,purvakalah,12
+11,paTiByaH,paTi,abl. pl. m.,26,apaxanam,12
+12,ninyuH,nI,pft. ac. pl. 3,27,,

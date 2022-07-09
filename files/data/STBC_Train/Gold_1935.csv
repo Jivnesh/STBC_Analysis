@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,9
+1,yaTApUrvam,pUrva,acc. sg. m.,2,kriyaviseranam,9
+2,maDurASvAsanadAnena,Ana,i. sg. m.,9,karanam,9
+3,ekArDaGaRwAyAm,GaRwA,loc. sg. f.,11,axikaranam,9
+4,eva,eva,prep.,12,sambanxah,3
+5,vAhanAnAm,vAhana,g. pl. n.,14,rartisambanxah,6
+6,gamanam,gamana,nom. sg. n.,16,samucciwam,8
+7,Agamanam,Agamana,nom. sg. n.,19,samucciwam,8
+8,ca,ca,conj.,20,karwa,9
+9,prArabDam,vac,pp.,23,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anye,anya,nom. pl. m.,0,karwa,7
+1,bahalayAvakapaNkapiNgapicCaavacUqaM,muni,acc. sg. m.,5,karma,2
+2,biBrARayA,Bf,inst. sg. f.,6,viseranam,4
+3,caYcuagradazwacawulaahipatAkayA,patAkA,inst. sg. f.,7,viseranam,4
+4,uragaaSanaketuyazwyA,yazwi,inst. sg. f.,9,karanam,7
+5,anumADavaDAma,DAman,conj.,13,viseranam,6
+6,svaAvAsaBAgaM,BAga,acc. sg. m.,14,karma,7
+7,jagmuH,gam,pft. ac. pl. 3,29,,

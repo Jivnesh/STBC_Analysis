@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIm,idAnIm,loc. sg. n.,0,axikaranam,6
+1,ayam,idam,nom. sg. m.,1,viseranam,3
+2,me,asmad,g. sg. *,2,rartisambanxah,3
+3,pitA,pitf,nom. sg. m.,4,karwa,6
+4,atra,atra,loc. sg. n.,6,axikaranam,6
+5,eva,eva,prep.,5,sambanxah,4
+6,vatsyati,vas,fut. ac. sg. 3,7,,

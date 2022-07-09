@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yAtrAtaH,yAtrA,abl. sg. f.,1,apaxanam,1
+1,pratinivftya,vft,abs.,38,purvakalah,4
+2,BavataH,BU,g. sg. n.,3,rartisambanxah,3
+3,uttaram,uttara,acc. sg. m.,7,karma,4
+4,dAsyAmi,dA,fut. ac. sg. 1,12,samucciwam,11
+5,yAvat,yAvat,adv.,13,sambanxah,4
+6,tAvat,tAvat,prep.,14,sambanxah,10
+7,BavAn,Bava,acc. pl. m.,15,karwa,10
+8,api,ap,conj.,18,sambanxah,7
+9,AtmanirIkzaRam,nirIkzaRa,acc. sg. m.,20,karma,8
+10,karotu,kf,imp. [8] ac. sg. 3,23,samucciwam,11
+11,ca,ca,conj.,24,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sevAnivftyA,vft,nom. sg. f.,3,prawiyogi,1
+1,saha,saha,prep.,5,anuyogi,3
+2,tasya,tad,g. sg. n.,6,rartisambanxah,3
+3,DarmapatnI,patnI,nom. sg. f.,9,karwa,6
+4,api,api,conj.,10,sambanxah,3
+5,divaNgatA,gam,nom. pl. m.,19,karwqsamanaxikaranam,6
+6,aBUt,BU,aor. [1] ac. sg. 3,20,,

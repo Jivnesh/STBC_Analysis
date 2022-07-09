@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samprati,samprati,conj.,0,axikaranam,2
+1,musalapARinA,tad,inst. sg. m.,2,karwa,2
+2,ukte,vac,nom. sg. n.,8,purvakalah,6
+3,sati,as,loc. sg. m.,10,viseranam,2
+4,vaktum,brU,inf.,11,prayojanam,6
+5,asAmprataM,sAmprata,acc. sg. m.,13,viseranam,6
+6,Bavati,BU,pr. ac. sg. 3,16,samucciwam,15
+7,leKena,leKa,inst. sg. m.,17,karanam,9
+8,arTe,arTa,loc. sg. m.,18,karwa,9
+9,nirDArite,Df,loc. sg. m.,24,purvakalah,14
+10,vAcikaM,vAcika,acc. sg. m.,25,karma,12
+11,Kalu,Kalu,conj.,28,sambanxah,12
+12,uktvA,vac,abs.,29,purvakalah,14
+13,Kalu,Kalu,conj.,30,sambanxah,12
+14,Bavati,BU,pr. ac. sg. 3,31,samucciwam,15
+15,ca,ca,conj.,32,,

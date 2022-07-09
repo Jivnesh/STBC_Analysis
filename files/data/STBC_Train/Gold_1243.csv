@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,inst. sg. m.,1,hewuh,5
+1,BUmO,BUmi,loc. sg. f.,2,axikaranam,5
+2,patitaH,pati,conj.,3,viseranam,3
+3,cOraH,cOra,nom. sg. m.,4,karwa,6
+4,yaTAkaTaYcit,cit,conj.,7,kriyaviseranam,5
+5,utTAya,zWA,conj.,8,purvakalah,6
+6,palAyitaH,palAyita,pp. . sg. ,9,,
+7,iti,iti,conj.,10,sambanxah,6

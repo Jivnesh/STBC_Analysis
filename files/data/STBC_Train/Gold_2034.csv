@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nijayA,tad,inst. sg. f.,0,viseranam,2
+1,svanasampadA,sampad,inst. sg. f.,1,viseranam,2
+2,kftasamArjanamardalamaRqalaDvanijayA,jayA,inst. sg. f.,2,karanam,7
+3,jaladapaNktiH,paNkti,nom. sg. f.,3,karwa,7
+4,unmadaM,unmada,acc. sg. n.,5,viseranam,6
+5,kalavilApi,Api,acc. sg. n.,13,viseranam,6
+6,kalApikadambakam,kadambaka,acc. sg. n.,8,karma,7
+7,anartayat,Ric,impft . ac. sg. 3,10,,

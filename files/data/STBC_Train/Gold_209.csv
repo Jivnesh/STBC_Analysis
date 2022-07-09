@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,viseranam,1
+1,pituH,pitf,g. sg. m.,1,rartisambanxah,3
+2,ekaH,eka,nom. sg. m.,3,samucciwam,6
+3,sambanDI,tad,nom. sg. m.,8,karwa,5
+4,mAm,asmad,acc. sg. *,9,karma,5
+5,paricinoti,BU,pr. [5] ac. sg. 3,10,samucciwam,6
+6,ca,ca,conj.,11,,

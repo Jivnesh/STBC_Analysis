@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,7
+1,api,api,prep.,2,sambanxah,0
+2,asya,idam,g. sg. n.,3,upapaxasambanxah,3
+3,pArSve,pArSva,loc. sg. n.,7,axikaranam,7
+4,ekam,eka,acc. sg. m.,9,viseranam,5
+5,gartam,garta,acc. sg. m.,12,karma,7
+6,Bavatkfte,kf,acc. du. f.,18,waxarwyam,7
+7,nirmAsyAmi,mA,fut. ac. sg. 1,19,,

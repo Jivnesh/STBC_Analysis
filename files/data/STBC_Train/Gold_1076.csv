@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,suptam,supta,acc. sg. m.,2,viseranam,1
+1,SrezWinam,SrezWin,acc. sg. m.,3,karma,4
+2,BAriprastareRa,prastara,i. sg. m.,6,karanam,4
+3,Sirasi,Siras,loc. sg. n.,7,axikaranam,4
+4,Ahatya,han,abs.,8,purvakalah,5
+5,palAyitaH,palAy,pp.,9,,

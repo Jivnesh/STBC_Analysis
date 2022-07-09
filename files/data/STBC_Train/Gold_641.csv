@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,3
+1,mfgAH,mfga,nom. pl. m.,3,karwa,4
+2,tasmin,tad,loc. sg. n.,4,axikaranam,3
+3,viSvasya,Svas,conj.,7,purvakalah,4
+4,pratyAgatAH,gam,pp. . pl. ,10,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,loc. sg. n.,0,axikaranam,5
+1,asya,idam,g. sg. m.,2,rartisambanxah,4
+2,kaScana,cana,part.,4,viseranam,4
+3,na,na,part.,5,sambanxah,5
+4,dozaH,doza,nom. sg. m.,7,karwa,5
+5,asti,as,pr. [2] ac. sg. 3,8,,

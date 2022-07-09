@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sA,tad,nom. sg. f.,0,karwa,2
+1,praTamam,sva,loc. sg. n.,3,axikaranam,2
+2,spfzwavatI,vac,pp.,6,samucciwam,3
+3,ca,ca,conj.,7,,
+4,kramaSaH,kramaSas,adv.,8,kriyaviseranam,9
+5,sarvAH,sarva,nom. pl. f.,22,viseranam,7
+6,api,api,conj.,10,sambanxah,5
+7,rAjYyaH,rAjan,nom. pl. f.,12,karwa,9
+8,rAjakumAram,kumAra,acc. sg. m.,14,karma,9
+9,spfzwavatyaH,vac,pp.,17,samucciwam,3

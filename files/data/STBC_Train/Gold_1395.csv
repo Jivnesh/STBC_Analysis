@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iBAH,iBa,nom. pl. m.,0,karwa,5
+1,yadA,yadA,conj.,1,viseranam,3
+2,uccEH,ucca,conj.,3,viseranam,3
+3,tarutalezu,tala,loc. pl. m.,6,axikaranam,5
+4,na,na,conj.,31,sambanxah,5
+5,mamuH,mA,pft. ac. pl. 3,10,samucciwam,21
+6,tadAnIm,tadAnIm,conj.,11,axikaranam,8
+7,ADoraREH,ADoraRa,inst. pl. m.,12,karwa,8
+8,aBihitAH,DA,nom. sg. n.,15,viseranam,9
+9,pfTumUlaSAKAH,SAKA,acc. pl. f.,16,karma,14
+10,banDAya,banDa,dat. sg. m.,18,waxarwyam,11
+11,tarasA,taras,inst. sg. m.,22,viseranam,12
+12,AtmanA,Atman,inst. sg. m.,5,karanam,14
+13,eva,eva,conj.,33,sambanxah,12
+14,cicCiduH,Cid,pft. ac. pl. 3,24,samucciwam,21
+15,aTavA,aTavA,conj.,26,sambanxah,19
+16,madaanDEH,anDa,inst. pl. m.,28,karwa,19
+17,AtmanInaM,AtmanIna,nom. sg. n.,30,karma,19
+18,na,na,conj.,8,sambanxah,19
+19,kriyate,kf,pr. md. sg. 3,32,samucciwam,21
+20,eva,eva,conj.,23,sambanxah,19
+21,ca,ca,conj.,34,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dviradadantavalakzaM,valakza,nom. sg. n.,1,viseranam,2
+1,sPuritaBfNgamfgacCavi,Cavi,nom. sg. n.,9,viseranam,2
+2,ketakam,ketaka,nom. sg. n.,10,karma,9
+3,GanaGanOGaviGawwanayA,tad,inst. sg. f.,23,karwa,9
+4,divaH,div,abl. sg. f.,22,apaxanam,9
+5,cyutaM,cyu,pp. . sg. ,26,viseranam,7
+6,kfSaSiKaM,SiKA,nom. sg. n.,27,viseranam,7
+7,SaSiKaRqam,KaRqa,nom. sg. n.,30,prawiyogi,8
+8,iva,iva,conj.,31,anuyogi,2
+9,alakzyata,lakz,impft . md. sg. 3,32,,

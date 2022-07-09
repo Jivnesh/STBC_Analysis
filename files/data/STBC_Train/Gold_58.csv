@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,20,karwa,8
+1,nisargaraktEH,rakta,inst. pl. m.,4,viseranam,7
+2,valayAvanadDatAmrASmaraSmicCuritEH,Cur,inst. pl. m.,10,viseranam,7
+3,adya,adya,conj.,11,axikaranam,8
+4,api,api,conj.,12,sambanxah,3
+5,surArivakzovikzoBajAasfksnapitEH,mahABAga,inst. pl. n.,14,prawiyogi,6
+6,iva,iva,conj.,15,anuyogi,7
+7,naKAgrEH,agra,inst. pl. n.,17,karanam,8
+8,vyadyotata,dyut,impft . md. sg. 3,19,,

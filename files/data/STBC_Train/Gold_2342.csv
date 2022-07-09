@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n.,1,axikaranam,2
+1,eva,eva,prep.,2,sambanxah,0
+2,vasatA,vas,nom. sg. n.,4,viseranam,3
+3,tena,tad,nom. sg. n.,6,karwa,8
+4,janasTAnanivAsinI,nivAsin,nom. sg. f.,11,viseranam,7
+5,kAmarUpiRIrAkzasI,rAkzasa,nom. sg. f.,14,viseranam,7
+6,SUrpaRaKA,SUrpaRaKA,nom. sg. f.,47,viseranam,7
+7,virUpitA,rUpa,nom. sg. f.,18,karma,8
+8,akarot,kf,impft. [8] ac. sg. 3,19,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIM,idAnIm,conj.,0,axikaranam,5
+1,tena,tad,inst. sg. m.,2,karwa,5
+2,putravaDvoH,vaDU,loc. du. f.,6,rartisambanxah,4
+3,eva,eva,conj.,8,sambanxah,2
+4,avalambanaM,avalambana,nom. sg. n.,10,karma,5
+5,grahItavyaM,grah,pfp. . sg. ,13,karwa,6
+6,jAtam,jAta,pp. . sg. ,16,,

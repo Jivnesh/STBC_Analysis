@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,4
+1,vfdDA,vfdDA,nom. sg. f.,3,karwa,5
+2,BikzukaM,Bikzuka,acc. sg. m.,4,karma,5
+3,kiM,kim,nom. sg. n.,6,karma,4
+4,kartuM,kf,conj.,7,prayojanam,5
+5,kaTitavatI,vac,pp. . sg. ,10,,

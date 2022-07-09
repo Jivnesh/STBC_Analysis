@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sTAne,sTAna,loc. sg. n.,2,axikaranam,1
+1,SamavatAm,Sama,g. pl. m.,4,viseranam,2
+2,aNginAM,aNgin,g. pl. m.,5,rartisambanxah,3
+3,SaktyA,Sakti,inst. sg. f.,8,karanam,6
+4,vyAyAme,vyAyAma,loc. sg. m.,9,axikaranam,6
+5,vfdDiH,vfdDi,nom. sg. f.,10,karwa,6
+6,Bavati,BU,pr. ac. sg. 3,11,,

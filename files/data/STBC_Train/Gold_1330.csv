@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. m.,0,axikaranam,9
+1,dvayoH,tad,g. du. n.,6,rartisambanxah,2
+2,vivAdam,vivAda,acc. sg. m.,7,karma,3
+3,SrutvA,Sru,abs.,8,purvakalah,9
+4,mahArAjaH,rAjan,nom. pl. m.,11,karwa,9
+5,dvArapAlam,pAla,acc. sg. m.,13,karma,9
+6,tam,tad,acc. sg. m.,14,viseranam,7
+7,janam,jana,acc. sg. m.,15,karma,8
+8,upasTApayitum,sTA,ca. inf.,18,prayojanam,9
+9,AdizwavAn,Adizwa,pp.,19,,

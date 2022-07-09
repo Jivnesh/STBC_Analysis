@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTaya,kaT,imp. [10] ac. sg. 2,0,,
+1,kutra,kutra,loc. sg. m.,1,axikaranam,3
+2,mAm,asmad,acc. sg. *,2,karma,3
+3,nayasi,nI,pr. [1] ac. sg. 2,3,prawiyogi,4
+4,iti,t,part.,4,anuyogi,0

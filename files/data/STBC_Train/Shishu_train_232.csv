@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,saH,tad,nom. sg. m.,NA,prawiyogi,1
+1,iti,iti,ind.,NA,anuyogi,2
+2,viSakalitaarTAm,viSakalita-arTA,acc. sg. f.,NA,viseranam,11
+3,anugatanayamArgAM,anu-gata-naya-mArgA,acc. sg. f.,NA,viseranam,11
+4,durnayasya,durnaya,g. sg. m.,NA,rartisambanxah,5
+5,argalAM,argalA,acc. sg. f.,NA,viseranam,11
+6,ata eva,ata eva,ind.,NA,sambanxah,14
+7,janitamudam,janita-mud,acc. sg. f.,NA,viseranam,11
+8,ucCritaurasTalaniyatanizaRRaSrISrutAm,ucCrita-urasTala-niyata-nizaRRa-SrI-SrutA,acc. sg. f.,NA,viseranam,11
+9,OdDavIIm,OdDavI-I,acc. sg. f.,NA,viseranam,11
+10,enAM,idam,acc. sg. f.,NA,viseranam,11
+11,vAcaM,vAc,acc. sg. f.,NA,karma,12
+12,SuSruvAn,Sru1,nom. sg. m.,NA,karwa,14
+13,uccakEH,uccakEH,ind.,NA,kriyaviseranam,14
+14,udasTAt,ud_sTA1,aor. ac. sg. 3,NA,,

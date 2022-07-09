@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,axikaranam,11
+1,gfhAntarezu,antara,loc. pl. m.,26,axikaranam,8
+2,vitardiniryUhaviwaNkanIqaH,nIqa,nom. sg. m.,4,viseranam,4
+3,vayasAM,vayas,g. pl. n.,6,rartisambanxah,4
+4,gaRaH,gaRa,nom. sg. m.,7,karwa,8
+5,aNganAnAM,BUta,g. pl. n.,9,rartisambanxah,7
+6,ratAntare,antara,loc. sg. m.,51,axikaranam,8
+7,rutAni,ruta,acc. pl. n.,15,karma,8
+8,SrfRvan,Sru,nom. sg. m.,17,bavalakranasapwami_samanakalah,11
+9,sPuwam,sPuwa,conj.,20,viseranam,11
+10,antevAsitvam,tad,acc. sg. n.,22,karma,11
+11,Apa,Ap,pft. ac. sg. 3,24,,

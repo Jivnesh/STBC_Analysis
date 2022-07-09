@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tyajatu,tyaj,imp. [1] ac. sg. 3,0,sambanxah,1
+1,mAm,asmad,acc. sg. *,1,karma,2
+2,tyajatu,tyaj,imp. [1] ac. sg. 3,2,,

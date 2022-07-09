@@ -1,0 +1,21 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,priyatamavakzasaH,vakzas,abl. sg. n.,1,apaxanam,9
+1,saNkrAntam,krAnta,acc. sg. m.,8,viseranam,3
+2,asyAH,idam,g. sg. f.,9,rartisambanxah,3
+3,aNgarAgam,rAga,acc. sg. m.,11,karma,8
+4,aDunA,aDunA,conj.,12,axikaranam,8
+5,sarasi,saras,loc. sg. n.,13,axikaranam,8
+6,amBaH,amBas,nom. sg. n.,15,karwa,8
+7,sADu,sADu,conj.,17,viseranam,8
+8,harizyate,hf,fut. md. sg. 3,19,prawiyogi,9
+9,iti,iti,conj.,20,anuyogi,10
+10,evaM,evam,conj.,21,sambanxah,19
+11,tuzwvA,tuz,conj.,22,purvakalah,19
+12,sapadi,sapadi,conj.,23,viseranam,14
+13,tatra,tatra,conj.,24,axikaranam,14
+14,hfte,hf,pp. . sg. ,30,purvakalah,19
+15,api,api,conj.,31,sambanxah,14
+16,sPuwanaKalakzmaRaH,lakzmaRa,g. sg. f.,35,viseranam,17
+17,kasyAScit,tad,g. sg. f.,38,rartisambanxah,18
+18,sapatnyA,sapatnI,inst. sg. f.,39,karwa,19
+19,tepe,tap,pft. md. sg. 3,40,,

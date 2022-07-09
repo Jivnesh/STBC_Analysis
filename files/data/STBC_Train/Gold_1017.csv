@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,devAn,deva,acc. pl. m.,0,karma,2
+1,BogAn,Boga,acc. pl. m.,2,karma,2
+2,Bikzante,Baj,des. pr. md. pl. 3,3,,
+3,narAH,nara,nom. pl. m.,4,karwa,2

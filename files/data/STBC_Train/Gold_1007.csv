@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. n.,0,axikaranam,4
+1,rAjA,rAjan,nom. sg. m.,1,karwa,4
+2,saBAyAm,saBA,loc. sg. f.,5,axikaranam,4
+3,tam,tad,acc. sg. m.,6,karma,4
+4,AhUtavAn,vac,pp.,7,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAlavaSAt,vaSa,abl. sg. m.,0,hewuh,1
+1,balavAn,bala,nom. sg. m.,2,karwa,7
+2,api,api,conj.,3,sambanxah,1
+3,parezu,para,loc. pl. m.,5,viseranam,4
+4,upacitezu,ci,loc. sg. m.,8,axikaranam,7
+5,satsu,as,nom. sg. n.,10,viseranam,4
+6,asamarTatAM,tad,acc. sg. f.,11,karma,7
+7,vrajati,vraj,pr. ac. sg. 3,12,,

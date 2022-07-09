@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,param,para,acc. sg. m.,0,sambanxah,7
+1,saH,tad,nom. sg. m.,3,viseranam,2
+2,siMhaH,siMha,nom. sg. m.,4,karwa,7
+3,svAminaH,svAmin,g. sg. m.,7,viseranam,4
+4,sannyAsinaH,tad,g. sg. m.,14,rartisambanxah,5
+5,ahiMsApraBAveRa,praBAva,i. sg. m.,17,hewuh,7
+6,hiMsAm,tad,acc. sg. f.,19,karma,7
+7,atyajat,tyaj,impft. [1] ac. sg. 3,20,,

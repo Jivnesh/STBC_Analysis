@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svakAryam,kf,acc. sg. n.,0,karma,2
+1,samyak,samyak,adv.,1,kriyaviseranam,2
+2,nirvoQum,vah,inf.,2,prayojanam,6
+3,aSaktaH,Sak,nom. sg. m.,4,viseranam,4
+4,praDAnamantrI,hutavaha,nom. sg. m.,6,karwa,6
+5,rAjAnam,raja,nom. sg. m.,8,karma,6
+6,niveditavAn,gam,ca. pp.,7,,

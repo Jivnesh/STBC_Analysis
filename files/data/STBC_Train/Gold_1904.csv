@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ye,yad,nom. pl. m.,2,sambanxah,6
+1,DIrAH,DIra,nom. pl. m.,8,karwa,5
+2,sopaDAnAM,upaDA,acc. sg. f.,12,viseranam,4
+3,sTeyasIM,tad,acc. sg. f.,13,viseranam,4
+4,DiyaM,DI,acc. sg. f.,14,karma,5
+5,Kawvayanti,Ric,pr. ac. pl. 3,17,samucciwam,15
+6,te,tad,nom. pl. m.,20,viseranam,9
+7,tatra,tatra,conj.,25,axikaranam,14
+8,aniSaM,aniSa,nom. sg. n.,28,viseranam,10
+9,nizaRRAH,tad,nom. pl. m.,29,karwa,14
+10,santaH,as,nom. pl. m.,30,viseranam,9
+11,jAtu,jAtu,conj.,31,viseranam,14
+12,SramaM,Srama,acc. sg. m.,32,karma,14
+13,na,na,conj.,33,sambanxah,14
+14,jAnate,jYA,pr. ps. pl. 3,35,samucciwam,15
+15,ca,ca,conj.,36,,

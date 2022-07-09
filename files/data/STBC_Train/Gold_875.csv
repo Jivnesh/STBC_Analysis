@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,GaRwAdvayasya,dvaya,g. sg. m.,1,rartisambanxah,1
+1,samayam,samaya,acc. sg. m.,3,karma,3
+2,te,tad,acc. du. n.,4,sampraxanam,3
+3,dadAmi,dA,pr. [3] ac. sg. 1,11,,

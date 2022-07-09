@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patnyA,patnI,i. sg. f.,0,karanam,1
+1,preritaH,tad,nom. sg. m.,1,viseranam,3
+2,sADAraRaH,sADAraRa,nom. sg. m.,2,viseranam,3
+3,janaH,jana,nom. sg. n.,5,karwa,8
+4,api,ap,conj.,7,sambanxah,3
+5,svakIyam,svakIya,acc. sg. n.,9,viseranam,6
+6,janmadinam,dina,acc. sg. n.,12,karma,8
+7,ekadA,da,loc. sg. m.,15,axikaranam,8
+8,Ayojayat,yuj,ca. impft. ac. sg. 3,33,,

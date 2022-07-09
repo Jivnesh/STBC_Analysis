@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yena,yad,acc. sg. n.,1,karma,3
+1,aham,asmad,nom. sg. *,2,karwa,3
+2,izwipaSumAram,mAra,adv.,8,kriyaviseranam,3
+3,mAritaH,mf,ca. pp.,9,samucciwam,8
+4,saH,tad,acc. sg. m.,10,karma,7
+5,anena,dam,i. sg. m.,12,viseranam,6
+6,svAgatena,svAgata,i. sg. m.,13,karanam,7
+7,aBinandyate,nand,pr. ps. sg. 3,62,samucciwam,8
+8,ca,ca,conj.,17,,

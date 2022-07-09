@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paSUnAm,paSu,g. pl. m.,0,rartisambanxah,2
+1,mOninAm,mOnin,g. pl. m.,1,viseranam,0
+2,hatyAm,hatyA,acc. sg. f.,4,karma,5
+3,ye,yad,nom. pl. m.,7,karwa,5
+4,vizeRa,viza,inst. sg. n.,11,karanam,5
+5,prakurvate,kf,pr. md. pl. 3,12,,

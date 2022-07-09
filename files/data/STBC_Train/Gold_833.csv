@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,viseranam,1
+1,rAjA,rAjan,nom. sg. m.,1,karwa,5
+2,svAn,sva,acc. pl. m.,5,viseranam,3
+3,putrAn,putra,acc. pl. m.,6,karma,5
+4,sahaBojanAya,sahaBojana,dat. sg. n.,9,waxarwyam,5
+5,akaTayat,brU,impft . ac. sg. 3,10,,

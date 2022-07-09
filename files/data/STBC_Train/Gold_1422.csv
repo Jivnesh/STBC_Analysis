@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saraBasam,ca,conj.,3,viseranam,3
+1,amBasaH,amBas,g. sg. n.,4,rartisambanxah,2
+2,avagAhakrIqABiH,krIqA,inst. pl. f.,6,karwa,3
+3,praBrazwEH,BraMS,pp. . pl. ,8,viseranam,7
+4,vidalitayUTikApiSaNgEH,piSaNga,inst. pl. m.,9,viseranam,7
+5,hiraRmayEH,hiraRmaya,inst. pl. m.,11,viseranam,7
+6,vaDUnAm,vaDU,g. pl. f.,12,rartisambanxah,7
+7,AkalpEH,Akalpa,inst. pl. m.,14,karwa,11
+8,sarasi,saras,loc. sg. n.,15,axikaranam,11
+9,OrvAgnidyutiSakalEH,Sakala,inst. pl. m.,17,prawiyogi,10
+10,iva,iva,conj.,18,anuyogi,7
+11,vyarAji,rAj,impft. md. sg. 3,19,,

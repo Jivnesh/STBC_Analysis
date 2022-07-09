@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrIvidyAsAgaraH,sAgara,nom. sg. m.,2,karwa,5
+1,kiYcit,eva,adv.,3,kriyaviseranam,2
+2,smayamAnaH,sma,nom. sg. m.,4,karwqsamanaxikaranam,5
+3,tO,tad,acc. du. m.,5,karma,4
+4,nivArayan,vf,nom. sg. m.,7,karwqsamanaxikaranam,5
+5,avadat,vad,impft. [1] ac. sg. 3,8,,

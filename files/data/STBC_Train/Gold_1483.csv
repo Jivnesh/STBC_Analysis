@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahile,mahilA,voc. sg. f.,16,samboxyah,1
+1,kaTaya,kaT,imp. [10] ac. sg. 2,2,,
+2,kena,kim,i. sg. n.,3,viseranam,3
+3,rahasyena,rahasya,i. sg. n.,6,karanam,7
+4,mama,asmad,g. sg. *,7,rartisambanxah,5
+5,janma,janman,acc. sg. n.,8,karma,7
+6,tvayA,yuzmad,i. sg. *,10,karwa,7
+7,sambadDam,tad,nom. sg. n.,13,prawiyogi,8
+8,iti,iti,part.,14,anuyogi,1

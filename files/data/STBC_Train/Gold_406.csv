@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,strI,strI,nom. sg. f.,0,karwa,3
+1,na,na,part.,3,sambanxah,3
+2,eva,eva,prep.,4,sambanxah,3
+3,asmi,as,pr. [2] ac. sg. 1,5,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfttahastaH,hasta,nom. sg. m.,1,viseranam,1
+1,liKitaH,Atman,nom. sg. m.,2,karwa,3
+2,SaNKam,SaNKa,acc. sg. m.,3,karma,3
+3,upagataH,gam,pp.,6,,

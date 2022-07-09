@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,3
+1,hi,hi,part.,1,sambanxah,0
+2,DanuzaH,Danus,abl. sg. n.,3,apaxanam,3
+3,nirgataH,gam,nom. sg. m.,8,viseranam,4
+4,bARaH,bARa,nom. sg. m.,9,karwa,7
+5,kadApi,Ap,loc. sg. m.,10,axikaranam,7
+6,parAvartayitum,vft,ca. inf.,27,prayojanam,7
+7,Sakyate,Sakya,pfp. [1],12,,

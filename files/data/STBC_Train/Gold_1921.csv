@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upAyena,upAya,i. sg. m.,0,viseranam,1
+1,svarakzAm,rakzA,acc. sg. f.,2,karanam,2
+2,karizyAmi,kf,fut. ac. sg. 1,4,karma,3
+3,kena,kim,i. sg. n.,6,,

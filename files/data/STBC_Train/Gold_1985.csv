@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,DyAnamagnaH,majj,nom. sg. m.,1,viseranam,1
+1,mahAtmA,Atman,nom. pl. m.,12,karwa,5
+2,idam,idam,acc. sg. n.,15,viseranam,3
+3,sarvam,sarva,acc. sg. m.,4,karma,5
+4,na,na,part.,7,sambanxah,5
+5,ajAnAt,jYA,impft. [9] ac. sg. 3,8,,

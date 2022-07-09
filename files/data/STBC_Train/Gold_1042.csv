@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDye,maDya,loc. sg. m.,0,axikaranam,7
+1,eva,eva,prep.,6,sambanxah,0
+2,tam,tad,acc. sg. m.,7,karma,3
+3,nivArayan,vf,nom. sg. m.,8,viseranam,6
+4,sammuKasTaH,sTa,nom. sg. m.,10,viseranam,6
+5,SAstrArTI,arTin,nom. sg. m.,24,viseranam,6
+6,vidvAn,tad,nom. sg. m.,12,karwa,7
+7,kaTitavAn,kaT,ppa.,13,,

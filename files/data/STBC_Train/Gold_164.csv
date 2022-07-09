@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,7
+1,vAlI,vAli,acc. du. m.,1,karwa,7
+2,tArAm,tArA,acc. sg. f.,4,karma,3
+3,anumAnya,mAn,conj.,5,purvakalah,6
+4,sugrIveRa,sugrIva,inst. sg. m.,6,upapaxasambanxah,5
+5,saha,saha,conj.,8,sambanxah,6
+6,yodDuM,yuD,conj.,9,prayojanam,7
+7,samAgataH,gam,pp. . sg. ,10,,

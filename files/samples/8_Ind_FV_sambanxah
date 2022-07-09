@@ -1,0 +1,41 @@
+0,na,na,part.,9,sambanxah,5
+1,aham,asmad,nom. sg. *,1,karwa,7
+2,adyAvaDiH,avaDi,loc. sg. m.,2,axikaranam,7
+3,ISvaram,ISvara,acc. sg. m.,3,karma,7
+4,apaSyam,paS,impft. [4] ac. sg. 1,6,sambanxah,7 ####### Ind_FV_sambanxah #######
+5,svacakzuzA,cakzus,i. sg. n.,8,karanam,6
+6,na,na,part.,0,sambanxah,7
+7,vA,vA,conj.,10,,
+8,cetasA,cetas,i. sg. n.,12,kriyaviseranam,9
+9,anvaBavam,Bava,impft. [1] ac. sg. 1,11,sambanxah,7 ####### Ind_FV_sambanxah #######
+
+0,sOKyam,tad,nom. sg. n.,1,karwa,2
+1,tyAge,tyAga,loc. sg. m.,2,axikaranam,2
+2,asti,as,pr. [2] ac. sg. 3,3,sambanxah,3 ####### Ind_FV_sambanxah #######
+3,aTavA,va,conj.,5,,
+4,AsaktO,Asakti,loc. sg. f.,6,axikaranam,5
+5,kaTayata,kaT,imp. [10] ac. pl. 2,7,sambanxah,3 ####### Ind_FV_sambanxah #######
+
+0,tvam,yuzmad,nom. sg. *,0,karwa,2
+1,pAdatrARe,trARa,acc. du. n.,2,karma,2
+2,dehi,dA,imp. [3] ac. sg. 2,31,sambanxah,3 ####### Ind_FV_sambanxah #######
+3,vA,vA,conj.,7,prawiyogi,6
+4,mA,mA,part.,32,sambanxah,5
+5,dehi,dA,imp. [3] ac. sg. 2,33,sambanxah,3 ####### Ind_FV_sambanxah #######
+6,kintu,ca,adv.,11,anuyogi,14
+7,asmE,idam,dat. sg. m.,13,viseranam,8
+8,bAlakAya,bAlaka,dat. sg. m.,14,sampraxanam,14
+9,tu,tu,conj.,16,sambanxah,8
+10,dvO,tad,acc. du. m.,18,viseranam,11
+11,pAdO,pAda,acc. du. m.,19,karma,14
+12,avaSyam,vaSya,pfp. [1],24,kriyaviseranam,14
+13,eva,eva,prep.,25,sambanxah,12
+14,dehi,dA,imp. [3] ac. sg. 2,41,,
+
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,api,api,conj.,1,sambanxah,0
+2,tvAm,yuzmad,acc. sg. *,3,karma,3
+3,hanizyAmi,niDA,fut. ac. sg. 1,4,sambanxah,4 ####### Ind_FV_sambanxah #######
+4,uta,vA,conj.,5,,
+5,nigrAhayizyAmi,grah,ca. fut. ac. sg. 1,6,sambanxah,4 ####### Ind_FV_sambanxah #######
+

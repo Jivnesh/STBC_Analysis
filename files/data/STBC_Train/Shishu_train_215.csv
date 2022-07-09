@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tasya,tad,g. sg. m.,NA,rartisambanxah,1
+1,janaaBiBAvinA,jana-aBiBAvin,i. sg. m.,NA,hewuh,6
+2,mahimnA,mahiman,i. sg. m.,NA,viseranam,4
+3,mahIyasAM,mahIyas,g. pl. n.,NA,viseranam,4
+4,mahasAM,mahas,g. pl. n.,NA,rartisambanxah,6
+5,muhuH,muhuH,ind.,NA,kriyaviseranam,6
+6,tiraskftaH,tiras_kf3,pp.,NA,viseranam,8
+7,tanuH,tanu,nom. sg. m.,NA,viseranam,8
+8,tanUnapAt,tanUnapAt,nom. sg. m.,NA,karwa,13
+9,ADijEH,ADija,i. pl. m.,NA,viseranam,10
+10,bAzpEH,bAzpa,i. pl. m.,NA,karanam,13
+11,dviguRIkftaM,dviguRI_kf3,pp.,NA,viseranam,12
+12,DUmavitAnam,DUma-vitAna,acc. sg. m.,NA,karma,13
+13,baBAra,Bf1,pft. ac. sg. 3,NA,,

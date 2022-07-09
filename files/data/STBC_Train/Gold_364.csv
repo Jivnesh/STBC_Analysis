@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,conj.,0,sambanxah,6
+1,asya,idam,g. sg. m.,2,rartisambanxah,2
+2,aNgAni,aNga,nom. pl. n.,4,samucciwam,5
+3,sTAsnUni,sTAsnu,nom. pl. n.,6,samucciwam,5
+4,balavanti,maRqala,nom. pl. n.,8,samucciwam,5
+5,ca,ca,conj.,9,karwa,6
+6,Bavanti,BU,pr. ac. pl. 3,10,,

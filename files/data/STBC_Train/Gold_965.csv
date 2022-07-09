@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mugDatvAt,mugDa,abl. sg. n.,0,hewuh,1
+1,aviditakEtavaprayogAH,prayoga,nom. pl. f.,1,viseranam,6
+2,tAH,tad,nom. pl. f.,3,viseranam,6
+3,sapadi,sapadi,conj.,4,viseranam,5
+4,parAjayaM,ji,nom. sg. n.,5,karma,5
+5,gacCantyaH,gam,nom. sg. n.,6,bavalakranasapwami_samanakalah,11
+6,taruRyaH,taruRI,nom. pl. f.,7,karwa,11
+7,kAntEH,kAnta,inst. pl. m.,9,upapaxasambanxah,8
+8,saha,saha,conj.,11,sambanxah,11
+9,aBisaraRaglahAM,tad,acc. sg. f.,12,viseranam,11
+10,karapuzkareritAmbuvyAtyukzIm,tad,acc. sg. f.,13,karma,11
+11,adIvyan,div,impft . ac. pl. 3,14,,

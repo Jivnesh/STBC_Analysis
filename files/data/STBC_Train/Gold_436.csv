@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nijastrIcawulAlasAnAM,tad,g. pl. m.,2,rartisambanxah,1
+1,madena,mada,inst. sg. m.,3,karanam,7
+2,kiYcit,ca,conj.,4,sambanxah,8
+3,cawulAlasAnAM,tad,g. pl. m.,8,viseranam,4
+4,vihaNgamAnAm,gama,g. pl. m.,10,rartisambanxah,5
+5,utpiYjalajAtapatrEH,tad,inst. pl. n.,11,viseranam,6
+6,jalajAtapatrEH,tad,inst. pl. n.,12,hewuh,7
+7,CAyAM,CAyA,acc. sg. f.,13,karma,12
+8,kurvARam,kf,acc. sg. m.,17,bavalakranasapwami_samanakalah,11
+9,asO,adas,nom. sg. m.,36,karwa,11
+10,giriM,giri,acc. sg. m.,20,viseranam,11
+11,rEvatakaM,rEvataka,acc. sg. m.,21,karma,12
+12,dadarSa,dfS,pft. ac. sg. 3,22,,

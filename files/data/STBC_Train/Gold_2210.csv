@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mARavakam,mARavaka,acc. sg. m.,0,karma,2
+1,mArgam,mArga,acc. sg. m.,1,karma,2
+2,apfcCAma,paS,impft. [6] ac. pl. 1,4,,

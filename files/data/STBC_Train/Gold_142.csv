@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mayA,asmad,inst. sg. *.,0,prawiyogi,1
+1,saha,saha,conj.,2,anuyogi,3
+2,AgacCa,gam,imp. ac. sg. 2,3,,
+3,munayaH,muni,nom. pl. m.,4,karwa,2

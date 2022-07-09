@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paScAt,paScAt,conj.,1,axikaranam,7
+1,tasya,tad,g. sg. m.,3,rartisambanxah,2
+2,patnyA,patnI,inst. sg. f.,4,samucciwam,4
+3,putreRa,putra,inst. sg. m.,5,samucciwam,4
+4,ca,ca,conj.,6,karwa,7
+5,patram,tad,nom. sg. n.,8,karma,7
+6,ekaM,eka,acc. sg. m.,9,viseranam,5
+7,prAptaM,prApta,pp. . sg. ,12,,

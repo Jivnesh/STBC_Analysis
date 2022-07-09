@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tapasvI,tapasvin,nom. sg. m.,0,viseranam,1
+1,vAlmIkiH,vAlmIki,nom. sg. m.,1,karwa,7
+2,tapaHsvADyAyaniratam,ram,acc. sg. m.,7,viseranam,6
+3,vAgvidAm,vid,g. pl. m.,23,rartisambanxah,4
+4,varam,vara,acc. sg. m.,27,viseranam,6
+5,munipuNgavam,tad,acc. sg. m.,12,viseranam,6
+6,nAradam,nArada,acc. sg. m.,13,karma,7
+7,paripapracCa,tf,pft. ac. pl. 2,16,,

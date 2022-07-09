@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTam,kaTam,adv.,0,kriyaviseranam,7
+1,na,na,part.,3,sambanxah,7
+2,ime,idam,acc. pl. m.,8,viseranam,4
+3,AtmIyAn,AtmIya,acc. pl. m.,9,viseranam,4
+4,putrapOtrAdIn,tad,acc. pl. m.,11,karma,6
+5,parameSvarAya,ISvara,dat. sg. m.,24,waxarwyam,6
+6,balidAnArTam,arTa,acc. sg. m.,27,prayojanam,7
+7,mArayanti,mf,ca. pr. ac. pl. 3,16,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tam,tad,acc. sg. m.,0,karma,1
+1,AdAya,dA,abs.,1,purvakalah,6
+2,sevakaH,sevaka,nom. sg. m.,2,karwa,6
+3,mantriRaH,mantrin,g. sg. m.,5,rartisambanxah,4
+4,sammuKe,sammuKa,loc. sg. m.,9,axikaranam,6
+5,upasTitam,sTA,acc. sg. m.,15,karma,6
+6,akarot,kf,impft. [8] ac. sg. 3,16,,

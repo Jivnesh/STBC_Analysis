@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,devaganDarvasaNkASAH,tad,nom. pl. m.,2,viseranam,1
+1,te,tad,nom. pl. m.,5,karwa,5
+2,trayaH,tf,nom. pl. m.,10,viseranam,1
+3,ramamARAH,ram,nom. pl. m.,13,viseranam,1
+4,suKam,suKa,adv.,16,kriyaviseranam,5
+5,nyavasan,vas,impft. [1] ac. pl. 3,17,,

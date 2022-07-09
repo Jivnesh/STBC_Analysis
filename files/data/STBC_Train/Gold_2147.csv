@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BikzukaH,Bikzuka,nom. sg. m.,0,karwa,5
+1,svecCayA,svecCA,inst. sg. f.,3,kriyaviseranam,2
+2,apasftya,sf,conj.,4,purvakalah,5
+3,rAjYe,rAjan,dat. sg. m.,5,sampraxanam,5
+4,mArgam,mArga,acc. sg. m.,6,karma,5
+5,dattavAn,datta,pp. . sg. ,9,,

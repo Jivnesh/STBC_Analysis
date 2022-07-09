@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SaraSayyAyAm,SayyA,loc. sg. f.,1,axikaranam,1
+1,SayAnaH,SI,nom. sg. m.,2,viseranam,2
+2,BIzmapitAmahaH,pitAmaha,nom. sg. m.,4,karwa,5
+3,pARqavAn,pARqava,acc. pl. m.,5,karma,4
+4,upadiSan,diS,nom. sg. m.,6,karwqsamanaxikaranam,5
+5,AsIt,as,aor. [5] ac. sg. 3,8,,

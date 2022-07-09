@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadyapi,api,conj.,1,sambanxah,2
+1,SAvakO,SAvaka,nom. du. m.,4,karwa,6
+2,evam,evam,adv.,5,kriyaviseranam,6
+3,tu,tu,conj.,6,sambanxah,2
+4,nirantaram,antara,adv.,9,kriyaviseranam,6
+5,eva,eva,prep.,10,sambanxah,4
+6,kUjataH,kUj,pr. [1] ac. du. 3,20,,
+7,sma,sma,part.,12,sambanxah,6

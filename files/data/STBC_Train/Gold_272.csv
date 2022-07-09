@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekalavyaH,ekalavya,nom. sg. m.,1,karwa,4
+1,DanurvidyAm,vidyA,acc. sg. f.,3,karma,2
+2,Sikzitum,Sikz,inf.,4,prayojanam,4
+3,kutra,kutra,loc. sg. m.,6,axikaranam,4
+4,gatavAn,gam,ppa.,7,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,are,ara,voc. sg. m.,5,samboxyah,6
+1,idam,idam,acc. sg. n.,21,karma,6
+2,tu,tu,conj.,7,sambanxah,1
+3,tadA,tadA,loc. sg. n.,9,axikaranam,6
+4,aham,asmad,nom. sg. *,8,karwa,8
+5,sarvaTA,sarvaTA,loc. sg. n.,10,axikaranam,6
+6,vismftavAn,tad,nom. sg. m.,11,karwqsamanaxikaranam,8
+7,eva,eva,prep.,12,sambanxah,6
+8,Asam,as,impft. [2] ac. sg. 1,24,,
+9,iti,iti,part.,14,sambanxah,8

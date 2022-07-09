@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kadAcit,cit,loc. sg. m.,1,axikaranam,3
+1,saH,tad,nom. sg. m.,2,karwa,4
+2,mahAvyADinA,vyADi,i. sg. m.,4,karanam,3
+3,grastaH,grasta,nom. sg. m.,5,karwa,4
+4,aBUt,BU,aor. [1] ac. sg. 3,6,,

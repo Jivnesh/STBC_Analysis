@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ramatAm,ram,imp. [1] md. sg. 3,6,,
+1,cittam,citta,nom. sg. n.,2,karwa,0
+2,CAtrARAm,CAttra,g. pl. m.,4,rartisambanxah,1
+3,vidyAyAm,vidyA,loc. sg. f.,5,axikaranam,0

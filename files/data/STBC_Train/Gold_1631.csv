@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAvinaH,BAvin,nom. pl. m.,1,karwa,2
+1,anarTAn,arTa,acc. pl. m.,7,karma,2
+2,jYAtum,jYA,inf.,8,prayojanam,5
+3,na,na,part.,9,sambanxah,5
+4,samarTaH,samarTa,nom. sg. m.,10,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,11,,
+6,janaH,jana,nom. sg. n.,14,karwa,5

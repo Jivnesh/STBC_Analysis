@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,3
+1,api,api,prep.,2,sambanxah,0
+2,duryoDanasya,duryoDana,g. sg. m.,3,viseranam,0
+3,SaNkAsTAnam,sTAna,nom. sg. n.,6,karwqsamanaxikaranam,5
+4,pARqavAH,pARqava,nom. pl. m.,7,karwa,5
+5,santi,as,pr. [2] ac. pl. 3,8,,

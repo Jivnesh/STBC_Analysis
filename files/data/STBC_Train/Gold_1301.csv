@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tezAm,tad,g. pl. n.,0,rartisambanxah,1
+1,jvalanaprakASe,prakASa,loc. sg. m.,3,axikaranam,3
+2,yat,yad,conj.,9,sambanxah,3
+3,liKitam,vac,pp.,12,samucciwam,11
+4,tat,tad,part.,14,sambanxah,8
+5,atra,atra,loc. sg. n.,15,axikaranam,9
+6,tvAm,yuzmad,acc. sg. *,16,karma,8
+7,eva,eva,prep.,17,sambanxah,6
+8,SrAvayitum,Sru,ca. inf.,18,prayojanam,9
+9,surakzitavAn,tad,nom. sg. m.,19,karwqsamanaxikaranam,10
+10,asmi,as,pr. [2] ac. sg. 1,20,samucciwam,11
+11,ca,ca,conj.,21,,

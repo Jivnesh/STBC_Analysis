@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,amunA,adas,inst. sg. m.,1,viseranam,1
+1,rAvaRena,rAvaRa,inst. sg. m.,3,karwa,3
+2,DanuH,Danus,acc. sg. n.,4,karma,3
+3,viDAtuM,DA,inf.,8,prayojanam,15
+4,utKAtavizARamaRqalaH,maRqala,nom. sg. m.,11,viseranam,6
+5,paretaBartuH,Bartf,g. sg. m.,13,rartisambanxah,6
+6,mahizaH,mahiza,nom. sg. m.,15,karwa,15
+7,BAre,BAra,loc. sg. m.,16,karwa,8
+8,hfte,hf,loc. sg. m.,22,purvakalah,15
+9,api,api,conj.,23,sambanxah,15
+10,mahataH,tad,g. sg. n.,29,rartisambanxah,11
+11,trapABarAt,ABara,abl. sg. m.,32,apaxanam,15
+12,BfSAnataM,anata,acc. sg. n.,36,viseranam,13
+13,SiraH,Siras,acc. sg. n.,37,karma,15
+14,duHKena,duHKa,inst. sg. n.,42,hewuh,15
+15,uvAha,vah,pft. ac. sg. 3,43,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Aryaputra,putra,voc. sg. m.,1,samboxyah,8
+1,AvAByAm,asmad,nom. du. *,4,karwa,7
+2,yAtrA,yAtrA,acc. sg. f.,6,karma,7
+3,sTagitA,diS,acc. pl. f.,9,karmasamanaxikaranam,7
+4,eva,eva,prep.,10,sambanxah,3
+5,kim,kim,ind.,12,sambanxah,8
+6,na,na,part.,13,sambanxah,7
+7,karaRIyA,tad,nom. sg. f.,15,karwa,8
+8,syAt,as,opt. [2] ac. sg. 3,25,,

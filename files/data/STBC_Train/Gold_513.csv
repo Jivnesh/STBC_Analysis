@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfkzasya,vfkza,g. sg. m.,0,rartisambanxah,1
+1,samIpam,samIpa,loc. sg. m.,3,axikaranam,4
+2,ekA,eka,nom. sg. f.,4,viseranam,3
+3,SilA,SilA,nom. sg. f.,7,karwa,4
+4,asti,as,pr. ac. sg. 3,8,,

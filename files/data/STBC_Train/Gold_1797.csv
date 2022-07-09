@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,patidevasya,deva,g. sg. m.,2,rartisambanxah,2
+2,nagarAntare,antara,loc. sg. m.,57,axikaranam,9
+3,parivartanena,parivartana,i. sg. m.,9,hewuh,9
+4,mama,asmad,g. sg. *,11,rartisambanxah,7
+5,api,api,conj.,12,sambanxah,4
+6,tatra,tatra,loc. sg. n.,14,axikaranam,7
+7,gamanam,gamana,nom. sg. n.,16,karwa,9
+8,anivAryam,vf,nom. sg. n.,24,karwqsamanaxikaranam,9
+9,aBavat,BU,impft. [1] ac. sg. 3,25,,
+10,eva,eva,prep.,26,sambanxah,9

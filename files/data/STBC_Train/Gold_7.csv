@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vedanArtaH,Arta,nom. sg. m.,29,viseranam,1
+1,rAjA,rAjan,nom. sg. m.,6,karwa,4
+2,aNgarakzakam,rakzaka,acc. sg. m.,8,karma,4
+3,kim,kim,acc. sg. m.,12,viseranam,2
+4,AdiSat,diS,impft. [6] ac. sg. 3,13,,

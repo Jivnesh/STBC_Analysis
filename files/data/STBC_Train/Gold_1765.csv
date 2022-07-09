@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evaM,evam,conj.,0,sambanxah,2
+1,BavatA,tad,inst. sg. m.,2,karwa,2
+2,virAdDaH,rAD,nom. sg. m.,3,bavalakranasapwami_samanakalah,12
+3,bahuDA,bahuDA,conj.,4,sambanxah,6
+4,naH,asmad,g. pl. n.,7,rartisambanxah,6
+5,ca,ca,conj.,8,sambanxah,6
+6,virAdDA,tad,nom. sg. m.,9,bavalakranasapwami_samanakalah,12
+7,SrutaSravasaH,SrutaSravas,g. sg. f.,12,rartisambanxah,8
+8,sutaH,suta,nom. sg. m.,39,karwa,12
+9,saH,tad,nom. sg. m.,14,viseranam,8
+10,kriyayA,kriyA,inst. sg. f.,17,karanam,12
+11,ariH,ari,nom. sg. m.,18,karwqsamanaxikaranam,12
+12,nirvartyate,Ric,pr. md. . 3,21,,

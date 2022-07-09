@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yasya,yad,g. sg. n.,0,rartisambanxah,1
+1,vikrayeRa,vikraya,i. sg. m.,2,hewuh,7
+2,sampUrRA,pUrRa,nom. pl. f.,4,viseranam,4
+3,api,api,conj.,6,sambanxah,2
+4,dardra,tad,nom. pl. f.,8,karwa,7
+5,dUre,dUra,loc. sg. n.,12,axikaranam,6
+6,Bavitum,BU,inf.,15,prayojanam,7
+7,Saknoti,Sak,pr. [5] ac. sg. 3,16,,
+8,sma,sma,part.,17,sambanxah,7

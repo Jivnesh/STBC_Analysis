@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sozmaRaH,sozman,g. sg. m.,0,viseranam,1
+1,tasya,tad,g. sg. m.,2,rartisambanxah,2
+2,vapuH,vapus,nom. sg. n.,4,karwa,8
+3,aBIkzRam,aBIkzRam,conj.,8,sambanxah,8
+4,uzREH,uzRa,inst. pl. m.,10,viseranam,6
+5,api,api,conj.,11,sambanxah,8
+6,surendrabandISvasitAnilEH,anila,inst. pl. m.,16,karanam,8
+7,yaTA,yaTA,conj.,17,sambanxah,9
+8,nirvavO,vA,pft. ac. sg. 3,18,samucciwam,16
+9,taTA,taTA,conj.,20,sambanxah,15
+10,tasya,tad,g. sg. m.,22,rartisambanxah,11
+11,vapuH,vapus,nom. sg. n.,24,karwa,15
+12,sacandanAmBakaRakomalEH,komala,inst. pl. m.,26,viseranam,13
+13,jalArdrApavanEH,pavana,inst. pl. m.,29,karanam,15
+14,na,na,conj.,30,sambanxah,15
+15,nirvavO,vA,pft. ac. sg. 3,31,samucciwam,16
+16,ca,ca,conj.,33,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,api,ap,prep.,2,sambanxah,0
+2,satyam,satya,acc. sg. m.,3,karma,3
+3,vadAmi,vad,pr. [1] ac. sg. 1,6,,

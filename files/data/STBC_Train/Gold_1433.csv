@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,budDiSastraH,Sastra,nom. sg. m.,1,viseranam,6
+1,prakftyaNgaH,aNga,nom. sg. m.,3,viseranam,6
+2,GanasaMvftikaYcukaH,kaYcuka,nom. sg. m.,6,viseranam,6
+3,cArekzaRaH,IkzaRa,nom. sg. m.,28,viseranam,6
+4,dUtamuKaH,tad,nom. sg. m.,12,viseranam,6
+5,evamBUtaH,evamBUta,nom. sg. m.,14,viseranam,6
+6,pArTivaH,pArTiva,nom. sg. m.,15,karwa,10
+7,kaH,kim,nom. sg. m.,16,viseranam,9
+8,api,api,conj.,17,sambanxah,7
+9,puruzaH,puruza,nom. sg. m.,19,karwqsamanaxikaranam,10
+10,asti,as,pr. ac. sg. 3,20,,

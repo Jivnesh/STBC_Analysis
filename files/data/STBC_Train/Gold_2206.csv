@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bojanam,Bojana,acc. sg. n.,0,karma,1
+1,upatizWatsu,sTA,ppr. [1] ac.,3,purvakalah,9
+2,putrezu,putra,loc. pl. m.,4,karwa,1
+3,saH,tad,nom. sg. m.,5,karwa,9
+4,guptadvArAt,dvAr,abl. sg. n.,7,apaxanam,9
+5,trIn,tf,acc. pl. m.,8,viseranam,7
+6,hiMsakAn,hiMsaka,acc. pl. m.,9,viseranam,7
+7,sArameyAn,sArameya,acc. pl. m.,10,karma,9
+8,api,api,conj.,11,sambanxah,7
+9,prEzayat,iz,ca. impft. ac. sg. 3,13,,

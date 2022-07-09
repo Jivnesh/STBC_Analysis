@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,atas,adv.,0,hewuh,5
+1,saH,tad,nom. sg. m.,1,karwa,3
+2,tO,tad,acc. du. m.,2,karma,3
+3,prahartum,hf,inf.,4,prayojanam,5
+4,asamarTaH,samarTa,nom. sg. m.,6,karwqsamanaxikaranam,1
+5,AsIt,as,aor. [5] ac. sg. 3,8,,

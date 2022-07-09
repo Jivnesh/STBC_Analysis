@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjakumArasya,kumAra,g. sg. m.,1,rartisambanxah,1
+1,sTAne,sTAna,loc. sg. n.,5,axikaranam,8
+2,tatsadfSI,sadfSa,nom. sg. f.,7,viseranam,6
+3,eva,eva,prep.,8,sambanxah,2
+4,maDUcCizwanirmitA,mita,nom. sg. f.,12,viseranam,6
+5,ekA,eka,nom. sg. f.,14,viseranam,6
+6,AkftiH,Akfti,nom. sg. f.,15,karma,8
+7,kuSalamUrtikAreRa,tad,i. sg. m.,17,karwa,8
+8,nirmApitA,mA,ca. pp.,18,,

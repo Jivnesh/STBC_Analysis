@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,idam,loc. sg. m.,1,viseranam,1
+1,dale,dala,loc. sg. m.,4,axikaranam,8
+2,sarve,sarva,nom. pl. m.,5,viseranam,4
+3,api,api,conj.,10,sambanxah,2
+4,pipIlakAH,pipIlaka,nom. pl. m.,12,karwa,8
+5,prAktanAH,prAktana,voc. pl. m.,14,viseranam,6
+6,mahendrAH,mahendra,nom. pl. m.,15,karwqsamanaxikaranam,8
+7,eva,eva,conj.,16,sambanxah,8
+8,santi,as,pr. ac. pl. 3,17,,

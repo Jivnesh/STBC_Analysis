@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,iti,conj.,0,samucciwam,7
+1,tataH,iti,conj.,1,apaxanam,6
+2,pfTak,pfTak,conj.,2,kriyaviseranam,3
+3,sTAtuM,zWA,conj.,3,prayojanam,6
+4,kadApi,kadApi,conj.,4,axikaranam,6
+5,na,na,conj.,7,sambanxah,6
+6,EcCat,iz,impft . ac. sg. 3,8,samucciwam,7
+7,ca,ca,conj.,9,,

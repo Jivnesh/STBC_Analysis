@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aruRitaaKilaSElavanA,vana,nom. sg. f.,24,karwa,4
+1,muhuH,muhur,conj.,6,viseranam,4
+2,paTikAn,paTika,acc. pl. m.,7,karma,4
+3,paritApinaH,tApin,acc. pl. m.,28,viseranam,2
+4,vidaDatI,DA,nom. sg. n.,16,bavalakranasapwami_samanakalah,8
+5,uccakEH,ca,conj.,17,viseranam,6
+6,vikacakiMSukasaMhatiH,saMhati,nom. sg. f.,20,karwa,8
+7,davahavyavahaSriyam,SrI,acc. sg. f.,21,karma,8
+8,avahat,vah,impft . ac. sg. 3,22,,

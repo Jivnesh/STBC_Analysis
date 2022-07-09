@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,i. sg. n.,0,hewuh,1
+1,santuzwaH,tuz,nom. sg. m.,2,viseranam,2
+2,rAjA,rAjan,nom. sg. m.,3,karwa,6
+3,tam,tad,acc. sg. m.,7,karma,6
+4,BUri,BUri,adv.,9,sambanxah,5
+5,BUri,BUri,adv.,11,kriyaviseranam,6
+6,praSaMsitavAn,SaMs,ca. ppa.,12,,

@@ -1,0 +1,26 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yA,yad,nom. sg. n.,1,karwa,23
+1,asti,as,pr. [2] ac. sg. 3,2,samucciwam,24
+2,tapoviSezapariSaNkitasya,SaNk,nom. sg. n.,6,viseranam,4
+3,sukumAram,sukumAra,nom. sg. n.,9,viseranam,4
+4,praharaRam,praharaRa,nom. sg. n.,11,viseranam,0
+5,mahendrasya,indra,nom. sg. n.,12,rartisambanxah,3
+6,pratyAdeSaH,pratyAdeSa,nom. sg. m.,13,viseranam,0
+7,rUpagarvitAyAH,tad,g. sg. f.,16,viseranam,8
+8,SriyaH,SrI,g. sg. f.,19,rartisambanxah,5
+9,alaNkAraH,tad,nom. sg. m.,21,viseranam,0
+10,svargasya,svarga,g. sg. m.,22,rartisambanxah,8
+11,sA,tad,nom. sg. f.,24,viseranam,12
+12,naH,asmad,g. pl. *,25,rartisambanxah,14
+13,priyasaKI,tad,nom. sg. f.,29,viseranam,14
+14,urvaSI,urvaSI,nom. sg. f.,30,karma,23
+15,kuberaBavanAt,Bavana,abl. sg. n.,32,apaxanam,23
+16,pratinirvartamAnA,vartamAna,loc. sg. f.,34,viseranam,18
+17,samApattidfzwena,dfzwa,i. sg. n.,36,viseranam,18
+18,keSinA,keSin,nom. sg. m.,39,viseranam,19
+19,dAnavena,dAnava,nom. sg. m.,40,karwa,23
+20,citraleKAdvitIyA,tad,nom. pl. m.,45,viseranam,21
+21,bandIgrAham,grAha,nom. sg. n.,50,karwa,23
+22,gfhItA,ca,adv.,53,kriyaviseranam,23
+23,asti,as,pr. [2] ac. sg. 3,54,samucciwam,24
+24,ca,ca,conj.,55,,

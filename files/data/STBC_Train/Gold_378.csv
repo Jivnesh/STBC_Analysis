@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,satyavacanAt,vacana,abl. sg. m.,1,hewuh,2
+1,DarmapASena,pASa,i. sg. m.,4,hewuh,2
+2,saMyataH,saMyat,nom. sg. m.,13,viseranam,5
+3,saH,tad,nom. sg. m.,14,viseranam,5
+4,rAjA,rAjan,nom. sg. m.,15,viseranam,5
+5,daSaraTaH,yad,nom. sg. m.,20,karwa,9
+6,priyam,priya,acc. sg. m.,21,viseranam,8
+7,sutam,suta,acc. sg. m.,48,viseranam,8
+8,rAmam,rAma,acc. sg. m.,25,karma,9
+9,vivAsayAmAsa,hA,pp.,28,,

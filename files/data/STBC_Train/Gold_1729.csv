@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,acc. sg. n.,13,karma,1
+1,SrutvA,Sru,abs.,2,purvakalah,8
+2,AnandASruBiH,aSru,i. pl. n.,21,karanam,3
+3,pariplutaH,pluta,nom. sg. m.,17,viseranam,4
+4,tapasvI,tapasvin,nom. sg. m.,4,karwa,8
+5,tam,tad,acc. sg. m.,5,viseranam,7
+6,AtmanaH,Atman,g. sg. *,6,rartisambanxah,7
+7,gurum,guru,acc. sg. m.,11,karma,8
+8,amanyata,man,impft. ps. sg. 3,12,,

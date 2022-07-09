@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gfhiRI,gfhin,nom. du. n.,1,karwa,6
+1,kasmE,kim,dat. sg. n.,3,sambanxah,2
+2,kasmE,kim,dat. sg. n.,5,sampraxanam,6
+3,kim,kim,acc. sg. n.,7,sambanxah,4
+4,kim,kim,acc. sg. n.,9,karwa,6
+5,Bojane,Bojana,loc. sg. n.,13,axikaranam,6
+6,paryavezayat,viz,ca. impft. ac. sg. 3,18,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,samucciwam,4
+1,evam,evam,conj.,1,karma,3
+2,anayA,idam,inst. sg. f.,2,karwa,3
+3,prazwavyam,pfzWa,pfp. . sg. ,5,samucciwam,4
+4,ca,ca,conj.,6,,

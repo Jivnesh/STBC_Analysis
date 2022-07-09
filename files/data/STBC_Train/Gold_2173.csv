@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,sambanxah,4
+1,tvam,yuzmad,nom. sg. *,1,karwa,2
+2,SatrusEnikaH,tad,nom. sg. m.,3,karwqsamanaxikaranam,3
+3,asi,as,pr. [2] ac. sg. 2,4,prawiyogi,0
+4,tarhi,tarhi,adv.,5,anuyogi,7
+5,anena,dam,i. sg. n.,7,hewuh,7
+6,kim,kim,part.,9,sambanxah,7
+7,asti,as,pr. [2] ac. sg. 3,10,,

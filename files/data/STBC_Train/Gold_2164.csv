@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n,0,axikaranam,8
+1,te,tad,nom. du. n.,2,karwa,8
+2,tasya,tad,g. sg. n.,8,rartisambanxah,3
+3,devyE,deva,dat. sg. f.,10,sampraxanam,5
+4,balim,bali,acc. sg. m.,11,karma,5
+5,dAtum,dA,inf.,14,prayojanam,6
+6,udyatAH,tad,nom. pl. f.,16,karwqsamanaxikaranam,8
+7,eva,eva,prep.,17,sambanxah,6
+8,Asan,as,impft. [2] ac. pl. 3,18,prawiyogi,9
+9,yat,yad,acc. sg. n.,40,anuyogi,10
+10,tezu,tad,loc. pl. n.,21,sambanxah,11
+11,ekajanasya,jana,g. sg. m.,24,rartisambanxah,12
+12,dfzwiH,dfzwi,nom. sg. f.,26,karwa,15
+13,rAjYaH,rAjan,g. sg. m.,28,rartisambanxah,14
+14,CinnANgulihaste,hasta,loc. sg. m.,31,axikaranam,15
+15,nyapatat,pat,impft. [1] ac. sg. 3,32,,

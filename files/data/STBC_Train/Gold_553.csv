@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,17,rartisambanxah,1
+1,Akrandanam,tad,acc. sg. n.,1,karma,2
+2,AkarRya,AkarRa,abs.,2,purvakalah,8
+3,sarve,sarva,nom. pl. m.,3,viseranam,5
+4,api,api,conj.,8,sambanxah,3
+5,SizyAH,Sizya,nom. pl. m.,25,karwa,8
+6,tatra,tatra,loc. sg. n.,12,axikaranam,8
+7,samavetAH,tad,nom. pl. m.,15,karwqsamanaxikaranam,8
+8,ajAyanta,jan,impft. [4] md. pl. 3,16,,

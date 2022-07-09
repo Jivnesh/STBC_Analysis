@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asya,idam,g. sg. m.,1,viseranam,1
+1,mahASayasya,ASaya,g. sg. m.,26,rartisambanxah,2
+2,jijYAsAyAH,jijYAsA,g. sg. f.,5,rartisambanxah,3
+3,uttaram,uttara,acc. sg. m.,10,karma,6
+4,tu,tu,conj.,13,sambanxah,3
+5,tAvat,tAvat,adv.,14,sambanxah,6
+6,dIyatAm,dA,imp. ps. sg. 3,16,,
+7,iti,iti,part.,17,sambanxah,6

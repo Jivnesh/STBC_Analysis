@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,na,conj.,0,viseranam,1
+1,anAgatam,gam,acc. sg. m.,4,viseranam,4
+2,api,api,conj.,5,sambanxah,1
+3,varDizRum,varDizRu,acc. sg. m.,7,viseranam,4
+4,ASrayam,ASraya,acc. sg. m.,8,karma,5
+5,upEti,i,pr. ac. sg. 3,9,,

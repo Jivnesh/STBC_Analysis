@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vayasya,vayasya,voc. sg. m.,0,samboxyah,8
+1,kim,kim,acc. sg. n.,1,sambanxah,8
+2,paramArTataH,arTa,adv.,3,kriyaviseranam,8
+3,eva,eva,prep.,4,sambanxah,2
+4,devyAH,deva,g. sg. f.,5,rartisambanxah,7
+5,vratanimittaH,nimitta,nom. sg. m.,8,viseranam,7
+6,ayam,dam,nom. sg. m.,9,viseranam,7
+7,AramBaH,AramBa,nom. sg. m.,10,karwa,8
+8,syAt,as,opt. [2] ac. sg. 3,28,,

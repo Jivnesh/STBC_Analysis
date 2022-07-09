@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,himalavasadfSaH,sadfS,acc. sg. m.,0,viseranam,1
+1,SramodabindUn,bindu,acc. pl. m.,1,karma,9
+2,apanayatA,nI,inst. sg. m.,3,viseranam,4
+3,kila,kila,conj.,4,sambanxah,2
+4,taruRena,taruRa,inst. sg. m.,6,karwa,9
+5,nUtanoQavaDvAH,vaDU,g. sg. f.,9,rartisambanxah,6
+6,kucakalaSakiSorakO,kiSoraka,acc. du. m.,11,karma,9
+7,kaTaYcit,cit,conj.,13,viseranam,9
+8,taralatayA,latA,inst. sg. f.,14,hewuh,9
+9,paspfSAte,spfS,pft. ac. sg. 3,15,,

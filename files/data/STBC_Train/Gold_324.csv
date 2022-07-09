@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kawaBuvaM,BU,acc. sg. f.,3,karma,1
+1,kaRqUi,kaRqu,g. sg. m.,4,viseranam,2
+2,kariRaH,karin,g. sg. m.,7,rartisambanxah,3
+3,madena,mada,inst. sg. m.,9,karanam,7
+4,suganDiM,suganDi,acc. sg. m.,10,viseranam,6
+5,nagasya,naga,g. sg. m.,12,rartisambanxah,6
+6,skanDam,skanDa,acc. sg. m.,13,karma,7
+7,anulInavatA,lI,inst. sg. m.,17,bavalakranasapwami_samanakalah,13
+8,sTUlaindranIlaSakalaAvalikomalena,komala,inst. sg. m.,19,viseranam,10
+9,alinAM,alin,g. pl. m.,20,rartisambanxah,10
+10,valayena,valaya,inst. sg. n.,22,karwa,13
+11,kaRWe,kaRWa,loc. sg. m.,23,axikaranam,13
+12,guRatvaM,guRa,nom. sg. n.,25,karma,13
+13,Beje,Baj,pft. md. sg. 3,26,,

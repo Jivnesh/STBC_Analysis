@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sevakasya,sevaka,g. sg. m.,0,rartisambanxah,1
+1,manaH,manas,acc. sg. n.,2,karma,2
+2,rakzitum,rakz,inf.,4,prayojanam,5
+3,yaTA,yaTA,conj.,5,sambanxah,5
+4,sevakaH,sevaka,nom. sg. m.,6,karwa,5
+5,EcCat,z,impft. [6] ac. sg. 3,7,samucciwam,10
+6,saH,tad,nom. sg. m.,8,karwa,9
+7,eva,eva,prep.,9,sambanxah,9
+8,kftavAn,kf,ppa.,10,sambanxah,7
+9,taTA,taTA,adv.,11,samucciwam,10
+10,ca,ca,conj.,12,,

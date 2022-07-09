@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,4
+1,dozaH,doza,nom. sg. m.,2,karwa,4
+2,na,na,part.,3,sambanxah,4
+3,kaScana,kim,nom. sg. m.,4,viseranam,1
+4,Bavatu,BU,imp. [1] ac. sg. 3,6,,

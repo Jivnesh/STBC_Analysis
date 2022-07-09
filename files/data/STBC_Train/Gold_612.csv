@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,nom. sg. n.,6,karwa,3
+1,tu,tu,conj.,1,sambanxah,0
+2,asamBavam,samBava,nom. sg. m.,3,karwqsamanaxikaranam,3
+3,asti,as,pr. [2] ac. sg. 3,4,,

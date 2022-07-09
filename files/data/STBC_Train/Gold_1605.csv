@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmAt,tad,abl. sg. n.,0,viseranam,2
+1,eva,eva,prep.,2,sambanxah,0
+2,dinAt,dina,abl. sg. n.,3,apaxanam,10
+3,mama,asmad,g. sg. *,4,rartisambanxah,4
+4,mitrapatnI,patnI,nom. sg. f.,6,karwa,10
+5,Atmakftaye,kft,dat. sg. m.,8,waxarwyam,6
+6,paScAttapantI,tap,nom. sg. f.,13,prawiyogi,7
+7,iva,iva,part.,14,anuyogi,8
+8,vikziptAvasTAm,avasTA,acc. sg. f.,50,karma,9
+9,prAptA,Apta,nom. pl. m.,19,karwqsamanaxikaranam,10
+10,asti,as,pr. [2] ac. sg. 3,20,,
+11,iti,iti,part.,21,sambanxah,10

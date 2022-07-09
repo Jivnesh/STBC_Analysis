@@ -1,0 +1,21 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,33,viseranam,1
+1,dUragataH,gata,nom. sg. m.,2,karwa,5
+2,api,api,conj.,3,sambanxah,1
+3,mahaM,maha,acc. sg. m.,5,karma,5
+4,na,na,conj.,6,sambanxah,5
+5,ativartate,vft,pr. md. sg. 3,7,samucciwam,19
+6,Kalu,Kalu,conj.,8,prawiyogi,7
+7,iti,iti,conj.,9,anuyogi,8
+8,banDutayA,banDutA,inst. sg. f.,32,hewuh,9
+9,uditEH,vad,pp. . pl. ,11,viseranam,10
+10,ftEH,fta,inst. pl. m.,13,karanam,14
+11,bahiH,bahis,conj.,15,axikaranam,14
+12,praRayinaH,praRayin,g. sg. m.,18,rartisambanxah,13
+13,svaraM,svara,acc. sg. m.,22,karma,18
+14,niSamayya,Sam,abs.,23,purvakalah,18
+15,vaDUH,vaDU,nom. sg. f.,25,karwa,18
+16,amftEH,amfta,inst. pl. n.,27,prawiyogi,17
+17,iva,iva,conj.,28,anuyogi,10
+18,nirvavO,vA,pft. ac. sg. 3,29,samucciwam,19
+19,ca,ca,conj.,31,,

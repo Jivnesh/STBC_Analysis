@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,idam,loc. sg. m.,1,axikaranam,7
+1,saNkIrRakIcakavanasKalitaekabAlavicCedakAtaraDiyaH,DI,nom. pl. f.,3,viseranam,2
+2,camaryaH,camarI,nom. pl. f.,6,karwa,7
+3,mfduSvasanagarBatadIyaranDraniryatsvanaSrutisuKAt,suKa,abl. sg. n.,8,prawiyogi,4
+4,iva,iva,conj.,9,anuyogi,2
+5,calituM,cal,inf.,10,prayojanam,7
+6,na,na,conj.,11,sambanxah,7
+7,utsahante,sah,pr. md. pl. 3,12,,

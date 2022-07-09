@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,1
+1,ehi,A,imp. [2] ac. sg. 2,1,samucciwam,8
+2,rAjaputraH,putra,nom. sg. m.,3,prawiyogi,3
+3,iva,va,part.,4,anuyogi,7
+4,BrAtfzu,BrAtf,loc. pl. m.,5,axikaranam,7
+5,te,tad,g. sg. *,12,rartisambanxah,6
+6,aDikAram,aDikAra,acc. sg. m.,13,karma,7
+7,prApnuhi,Ap,imp. [5] ac. sg. 2,14,samucciwam,8
+8,ca,ca,conj.,15,,

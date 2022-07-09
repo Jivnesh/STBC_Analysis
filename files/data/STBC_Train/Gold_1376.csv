@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,Sirasi,Siras,loc. sg. n.,2,axikaranam,3
+2,BAram,BAra,acc. sg. m.,3,karwa,3
+3,AsIt,As,aor. [5] ac. sg. 3,4,,

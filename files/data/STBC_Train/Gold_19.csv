@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaH,kim,nom. sg. m.,0,karwa,6
+1,me,asmad,g. sg. *,1,rartisambanxah,2
+2,aDikAraH,aDikAra,nom. sg. m.,3,karwqsamanaxikaranam,6
+3,imam,dam,acc. sg. m.,4,viseranam,4
+4,sTAnam,sTAna,acc. sg. m.,6,karma,5
+5,prAptum,Ap,inf.,7,prayojanam,6
+6,asti,as,pr. [2] ac. sg. 3,8,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tava,yuzmad,g. sg. *.,0,rartisambanxah,2
+1,devatayA,devatA,inst. sg. f.,1,viseranam,2
+2,sUryeRa,sUrya,inst. sg. m.,3,karwa,8
+3,eva,eva,conj.,4,sambanxah,2
+4,mAtuH,mAtf,g. sg. f.,5,viseranam,5
+5,premRaH,preman,g. sg. n.,10,rartisambanxah,7
+6,tava,yuzmad,g. sg. *.,12,viseranam,5
+7,aDikAraH,aDikAra,nom. sg. m.,13,karma,8
+8,kalpitaH,vac,pp. . sg. ,14,,

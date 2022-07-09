@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gurumatsaracCidurayA,ya,inst. sg. f.,8,viseranam,2
+1,kAmyagirA,gir,inst. sg. f.,10,viseranam,2
+2,parapuzwayA,puzwa,inst. sg. f.,12,karwa,5
+3,priyasaKIsadfSaM,sadfS,nom. sg. n.,15,karma,5
+4,kimapi,api,conj.,18,sambanxah,3
+5,pratiboDitAH,buD,pp. . pl. ,22,viseranam,6
+6,aNganAH,aNganA,nom. pl. f.,24,karwa,10
+7,priyatamAya,priyatama,dat. sg. m.,25,sampraxanam,10
+8,ayAcitaM,ayAcita,acc. sg. n.,30,viseranam,9
+9,vapuH,vapus,acc. sg. n.,31,karma,10
+10,aduH,dA,impft. ac. pl. 3,35,,

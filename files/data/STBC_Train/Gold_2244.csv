@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vaDUnAm,vaDU,g. pl. f.,0,rartisambanxah,1
+1,payasi,payas,loc. sg. n.,2,axikaranam,4
+2,viBUzaRaM,viBUzaRa,nom. sg. n.,4,karwa,4
+3,paryAptaM,Ap,pp. . sg. ,5,karwqsamanaxikaranam,4
+4,baBUva,BU,pft. ac. sg. 3,7,samucciwam,16
+5,urasiruhezu,ruha,loc. pl. m.,9,axikaranam,8
+6,PenAnAM,Pena,g. pl. m.,10,rartisambanxah,7
+7,hAralIlA,lIlA,nom. sg. f.,49,karwa,8
+8,jAtA,vac,pp. . sg. ,14,samucciwam,16
+9,SEvalAnAM,SEvala,g. pl. n.,16,rartisambanxah,10
+10,jaGanatalezu,tala,loc. pl. m.,17,axikaranam,12
+11,celaSrIH,SrI,nom. sg. f.,20,karwa,12
+12,jAtA,vac,pp. . sg. ,23,samucciwam,16
+13,gaRqezu,gaRqa,loc. pl. m.,24,axikaranam,15
+14,sPuwaracanAbjapatravallI,vallI,nom. sg. f.,27,karwa,15
+15,jAtA,vac,pp. . sg. ,28,samucciwam,16
+16,ca,ca,conj.,29,,

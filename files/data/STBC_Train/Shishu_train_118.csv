@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,ezaH,etad,nom. sg. m.,NA,karwa,12
+1,mahAntaM,mahat,acc. sg. m.,NA,viseranam,2
+2,puzpapawam,puzpa-pawa,acc. sg. m.,NA,karma,3
+3,aacCAdya,A_Cad2_Ric,abs.,NA,purvakalah,8
+4,antaravartiBiH,antara-vartin,i. pl. m.,NA,viseranam,5
+5,gfhakapotaSiroDaraABEH,gfha-kapota-SiroDara-ABa,i. pl. m.,NA,karanam,8
+6,AguravIM,A_guravI,acc. sg. f.,NA,viseranam,7
+7,DUmaruciM,DUma-ruci,acc. sg. f.,NA,karma,8
+8,daDAnEH,DA1,ppr. md.,NA,bavalakranasapwami_samanakalah,12
+9,navanIradAnAM,nava-nIrada,g. pl. m.,NA,rartisambanxah,10
+10,pawalEH,pawala,i. pl. n.,NA,karanam,12
+11,svANgAni,svANga,acc. pl. n.,NA,karma,12
+12,DUpAyati,DUp1_Aya,pr. ac. sg. 3,NA,,
+13,iva,iva,ind.,NA,sambanxah,12

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anirloqitakAryasya,kArya,g. sg. m.,0,viseranam,1
+1,vAgminaH,vAgmin,g. sg. m.,3,rartisambanxah,2
+2,vAgjAlaM,jAla,nom. sg. n.,9,karwa,6
+3,nimittAd,nimitta,abl. sg. n.,10,hewuh,4
+4,aparAdDezoH,izu,g. sg. m.,68,viseranam,5
+5,DAnuzkasya,DAnuzka,g. sg. m.,13,rartisambanxah,6
+6,valgitam,valg,nom. sg. n.,19,prawiyogi,7
+7,iva,iva,conj.,20,anuyogi,2
+8,vfTA,vfTA,conj.,21,sambanxah,6

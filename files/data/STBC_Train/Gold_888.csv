@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,0,kriyaviseranam,6
+1,budDeH,tad,g. sg. f.,2,rartisambanxah,2
+2,balena,bala,i. sg. n.,3,hewuh,6
+3,saH,tad,nom. sg. m.,5,viseranam,4
+4,vAnaraH,vAnara,nom. sg. m.,6,karwa,6
+5,svaprARarakzAm,rakzA,acc. sg. f.,9,karma,6
+6,akarot,kf,impft. [8] ac. sg. 3,11,,

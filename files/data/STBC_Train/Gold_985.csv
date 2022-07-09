@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sEnyAH,sEnya,nom. pl. m.,0,karwa,1
+1,sasnuH,snA,pft. ac. pl. 3,3,samucciwam,16
+2,payaH,payas,acc. sg. n.,4,karma,3
+3,papuH,pA,pft. ac. pl. 3,7,samucciwam,16
+4,ambarARi,ambara,acc. pl. n.,8,karma,5
+5,anenijuH,nij,impft . ac. pl. 3,10,samucciwam,16
+6,DftavikAsibisaprasUnAH,prasUna,nom. pl. m.,11,karwa,8
+7,bisaM,bisa,acc. sg. n.,12,karma,8
+8,jakzuH,ad,pft. ac. pl. 3,14,samucciwam,16
+9,itTaM,itTam,conj.,15,sambanxah,15
+10,te,tad,nom. pl. m.,18,viseranam,11
+11,sEnyAH,sEnya,nom. pl. m.,23,karwa,15
+12,naganimnagAnAM,ga,g. pl. f.,26,viseranam,13
+13,SriyAm,SrI,g. pl. f.,27,rartisambanxah,14
+14,anupaBoganirarTakatvadozapravAdam,pravAda,acc. sg. m.,29,karma,15
+15,amfjan,mfj,impft . ac. pl. 3,31,samucciwam,16
+16,ca,ca,conj.,32,,

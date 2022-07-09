@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vismitaH,smita,nom. sg. m.,0,viseranam,1
+1,saH,tad,nom. sg. m.,1,karwa,5
+2,tam,tad,acc. sg. m.,2,karma,5
+3,etasya,etad,g. sg. m.,4,rartisambanxah,4
+4,kAraRam,kAraRa,acc. sg. n.,5,karma,5
+5,apfcCat,aBidru,impft. [6] ac. sg. 3,7,,

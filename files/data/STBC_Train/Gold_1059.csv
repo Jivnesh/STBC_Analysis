@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nidAGaDAmanam,DA,acc. sg. n.,0,prawiyogi,1
+1,iva,iva,conj.,1,anuyogi,2
+2,aDidIDitiM,dIDiti,acc. sg. f.,2,viseranam,3
+3,munim,muni,acc. sg. m.,3,upapaxasambanxah,4
+4,aBi,aBi,conj.,5,sambanxah,15
+5,mudA,mud,inst. sg. f.,8,hewuh,6
+6,vikAsam,vikAsa,acc. sg. m.,9,karma,7
+7,upeyuzI,dvi,acc. du. f.,12,viseranam,9
+8,aDiSritaSriRI,SrI,acc. du. n.,15,viseranam,9
+9,vilocane,vilocana,acc. du. n.,18,karma,10
+10,biBrat,Bf,nom. sg. n.,24,bavalakranasapwami_samanakalah,15
+11,saH,tad,nom. sg. m.,25,viseranam,12
+12,puRqarIkAkzaH,akza,nom. sg. m.,45,prawiyogi,13
+13,iti,iti,conj.,27,anuyogi,14
+14,sPuwaH,sPuwa,nom. sg. m.,28,karma,15
+15,aBavat,BU,impft . ac. sg. 3,29,,

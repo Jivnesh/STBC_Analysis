@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ca,ca,conj.,2,sambanxah,11
+1,amuzya,adas,g. sg. m.,3,rartisambanxah,2
+2,etAH,etad,nom. pl. f.,1,viseranam,3
+3,SiKaraSiKAH,SiKA,nom. pl. f.,7,karwa,11
+4,vikasadvicitrakalpadrumakusumEH,kusuma,inst. pl. n.,8,karanam,11
+5,aBigumPitAn,tad,acc. pl. m.,10,prawiyogi,6
+6,iva,iva,conj.,11,anuyogi,9
+7,sTitAn,sTA,acc. pl. m.,12,viseranam,9
+8,alaGuvilambipicCadAmnaH,dAman,acc. pl. m.,13,viseranam,9
+9,SiKiSeKarAn,SeKara,acc. pl. m.,19,karma,11
+10,kzaRaM,ca,conj.,20,viseranam,11
+11,daDati,DA,pr. ac. pl. 3,22,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,4
+1,api,api,conj.,1,sambanxah,0
+2,devapitftarpaRena,tarpaRa,i. sg. n.,5,karanam,4
+3,SudDaH,SudDa,nom. sg. m.,6,karwqsamanaxikaranam,4
+4,asi,as,pr. [2] ac. sg. 2,7,,

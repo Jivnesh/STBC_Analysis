@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,iha,iha,ind.,NA,axikaranam,15
+1,muditEH,mud1,pp.,NA,viseranam,2
+2,kalaBEH,kalaBa,i. pl. m.,NA,karwa,7
+3,pratidiSam,prati-diSam,ind.,NA,axikaranam,7
+4,kalaBEravaH,kala-BErava,nom. sg. m.,NA,viseranam,5
+5,ravaH,rava,nom. sg. m.,NA,karma,7
+6,muhuH,muhuH,ind.,NA,kriyaviseranam,7
+7,kriyate,kf3,pr. ps. sg. 3,NA,,
+8,anuvanaM,anu-vanam,ind.,NA,axikaranam,10
+9,camarIcayaH,camarI-caya,nom. sg. m.,NA,karwa,10
+10,sPurati,sPur1,pr. ac. sg. 3,NA,,
+11,ca,ca,ind.,NA,sambanxah,10
+12,kanakaratnaBuvAM,kanaka-ratna-BU,g. pl. f.,NA,rartisambanxah,14
+13,ca,ca,ind.,NA,sambanxah,15
+14,marIcayaH,marIci,nom. pl. m.,NA,karwa,15
+15,sPuranti,sPur1,pr. ac. pl. 3,NA,,

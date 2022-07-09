@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vicaran,car,nom. sg. m.,0,viseranam,2
+1,kalpanAloke,loka,loc. sg. m.,2,axikaranam,0
+2,janaH,jana,nom. sg. m.,5,karwa,3
+3,vetti,vid,pr. [2] ac. sg. 3,6,,
+4,na,na,part.,7,sambanxah,3
+5,tatPalam,Pala,acc. sg. n.,9,karma,3

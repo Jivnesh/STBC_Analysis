@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDyasTA,tad,nom. pl. n.,2,viseranam,1
+1,BavatI,BU,nom. pl. n.,3,karwa,4
+2,nO,asmad,acc. du. *,6,karma,4
+3,guRadozataH,Uza,adv.,8,kriyaviseranam,4
+4,arhati,arh,pr. [1] ac. sg. 3,9,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pitA,tad,nom. sg. m.,0,sambanxah,2
+1,anena,idam,i. sg. n.,1,karma,4
+2,pitA,pitf,nom. sg. m.,6,viseranam,3
+3,BAraviH,tad,nom. sg. m.,4,karwa,4
+4,asti,as,imp. [4] ac. sg. 2,5,,

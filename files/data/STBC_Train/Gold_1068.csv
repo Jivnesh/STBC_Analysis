@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjyasya,rAjya,g. sg. n.,2,rartisambanxah,1
+1,vyavasTAm,vyavasTA,acc. sg. f.,4,samucciwam,3
+2,prajApAlanam,pAlana,acc. sg. n.,7,samucciwam,3
+3,ca,ca,conj.,9,karma,4
+4,akarot,kf,impft. [8] ac. sg. 3,10,,

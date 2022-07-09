@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,7
+1,ekatra,ekatra,loc. sg. m.,1,axikaranam,7
+2,yAtritrayasya,tra,g. sg. m.,10,rartisambanxah,3
+3,upaveSanasTAnam,sTAna,acc. sg. n.,12,karma,7
+4,videSidampatI,pat,nom. du. m.,17,karwa,7
+5,avaroDya,ruD,ca. pfp. [1],19,purvakalah,7
+6,upavizwO,tad,nom. du. m.,21,karwqsamanaxikaranam,7
+7,AstAm,as,imp. [2] md. sg. 3,23,,

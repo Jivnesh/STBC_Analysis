@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjasaBAyAm,saBA,loc. sg. f.,24,axikaranam,1
+1,virAjamAnaH,rAj,nom. sg. m.,2,viseranam,2
+2,mahArAjaH,rAjan,nom. pl. m.,5,karwa,4
+3,yadA,yadu,loc. sg. m.,6,axikaranam,4
+4,aSfRot,Sru,impft. [5] ac. sg. 3,7,prawiyogi,5
+5,yat,yad,acc. sg. n.,40,anuyogi,6
+6,kaScit,kim,nom. sg. m.,9,karwa,9
+7,tatra,tatra,loc. sg. n.,12,axikaranam,8
+8,AyAtum,yA,inf.,13,prayojanam,9
+9,icCati,rAjan,loc. sg. m.,14,prawiyogi,10
+10,parantu,tu,conj.,18,anuyogi,13
+11,dvArapAlaH,pAla,nom. sg. m.,20,karwa,13
+12,tam,tad,acc. sg. m.,21,karma,13
+13,nizeDati,siD,pr. [1] ac. sg. 3,22,,

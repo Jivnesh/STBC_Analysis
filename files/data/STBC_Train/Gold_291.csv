@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praTamam,rAjan,loc. sg. m.,2,axikaranam,6
+1,tu,tu,conj.,3,sambanxah,0
+2,SrezWirAmadAsasya,sasya,acc. du. n.,6,karwa,6
+3,mayA,asmad,g. sg. *,7,rartisambanxah,5
+4,eva,eva,prep.,8,sambanxah,3
+5,lavaRam,lavaRa,acc. sg. m.,9,karma,6
+6,Bakzitam,vac,ca. pp.,17,,

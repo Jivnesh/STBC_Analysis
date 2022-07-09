@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyaM,anya,acc. sg. m.,0,viseranam,1
+1,janam,jana,acc. sg. m.,1,karma,6
+2,api,api,conj.,4,sambanxah,1
+3,sA,tad,nom. sg. f.,6,karwa,6
+4,kiM,kim,conj.,8,karma,5
+5,kartuM,kf,conj.,9,prayojanam,6
+6,kaTitavatI,vac,pp. . du. ,12,,

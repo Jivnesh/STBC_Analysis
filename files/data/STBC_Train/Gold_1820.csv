@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sapatnIkasya,sapatnIka,g. sg. m.,0,viseranam,1
+1,sUnoH,sUnu,g. sg. m.,2,rartisambanxah,6
+2,kim,kim,ind.,7,sambanxah,5
+3,svasya,sva,g. sg. m.,8,viseranam,0
+4,jAyate,jan,pr. [4] md. sg. 3,10,sambanxah,5
+5,sutaH,su,pr. [2] ac. du. 3,11,,
+6,eva,eva,prep.,12,karwa,5

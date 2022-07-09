@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samIraSiSiraH,SiSira,nom. sg. m.,0,karwa,12
+1,SiraHsu,Siras,loc. pl. n.,1,axikaranam,2
+2,vasatAM,vas,g. pl. m.,3,bavalakranasapwami_samanakalah,12
+3,nikAmasuKinAM,suKin,g. pl. m.,4,viseranam,4
+4,satAM,sat,g. pl. m.,7,rartisambanxah,5
+5,mudaM,tad,acc. sg. m.,9,karma,6
+6,janayan,jan,nom. sg. m.,10,bavalakranasapwami_samanakalah,12
+7,ayam,idam,nom. sg. m.,11,karwa,12
+8,apAm,ap,g. pl. f.,12,rartisambanxah,9
+9,apAyaDavalAH,Davala,acc. pl. f.,14,viseranam,11
+10,balAhakatatIH,tati,acc. pl. f.,16,viseranam,11
+11,javanikAH,javanikA,acc. pl. f.,17,karma,12
+12,biBarti,Bf,pr. ac. sg. 3,19,,

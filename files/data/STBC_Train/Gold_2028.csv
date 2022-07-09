@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aNkADiropitamfgaH,mfga,nom. sg. m.,2,viseranam,1
+1,candramA,candramas,nom. sg. m.,3,karwa,4
+2,mfgalAYCanaH,lAYCana,nom. sg. m.,5,viseranam,1
+3,iti,iti,conj.,6,sambanxah,4
+4,KyAtaH,KyA,nom. sg. m.,7,samucciwam,11
+5,nizWuraAkziptamfgayUTaH,yUTa,nom. sg. m.,9,viseranam,8
+6,kesarI,kesarin,nom. sg. m.,10,viseranam,8
+7,tu,tu,conj.,11,sambanxah,6
+8,mfgADipaH,mfgADipa,nom. sg. m.,21,karwa,10
+9,iti,iti,conj.,22,sambanxah,10
+10,KyAtaH,KyA,nom. sg. m.,23,samucciwam,11
+11,ca,ca,conj.,24,,

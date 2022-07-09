@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,ca,ca,conj.,1,sambanxah,0
+2,anyaH,anya,nom. sg. m.,2,karwa,4
+3,tacCravaRAt,SravaRa,abl. sg. n.,7,apaxanam,4
+4,udvijate,vij,pr. [6] md. sg. 3,8,,
+5,sma,sma,part.,9,sambanxah,4

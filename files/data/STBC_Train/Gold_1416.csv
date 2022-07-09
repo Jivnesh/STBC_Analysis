@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kOtsaH,DImant,nom. sg. m.,0,karwa,10
+1,kiYcit,DImant,nom. sg. m.,1,viseranam,4
+2,api,api,conj.,2,sambanxah,1
+3,na,na,part.,4,sambanxah,4
+4,KidyamAnaH,Kid,nom. sg. m.,5,karwqsamanaxikaranam,10
+5,gurupAdavandanAm,vandana,acc. sg. f.,8,karma,6
+6,kftvA,kf,abs.,9,purvakalah,10
+7,sAketADipatim,pati,acc. sg. m.,11,viseranam,9
+8,mahArAjam,rAjan,acc. sg. m.,47,viseranam,9
+9,raGum,raGu,acc. sg. m.,17,karma,10
+10,prAptaH,Ap,pp.,18,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aparADinaH,aparADin,acc. pl. m.,0,karma,3
+1,ca,ca,conj.,6,sambanxah,0
+2,mftyudaRqena,daRqa,adv.,9,kriyaviseranam,3
+3,daRqayet,daRqa,opt. [vn.] ac. sg. 3,10,,
+4,iti,iti,part.,11,sambanxah,3

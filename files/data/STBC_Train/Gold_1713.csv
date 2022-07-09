@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paricArikA,tad,nom. sg. f.,0,karwa,5
+1,tAni,tad,acc. pl. n.,1,viseranam,2
+2,vastUni,vastu,acc. pl. n.,3,karma,4
+3,tataH,tad,abl. sg. m.,31,apaxanam,4
+4,AdadatI,dA,nom. sg. f.,10,karwqsamanaxikaranam,5
+5,uktavatI,vac,ppa.,13,,

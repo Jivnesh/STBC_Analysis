@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,ezAm,idam,g. pl. n.,13,rartisambanxah,2
+2,jYAnam,jYAna,nom. sg. n.,3,samucciwam,4
+3,manuzyavARI,vARa,nom. sg. f.,5,samucciwam,4
+4,ca,ca,conj.,6,karwa,6
+5,yaTAvat,yaTA,nom. sg. n.,8,kriyaviseranam,6
+6,sTAsyati,sTA,fut. ac. sg. 3,9,,

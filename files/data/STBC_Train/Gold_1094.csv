@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,buDaH,buDa,nom. sg. m.,0,karwa,3
+1,SAstrEH,SAstra,inst. pl. n.,1,karanam,3
+2,tattvaM,tattva,acc. sg. n.,3,karma,3
+3,avagacCati,gam,pr. ac. sg. 3,4,,

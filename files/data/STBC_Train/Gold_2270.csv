@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,ind.,1,sambanxah,4
+1,BoH,ca,ind.,2,sambanxah,3
+2,jalam,jala,acc. sg. m.,3,karma,3
+3,pAtum,pA,acc. sg. m.,7,karma,4
+4,icCasi,iz,pr. [6] ac. sg. 2,8,,

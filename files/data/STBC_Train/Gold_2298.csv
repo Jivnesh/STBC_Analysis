@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tftIyaH,tftIya,nom. sg. m.,0,karwa,7
+1,grAsam,grAsa,acc. sg. m.,1,karma,3
+2,grAsam,grAsa,acc. sg. m.,2,sambanxah,1
+3,kzipan,kzip,nom. sg. m.,3,karwqsamanaxikaranam,7
+4,sArameyAn,sArameya,acc. pl. m.,4,sambanxah,6
+5,vaSam,vaSa,acc. sg. m.,5,sambanxah,6
+6,nayan,nI,nom. sg. m.,8,karwqsamanaxikaranam,7
+7,aBakzayat,Bakz,ca. impft. ac. sg. 3,9,,
+8,Bojanam,Bojana,acc. sg. n.,10,karma,7

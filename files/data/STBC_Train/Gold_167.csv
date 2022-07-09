@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadanantaram,antara,loc. sg. m.,2,axikaranam,6
+1,AgatAH,gam,nom. pl. m.,7,viseranam,3
+2,aneke,aneka,nom. pl. m.,8,viseranam,3
+3,SikzArTinaH,arTin,nom. pl. m.,41,karwa,6
+4,vidyAm,vidyA,acc. sg. f.,17,karma,6
+5,prAptAm,Apta,acc. sg. f.,31,karmasamanaxikaranam,6
+6,kftvA,kf,abs.,19,purvakalah,7
+7,nirgatAH,gam,pp.,22,,

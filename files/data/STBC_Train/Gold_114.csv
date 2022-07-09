@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAM,tad,loc. sg. f.,0,karwa,1
+1,nirgatAyAM,gam,loc. sg. f.,1,purvakalah,5
+2,sA,tad,nom. sg. f.,12,karwa,5
+3,avaSyaM,avaSyam,conj.,5,kriyaviseranam,5
+4,paScAttApaM,paScAttApa,acc. sg. m.,8,karma,5
+5,kftavatI,kft,pp. . sg. ,11,,

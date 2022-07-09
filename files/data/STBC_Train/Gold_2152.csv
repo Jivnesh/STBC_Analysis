@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,5
+1,tasya,tad,g. sg. m.,2,rartisambanxah,2
+2,putravaDUH,vaDU,acc. pl. f.,4,karwa,5
+3,tasmE,tad,dat. sg. m.,8,sampraxanam,5
+4,parAmarSaM,parAmarSa,acc. sg. m.,9,karma,5
+5,dattavatI,datta,pp. . du. ,12,,

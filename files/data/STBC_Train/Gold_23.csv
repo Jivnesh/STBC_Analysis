@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,samucciwam,5
+1,vayam,asmad,nom. pl. *,4,karwa,4
+2,tasya,tad,g. sg. n.,6,rartisambanxah,3
+3,AdeSam,AdeSa,acc. sg. m.,5,karma,4
+4,nyakkftavantaH,kfta,pp.,9,samucciwam,5
+5,ca,ca,conj.,10,,

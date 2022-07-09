@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,DftatuzArakaRasya,kaRa,g. sg. m.,0,rartisambanxah,1
+1,naBasvataH,tad,g. sg. m.,1,rartisambanxah,2
+2,tarulatANgulitarjanaviBramAH,viBrama,nom. pl. m.,2,karma,9
+3,pfTu,pfTu,acc. sg. n.,3,viseranam,4
+4,izwaBujaantaraM,antara,acc. sg. n.,6,karma,6
+5,nirantaram,nirantara,conj.,10,kriyaviseranam,6
+6,anitayA,i,pp. . sg. ,11,viseranam,7
+7,vanitayA,vanitA,inst. sg. f.,16,karwa,9
+8,na,na,conj.,12,sambanxah,9
+9,vizehire,sah,pft. md. pl. ,15,,

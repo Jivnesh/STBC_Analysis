@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,abdaBuvAm,BU,g. pl. f.,0,viseranam,1
+1,apAM,ap,g. pl. f.,2,rartisambanxah,2
+2,lABe,lABa,loc. sg. m.,3,axikaranam,6
+3,sahasA,sahasA,conj.,6,viseranam,6
+4,mayUrAH,mayUra,nom. pl. m.,7,karwa,6
+5,mudam,mud,acc. sg. m.,9,karma,6
+6,Ayanta,ay,impft . md. pl. 3,10,samucciwam,15
+7,nadI,nadI,nom. sg. f.,11,karwa,8
+8,papAwa,vac,pft. ac. sg. 3,13,samucciwam,15
+9,alinA,ali,inst. sg. m.,15,upapaxasambanxah,10
+10,saha,saha,conj.,17,sambanxah,14
+11,sAyantanadIpapAwalABe,lABa,loc. sg. m.,18,viseranam,12
+12,SilInDre,SilInDra,loc. sg. m.,19,axikaranam,14
+13,alinI,alin,nom. sg. f.,20,karwa,14
+14,aramata,ram,impft . md. sg. 3,22,samucciwam,15
+15,ca,ca,conj.,23,,

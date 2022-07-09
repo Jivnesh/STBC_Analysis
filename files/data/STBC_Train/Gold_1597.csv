@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jagattrayEkasTapatiH,sTapati,nom. sg. m.,2,viseranam,1
+1,tvaM,yuzmad,nom. sg. n.,3,karwa,11
+2,helayA,helA,inst. sg. f.,6,viseranam,3
+3,udDftaM,Df,acc. sg. m.,9,viseranam,8
+4,PaRABftAM,Bfta,g. pl. m.,11,rartisambanxah,5
+5,okasaH,oka,g. sg. n.,12,rartisambanxah,8
+6,ekam,eka,acc. sg. n.,15,viseranam,7
+7,CAdanam,Cad,acc. sg. n.,19,viseranam,8
+8,BUtalam,tad,acc. sg. n.,21,karma,11
+9,uccakEH,ca,conj.,22,viseranam,10
+10,ahISvarastamBaSiraHsu,Siras,loc. pl. n.,25,axikaranam,11
+11,niveSayAmAsiTa,Ric,pft. ac. sg. 2,26,,

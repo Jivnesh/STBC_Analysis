@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,BojanavyavasTAm,vyavasTA,acc. sg. f.,3,karma,3
+2,ca,ca,conj.,4,sambanxah,1
+3,kArayitum,kf,ca. inf.,5,prayojanam,8
+4,upari,upari,loc. sg. m.,7,viseranam,5
+5,svAvAse,AvAsa,loc. sg. m.,33,axikaranam,8
+6,patnyAH,patnI,abl. sg. f.,13,upapaxasambanxah,7
+7,samIpe,samIpa,loc. sg. m.,14,axikaranam,8
+8,gataH,gam,pp.,20,,

@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,BavatIm,BavatI,acc. sg. f.,NA,karma,1
+1,anAnayantyAH,naY-A_nI1,ppr. ac,NA,rartisambanxah,2
+2,mayA,asmad,i. sg. *.,NA,karwa,6
+3,satatam,satatam,ind.,NA,kriyaviseranam,6
+4,te,yuzmad,g. sg. *.,NA,rartisambanxah,5
+5,anaBiBAzaRaM,anaBi-BAzaRa,nom. sg. n.,NA,karma,6
+6,paripaRitaM,pari_paR1,pp.,NA,,
+7,Bavati,BavatI,voc. sg. f.,NA,samboxyah,14
+8,tvayi,yuzmad,loc. sg. *.,NA,viseranam,11
+9,tad,tad,ind.,NA,prawiyogi,10
+10,iti,iti,ind.,NA,anuyogi,11
+11,viroDaniScitAyAm,viroDa-niScitA,loc. sg. f.,NA,axikaranam,14
+12,asuhfjjanaH,asuhfj-jana,nom. sg. m.,NA,karwa,14
+13,sakAmaH,sakAma,nom. sg. m.,NA,karwqsamanaxikaranam,14
+14,Bavatu,BU1,imp.,NA,,

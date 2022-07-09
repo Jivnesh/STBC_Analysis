@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,SiSiramAsam,SiSira-mAsa,acc. sg. m.,NA,karma,1
+1,apAsya,apa_as1,abs.,NA,purvakalah,18
+2,SItaharasya,SIta-hara,g. sg. m.,NA,rartisambanxah,3
+3,naH,asmad,g. pl. *.,NA,rartisambanxah,4
+4,asya,idam,g. sg. m.,NA,viseranam,5
+5,kucauzmaRaH,kuca-uzman,g. sg. m.,NA,rartisambanxah,6
+6,kaH,kim,nom. sg. m.,NA,prawiyogi,7
+7,iva,iva,ind.,NA,anuyogi,8
+8,guRaH,guRa,nom. sg. m.,NA,prawiyogi,9
+9,iti,iti,ind.,NA,anuyogi,10
+10,DiyA,DI,i. sg. f.,NA,hewuh,12
+11,ataH,ataH,ind.,NA,sambanxah,12
+12,priyAH,priyA,nom. pl. f.,NA,viseranam,13
+13,astaruzaH,as-taruw,nom. pl. f.,NA,karwa,15
+14,satyaH,as2,ppr. ac,NA,viseranam,13
+15,namataH,nam1,ppr. ac,NA,bavalakranasapwami_samanakalah,18
+16,anumatAn,anu-mata,acc. pl. m.,NA,karma,18
+17,GanaM,Ganam,ind.,NA,kriyaviseranam,18
+18,parireBire,pari--raB1,pft. md. pl. 3,NA,,

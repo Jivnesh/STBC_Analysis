@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,7
+1,AtiTyaDarmeRa,Darma,i. sg. m.,5,karanam,2
+2,preritaH,tad,nom. sg. m.,7,viseranam,3
+3,saH,tad,nom. sg. m.,8,karwa,5
+4,tam,tad,acc. sg. m.,9,karma,5
+5,utTApya,kf,ca. abs.,10,purvakalah,7
+6,antaH,anta,loc. sg. m.,16,axikaranam,7
+7,anayat,as,ppr. [1] ac.,13,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svArTI,tad,nom. sg. f.,0,karwa,6
+1,svArTam,svArTa,acc. sg. m.,1,karma,2
+2,vihAya,hA,abs.,5,purvakalah,6
+3,anyat,anya,nom. sg. n.,7,karwqsamanaxikaranam,4
+4,kiYcit,ca,adv.,8,kriyaviseranam,6
+5,nEva,eva,prep.,30,sambanxah,6
+6,aBipaSyati,paS,pr. [4] ac. sg. 3,11,,

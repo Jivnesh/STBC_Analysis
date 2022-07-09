@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,conj.,0,axikaranam,7
+1,vipakzamaDye,maDya,loc. sg. n.,5,axikaranam,15
+2,sahasaMvfdDiyujaH,yuj,nom. pl. m.,15,viseranam,6
+3,api,api,conj.,24,sambanxah,2
+4,ye,yad,nom. pl. m.,28,viseranam,6
+5,BUBujaH,BUBuj,nom. pl. m.,32,viseranam,6
+6,AtmavidaH,vid,nom. pl. m.,37,karwa,7
+7,syuH,as,opt. ac. pl. 3,46,samucciwam,16
+8,tEH,tad,inst. pl. m.,48,karwa,15
+9,balipuzwakulAd,kula,abl. sg. n.,52,apaxanam,15
+10,anyapuzwEH,anyapuzwa,inst. pl. m.,55,prawiyogi,11
+11,iva,iva,conj.,56,anuyogi,8
+12,acireRa,acireRa,conj.,59,viseranam,15
+13,asmAt,idam,abl. sg. m.,61,upapaxasambanxah,14
+14,pfTak,pfTak,conj.,62,sambanxah,15
+15,BAvitA,as,per.  fut. md. sg. 3,63,samucciwam,16
+16,ca,ca,conj.,64,,

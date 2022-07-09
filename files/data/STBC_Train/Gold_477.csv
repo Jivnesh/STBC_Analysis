@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lasamAnanavAMSukaH,aMSuka,nom. sg. m.,92,viseranam,1
+1,yaH,yad,nom. sg. m.,4,karwa,5
+2,saharitAH,tad,acc. pl. f.,7,viseranam,3
+3,kanakasTalIH,sTala,acc. pl. f.,10,upapaxasambanxah,4
+4,paritaH,eva,conj.,11,axikaranam,5
+5,vahati,vah,pr. ac. sg. 3,12,samucciwam,13
+6,saH,tad,nom. sg. m.,13,viseranam,9
+7,ezaH,etad,nom. sg. m.,38,viseranam,9
+8,acalaH,acala,nom. sg. m.,15,viseranam,9
+9,haritAlasamAnanavAMSukaH,aMSuka,nom. sg. m.,104,karwa,12
+10,BavAn,daRqa,nom. sg. m.,22,prawiyogi,11
+11,iva,iva,conj.,23,anuyogi,9
+12,rAjate,rAj,pr. md. sg. 3,25,samucciwam,13
+13,ca,ca,conj.,26,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tad,i. sg. m.,3,hewuh,3
+1,indraH,indra,nom. sg. m.,4,karwa,6
+2,prakawaH,prakawa,nom. sg. m.,5,karwa,3
+3,BUtvA,BU,abs.,6,purvakalah,6
+4,tam,tad,acc. sg. m.,7,karma,5
+5,tapasyAkAraRam,AkAraRa,acc. sg. n.,35,karma,3
+6,pfzwavAn,pfzwa,pp.,12,,

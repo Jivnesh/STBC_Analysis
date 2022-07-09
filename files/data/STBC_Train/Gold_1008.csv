@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sOKyam,tad,nom. sg. n.,1,karwa,2
+1,tyAge,tyAga,loc. sg. m.,2,axikaranam,2
+2,asti,as,pr. [2] ac. sg. 3,3,sambanxah,3
+3,aTavA,va,conj.,5,,
+4,AsaktO,Asakti,loc. sg. f.,6,axikaranam,5
+5,kaTayata,kaT,imp. [10] ac. pl. 2,7,sambanxah,3

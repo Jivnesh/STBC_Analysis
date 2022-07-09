@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,itaH,itas,abl. sg. n.,0,apaxanam,8
+1,mahAtmA,Atman,nom. sg. *,23,karwa,8
+2,SrezWinaH,SrezWin,g. sg. m.,4,rartisambanxah,3
+3,putrARAm,putra,g. pl. m.,6,rartisambanxah,4
+4,saNKyAm,tad,acc. sg. f.,8,samucciwam,6
+5,DanarASisaNKyAm,tad,acc. sg. f.,12,samucciwam,6
+6,ca,ca,conj.,13,karma,8
+7,muKyalipikAt,kAs,abl. sg. f.,16,apaxanam,8
+8,jYAtavAn,jYA,ppa.,17,,

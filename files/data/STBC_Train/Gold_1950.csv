@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yat,yad,conj.,0,sambanxah,3
+1,anyam,anya,acc. sg. m.,1,karma,2
+2,bADate,bADa,acc. du. f.,3,prawiyogi,0
+3,tat,tad,acc. sg. n.,4,anuyogi,5
+4,tu,tu,conj.,6,sambanxah,3
+5,santyAjyam,tyaj,pfp. [1],12,,
+6,eva,eva,prep.,13,sambanxah,5
+7,sarvaTA,sarvaTA,loc. sg. m.,14,axikaranam,5

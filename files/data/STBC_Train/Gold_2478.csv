@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parivArasvAmI,svAmin,nom. sg. m.,1,karwa,5
+1,api,api,conj.,2,sambanxah,0
+2,tAm,tad,acc. sg. f.,4,karma,5
+3,mahatA,mahant,i. sg. m.,6,viseranam,4
+4,premRA,preman,i. sg. m.,7,karanam,5
+5,paryapAlayat,pari,ca. impft. ac. sg. 3,9,,
+6,iti,iti,part.,10,sambanxah,5
+7,ca,ca,conj.,11,sambanxah,5

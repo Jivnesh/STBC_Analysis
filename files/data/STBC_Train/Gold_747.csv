@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praTamaH,kfzRa,nom. sg. m.,0,viseranam,1
+1,mizwAnnavyavasAyI,vyavasAyin,nom. sg. m.,25,karwa,4
+2,svavipaRyAm,paRya,acc. sg. f.,26,karwa,4
+3,kim,kim,acc. sg. n.,7,karma,4
+4,aleKayat,brU,ca. impft. ac. sg. 3,9,,

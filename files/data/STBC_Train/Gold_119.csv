@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svarge,svarga,loc. sg. m.,0,axikaranam,4
+1,svaM,sva,acc. sg. m.,6,sambanxah,2
+2,svam,sva,acc. sg. m.,9,viseranam,3
+3,aDikAraM,aDikAra,acc. sg. m.,12,karma,4
+4,kartuM,kf,conj.,13,prayojanam,10
+5,devAH,deva,nom. pl. m.,14,samucciwam,7
+6,dAnavAH,dAnava,nom. pl. m.,15,samucciwam,7
+7,ca,ca,conj.,16,karwa,10
+8,saMGarzaM,Garza,acc. sg. m.,17,karma,9
+9,kartuM,kf,conj.,18,prayojanam,10
+10,pravfttAH,vftta,pp. . pl. ,21,,

@@ -1,0 +1,24 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saKi,saKI,voc. sg. f.,0,samboxyah,13
+1,yadi,yadi,conj.,1,sambanxah,8
+2,mayi,asmad,loc. sg. n.,2,karwa,4
+3,laGimAnam,laGiman,acc. sg. m.,3,karma,4
+4,AgatAyAm,gam,pp. . sg. ,4,purvakalah,8
+5,satyAm,as,nom. sg. n.,6,sambanxah,4
+6,tava,yuzmad,g. sg. n.,7,rartisambanxah,7
+7,DftiH,Dfti,nom. sg. f.,8,karwa,8
+8,asti,as,pr. ac. sg. 3,9,samucciwam,22
+9,cet,ced,conj.,10,sambanxah,8
+10,iyaM,idam,nom. sg. f.,11,viseranam,12
+11,samprati,samprati,conj.,12,sambanxah,13
+12,gatA,gam,pp. . sg. ,15,karwa,13
+13,asmi,as,pr. ac. sg. 1,16,prawiyogi,14
+14,iti,iti,conj.,17,anuyogi,15
+15,saKyAH,saKI,g. sg. f.,19,rartisambanxah,16
+16,kopapadena,pada,inst. sg. n.,21,karanam,21
+17,kA,kim,nom. sg. f.,23,karwa,21
+18,api,api,conj.,24,sambanxah,17
+19,drutatarapadapAtaM,pAta,acc. sg. m.,26,viseranam,20
+20,priyam,priya,acc. sg. m.,27,karma,21
+21,ApapAta,pat,pft. ac. sg. 3,30,samucciwam,22
+22,ca,ca,conj.,32,,

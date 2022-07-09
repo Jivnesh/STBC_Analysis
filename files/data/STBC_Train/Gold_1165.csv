@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,8
+1,amlAnaSoBAH,SoBA,nom. pl. f.,2,karwa,8
+2,tAH,tad,nom. pl. f.,4,viseranam,1
+3,vanaviharaRaKedamlAnam,mlAna,acc. sg. n.,5,viseranam,4
+4,vapuH,vapus,acc. sg. n.,8,karma,8
+5,aTa,aTa,conj.,11,sambanxah,8
+6,amBoBiH,amBas,inst. pl. n.,12,karanam,7
+7,aBizektum,sic,inf.,13,prayojanam,8
+8,IzuH,iz,pft. ac. pl. 3,15,,

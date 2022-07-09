@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gajapatidvayasIH,dvayasa,acc. pl. f.,0,viseranam,2
+1,api,api,conj.,1,sambanxah,0
+2,saritaH,sarit,acc. pl. f.,3,karma,3
+3,tuhinayan,nI,nom. sg. n.,7,bavalakranasapwami_samanakalah,11
+4,hEmanaH,hEmana,nom. sg. m.,8,viseranam,6
+5,pfzatAM,tad,g. pl. m.,9,rartisambanxah,6
+6,patiH,pati,nom. sg. m.,10,karwa,11
+7,aDvagayozitAM,yozit,g. pl. f.,11,rartisambanxah,8
+8,dfSAm,dfS,g. pl. f.,14,rartisambanxah,9
+9,atanutApakftaM,kft,acc. sg. f.,17,viseranam,10
+10,salilasantatim,tad,acc. sg. f.,18,karma,11
+11,atanuta,tan,impft . md. sg. 3,20,,

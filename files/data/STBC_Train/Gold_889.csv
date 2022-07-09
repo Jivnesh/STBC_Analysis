@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,imp. ac. sg. 2,1,rartisambanxah,1
+1,vivaraRaM,vivaraRa,acc. sg. n.,2,karma,2
+2,dattam,dA,pp. ac. sgdu. 2,4,karwa,3
+3,aBavat,BU,impft . ac. sg. 3,5,,

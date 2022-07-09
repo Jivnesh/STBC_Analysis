@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AyuzaH,Ayus,g. sg. m.,4,rartisambanxah,4
+1,antimezu,antima,loc. pl. m.,6,viseranam,2
+2,varzezu,varza,loc. pl. m.,8,axikaranam,8
+3,SrezWI,tad,nom. sg. m.,19,viseranam,4
+4,rAmadAsaH,dAsa,nom. sg. m.,11,karwa,8
+5,svapatnyA,patnI,i. sg. f.,13,prawiyogi,6
+6,saha,saha,prep.,15,anuyogi,4
+7,badarInATayAtrAyE,yAtrA,dat. sg. f.,17,prayojanam,8
+8,prasTitaH,sTita,pp.,18,,

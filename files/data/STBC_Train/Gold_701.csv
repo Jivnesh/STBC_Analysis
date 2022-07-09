@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvakAryaSarIrezu,SarIra,loc. pl. n.,27,axikaranam,10
+1,aNgaskanDapaYcakaM,paYcaka,acc. sg. m.,6,karma,2
+2,muktvA,muc,abs.,9,purvakalah,10
+3,sOgatAnAm,sOgata,g. pl. m.,10,rartisambanxah,4
+4,AtmA,Atman,nom. sg. m.,13,prawiyogi,5
+5,iva,iva,conj.,11,anuyogi,8
+6,mahIBftAm,mahIBft,g. pl. m.,17,rartisambanxah,7
+7,anyaH,anya,nom. sg. m.,18,viseranam,8
+8,mantraH,mantra,nom. sg. m.,19,karwa,10
+9,na,na,conj.,20,sambanxah,10
+10,asti,as,pr. ac. sg. 3,21,,

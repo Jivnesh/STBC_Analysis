@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,atas,conj.,0,hewuh,1
+1,svAmI,svAmin,nom. sg. m.,1,karwa,5
+2,prajYotsAhO,utsAha,acc. du. m.,20,karma,4
+3,Atmani,Atman,loc. sg. m.,5,axikaranam,4
+4,ADAtuM,DA,inf.,6,prayojanam,5
+5,yateta,yat,pfp. md. sg. 3,7,,

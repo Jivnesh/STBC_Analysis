@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,16
+1,samprati,samprati,conj.,1,kriyaviseranam,16
+2,CalanAparaH,tad,nom. sg. m.,2,viseranam,4
+3,ezaH,etad,nom. sg. m.,25,viseranam,4
+4,SElUzaH,SElUza,nom. sg. m.,4,karwa,9
+5,BUmikAm,BUmikA,acc. sg. f.,5,prawiyogi,6
+6,iva,iva,conj.,6,anuyogi,8
+7,aparAm,aparA,acc. sg. f.,8,viseranam,8
+8,upapattim,upapatti,acc. sg. f.,9,karma,9
+9,avApya,Ap,abs.,10,purvakalah,16
+10,SiSupAlasaMjYayA,tad,inst. sg. f.,14,hewuh,11
+11,tirohitAtmA,Atman,nom. sg. m.,84,viseranam,12
+12,saH,tad,nom. sg. m.,16,karma,16
+13,api,api,conj.,17,sambanxah,16
+14,parEH,para,inst. pl. m.,20,karwa,16
+15,asaH,tad,nom. sg. m.,21,karmasamanaxikaranam,16
+16,pratIyate,I,pr. md. sg. 3,24,,

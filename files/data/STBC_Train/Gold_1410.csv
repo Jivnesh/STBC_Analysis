@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,24,karwa,10
+1,ruciracitratanUruhaSAliBiH,ali,inst. pl. m.,9,viseranam,4
+2,paritaH,ca,conj.,10,sambanxah,10
+3,pracalitEH,cal,inst. pl. m.,12,viseranam,4
+4,priyakavrajEH,vraja,inst. pl. m.,14,karwa,6
+5,jaNgamatAM,jaNgama,acc. sg. f.,15,karma,10
+6,gatEH,gam,nom. sg. n.,17,viseranam,8
+7,viviDaratnamayEH,maya,inst. pl. m.,19,viseranam,8
+8,avayavEH,avayava,inst. pl. m.,20,prawiyogi,9
+9,iva,iva,conj.,21,anuyogi,10
+10,aBiBAti,BA,pr. ac. sg. 3,23,,

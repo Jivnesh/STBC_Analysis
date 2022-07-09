@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDunA,aDunA,conj.,0,axikaranam,6
+1,nawena,nawa,inst. sg. m.,1,karwa,6
+2,guruvat,guru,conj.,3,kriyaviseranam,6
+3,mama,asmad,g. sg. *.,4,rartisambanxah,5
+4,api,api,conj.,5,sambanxah,3
+5,akziRI,akzi,acc. du. n.,8,karma,6
+6,udGAwite,grah,pp. . sg. ,14,,

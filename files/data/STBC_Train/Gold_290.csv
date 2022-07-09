@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vAnarAH,vAnara,nom. pl. m.,0,karwa,2
+1,anukArakAH,anukAraka,nom. pl. m.,3,karwqsamanaxikaranam,0
+2,Bavanti,BU,pr. ac. pl. 3,4,karma,5
+3,iti,iti,conj.,5,sambanxah,5
+4,saH,tad,nom. sg. m.,6,karwa,5
+5,aboDat,buD,impft . ac. sg. 3,7,,

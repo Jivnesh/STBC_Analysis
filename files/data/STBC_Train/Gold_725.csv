@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svarRakAraH,svarRakAra,nom. sg. m.,0,karwa,5
+1,ABUzaRAni,uzaRa,acc. pl. n.,33,karma,2
+2,racayizyati,BU,fut. ac. sg. 3,2,samucciwam,5
+3,mahilAyE,mahilA,dat. sg. f.,3,sampraxanam,4
+4,dAsyati,dA,fut. ac. sg. 3,6,samucciwam,5
+5,ca,ca,conj.,7,,

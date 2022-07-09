@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sampAditaPalaH,Pala,nom. sg. m.,1,viseranam,3
+1,sapakzaH,sapakza,nom. sg. m.,2,viseranam,3
+2,paraBedanaH,tad,nom. sg. m.,4,viseranam,3
+3,bARaH,bARa,nom. sg. m.,5,karwa,9
+4,guRinA,guRin,inst. sg. m.,7,karanam,9
+5,tena,tad,inst. sg. m.,11,viseranam,6
+6,kArmukeRa,kArmuka,inst. sg. m.,13,prawiyogi,7
+7,iva,iva,conj.,12,anuyogi,4
+8,sanDAnam,tad,acc. sg. m.,15,karma,9
+9,ezyati,i,fut. ac. sg. 3,16,,

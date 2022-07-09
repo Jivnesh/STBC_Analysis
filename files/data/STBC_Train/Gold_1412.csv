@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,tAn,tad,acc. pl. m.,1,karma,3
+2,BojanAdidvArA,dvAr,adv.,3,kriyaviseranam,3
+3,satkaromi,kf,pr. [10] ac. sg. 1,6,samucciwam,5
+4,pUjayAmi,vivakz,pr. [10] ac. sg. 1,7,samucciwam,5
+5,ca,ca,conj.,8,,

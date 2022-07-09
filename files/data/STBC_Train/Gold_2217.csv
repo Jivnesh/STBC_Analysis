@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Atmavat,tad,nom. sg. n.,1,kriyaviseranam,2
+1,sarvatra,sarvatra,loc. sg. m.,2,axikaranam,7
+2,vyavahAraSIlaH,SIla,nom. sg. m.,4,viseranam,5
+3,ayam,dam,nom. sg. m.,5,viseranam,5
+4,eva,eva,prep.,6,sambanxah,3
+5,nAmadevaH,deva,nom. sg. m.,8,karwa,12
+6,agre,agra,loc. sg. n.,11,axikaranam,7
+7,calitvA,cal,abs.,12,purvakalah,12
+8,mahAn,mahant,nom. sg. m.,13,viseranam,9
+9,prasidDaH,tad,nom. sg. m.,14,viseranam,11
+10,BagavadBaktaH,Bakta,nom. sg. m.,17,viseranam,11
+11,samajAyata,yuzmad,nom. sg. m.,19,karwqsamanaxikaranam,12
+12,iti,iti,part.,20,,
+13,ekaH,eka,nom. sg. m.,21,sambanxah,12

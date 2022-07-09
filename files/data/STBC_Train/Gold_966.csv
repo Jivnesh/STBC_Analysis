@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vilambinIlotpalakarRapUrAH,karRapUra,acc. pl. f.,1,viseranam,2
+1,loDragOrIH,gOrI,acc. pl. f.,3,viseranam,2
+2,kapolaBittIH,kapolaBitti,acc. pl. f.,6,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,9
+4,sTitAH,sTA,nom. pl. m.,10,samucciwam,15
+5,taTA,taTA,conj.,13,sambanxah,10
+6,navaulapaalaNkftasEkataABAH,ABA,acc. pl. f.,11,viseranam,9
+7,SucIH,Suci,acc. pl. f.,14,viseranam,9
+8,SEvalinIH,SEvalinI,acc. pl. f.,15,viseranam,9
+9,apaH,diS,acc. pl. f.,18,karma,10
+10,daDAnam,DA,acc. sg. m.,24,bavalakranasapwami_samanakalah,14
+11,asO,adas,nom. sg. m.,42,karwa,14
+12,giriM,giri,acc. sg. m.,27,viseranam,13
+13,rEvatakaM,rEvataka,acc. sg. m.,28,karma,14
+14,dadarSa,dfS,pft. ac. sg. 3,29,samucciwam,15
+15,ca,ca,conj.,31,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upasTitAH,tad,nom. pl. m.,2,viseranam,1
+1,dasyavaH,dasyu,nom. pl. m.,3,karwa,8
+2,tAn,tad,acc. pl. m.,4,karma,8
+3,svIyam,svIya,acc. sg. m.,5,viseranam,4
+4,Danam,Dana,acc. sg. n.,8,karma,7
+5,svayam,svayam,adv.,11,kriyaviseranam,7
+6,eva,eva,prep.,12,sambanxah,5
+7,samarpayitum,f,ca. inf.,13,prayojanam,8
+8,AdizwavantaH,Adizwa,pp.,14,,

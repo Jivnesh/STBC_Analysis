@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,18
+1,aDivelaM,vela,conj.,1,axikaranam,7
+2,jalAnAM,jala,g. pl. n.,3,rartisambanxah,3
+3,niDinA,niDi,inst. sg. m.,6,karanam,18
+4,atigArDyAt,tva,abl. sg. n.,5,hewuh,6
+5,pItvA,pI,abs.,8,purvakalah,7
+6,vfdDiM,vfdDi,acc. sg. f.,9,karma,7
+7,gate,gam,nom. sg. n.,15,viseranam,9
+8,api,api,conj.,16,sambanxah,7
+9,Atmani,Atman,loc. sg. m.,19,axikaranam,13
+10,na,na,conj.,22,sambanxah,9
+11,eva,eva,conj.,23,sambanxah,10
+12,mAntIH,mA,acc. pl. f.,24,bavalakranasapwami_samanakalah,18
+13,kziptAH,kzip,acc. pl. f.,27,viseranam,15
+14,indo,indu,g. sg. m.,28,rartisambanxah,15
+15,rucaH,ruc,acc. pl. f.,29,prawiyogi,16
+16,iva,iva,conj.,33,anuyogi,17
+17,muktAvalIH,Avali,acc. pl. f.,52,karma,18
+18,AkalayAYcakAra,vac,pft. ps. sg. 3,36,,

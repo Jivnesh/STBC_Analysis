@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vaDUnAm,vaDU,g. pl. f.,0,rartisambanxah,1
+1,aNgeByaH,aNga,abl. pl. m.,4,apaxanam,2
+2,BraSyadBiH,BraMS,nom. sg. n.,7,viseranam,4
+3,guruBiH,guru,inst. pl. n.,9,viseranam,4
+4,BUzaREH,BUzaRa,inst. pl. n.,11,karwa,9
+5,lajjayA,lajjA,inst. sg. f.,12,hewuh,9
+6,eva,eva,conj.,13,sambanxah,5
+7,jalam,jala,nom. sg. n.,16,upapaxasambanxah,8
+8,aBi,aBi,conj.,17,sambanxah,9
+9,amajji,brU,impft. ac. sg. 3,18,,

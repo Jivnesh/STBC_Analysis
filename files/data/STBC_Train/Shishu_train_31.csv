@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,iha,iha,ind.,NA,viseranam,1
+1,sAnuzu,sAnu,loc. pl. m.,NA,axikaranam,9
+2,sannizaRRAH,sat+ni_sad1,pp.,NA,viseranam,3
+3,janAH,jana,nom. pl. m.,NA,karwa,9
+4,SAntamalasAndratarAMSujAlaM,SAnta-mala-sAndra-tarAMSu-jAla,acc. sg. m.,NA,viseranam,8
+5,sampUrRalabDalalanAlapanaupamAnam,sampUrRa-labDa-lalanA-lapana-upa_mAna,acc. sg. m.,NA,viseranam,8
+6,utsaNgasaNgihariRasya,utsaNga-saNgin-hariRa,g. sg. m.,NA,viseranam,7
+7,mfgANkamUrteH,mfgANka-mUrti,g. sg. m.,NA,rartisambanxah,8
+8,pAScAtyaBAgaM,pAScAtya-BAga,acc. sg. m.,NA,karma,9
+9,paSyanti,dfS1,pr. ac. pl. 3,NA,,

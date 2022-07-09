@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guroH,guru,g. sg. m.,0,rartisambanxah,1
+1,kfpAm,kfpA,acc. sg. f.,2,prawiyogi,2
+2,vinA,vinA,prep.,3,anuyogi,5
+3,kintu,ca,adv.,4,sambanxah,6
+4,kim,kim,acc. sg. n.,5,karma,6
+5,vidyA,vidyA,nom. pl. f.,8,karwa,6
+6,milate,mil,pr. [6] md. sg. 3,16,,
+7,kvacit,kvacid,nom. pl. f.,11,viseranam,5

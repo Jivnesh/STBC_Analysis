@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kimarTam,arTa,acc. sg. m.,1,sambanxah,3
+1,aham,asmad,nom. sg. *,2,karwa,3
+2,mAtfpremRA,preman,i. sg. m.,4,karanam,3
+3,vaYcitaH,vaYc,nom. sg. m.,6,prawiyogi,4
+4,iti,iti,part.,7,anuyogi,6
+5,mA,mA,part.,14,sambanxah,6
+6,viSadaya,viSada,imp. [vn.] ac. sg. 2,9,,

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,puraH,puras,conj.,1,axikaranam,7
+1,DavalapakzavihaNgamakUjitEH,kUjita,inst. pl. n.,3,karanam,7
+2,vijitaDvaneH,Dvani,g. sg. m.,4,rartisambanxah,3
+3,SiKaRqinaH,SiKaRqin,g. sg. m.,8,rartisambanxah,4
+4,tanuruhARi,ruha,nom. pl. n.,10,karwa,7
+5,akzamayA,akzamA,inst. sg. f.,14,hewuh,6
+6,iva,iva,conj.,15,sambanxah,7
+7,jagaluH,gal,pft. ac. pl. 3,16,samucciwam,13
+8,hi,hi,conj.,17,sambanxah,12
+9,ariBavaH,Bava,nom. sg. m.,18,karwa,12
+10,pariBavaH,Bava,nom. sg. m.,29,viseranam,11
+11,suduHsahaH,duHsaha,nom. sg. m.,20,karwqsamanaxikaranam,12
+12,Bavati,BU,pr. ac. sg. 3,21,samucciwam,13
+13,ca,ca,conj.,22,,

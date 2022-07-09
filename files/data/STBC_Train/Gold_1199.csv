@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anATAH,anATa,nom. pl. m.,1,karwa,8
+1,te,yuzmad,g. sg. *.,8,viseranam,0
+2,kaYcit,cit,acc. sg. m.,10,viseranam,3
+3,kAlam,kAla,loc. sg. m.,12,axikaranam,8
+4,evam,evam,conj.,15,kriyaviseranam,8
+5,eva,eva,conj.,16,sambanxah,4
+6,vinA,vinA,conj.,17,anuyogi,8
+7,AhAraM,AhAra,acc. sg. m.,21,prawiyogi,6
+8,sTitAH,sTita,pp. . pl. ,20,,

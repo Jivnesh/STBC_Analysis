@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,nom. sg. n.,1,karwa,2
+1,kim,kim,ind.,3,sambanxah,2
+2,manyase,man,pr. ps. sg. 2,4,,
+3,rAjaputri,putra,voc. sg. f.,18,samboxyah,2
+4,mfzA,mfzA,acc. pl. f.,8,kriyaviseranam,5
+5,udyam,vad,pfp.,12,sambanxah,7
+6,tat,tad,acc. sg. n.,13,karma,5
+7,iti,iti,part.,15,karma,2

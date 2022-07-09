@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pOrEH,tad,i. pl. m.,1,samucciwam,2
+1,daSaraTena,daSaraTa,i. sg. m.,3,samucciwam,2
+2,ca,ca,conj.,4,karwa,4
+3,dUram,dUra,adv.,7,kriyaviseranam,4
+4,anugataH,gam,nom. sg. m.,8,viseranam,6
+5,DarmAtmA,Atman,nom. pl. m.,77,viseranam,6
+6,rAmaH,rAma,nom. sg. m.,10,karwa,14
+7,SfNgaverapure,pura,loc. sg. n.,15,axikaranam,11
+8,nizAdADipatim,pati,acc. sg. m.,17,viseranam,10
+9,priyam,priya,acc. sg. m.,18,viseranam,10
+10,guham,guha,acc. sg. m.,21,karma,11
+11,AsAdya,svad,ca. abs.,23,purvakalah,14
+12,gaNgAkule,Akula,loc. sg. m.,88,axikaranam,14
+13,sUtam,sUta,acc. sg. m.,53,karma,14
+14,vyasarjayat,sfj,ca. impft. ac. sg. 3,29,,

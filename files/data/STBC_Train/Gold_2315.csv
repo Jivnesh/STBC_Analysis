@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rUkzarowI,tad,nom. sg. f.,1,karwa,3
+1,BavadIyAm,BavadIya,acc. sg. f.,2,viseranam,2
+2,rasanAm,rasanA,acc. sg. f.,3,karma,3
+3,vraRayizyati,vraRa,fut. ac. sg. 3,4,prawiyogi,4
+4,iti,t,part.,5,anuyogi,5
+5,akaTayat,kaT,impft. [10] ac. sg. 3,6,,

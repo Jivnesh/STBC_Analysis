@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,3
+1,tO,tad,nom. du. m.,2,karwa,5
+2,DyAnam,DyAna,acc. sg. n.,3,karma,5
+3,na,na,part.,7,sambanxah,5
+4,eva,eva,prep.,8,sambanxah,3
+5,dattavantO,dA,ppa.,10,,

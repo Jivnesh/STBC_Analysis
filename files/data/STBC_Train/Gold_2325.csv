@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,strIRAM,strI,g. pl. f.,0,rartisambanxah,1
+1,nimnEH,nimna,inst. pl. m.,2,viseranam,2
+2,nABihradEH,hrada,inst. pl. m.,3,karanam,8
+3,parigfhItarayARi,raya,nom. pl. n.,4,viseranam,6
+4,bfhatjaGanasetunivAritAni,tad,nom. pl. n.,6,viseranam,6
+5,jalamaRqukavAdyavalguvalgadGanastanatawasKalitAni,sKalita,nom. pl. n.,12,viseranam,6
+6,jalAni,jala,nom. pl. n.,14,karwa,8
+7,mandaM,manda,conj.,17,kriyaviseranam,8
+8,jagmuH,gam,pft. ac. pl. 3,25,,

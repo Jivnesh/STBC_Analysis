@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SfRu,Sru,imp. [5] ac. sg. 2,0,sambanxah,9
+1,tAta,tAta,voc. sg. m.,1,samboxyah,0
+2,trikAladarSine,darSin,dat. sg. m.,21,viseranam,4
+3,sampannAya,tad,dat. sg. m.,5,viseranam,4
+4,vedavyAsAya,vyAsa,dat. sg. m.,7,waxarwyam,7
+5,kim,kim,nom. sg. n.,9,viseranam,7
+6,api,api,conj.,10,sambanxah,5
+7,duzkaram,duzkara,nom. sg. n.,14,karwa,9
+8,na,na,part.,17,sambanxah,9
+9,AsIt,as,aor. [5] ac. sg. 3,19,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ramaREH,ramaRa,inst. pl. m.,1,prawiyogi,1
+1,saha,saha,conj.,3,anuyogi,2
+2,jyotsnAyAM,jyotsnA,loc. sg. f.,4,axikaranam,3
+3,aramanta,ram,impft . md. pl. 3,5,,
+4,nAryaH,nArI,nom. sg. f.,6,karwa,3

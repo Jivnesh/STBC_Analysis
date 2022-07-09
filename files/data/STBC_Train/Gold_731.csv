@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mUlyam,mUlya,acc. sg. m.,0,karma,4
+1,api,ap,conj.,4,sambanxah,0
+2,saH,tad,nom. sg. m.,5,karwa,5
+3,eva,eva,prep.,6,sambanxah,2
+4,anicCan,tvar,ppr. [6] ac.,8,bavalakranasapwami_samanakalah,5
+5,dattavAn,datta,pp.,9,,

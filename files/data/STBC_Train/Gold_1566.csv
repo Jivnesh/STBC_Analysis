@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTaya,kaT,imp. [10] ac. sg. 2,0,,
+1,me,asmad,g. sg. *,1,rartisambanxah,2
+2,kA,kim,nom. sg. f.,3,karwqsamanaxikaranam,4
+3,tvam,yuzmad,nom. sg. *,4,karwa,4
+4,Bavasi,BU,pr. [1] ac. sg. 2,5,prawiyogi,5
+5,iti,t,part.,6,anuyogi,0

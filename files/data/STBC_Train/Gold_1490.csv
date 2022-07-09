@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTam,kaTam,adv.,0,kriyaviseranam,5
+1,asO,adas,nom. sg. m.,9,karwa,5
+2,BavadByaH,BU,abl. pl. m.,4,sampraxanam,5
+3,idam,idam,acc. sg. n.,15,viseranam,4
+4,Danam,Dana,acc. sg. n.,6,karma,5
+5,AdApayat,dA,ca. impft. ac. sg. 3,8,,

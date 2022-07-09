@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yasyAM,yad,loc. sg. f.,0,axikaranam,9
+1,kalaDOtaDAmastamBezu,stamBa,loc. pl. m.,27,axikaranam,2
+2,pratimAgatAnAM,gam,g. pl. f.,10,viseranam,4
+3,sAvarRyaBAjAm,BAj,g. pl. f.,35,viseranam,4
+4,aNganAnAM,viS,g. pl. f.,14,rartisambanxah,5
+5,smarApARqutayA,pARqu,inst. sg. f.,16,karanam,9
+6,lakzyEH,lakzya,inst. pl. m.,18,viseranam,7
+7,kapolEH,kapola,inst. pl. m.,19,karwa,9
+8,maRidarpaRaSrIH,SrI,nom. sg. f.,23,karma,9
+9,Beje,Baj,pft. md. sg. 3,24,,

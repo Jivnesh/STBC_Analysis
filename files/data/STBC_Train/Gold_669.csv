@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vidvAn,vidvas,nom. sg. m.,15,karwa,3
+1,dEzwikatAM,BAryA,acc. sg. f.,1,karma,3
+2,na,na,conj.,2,sambanxah,3
+3,Alambate,lamb,pr. md. sg. 3,4,samucciwam,8
+4,pOruze,pOruza,loc. sg. m.,5,axikaranam,7
+5,ca,ca,conj.,11,sambanxah,7
+6,na,na,conj.,12,sambanxah,7
+7,nizIdati,sad,pr. ac. sg. 3,13,samucciwam,8
+8,ca,ca,conj.,14,,

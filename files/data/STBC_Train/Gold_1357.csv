@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tad,nom. sg. m.,2,karwa,4
+1,api,api,conj.,3,sambanxah,0
+2,apUrvA,pUrva,nom. sg. m.,5,viseranam,3
+3,apUrvAAnandAnuBUtiH,anuBUti,nom. sg. m.,0,karma,4
+4,prAptA,Ap,per. fut. ac. sg. 3,6,,

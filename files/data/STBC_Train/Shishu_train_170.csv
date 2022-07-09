@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,kareRoH,kareRu,abl. sg. m.,NA,apaxanam,1
+1,trastaH,tras1,pp.,NA,viseranam,2
+2,KaraH,Kara,nom. sg. m.,NA,viseranam,3
+3,samastajanahAsakaraH,samasta-jana-hAsakara,nom. sg. m.,NA,karwa,6
+4,tAvat,tAvat,ind.,NA,kriyaviseranam,6
+5,praKaram,praKara,acc. sg. m.,NA,karma,6
+6,ullalayAYcakAra,ut_lal1,pft. ac. sg. 3,NA,,
+7,yAvat,yAvat,ind.,NA,kriyaviseranam,10
+8,calAsanavilolanitambavisrastavastram,calAsana-vilola-nitamba-visrasta-vastra,ind.,NA,kriyaviseranam,10
+9,avaroDavaDUH,avaroDa-vaDU,nom. sg. f.,NA,karwa,10
+10,papAta,pat1,pft. ac. sg. 3,NA,,

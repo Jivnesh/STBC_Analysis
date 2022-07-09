@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,leKasya,tad,g. sg. m.,1,rartisambanxah,3
+1,idam,idam,acc. sg. n.,44,viseranam,3
+2,nindanIyam,nind,acc. sg. n.,4,viseranam,3
+3,AcaraRam,AcaraRa,acc. sg. n.,5,karma,14
+4,tezAm,tad,g. pl. n.,7,viseranam,5
+5,svasya,sva,g. sg. n.,10,rartisambanxah,6
+6,dAtuH,dAtf,g. sg. m.,11,rartisambanxah,7
+7,ADAreRa,ADAra,i. sg. m.,13,karanam,14
+8,patrasya,pattra,g. sg. n.,14,rartisambanxah,9
+9,sampAdakena,sampAdaka,i. sg. m.,15,karwa,18
+10,svakIye,svakIya,loc. sg. n.,20,viseranam,11
+11,patre,pattra,loc. sg. n.,25,axikaranam,14
+12,aDiveSanasya,tad,g. sg. n.,26,rartisambanxah,13
+13,carcAm,carcA,acc. sg. f.,27,karma,14
+14,kurvantaH,kf,ppr. [8] ac.,28,viseranam,18
+15,arDAH,arDa,acc. pl. f.,30,viseranam,16
+16,sadasyAH,sadasya,acc. pl. f.,33,viseranam,17
+17,aSizwAH,Siz,acc. pl. f.,41,karma,18
+18,prakASitAH,kAS,ca. pp.,43,,

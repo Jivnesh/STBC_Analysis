@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,muniH,muni,nom. sg. m.,0,viseranam,1
+1,viSvAmitraH,viSvAmitra,nom. sg. m.,3,karwa,3
+2,daSaraTam,daSaraTa,acc. sg. m.,5,karma,3
+3,upAgacCat,gam,nom. sg. n.,6,samucciwam,5
+4,sahAyatAyE,sahAya,dat. sg. f.,7,waxarwyam,7
+5,ca,ca,conj.,8,,
+6,tam,tad,acc. sg. m.,9,karma,7
+7,anvanayat,nI,impft . ac. sg. 3,10,samucciwam,5

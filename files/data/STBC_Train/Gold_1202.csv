@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAmaM,kAmam,conj.,2,kriyaviseranam,2
+1,sOganDyaM,sOganDya,acc. sg. n.,3,karma,2
+2,daDat,DA,nom. sg. n.,7,bavalakranasapwami_samanakalah,7
+3,api,api,conj.,8,sambanxah,2
+4,dUratvAt,dUra,abl. sg. n.,10,hewuh,6
+5,aNganAnAm,aNganA,g. pl. f.,12,rartisambanxah,6
+6,AnanaupamAnaM,upamAna,nom. sg. n.,14,karwa,7
+7,gatam,gam,pp. . sg. ,17,viseranam,8
+8,ahaM,asmad,nom. sg. n.,18,karma,13
+9,samprati,samprati,conj.,19,axikaranam,13
+10,punaH,punar,conj.,21,kriyaviseranam,13
+11,tAsAM,tad,g. pl. f.,22,rartisambanxah,12
+12,nedIyaH,nedIyas,nom. sg. n.,23,karwa,13
+13,jitam,ji,pp. . sg. ,26,prawiyogi,14
+14,iti,iti,conj.,27,anuyogi,15
+15,lajjayA,lajjA,inst. sg. f.,28,hewuh,20
+16,eva,eva,conj.,29,sambanxah,15
+17,mahotpalam,mahotpala,nom. sg. n.,30,karwa,20
+18,Alole,sva,loc. sg. n.,31,viseranam,19
+19,payasi,payas,loc. sg. n.,32,axikaranam,20
+20,mamajja,vac,pft. ac. sg. 3,35,,

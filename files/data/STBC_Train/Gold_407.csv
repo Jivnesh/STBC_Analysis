@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jYAtvA,jYA,abs.,1,purvakalah,8
+1,etat,etad,nom. sg. n.,10,viseranam,2
+2,BikzuH,Bikzu,nom. sg. m.,2,karwa,8
+3,ekaH,eka,acc. sg. m.,3,viseranam,4
+4,anyam,anya,acc. sg. m.,4,viseranam,5
+5,Bikzum,Bikzu,acc. sg. m.,5,karma,8
+6,nEva,eva,prep.,14,sambanxah,8
+7,hi,hi,part.,7,sambanxah,6
+8,Bikzate,praRaS,des. pr. md. sg. 3,8,,

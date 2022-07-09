@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDunA,aDunA,loc. sg. n.,0,axikaranam,7
+1,BavAn,BU,nom. sg. m.,2,viseranam,6
+2,eva,eva,prep.,3,sambanxah,1
+3,mama,asmad,g. sg. *,4,rartisambanxah,5
+4,AdarSaH,AdarSa,nom. sg. m.,7,viseranam,6
+5,mArgadarSakaH,darSaka,nom. sg. m.,6,viseranam,6
+6,guruH,guru,nom. sg. m.,8,karwa,7
+7,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,8
+8,iti,iti,part.,16,anuyogi,9
+9,uktvA,vac,abs.,11,purvakalah,11
+10,svASramam,ASrama,acc. sg. m.,22,prawiyogi,11
+11,prati,prati,prep.,14,anuyogi,12
+12,nivfttaH,vftta,pp.,15,,
+13,iti,iti,part.,10,sambanxah,12

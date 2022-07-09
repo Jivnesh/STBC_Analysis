@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrezWI,SrezWin,nom. sg. m.,0,karwa,4
+1,cikitsakasya,cikitsaka,g. sg. m.,1,rartisambanxah,2
+2,samIpe,samIpa,loc. sg. m.,3,axikaranam,4
+3,kiM,kim,conj.,9,sambanxah,4
+4,gatavAn,gam,pp. . sg. ,10,,

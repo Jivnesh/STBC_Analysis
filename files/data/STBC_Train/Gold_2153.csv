@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kasmE,kim,dat. sg. m.,1,viseranam,2
+1,api,api,conj.,2,sambanxah,0
+2,janAya,jana,dat. sg. m.,4,sampraxanam,6
+3,svakIyam,svakIya,acc. sg. n.,7,viseranam,5
+4,idam,idam,acc. sg. n.,20,viseranam,5
+5,kAryam,kf,acc. sg. n.,18,karma,6
+6,samarpayati,f,ca. pr. ac. sg. 3,19,,

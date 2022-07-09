@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pitrA,pitf,nom. sg. m.,0,karwa,17
+1,tu,tu,conj.,1,sambanxah,0
+2,AtmahatyA,tad,nom. pl. f.,6,karwa,5
+3,mahAn,mahant,nom. sg. m.,7,viseranam,4
+4,aparADaH,aparADa,nom. sg. m.,8,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7
+7,sandiSya,diS,abs.,11,purvakalah,17
+8,prAyaScittarUpe,rUpa,loc. sg. n.,16,axikaranam,17
+9,patnyA,patnI,i. sg. f.,17,prawiyogi,10
+10,saha,saha,prep.,19,anuyogi,16
+11,SvaSurAlaye,Alaya,loc. sg. m.,61,axikaranam,15
+12,kAnicit,kim,acc. pl. n.,22,viseranam,13
+13,varzARi,varza,acc. pl. n.,25,karma,15
+14,pravAsam,pravAsa,acc. sg. m.,27,karma,15
+15,kartum,kf,inf.,28,prayojanam,17
+16,saH,tad,acc. sg. m.,29,karma,17
+17,nirdizwaH,dizwa,pp.,30,,

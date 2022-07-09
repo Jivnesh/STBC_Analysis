@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaTam,kaTam,adv.,0,kriyaviseranam,3
+1,mAm,asmad,acc. sg. *,1,karma,3
+2,gfham,gfha,acc. sg. n.,2,karma,3
+3,nayasi,nI,pr. [1] ac. sg. 2,4,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvasya,Svas,conj.,1,rartisambanxah,1
+1,srazwuH,srazwf,g. sg. m.,2,rartisambanxah,2
+2,icCA,icCA,nom. sg. f.,5,karwa,4
+3,alaNGanIyA,tad,nom. sg. f.,10,karwqsamanaxikaranam,4
+4,Bavati,BU,pr. ac. sg. 3,11,,

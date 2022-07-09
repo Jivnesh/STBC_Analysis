@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SyAmasundarasya,sundara,g. sg. m.,1,rartisambanxah,1
+1,prativeSine,tad,g. sg. m.,4,rartisambanxah,4
+2,tadA,tadA,loc. sg. m.,5,axikaranam,5
+3,kim,kim,nom. sg. n.,7,viseranam,4
+4,uttaram,uttara,nom. sg. n.,13,karwa,5
+5,AsIt,as,aor. [5] ac. sg. 3,15,,

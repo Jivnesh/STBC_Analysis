@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jagati,tad,loc. sg. m.,1,axikaranam,5
+1,aparyAptasahasraBAnunA,BAnu,inst. sg. m.,4,viseranam,2
+2,BAnunA,BAnu,inst. sg. m.,5,karwa,7
+3,yat,yad,nom. sg. n.,38,viseranam,4
+4,tamaH,tamas,nom. sg. n.,8,karma,7
+5,niyantuM,yam,inf.,9,prayojanam,7
+6,na,na,conj.,10,sambanxah,7
+7,samaBAvi,BU,impft. md. sg. 3,11,samucciwam,17
+8,anuttamam,anuttama,nom. sg. n.,15,viseranam,10
+9,adaH,adas,nom. sg. n.,17,viseranam,10
+10,tamaH,tamas,nom. sg. n.,19,karma,7
+11,asaNKyatAM,tad,acc. sg. f.,21,karma,12
+12,gatEH,gam,nom. sg. n.,23,viseranam,13
+13,tejoBiH,tejas,inst. pl. n.,24,karanam,14
+14,prasahya,sah,abs.,25,purvakalah,16
+15,tvayA,yuzmad,inst. sg. n.,26,karwa,16
+16,nunnam,nud,nom. sg. n.,29,samucciwam,17
+17,ca,ca,conj.,30,,

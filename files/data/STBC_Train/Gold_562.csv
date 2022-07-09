@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putraH,putra,nom. sg. m.,0,sambanxah,2
+1,putrI,putra,nom. sg. f.,1,sambanxah,2
+2,vA,vA,conj.,3,karwa,4
+3,janmagrahaRam,grahaRa,nom. sg. n.,7,karma,4
+4,akarot,kf,impft. [8] ac. sg. 3,8,,
+5,eva,eva,prep.,9,sambanxah,4
+6,na,na,part.,10,sambanxah,4

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvitIyaH,dvitIya,nom. sg. m.,0,viseranam,1
+1,mizwAnnavyavasAyI,vyavasAyin,nom. sg. m.,27,karwa,5
+2,punaH,punar,adv.,5,kriyaviseranam,5
+3,svavipaRyAm,vipaRa,loc. sg. f.,8,axikaranam,5
+4,kim,kim,acc. sg. n.,9,karma,5
+5,aleKayat,brU,ca. impft. ac. sg. 3,11,,

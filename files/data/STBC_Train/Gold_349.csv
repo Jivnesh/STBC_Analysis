@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,anantaraputreByaH,putra,abl. pl. m.,3,upapaxasambanxah,2
+2,pUrvam,pUrva,loc. sg. m.,5,axikaranam,8
+3,eva,eva,prep.,8,sambanxah,2
+4,tava,yuzmad,g. sg. *,9,rartisambanxah,7
+5,me,asmad,g. sg. *,10,rartisambanxah,6
+6,hfdi,hfdaya,loc. sg. n.,12,axikaranam,8
+7,sTAnam,sTAna,nom. sg. n.,14,karwa,8
+8,asti,as,pr. [2] ac. sg. 3,15,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mayA,asmad,i. sg. *,0,prawiyogi,1
+1,saha,saha,prep.,2,anuyogi,3
+2,kfpayA,kfpA,i. sg. f.,3,kriyaviseranam,3
+3,calatu,cal,imp. [1] ac. sg. 3,4,,
+4,tAvat,tAvat,adv.,5,sambanxah,3

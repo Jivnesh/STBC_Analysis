@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratipakzajanmanAM,janman,g. pl. f.,2,viseranam,1
+1,BiyAM,BI,g. pl. f.,3,rartisambanxah,2
+2,aBUmiH,aBUmi,nom. sg. m.,6,viseranam,5
+3,tapanadyutiH,tapanadyuti,nom. sg. m.,8,viseranam,5
+4,diteH,diti,g. sg. f.,9,rartisambanxah,5
+5,tanUjaH,tanUja,nom. sg. m.,13,karwa,6
+6,aBUt,BU,impft. ac. sg. 3,14,samucciwam,13
+7,hareH,hari,g. sg. m.,19,rartisambanxah,8
+8,indraSabdArTanizUdanaM,nizUdana,nom. sg. n.,27,viseranam,11
+9,yaM,yad,acc. sg. m.,28,viseranam,11
+10,hiraRyapUrvaM,pUrva,acc. sg. m.,30,viseranam,11
+11,kaSipuM,kaSipu,acc. sg. m.,33,karma,12
+12,pracakzate,pracakz,pr. md. pl. 3,34,samucciwam,13
+13,ca,ca,conj.,35,,

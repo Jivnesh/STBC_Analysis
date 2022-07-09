@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nigrahaRaBayAt,Baya,abl. sg. m.,2,apaxanam,3
+1,cOraH,tad,nom. sg. m.,3,karwa,10
+2,itastataH,tad,abl. sg. m.,31,apaxanam,3
+3,palAyamAnaH,palAy,ppr. [1] md.,6,bavalakranasapwami_samanakalah,10
+4,tasya,tad,g. sg. m.,9,viseranam,6
+5,eva,eva,prep.,7,sambanxah,4
+6,vfdDa-puruzasya,puruza,g. sg. m.,10,rartisambanxah,7
+7,gfhadvAri,dvAr,loc. sg. m.,23,axikaranam,8
+8,Agatya,gam,abs.,13,purvakalah,10
+9,mUrCitaH,tad,nom. sg. m.,15,karwqsamanaxikaranam,10
+10,nyapatat,pat,impft. [1] ac. sg. 3,16,,

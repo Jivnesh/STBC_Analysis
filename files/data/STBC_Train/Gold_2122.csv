@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *.,0,karwa,4
+1,eva,eva,conj.,1,sambanxah,0
+2,rAjA,rAjan,nom. sg. m.,2,karwqsamanaxikaranam,4
+3,DarmajYaH,Darma,nom. sg. m.,7,viseranam,2
+4,asi,as,pr. ac. sg. 2,8,prawiyogi,5
+5,iti,iti,conj.,9,anuyogi,6
+6,vacaH,tad,nom. sg. m.,12,sambanxah,8
+7,rAmam,rAma,acc. sg. m.,13,sambanxah,8
+8,abravIt,brU,impft . ac. sg. 3,16,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. m.,1,axikaranam,5
+1,aham,asmad,nom. sg. *,0,karwa,5
+2,duryoDanasya,duryoDana,g. sg. m.,2,rartisambanxah,4
+3,duzwam,duzwa,nom. sg. n.,4,viseranam,4
+4,annam,anna,nom. sg. n.,7,karma,5
+5,KAdAmi,KAd,pr. [1] ac. sg. 1,8,,
+6,sma,sma,part.,9,sambanxah,5

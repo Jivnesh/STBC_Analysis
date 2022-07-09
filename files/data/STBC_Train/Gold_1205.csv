@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SatrUn,Satru,acc. pl. m.,0,karma,2
+1,Sirassu,Siras,loc. pl. n.,1,axikaranam,2
+2,praharati,rAjan,loc. sg. m.,2,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mADavaH,mADava,nom. sg. m.,0,karwa,5
+1,yAvadarTapadAM,pad,acc. sg. f.,3,viseranam,2
+2,vAcam,vAc,acc. sg. f.,4,karma,4
+3,evam,evam,conj.,5,sambanxah,2
+4,AdAya,dA,abs.,6,purvakalah,5
+5,virarAma,rama,pft. ac. pl. 3,8,samucciwam,10
+6,mahIyAMsaH,mahIyas,nom. pl. m.,9,karwa,9
+7,prakftyA,prakfti,inst. sg. f.,11,hewuh,8
+8,mitaBAziRaH,BAzin,nom. pl. m.,15,karwqsamanaxikaranam,9
+9,Bavanti,BU,pr. ac. pl. 3,20,samucciwam,10
+10,ca,ca,conj.,21,,

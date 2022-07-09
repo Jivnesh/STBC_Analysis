@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,varzASItagrIzmAdikAH,tad,nom. pl. m.,4,viseranam,1
+1,ftavaH,ftu,nom. pl. m.,5,karwa,6
+2,tasya,tad,g. sg. n.,6,rartisambanxah,3
+3,darSane,darSana,loc. sg. n.,10,axikaranam,4
+4,bADakAH,bADaka,nom. pl. m.,11,karwqsamanaxikaranam,6
+5,na,na,part.,12,sambanxah,6
+6,Bavanti,BU,pr. [1] ac. pl. 3,13,,
+7,sma,sma,part.,14,sambanxah,6

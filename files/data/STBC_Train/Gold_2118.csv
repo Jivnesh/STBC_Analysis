@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,spfhayAmi,spfh,pr. [10] ac. sg. 1,0,,
+1,Kalu,Kalu,adv.,1,sambanxah,0
+2,durlalitAya,durlalita,dat. sg. m.,2,sampraxanam,0
+3,asmE,idam,dat. sg. m.,5,viseranam,2

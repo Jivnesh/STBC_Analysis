@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nijaM,nija,nom. sg. m.,2,viseranam,1
+1,sImantaM,sImanta,nom. sg. m.,3,karma,3
+2,karAByAm,kara,inst. du. m.,15,karanam,3
+3,anubaDnatI,banD,nom. sg. n.,18,viseranam,5
+4,AlakzyastanatawabAhumUlaBAgA,tad,nom. sg. f.,19,viseranam,5
+5,anyA,anyA,nom. sg. f.,21,viseranam,6
+6,aBilazyatA,las,nom. sg. n.,23,karma,9
+7,BartrA,Bartf,inst. sg. m.,24,viseranam,8
+8,muhuH,muhur,conj.,25,karwa,9
+9,nidaDye,vac,pft. md. sg. 3,26,,

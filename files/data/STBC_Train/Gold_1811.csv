@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yAvat,yAvat,loc. sg. n.,0,axikaranam,7
+1,saH,tad,nom. sg. m.,1,karwa,7
+2,pUrRarUpeRa,rUpa,i. sg. n.,3,kriyaviseranam,7
+3,svasTaH,svasTa,nom. sg. m.,4,samucciwam,5
+4,sabalaH,sabala,nom. sg. m.,5,samucciwam,5
+5,ca,ca,conj.,6,karwqsamanaxikaranam,7
+6,na,na,part.,7,sambanxah,7
+7,aBavat,BU,impft. [1] ac. sg. 3,8,samucciwam,14
+8,tAvat,tAvat,loc. sg. n.,9,axikaranam,12
+9,tam,tad,acc. sg. m.,10,karma,12
+10,saH,tad,nom. sg. m.,11,karwa,12
+11,samyak,samyak,adv.,12,kriyaviseranam,12
+12,upacaritavAn,carita,pp.,13,samucciwam,14
+13,api,api,conj.,14,sambanxah,12
+14,ca,ca,conj.,16,,

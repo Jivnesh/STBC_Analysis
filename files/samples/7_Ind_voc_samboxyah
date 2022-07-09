@@ -1,0 +1,47 @@
+0,na,na,part.,0,sambanxah,1
+1,gfhItaH,grah,pp.,1,,
+2,hi,h,part.,2,sambanxah,1
+3,banDo,banDu,voc. sg. m.,3,samboxyah,2 ####### Ind_voc_samboxyah #######
+
+0,na,na,part.,0,sambanxah,1
+1,gfhItaH,grah,pp.,1,,
+2,hi,h,part.,2,sambanxah,1
+3,banDo,banDu,voc. sg. m.,3,samboxyah,2 ####### Ind_voc_samboxyah #######
+
+0,mAnini,mAninI,voc. sg. f.,1,samboxyah,6 ####### Ind_voc_samboxyah #######
+1,praRayini,praRayin,voc. sg. f.,20,samboxyah,6 ####### Ind_voc_samboxyah #######
+2,yadi,yadi,conj.,4,sambanxah,6
+3,prasAdabudDiH,budDi,nom. sg. f.,5,karwa,5
+4,na,na,conj.,6,sambanxah,5
+5,asti,as,pr. ac. sg. 3,7,samucciwam,12
+6,cet,ced,conj.,8,sambanxah,11
+7,taTApi,api,conj.,54,sambanxah,11
+8,mama,asmad,g. sg. n.,12,rartisambanxah,9
+9,jIvite,jIv,loc. sg. m.,14,axikaranam,11
+10,dayAluH,dayAlu,nom. sg. m.,15,karwa,11
+11,Bava,BU,imp. ac. sg. 2,17,samucciwam,12
+12,ca,ca,conj.,18,,
+
+0,mAnini,mAninI,voc. sg. f.,NA,samboxyah,6 ####### Ind_voc_samboxyah #######
+1,praRayini,praRayinI,voc. sg. f.,NA,samboxyah,6 ####### Ind_voc_samboxyah #######
+2,yadi,yadi,ind.,NA,sambanxah,6
+3,prasAdabudDiH,prasAda-budDi,nom. sg. f.,NA,karwa,5
+4,na,na,ind.,NA,sambanxah,5
+5,asti,as2,pr. ac. sg. 3,NA,,
+6,cet,cet,ind.,NA,sambanxah,11
+7,taTApi,taTApi,ind.,NA,sambanxah,11
+8,mama,asmad,g. sg. *.,NA,rartisambanxah,9
+9,jIvite,jIv1,pp.,NA,axikaranam,11
+10,dayAluH,dayAlu,nom. sg. m.,NA,karwa,11
+11,Bava,BU1,imp.,NA,,
+
+0,tAta,tAta,voc. sg. m.,0,samboxyah,8 ####### Ind_voc_samboxyah #######
+1,ime,idam,nom. pl. m.,3,viseranam,2
+2,sEnikAH,tad,nom. pl. m.,8,karwa,5
+3,parasparam,paraspara,adv.,11,kriyaviseranam,8
+4,kim,kim,acc. sg. n.,12,waxarwyam,8
+5,yuDyante,yuD,pr. ps. pl. 3,14,samucciwam,8
+6,mriyante,mf,pr. ps. pl. 3,16,samucciwam,8
+7,mArayanti,mf,ca. pr. ac. pl. 3,18,samucciwam,8
+8,ca,ca,conj.,19,,
+

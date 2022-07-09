@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pUrvam,pUrva,loc. sg. m.,0,axikaranam,5
+1,tu,tu,conj.,3,sambanxah,0
+2,drOpadI,drOpadI,nom. sg. f.,4,karwa,5
+3,kiYcit,cit,acc. sg. n.,23,karma,5
+4,na,na,conj.,6,sambanxah,5
+5,kaTitavatI,vac,pp. . sg. ,9,,

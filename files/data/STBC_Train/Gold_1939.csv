@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kanakaviBUzaRAni,viBUzaRa,acc. pl. n.,0,karma,1
+1,udvoQum,vah,conj.,2,prayojanam,2
+2,aSaktaH,Sak,pp. . sg. ,4,viseranam,7
+3,saDrIcA,tad,inst. sg. m.,6,sambanxah,4
+4,valayitapadmanAlasUtraH,sUtra,nom. sg. m.,7,viseranam,7
+5,ArUQaprativanitAkawAkzaBAraH,BAra,nom. sg. m.,8,viseranam,7
+6,taruRyAH,taruRI,g. sg. f.,10,rartisambanxah,7
+7,BujaH,Buja,nom. sg. m.,11,karwa,10
+8,sADIyaH,sADIyas,conj.,13,viseranam,10
+9,guruH,guru,nom. sg. m.,14,karwqsamanaxikaranam,10
+10,aBavat,BU,impft . ac. sg. 3,15,,

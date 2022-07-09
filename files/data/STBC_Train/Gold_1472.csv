@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AdipUruzaH,AdipUruza,nom. sg. m.,4,karwa,7
+1,saH,tad,nom. sg. m.,5,viseranam,0
+2,arGyaM,arGya,acc. sg. m.,8,karma,7
+3,tam,tad,acc. sg. m.,9,viseranam,2
+4,arGyAdikayA,tad,inst. sg. f.,11,karanam,7
+5,saparyayA,saparyA,inst. sg. f.,12,viseranam,4
+6,sADu,sADu,conj.,14,viseranam,7
+7,paryapUjayat,Ric,impft . ac. sg. 3,16,samucciwam,16
+8,manIziRaH,manIzin,nom. pl. m.,18,karwa,15
+9,apuRyakftAM,kft,g. pl. m.,25,rartisambanxah,10
+10,gfhAn,gfha,acc. pl. m.,28,karma,15
+11,praRayAt,praRaya,abl. sg. m.,29,apaxanam,12
+12,upEtum,i,inf.,52,prayojanam,15
+13,aBIpsavaH,aBIpsu,nom. pl. m.,31,karwqsamanaxikaranam,15
+14,na,na,conj.,33,sambanxah,15
+15,Bavanti,BU,pr. ac. pl. 3,34,samucciwam,16
+16,ca,ca,conj.,35,,

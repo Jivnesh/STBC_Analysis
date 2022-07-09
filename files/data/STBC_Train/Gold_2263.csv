@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAm,tad,loc. sg. f.,0,axikaranam,6
+1,rAmaH,rAma,nom. sg. m.,1,samucciwam,4
+2,lakzmaRaH,lakzmaRa,nom. sg. m.,2,samucciwam,4
+3,sItA,sItA,nom. sg. f.,5,samucciwam,4
+4,ca,ca,conj.,6,karwa,6
+5,ciram,cira,adv.,9,kriyaviseranam,6
+6,vasanti,vas,pr. [1] ac. pl. 3,10,,

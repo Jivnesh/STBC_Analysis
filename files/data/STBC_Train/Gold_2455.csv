@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pipAsAkulaH,Akula,nom. sg. m.,19,viseranam,1
+1,saH,tad,nom. sg. m.,2,karwa,5
+2,ekasya,eka,g. sg. m.,3,viseranam,3
+3,mahAtmanaH,Atman,g. sg. *,14,rartisambanxah,4
+4,ASramam,ASrama,acc. sg. m.,6,karma,5
+5,prAptaH,Ap,pp.,9,,

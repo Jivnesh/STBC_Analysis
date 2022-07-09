@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nAradasya,nArada,g. sg. m.,0,rartisambanxah,1
+1,Bagavantam,Baga,acc. sg. m.,1,prawiyogi,2
+2,prati,prati,prep.,2,anuyogi,6
+3,BaktO,devI,loc. sg. f.,3,axikaranam,6
+4,mahAn,mahant,nom. sg. m.,4,viseranam,5
+5,garvaH,garva,nom. sg. m.,5,karwa,6
+6,AsIt,as,aor. [5] ac. sg. 3,7,,

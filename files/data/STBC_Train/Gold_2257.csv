@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,acalat,cal,impft. [1] ac. sg. 3,0,samucciwam,1
+1,ca,ca,conj.,1,,
+2,anyAm,anya,acc. sg. f.,2,viseranam,3
+3,diSAm,diSA,acc. sg. f.,3,upapaxasambanxah,4
+4,prati,prati,prep.,5,sambanxah,0

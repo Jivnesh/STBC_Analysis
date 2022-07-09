@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mayA,asmad,nom. pl. m.,0,karwa,6
+1,eva,eva,prep.,1,sambanxah,0
+2,tapobalena,na,adv.,3,kriyaviseranam,6
+3,imO,idam,acc. du. m.,4,viseranam,5
+4,te,yuzmad,g. sg. *,11,rartisambanxah,5
+5,hastO,hasta,acc. du. m.,13,karma,6
+6,utpAditO,pad,ca. pp.,16,,

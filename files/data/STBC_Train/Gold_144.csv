@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taTAhi,api,conj.,1,sambanxah,5
+1,nagApagA,ga,nom. sg. f.,25,karwa,5
+2,mahAnadyA,mahAnadI,inst. sg. f.,8,karanam,5
+3,samBUya,BU,abs.,9,purvakalah,5
+4,amBoDim,amBoDi,acc. sg. m.,10,karma,5
+5,aByeti,i,pr. ac. sg. 3,12,,

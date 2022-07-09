@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,nom. sg. n.,7,viseranam,1
+1,yuktam,yukta,nom. sg. n.,2,karwa,3
+2,na,na,part.,4,sambanxah,3
+3,asti,as,pr. [2] ac. sg. 3,5,,

@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viroDinAM,viroDin,g. pl. m.,0,rartisambanxah,1
+1,vigrahaBedadakzA,dakzA,nom. sg. f.,4,karwa,2
+2,kvacidasKalantI,sKal,nom. sg. f.,9,bavalakranasapwami_samanakalah,14
+3,nityaM,nitya,conj.,12,viseranam,5
+4,hareH,hari,g. sg. m.,17,rartisambanxah,5
+5,sannihitA,DA,nom. sg. n.,23,viseranam,7
+6,mUrtA,tad,nom. sg. f.,24,viseranam,7
+7,SaktiH,Sakti,nom. sg. f.,25,prawiyogi,8
+8,iva,iva,conj.,27,anuyogi,1
+9,sTitA,sTA,nom. sg. f.,28,samucciwam,16
+10,kOmodakI,kOmodakI,nom. sg. f.,29,karwa,14
+11,hareH,hari,g. sg. m.,34,rartisambanxah,12
+12,cetaH,cetas,acc. sg. n.,38,karma,14
+13,nikAmaM,nikAma,conj.,40,viseranam,14
+14,modayati,mud,pr. ac. sg. 3,41,samucciwam,16
+15,sma,sma,conj.,42,sambanxah,14
+16,ca,ca,conj.,43,,

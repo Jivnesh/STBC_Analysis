@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SvaH,Svas,loc. sg. m.,0,axikaranam,4
+1,kAryAlaye,Alaya,loc. sg. m.,43,axikaranam,4
+2,upasTAya,sTA,abs.,21,purvakalah,4
+3,kAryam,kArya,acc. sg. n.,11,karma,4
+4,prArabDavyam,kf,pfp. [1],16,,

@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kanyAH,kanyA,nom. pl. f.,1,karwa,1
+1,avadanta,av,ppr. [1] ac.,7,,
+2,janakam,janaka,acc. sg. m.,8,karma,1

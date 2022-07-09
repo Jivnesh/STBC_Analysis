@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. n.,0,axikaranam,2
+1,saH,tad,nom. sg. m.,1,karwa,10
+2,nivAsinO,nivAsin,acc. du. m.,2,viseranam,5
+3,vfdDO,vfdDa,acc. du. m.,23,viseranam,5
+4,kuzWinO,kuzWin,acc. du. m.,5,viseranam,5
+5,dampatI,pati,acc. du. m.,8,karma,7
+6,tElAByaNgasnAnAdinA,Adin,i. sg. m.,55,karanam,7
+7,viSoDya,SuD,ca. abs.,17,purvakalah,10
+8,Bojanam,Bojana,acc. sg. n.,18,karma,9
+9,paktvA,pac,abs.,20,purvakalah,10
+10,BojitavAn,Buj,ca. pp.,21,,

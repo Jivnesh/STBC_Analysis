@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SIGram,SIGram,conj.,2,kriyaviseranam,2
+1,eva,eva,conj.,3,sambanxah,0
+2,Agantavyam,gam,pfp. . sg. ,6,,
+3,iti,iti,conj.,7,sambanxah,2

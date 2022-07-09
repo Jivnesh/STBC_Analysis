@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekasya,eka,g. sg. m.,0,rartisambanxah,1
+1,svaBAvaH,BAva,nom. sg. m.,3,samucciwam,5
+2,BAzaRadAnam,dAna,nom. sg. n.,6,karwqsamanaxikaranam,7
+3,dvitIyasya,dvitIya,g. sg. m.,7,rartisambanxah,4
+4,svaBAvaH,BAva,nom. sg. m.,10,samucciwam,5
+5,ca,ca,conj.,11,karwa,7
+6,tadBAzaRaSravaRam,SravaRa,nom. sg. n.,19,karwqsamanaxikaranam,7
+7,AsIt,as,aor. [5] ac. sg. 3,21,,

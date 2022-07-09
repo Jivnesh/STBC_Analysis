@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prativeSivasativAsinaH,vAsin,nom. pl. m.,27,karwa,7
+1,etAdfSezu,etAdfS,loc. pl. m.,8,viseranam,2
+2,avasarezu,avasara,loc. pl. m.,10,axikaranam,4
+3,mArgAvaroDam,tad,acc. sg. m.,13,karma,4
+4,kftvA,kf,abs.,14,purvakalah,7
+5,svakIyam,svakIya,acc. sg. m.,15,viseranam,6
+6,rozam,roza,acc. sg. m.,18,karma,7
+7,prakawayanti,yat,ppr. [2] ac.,21,,
+8,sma,sma,part.,22,sambanxah,7

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jAgaritaH,jAgf,nom. sg. m.,0,viseranam,1
+1,patiH,pat,nom. sg. m.,1,karwa,4
+2,uccEH,ucca,adv.,3,sambanxah,3
+3,uccEH,ucca,adv.,5,kriyaviseranam,4
+4,avadat,vad,impft. [1] ac. sg. 3,6,,

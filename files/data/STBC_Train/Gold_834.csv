@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tad,abl. pl. n.,21,apaxanam,3
+1,tam,tad,acc. sg. m.,1,karma,3
+2,antaH,anta,loc. sg. m.,3,axikaranam,3
+3,nItvA,nI,abs.,4,samucciwam,5
+4,sammAnya,man,ca. abs.,6,samucciwam,5
+5,ca,ca,conj.,10,purvakalah,7
+6,Agamanaprayojanam,prayojana,acc. sg. n.,18,karma,7
+7,pfzwavAn,kf,ppa.,12,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,1
+1,gadantaM,gad,nom. sg. n.,1,viseranam,2
+2,praRayinam,praRayin,acc. sg. m.,2,karma,11
+3,anantaraM,anantaram,conj.,6,kriyaviseranam,11
+4,BujayugonnamanauccatarastanI,tad,nom. sg. f.,7,viseranam,5
+5,aNganA,aNganA,nom. sg. f.,9,karwa,11
+6,valiBayA,BayA,inst. sg. f.,11,viseranam,7
+7,udaraSriyA,SrI,inst. sg. f.,13,karanam,11
+8,aliBayAt,Baya,abl. sg. n.,14,prawiyogi,9
+9,iva,iva,conj.,16,anuyogi,10
+10,raBasAt,raBasa,abl. sg. m.,17,hewuh,11
+11,sasvaje,svaYj,pft. md. sg. 3,19,,

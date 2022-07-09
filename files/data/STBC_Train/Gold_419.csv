@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAtfBUmim,BUmi,acc. sg. f.,1,prawiyogi,1
+1,prati,prati,prep.,2,anuyogi,2
+2,kftaGnaH,kftaGna,nom. sg. m.,3,karwqsamanaxikaranam,4
+3,na,na,part.,4,sambanxah,4
+4,BavizyAmi,BU,fut. ac. sg. 1,5,,
+5,aham,asmad,nom. sg. *,6,karwa,4

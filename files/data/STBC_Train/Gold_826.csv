@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jigIzuH,jigIzu,nom. sg. m.,0,karwa,11
+1,ekaH,eka,nom. sg. m.,2,viseranam,0
+2,dvAdaSasu,dvAdaSan,loc. pl. n.,4,viseranam,4
+3,api,api,conj.,5,sambanxah,2
+4,rAjasu,rAjan,loc. pl. m.,7,axikaranam,9
+5,Adityezu,Aditya,loc. pl. m.,8,axikaranam,11
+6,dinakft,dinakft,nom. sg. m.,9,prawiyogi,7
+7,iva,iva,conj.,10,anuyogi,0
+8,IhAm,IhA,acc. sg. f.,11,karma,9
+9,atyajan,tyaj,nom. sg. m.,12,bavalakranasapwami_samanakalah,11
+10,udetuM,i,inf.,13,prayojanam,11
+11,kalpate,kfp,pr. md. sg. 3,15,,

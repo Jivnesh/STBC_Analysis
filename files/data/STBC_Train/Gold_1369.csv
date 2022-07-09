@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,idam,nom. sg. m.,0,karwa,7
+1,api,api,conj.,1,sambanxah,0
+2,punaH,ca,conj.,4,kriyaviseranam,6
+3,mama,asmad,g. sg. *.,5,rartisambanxah,4
+4,kzetre,kzetra,loc. sg. m.,6,axikaranam,6
+5,mahizIm,mahizI,acc. sg. f.,9,karma,6
+6,aNkitvA,ca,conj.,10,purvakalah,7
+7,proktavAn,vac,pp. . sg. ,11,,

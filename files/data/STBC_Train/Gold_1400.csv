@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,karwa,6
+1,samudravacanAt,vacana,abl. sg. m.,3,hewuh,6
+2,eva,eva,prep.,5,sambanxah,1
+3,ca,ca,conj.,6,,
+4,nalam,nala,acc. sg. m.,7,sambanxah,6
+5,setum,setu,acc. sg. m.,10,sambanxah,6
+6,akArayat,kf,ca. impft. ac. sg. 3,11,samucciwam,3
+7,darSayAmAsa,dfS,ca. imp. ac. pl. 1,12,samucciwam,3

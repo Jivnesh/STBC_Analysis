@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. n.,1,axikaranam,6
+1,eva,eva,prep.,0,sambanxah,0
+2,saH,tad,nom. sg. m.,2,viseranam,3
+3,mahAtmA,Atman,nom. sg. *,20,karwa,6
+4,punaH,punar,loc. sg. n.,5,axikaranam,6
+5,utpannahastaH,hasta,nom. sg. m.,7,karwqsamanaxikaranam,6
+6,ajAyata,jan,impft. [4] md. sg. 3,8,,

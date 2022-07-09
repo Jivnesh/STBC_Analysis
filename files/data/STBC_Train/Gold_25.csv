@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,5
+1,asatyaM,asatya,acc. sg. n.,4,karma,4
+2,kadApi,kadApi,conj.,5,axikaranam,4
+3,na,na,conj.,6,sambanxah,4
+4,vadeH,vad,opt. ac. sg. 2,7,samucciwam,5
+5,ca,ca,conj.,8,,

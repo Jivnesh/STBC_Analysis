@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hemnaH,heman,g. sg. n.,0,rartisambanxah,4
+1,saMlakzyate,as,ppr. [2] ac.,3,,
+2,hi,hi,part.,4,sambanxah,3
+3,agnO,agni,loc. sg. m.,5,axikaranam,1
+4,viSudDiH,viSudDi,nom. sg. f.,6,sambanxah,7
+5,SyAmikA,kim,nom. pl. f.,9,sambanxah,7
+6,api,api,conj.,10,sambanxah,5
+7,vA,vA,conj.,12,karwa,1

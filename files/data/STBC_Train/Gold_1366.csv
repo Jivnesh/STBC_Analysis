@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvO,tad,nom. du. m.,1,viseranam,1
+1,suhfdO,suhfd,nom. du. m.,3,karwa,6
+2,vAdiprativAdirUpe,rUpa,nom. du. n.,10,karwqsamanaxikaranam,6
+3,nyAyam,nyAya,acc. sg. m.,12,karma,4
+4,prAptum,Ap,inf.,13,prayojanam,6
+5,nyAyADISasamakze,samakza,loc. sg. m.,16,axikaranam,8
+6,upasTitO,sTita,pp.,22,samucciwam,8
+7,kaTitavantO,vac,pp.,24,samucciwam,8
+8,ca,ca,conj.,25,,

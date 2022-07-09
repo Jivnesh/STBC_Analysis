@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kOtsaH,vEvasvata,nom. sg. m.,0,karwa,7
+1,guruRA,guru,i. sg. m.,1,prawiyogi,2
+2,saha,saha,prep.,4,anuyogi,3
+3,Gawitam,tad,acc. sg. m.,10,viseranam,6
+4,dakziRAvizayakam,tad,acc. sg. m.,14,viseranam,6
+5,sarvam,sarva,acc. sg. m.,15,viseranam,6
+6,vfttAntam,anta,acc. sg. m.,48,karma,7
+7,akaTayat,kaT,impft. [10] ac. sg. 3,20,,

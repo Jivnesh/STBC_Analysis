@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,conj.,0,sambanxah,5
+1,tvayA,yuzmad,inst. sg. *.,1,prawiyogi,2
+2,saha,saha,conj.,3,anuyogi,3
+3,aham,asmad,nom. sg. *.,4,karwa,5
+4,mitratAm,mitra,acc. sg. f.,5,karma,5
+5,karizyAmi,kf,fut. ac. sg. 1,6,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarasam,sarasa,acc. sg. n.,1,viseranam,1
+1,Bojanam,Bojana,acc. sg. n.,3,karma,4
+2,labDvA,laBa,abs.,5,purvakalah,5
+3,nIrasam,nIrasa,nom. sg. n.,8,karwa,5
+4,na,na,part.,9,sambanxah,5
+5,ApamAnayet,man,ca. opt. ac. sg. 3,34,,

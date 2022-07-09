@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,upakartrA,kf,inst. sg. m.,0,viseranam,1
+1,ariRA,ari,inst. sg. m.,33,karwa,4
+2,api,api,conj.,9,sambanxah,1
+3,sanDiH,tad,nom. sg. m.,11,karma,4
+4,kriyeta,kf,opt. md. sg. 3,13,samucciwam,16
+5,apakAriRA,apakArin,inst. sg. m.,6,viseranam,6
+6,mitreRa,mitra,inst. sg. m.,8,karwa,10
+7,api,api,conj.,2,sambanxah,6
+8,sanDiH,tad,nom. sg. m.,1,karma,10
+9,na,na,conj.,12,sambanxah,10
+10,kriyeta,kf,opt. md. sg. 3,4,samucciwam,16
+11,hi,hi,conj.,14,sambanxah,15
+12,upakArApakArO,apakAra,nom. du. m.,39,karma,15
+13,etayoH,etad,g. du. m.,21,rartisambanxah,14
+14,lakzaRaM,lakz,nom. sg. n.,25,viseranam,15
+15,lakzyam,lakzya,acc. sg. n.,26,samucciwam,16
+16,ca,ca,conj.,29,,

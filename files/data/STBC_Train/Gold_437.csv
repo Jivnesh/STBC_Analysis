@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kftyavidaH,vid,nom. pl. m.,2,viseranam,1
+1,praRiDiyaH,ya,nom. sg. m.,11,karwa,9
+2,tIrTezu,tIrTa,loc. pl. n.,12,axikaranam,9
+3,antaH,antar,conj.,15,sambanxah,5
+4,padaM,pad,acc. sg. m.,18,karma,5
+5,kftvA,kf,abs.,19,purvakalah,9
+6,mahataH,tad,g. sg. m.,24,rartisambanxah,7
+7,vidvizadamBasaH,amBas,g. sg. n.,26,rartisambanxah,8
+8,talaM,tala,acc. sg. n.,29,karma,9
+9,vidANkurvantu,kf,imp. ac. pl. 3,34,,

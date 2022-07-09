@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tava,yuzmad,g. sg. *,0,rartisambanxah,5
+1,api,api,conj.,1,sambanxah,0
+2,mama,asmad,g. sg. *,6,rartisambanxah,4
+3,idam,idam,nom. sg. n.,16,viseranam,4
+4,Danam,Dana,nom. sg. n.,9,karwa,7
+5,anukUlam,anukUla,nom. sg. n.,12,karwqsamanaxikaranam,7
+6,na,na,part.,13,sambanxah,7
+7,asti,as,pr. [2] ac. sg. 3,14,,

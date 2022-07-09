@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,aTa,aTa,ind.,NA,sambanxah,9
+1,gurutarakalanUpurAnunAdaM,gurutarakalanUpurAnu-nAda,nom. sg. n.,NA,kriyaviseranam,9
+2,salalitanartitavAmapAdapadmA,salalitanartitavAmapAda-padmA,nom. sg. f.,NA,karwa,9
+3,itarad,itarad,ind.,NA,viseranam,4
+4,padam,pada,acc. sg. n.,NA,karma,6
+5,anatilolam,anati-lola,acc. sg. n.,NA,viseranam,4
+6,AdaDAnA,A_DA1,ppr. md.,NA,bavalakranasapwami_samanakalah,9
+7,sati,as2,ppr. ac,NA,sambanxah,6
+8,manmaTamanTaraM,manmaTa-manTara,acc. sg. m.,NA,karma,9
+9,jagAma,gam1,pft. ac. sg. 3,NA,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svIyam,svIya,acc. sg. m.,0,viseranam,2
+1,ArADyam,rAD,acc. sg. m.,3,viseranam,2
+2,parameSvaram,ISvara,acc. sg. m.,18,karma,5
+3,asmAn,asmad,acc. pl. *,5,karma,5
+4,api,api,conj.,6,sambanxah,3
+5,darSayatu,dfS,ca. imp. ac. sg. 3,8,,

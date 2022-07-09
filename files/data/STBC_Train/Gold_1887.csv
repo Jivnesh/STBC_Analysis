@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kisalayaSakalezu,Sakala,loc. pl. n.,1,axikaranam,1
+1,avAcanIyAH,vac,nom. pl. f.,3,viseranam,9
+2,kevalaM,kevala,conj.,6,sambanxah,5
+3,pulakini,pulakin,loc. sg. n.,7,viseranam,4
+4,aNgake,aNga,loc. sg. m.,13,axikaranam,5
+5,niDeyAH,tad,nom. pl. f.,16,viseranam,9
+6,naKapadalipayaH,lipi,nom. pl. f.,17,viseranam,9
+7,api,api,conj.,18,sambanxah,6
+8,dIpitaarTAH,arTa,nom. pl. m.,20,viseranam,9
+9,anaNgaleKAH,leKA,nom. pl. m.,23,karma,11
+10,dayitEH,dayita,inst. pl. m.,25,karwa,11
+11,praRidaDire,DA,pft. md. pl. 3,26,,

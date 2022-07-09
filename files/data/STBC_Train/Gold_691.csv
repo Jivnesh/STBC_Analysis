@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tApasAnAm,tApasa,g. pl. m.,0,rartisambanxah,1
+1,bAlakAH,bAlaka,nom. pl. m.,1,karwa,4
+2,ca,ca,conj.,2,sambanxah,1
+3,tatra,tatra,loc. sg. m.,3,axikaranam,4
+4,taranti,tf,pr. [1] ac. pl. 3,4,,

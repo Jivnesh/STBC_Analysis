@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mftpiRqaSeKaritakowiBiH,kowi,inst. pl. m.,0,hewuh,1
+1,SiKAgragatalakzmamalam,mala,acc. sg. m.,1,viseranam,2
+2,arDacandraM,candra,acc. sg. m.,4,karma,3
+3,hasadBiH,has,inst. pl. m.,8,bavalakranasapwami_samanakalah,7
+4,SrfNgEH,i,inst. pl. m.,9,karanam,7
+5,ucCfNgitaanyavfzaBAH,vfzaBa,nom. pl. m.,10,karwa,7
+6,DIraM,DIra,conj.,18,viseranam,7
+7,nadantaH,nad,nom. pl. m.,19,viseranam,8
+8,mahokzAH,tad,nom. pl. m.,20,karwa,11
+9,saritAM,sarit,g. pl. f.,21,rartisambanxah,11
+10,roDAMsi,roDas,acc. pl. n.,22,karma,11
+11,apacaskarire,kf,pft. md. sg. 3,23,,

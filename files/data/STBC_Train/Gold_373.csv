@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yA,yad,nom. sg. f.,1,viseranam,6
+1,anuvanaantaM,anta,conj.,2,axikaranam,7
+2,maDureRa,maDura,inst. sg. m.,4,viseranam,3
+3,sArasikAkAkurutena,ruta,inst. sg. m.,6,karanam,7
+4,kAme,kAma,loc. sg. m.,7,viseranam,5
+5,kAnte,kAnti,loc. sg. m.,18,axikaranam,7
+6,jAtaprItiH,prIti,nom. sg. f.,19,karwa,7
+7,aBUt,as,impft. ac. sg. 3,20,,

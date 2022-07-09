@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,1,rartisambanxah,1
+1,uttamatAm,uttama,acc. sg. f.,0,karma,2
+2,vicArya,car,ca. abs.,3,purvakalah,8
+3,rAjAnam,rAjan,acc. sg. m.,4,karma,4
+4,prasAdayitum,prasAda,inf.,19,prayojanam,8
+5,DanikaH,Danika,nom. sg. m.,6,karwa,8
+6,rAjYe,rAjan,dat. sg. m.,7,sampraxanam,8
+7,tatPalam,Pala,acc. sg. n.,9,karma,8
+8,samarpitavAn,vac,pp.,11,,

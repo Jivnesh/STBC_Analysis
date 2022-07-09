@@ -1,0 +1,24 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saMyati,saMyat,loc. sg. f.,8,axikaranam,2
+1,yena,yad,inst. sg. m.,10,karwa,2
+2,anudrutaH,dru,nom. sg. m.,11,karwqsamanaxikaranam,10
+3,balasya,bala,g. sg. n.,12,rartisambanxah,4
+4,SatruH,Satru,nom. sg. m.,14,viseranam,5
+5,indraH,indra,nom. sg. m.,35,karwa,10
+6,aBramoH,mu,g. sg. m.,16,rartisambanxah,7
+7,BartuH,Bartf,g. sg. m.,17,rartisambanxah,8
+8,salIlayAtAni,yA,acc. pl. n.,21,karma,10
+9,na,na,conj.,34,sambanxah,10
+10,praSaSaMsa,SaMs,pft. ac. sg. 3,47,samucciwam,22
+11,indraH,indra,nom. sg. m.,23,karwa,16
+12,uccEHSravasaH,tad,g. sg. m.,28,rartisambanxah,14
+13,citraM,citra,acc. sg. n.,30,viseranam,14
+14,padakramaM,padakrama,acc. sg. m.,33,karma,16
+15,na,na,conj.,22,sambanxah,16
+16,praSaSaMsa,SaMs,pft. ac. sg. 3,4,samucciwam,22
+17,indraH,indra,nom. sg. m.,15,karwa,21
+18,kevalaM,kevala,conj.,38,viseranam,21
+19,tayoH,tad,g. du. m.,42,rartisambanxah,20
+20,SIGratAM,SIGra,acc. sg. f.,45,karma,21
+21,praSaSaMsa,SaMs,pft. ac. sg. 3,1,samucciwam,22
+22,ca,ca,conj.,49,,

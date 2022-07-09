@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,mayA,maya,nom. pl. m.,1,karwa,3
+2,hfdi,hfdaya,loc. sg. n.,2,axikaranam,3
+3,DAritaH,Df,ca. pp.,3,viseranam,5
+4,saH,tad,nom. sg. m.,4,viseranam,5
+5,pAdaH,pAda,nom. sg. m.,5,karwa,8
+6,kaTam,kaTam,adv.,6,samucciwam,12
+7,mahattamaH,mahattama,nom. sg. m.,7,karwqsamanaxikaranam,8
+8,asti,as,pr. [2] ac. sg. 3,8,prawiyogi,9
+9,iti,iti,part.,9,anuyogi,10
+10,nAradaH,nArada,nom. sg. m.,10,karwa,11
+11,apfcCat,brU,impft. [6] ac. sg. 3,11,samucciwam,12
+12,ca,ca,conj.,12,,

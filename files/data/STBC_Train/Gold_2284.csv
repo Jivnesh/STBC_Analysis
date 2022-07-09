@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kavInAM,kavi,g. pl. m.,0,rartisambanxah,1
+1,vAkzu,vAc,loc. pl. f.,1,axikaranam,3
+2,mADuryaM,mADurya,nom. sg. n.,3,karwa,3
+3,asti,as,pr. ac. sg. 3,4,,

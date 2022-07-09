@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tad,i. sg. m.,1,karanam,4
+1,mahAtmA,Atman,nom. pl. m.,10,karwa,4
+2,atyantam,atyanta,nom. sg. n.,5,viseranam,3
+3,vyAkulaH,vyAkula,nom. sg. m.,6,karwqsamanaxikaranam,4
+4,aBavat,BU,impft. [1] ac. sg. 3,7,,

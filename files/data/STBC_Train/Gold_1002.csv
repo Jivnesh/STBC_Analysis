@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sA,tad,nom. sg. f.,0,viseranam,1
+1,veSyA,veSyA,nom. du. m.,6,karwa,8
+2,api,api,conj.,7,sambanxah,1
+3,rAjaprasAdam,prasAda,acc. sg. m.,10,karma,4
+4,prAptum,Ap,inf.,11,prayojanam,8
+5,tat,tad,acc. sg. n.,12,viseranam,6
+6,Palam,Pala,acc. sg. n.,14,karma,8
+7,rAjYe,rAjan,dat. sg. m.,16,sampraxanam,8
+8,samarpitavatI,vac,pp.,19,,

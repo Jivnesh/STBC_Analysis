@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,7
+1,na,na,part.,4,sambanxah,7
+2,tAm,tad,acc. sg. f.,5,karma,7
+3,iyat,yat,adv.,7,viseranam,4
+4,SIGram,SIGra,adv.,10,kriyaviseranam,7
+5,tasyAH,tad,g. sg. f.,11,rartisambanxah,6
+6,mAtApitarO,pitf,nom. du. m.,15,karwa,7
+7,prezitavantO,vac,pp.,17,,

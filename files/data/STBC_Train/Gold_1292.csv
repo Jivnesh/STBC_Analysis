@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,3
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,putram,putra,acc. sg. m.,2,karma,3
+3,hatavAn,han,ppa.,3,,

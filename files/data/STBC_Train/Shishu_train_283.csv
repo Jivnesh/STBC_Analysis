@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tena,tad,i. sg. m.,NA,karwa,1
+1,kftaH,kf2,pp.,NA,viseranam,4
+2,alpaH,alpa,nom. sg. m.,NA,viseranam,4
+3,api,api,ind.,NA,sambanxah,2
+4,upajApaH,upa_jap1,nom. sg. m.,NA,karma,1
+5,tvayi,yuzmad,loc. sg. *.,NA,axikaranam,13
+6,AkopavataH,Akopavat,acc. pl. m.,NA,viseranam,9
+7,tAn,tad,acc. pl. m.,NA,viseranam,6
+8,anilaH,anila,nom. sg. m.,NA,karwa,13
+9,sAgnIn,sAgni,acc. pl. m.,NA,karma,13
+10,eDAn,eDa,acc. pl. m.,NA,prawiyogi,11
+11,iva,iva,ind.,NA,anuyogi,9
+12,ASu,ASu,ind.,NA,kriyaviseranam,13
+13,dIpayitA,dIp1_Ric,imp. ac. sg. 3,NA,,

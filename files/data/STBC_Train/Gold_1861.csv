@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taptakArtasvaraBAsvarAmbaraH,ambara,nom. sg. m.,39,viseranam,5
+1,kaWoratArADipalAYCanacCaviH,tad,nom. sg. f.,2,viseranam,5
+2,SiKABiH,SiKA,inst. pl. f.,3,karanam,3
+3,ASlizwaH,Sliz,nom. sg. m.,4,viseranam,5
+4,vAqavajAtavedasaH,vedas,g. sg. m.,8,rartisambanxah,5
+5,saH,tad,nom. sg. m.,9,karwa,9
+6,amBasAM,amBas,g. pl. n.,10,rartisambanxah,7
+7,niDiH,niDi,nom. sg. m.,11,prawiyogi,8
+8,iva,iva,conj.,12,anuyogi,9
+9,vididyute,dyut,pft. md. sg. 3,13,,

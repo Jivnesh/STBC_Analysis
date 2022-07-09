@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yaH,yad,nom. sg. m.,0,viseranam,1
+1,udAttaH,udAtta,nom. sg. m.,1,karwa,6
+2,svarAn,svara,acc. pl. m.,2,prawiyogi,3
+3,iva,iva,conj.,3,anuyogi,4
+4,arIn,ari,acc. pl. m.,4,karma,6
+5,ekapade,ca,conj.,11,axikaranam,6
+6,nihanti,han,pr. ac. sg. 3,12,,

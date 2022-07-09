@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bata,bata,conj.,0,sambanxah,5
+1,galat,gal,nom. sg. n.,2,bavalakranasapwami_samanakalah,5
+2,akzRoH,akzi,g. du. n.,4,rartisambanxah,3
+3,aYjanaamBaH,amBas,nom. sg. n.,6,karwa,5
+4,apaSabdaM,Sabda,acc. sg. m.,14,karma,5
+5,prApa,Ap,pft. ac. sg. 3,9,,

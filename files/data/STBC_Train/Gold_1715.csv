@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,15
+1,tasya,tad,g. sg. n.,1,rartisambanxah,2
+2,kroDahInatAm,hIna,acc. sg. f.,4,samucciwam,4
+3,praSAntatAm,praSam,acc. sg. f.,5,samucciwam,4
+4,ca,ca,conj.,6,karma,5
+5,dfzwvA,dfS,abs.,7,purvakalah,15
+6,tasya,tad,loc. du. m.,9,viseranam,7
+7,caraRayoH,caraRa,loc. du. m.,10,axikaranam,8
+8,nipatya,pat,abs.,14,purvakalah,15
+9,svaDfzwatAyAH,Dfzwa,g. sg. f.,16,upapaxasambanxah,10
+10,kfte,kf,dat. du. f.,23,waxarwyam,15
+11,vAram,vAra,acc. sg. m.,24,sambanxah,12
+12,vAram,vAra,acc. sg. m.,25,sambanxah,13
+13,tataH,tad,abl. pl. n.,60,apaxanam,15
+14,kzamAm,kzamA,acc. sg. f.,27,karma,15
+15,ayAcata,yAc,impft. [1] md. sg. 3,29,,

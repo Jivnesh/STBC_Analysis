@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kapInAm,kap,g. pl. f.,1,rartisambanxah,1
+1,Sabdena,Sabda,i. sg. m.,2,hewuh,4
+2,saH,tad,nom. sg. m.,3,karwa,4
+3,kapIn,kap,acc. pl. m.,4,karma,4
+4,apaSyat,paS,impft. [4] ac. sg. 3,5,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,ca,conj.,0,hewuh,6
+1,saH,tad,nom. sg. m.,1,karwa,6
+2,kroDAt,kroDa,abl. sg. m.,2,hewuh,6
+3,SirasaH,Siras,g. sg. n.,3,rartisambanxah,4
+4,Siraskam,Siraska,acc. sg. m.,5,karma,6
+5,aDaH,ca,conj.,6,axikaranam,6
+6,akzipat,kzip,impft . ac. sg. 3,7,,

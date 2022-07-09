@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nIranDradrumaSiSirAM,SiSirA,acc. sg. f.,0,viseranam,1
+1,BuvaM,BU,acc. sg. f.,4,karma,2
+2,vrajantIH,vraj,nom. sg. n.,5,viseranam,3
+3,tAH,tad,acc. pl. f.,6,karma,14
+4,atuhinaraSmiH,raSmi,nom. sg. m.,10,karwa,14
+5,kzaRam,kzaRa,conj.,11,viseranam,14
+6,anilAkulIkftAnAM,kfta,g. pl. f.,12,viseranam,7
+7,SAKAnAm,SAKA,g. pl. f.,15,rartisambanxah,8
+8,antarAlEH,antarAla,inst. pl. n.,16,viseranam,13
+9,muhuH,muhur,conj.,17,viseranam,14
+10,kOtukAt,ca,conj.,18,prawiyogi,11
+11,iva,iva,conj.,19,anuyogi,12
+12,sASaNkaM,sASaNka,nom. sg. n.,22,viseranam,14
+13,karEH,kara,inst. pl. m.,25,karanam,14
+14,pasparSa,spfS,pft. ac. sg. 3,26,,

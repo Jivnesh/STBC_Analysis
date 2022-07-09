@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,axikaranam,7
+1,rAjatagaRqaSElaH,SEla,nom. sg. m.,3,karwa,7
+2,unnidrapuzpAkzisahasraBAjA,ajA,inst. sg. m.,9,viseranam,5
+3,aDirUQena,GaRwAkarRa,inst. sg. m.,11,viseranam,5
+4,uccEH,ucca,conj.,13,viseranam,7
+5,mahIruhA,ruhA,inst. sg. m.,14,karanam,7
+6,surADipaaDizWitahastimallalIlAM,lIlA,acc. sg. f.,15,karma,7
+7,daDO,DA,pft. ac. sg. 3,18,,

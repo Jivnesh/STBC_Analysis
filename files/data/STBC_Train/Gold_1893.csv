@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIm,idAnIm,loc. sg. n.,0,axikaranam,9
+1,tasya,tad,g. sg. n.,1,rartisambanxah,2
+2,vyavahAreRa,vyavahAra,i. sg. m.,3,karanam,9
+3,kaScit,kim,nom. sg. m.,4,karwa,9
+4,api,api,conj.,6,sambanxah,3
+5,santaptaH,tapta,nom. sg. m.,8,sambanxah,7
+6,udvignaH,vigna,nom. sg. m.,9,sambanxah,7
+7,vA,vA,conj.,10,karwqsamanaxikaranam,9
+8,na,na,part.,13,sambanxah,9
+9,AsIt,as,aor. [5] ac. sg. 3,15,,

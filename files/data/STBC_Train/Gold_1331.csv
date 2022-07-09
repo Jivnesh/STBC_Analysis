@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sahasrasaNKyEH,tad,inst. pl. n.,1,viseranam,1
+1,SiroBiH,Siras,inst. pl. n.,2,karanam,3
+2,gaganaM,gagana,acc. sg. n.,3,karma,3
+3,vyApya,Ap,abs.,5,purvakalah,8
+4,sahasrasaNKyEH,tad,inst. pl. n.,8,viseranam,5
+5,pAdEH,pAda,inst. pl. m.,9,karanam,7
+6,BuvaM,BU,acc. sg. f.,13,karma,7
+7,vyApya,Ap,abs.,14,purvakalah,8
+8,vitizWamAnaM,sTA,acc. sg. m.,16,bavalakranasapwami_samanakalah,16
+9,vilocanasTAnagatauzRaraSminiSAkaraM,niSAkara,acc. sg. m.,21,viseranam,11
+10,sADu,sADu,conj.,23,viseranam,16
+11,hiraRyagarBam,garBa,acc. sg. m.,24,prawiyogi,12
+12,iva,iva,conj.,25,anuyogi,15
+13,asO,adas,nom. sg. m.,54,karwa,16
+14,giriM,giri,acc. sg. m.,28,viseranam,15
+15,rEvatakaM,rEvataka,acc. sg. m.,29,karma,16
+16,dadarSa,dfS,pft. ac. sg. 3,30,,

@@ -1,0 +1,64 @@
+0,prARinAM,prARin,g. pl. m.,0,rartisambanxah,1
+1,upakArAya,upakAra,dat. sg. m.,2,waxarwyam,5
+2,eva,eva,conj.,3,sambanxah,1
+3,sADUnAM,sADu,g. pl. m.,4,karwa,5
+4,jagati,rAjan,loc. sg. m.,7,karwa,5 ####### FV_loc_karwa #######
+5,jIvitam,jIvita,pp. . sg. ,10,,
+
+0,balaUrmiBiH,Urmi,inst. pl. m.,1,karanam,7
+1,valayEH,valaya,inst. pl. m.,3,prawiyogi,2
+2,iva,iva,conj.,4,anuyogi,0
+3,tatkzaRahIyamAnaraTyABujAyAH,BujA,g. sg. f.,6,viseranam,5
+4,asyAH,asi,g. sg. f.,8,upapaxasambanxah,5
+5,puraH,pur,loc. sg. m.,10,axikaranam,7
+6,cakrapARO,cakrapARi,loc. sg. m.,12,karwa,7 ####### FV_loc_karwa #######
+7,nizkrAmati,kram,pr. ac. sg. 3,13,purvakalah,13
+8,sati,as,loc. sg. m.,15,viseranam,7
+9,prAyeRa,prAya,conj.,16,kriyaviseranam,13
+10,dvAravatItvam,dvAra,nom. sg. n.,20,karwa,13
+11,izwaM,iz,nom. sg. n.,26,karwqsamanaxikaranam,13
+12,na,na,conj.,29,sambanxah,13
+13,AsIt,as,impft . ac. sg. 3,31,,
+
+0,pariacCe,acCa,loc. sg. n.,3,viseranam,1
+1,sarasi,saras,loc. sg. n.,6,axikaranam,4
+2,payoBiH,payas,inst. pl. n.,7,karanam,4
+3,aMSuke,aMSuka,loc. sg. n.,10,karwa,4 ####### FV_loc_karwa #######
+4,hfte,hf,pp. . sg. ,16,purvakalah,16
+5,sati,as,nom. sg. n.,18,sambanxah,4
+6,suratagurO,guru,loc. sg. m.,19,viseranam,7
+7,lolAkze,rAjan,loc. sg. m.,20,karwa,8
+8,sati,as,nom. sg. n.,22,purvakalah,16
+9,apatrapizRoH,tad,g. sg. f.,23,viseranam,10
+10,suSroRyAH,suSroRI,g. sg. f.,24,rartisambanxah,11
+11,abjinI,abjinI,nom. sg. f.,26,karwa,16
+12,drutam,drutam,conj.,29,kriyaviseranam,16
+13,vIcihastanyastena,asta,inst. sg. n.,31,viseranam,14
+14,dalavasanena,vasana,inst. sg. n.,33,karanam,16
+15,saKItvam,saKI,acc. sg. n.,35,karma,16
+16,akfta,kf,impft. md. sg. 3,38,,
+
+0,saKi,saKI,voc. sg. f.,0,samboxyah,13
+1,yadi,yadi,conj.,1,sambanxah,8
+2,mayi,asmad,loc. sg. n.,2,karwa,4 ####### FV_loc_karwa #######
+3,laGimAnam,laGiman,acc. sg. m.,3,karma,4
+4,AgatAyAm,gam,pp. . sg. ,4,purvakalah,8
+5,satyAm,as,nom. sg. n.,6,sambanxah,4
+6,tava,yuzmad,g. sg. n.,7,rartisambanxah,7
+7,DftiH,Dfti,nom. sg. f.,8,karwa,8
+8,asti,as,pr. ac. sg. 3,9,samucciwam,22
+9,cet,ced,conj.,10,sambanxah,8
+10,iyaM,idam,nom. sg. f.,11,viseranam,12
+11,samprati,samprati,conj.,12,sambanxah,13
+12,gatA,gam,pp. . sg. ,15,karwa,13
+13,asmi,as,pr. ac. sg. 1,16,prawiyogi,14
+14,iti,iti,conj.,17,anuyogi,15
+15,saKyAH,saKI,g. sg. f.,19,rartisambanxah,16
+16,kopapadena,pada,inst. sg. n.,21,karanam,21
+17,kA,kim,nom. sg. f.,23,karwa,21
+18,api,api,conj.,24,sambanxah,17
+19,drutatarapadapAtaM,pAta,acc. sg. m.,26,viseranam,20
+20,priyam,priya,acc. sg. m.,27,karma,21
+21,ApapAta,pat,pft. ac. sg. 3,30,samucciwam,22
+22,ca,ca,conj.,32,,
+

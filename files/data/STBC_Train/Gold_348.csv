@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samaramayam,maya,acc. sg. m.,0,viseranam,2
+1,akftrimam,akftrima,acc. sg. m.,4,viseranam,2
+2,anurAgaM,rAga,acc. sg. m.,31,karma,3
+3,prakawayati,Ric,loc. sg. m.,8,bavalakranasapwami_samanakalah,12
+4,sutarAm,sutarAm,conj.,9,viseranam,5
+5,upakAriRi,upakArin,loc. sg. n.,11,viseranam,6
+6,himaftO,ftu,loc. sg. m.,14,axikaranam,12
+7,api,api,conj.,15,sambanxah,6
+8,BfSasvidaH,tad,nom. pl. f.,17,viseranam,10
+9,tAH,tad,nom. pl. f.,19,viseranam,10
+10,yuvatayaH,yuvati,nom. pl. f.,20,karwa,12
+11,vilAsinaH,vilAsin,acc. pl. m.,21,karma,12
+12,ramayanti,Ric,pr. ac. pl. 3,27,,
+13,sma,sma,conj.,28,sambanxah,12

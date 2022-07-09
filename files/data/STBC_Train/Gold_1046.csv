@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,karwa,13
+1,DarmajYaH,jYa,nom. sg. m.,2,samucciwam,5
+2,satyasanDaH,tad,nom. sg. m.,3,samucciwam,5
+3,prajAnAm,prajA,g. pl. f.,4,rartisambanxah,4
+4,hite,hita,loc. sg. n.,15,axikaranam,6
+5,ca,ca,conj.,17,karwqsamanaxikaranam,13
+6,rataH,rata,nom. sg. m.,18,samucciwam,5
+7,yaSasvI,yaSasvin,nom. sg. m.,19,viseranam,8
+8,jYAnasampannaH,pad,nom. sg. m.,21,samucciwam,12
+9,SuciH,Suci,nom. sg. f.,23,samucciwam,12
+10,vaSyaH,vaSya,nom. sg. m.,24,viseranam,11
+11,samADimAn,samADi,nom. sg. m.,25,samucciwam,12
+12,ca,ca,conj.,26,karwqsamanaxikaranam,13
+13,asti,as,pr. [2] ac. sg. 3,27,,

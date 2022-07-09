@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,3
+1,yadA,yadA,loc. sg. m.,1,axikaranam,3
+2,saH,tad,nom. sg. m.,2,karwa,3
+3,vyaramat,ram,impft. [1] ac. sg. 3,3,samucciwam,9
+4,tadA,tadA,loc. sg. m.,4,axikaranam,7
+5,gOtamabudDaH,budDa,nom. sg. m.,6,karwa,7
+6,tam,tad,acc. sg. m.,7,karma,7
+7,apfcCat,brU,impft. [6] ac. sg. 3,8,samucciwam,9
+8,api,api,prep.,10,sambanxah,7
+9,ca,ca,conj.,11,,

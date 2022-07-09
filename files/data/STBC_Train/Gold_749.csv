@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,tu,tu,conj.,1,sambanxah,0
+2,prativeSitayA,tad,i. sg. f.,8,kriyaviseranam,5
+3,Bavantam,BU,acc. sg. m.,3,karma,4
+4,yAcitvA,yAc,abs.,4,purvakalah,5
+5,paWAmi,paW,pr. [1] ac. sg. 1,5,,

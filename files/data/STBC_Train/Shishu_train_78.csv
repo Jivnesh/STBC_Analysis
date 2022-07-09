@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,yatra,yatra,ind.,NA,axikaranam,11
+1,vaRikpaTe,vaRikpaTa,loc. sg. m.,NA,axikaranam,8
+2,pUgakftAni,pUgakfta,acc. pl. n.,NA,viseranam,4
+3,aloladyutiBAYji,aloladyutiBAYji,acc. pl. n.,NA,viseranam,4
+4,ratnAni,ratna,acc. pl. n.,NA,karma,8
+5,lolEH,lola,i. pl. m.,NA,viseranam,7
+6,BramaagatEH,Brama-agata,i. pl. m.,NA,viseranam,7
+7,ambuBiH,ambu,i. pl. m.,NA,karanam,8
+8,muzRan,muz1,ppr. ac,NA,bavalakranasapwami_samanakalah,11
+9,amburASiH,amburASi,nom. sg. m.,NA,karwa,11
+10,ratnAkaratAm,ratnAkaratA,acc. sg. f.,NA,karma,11
+11,avApa,ava_Ap1,pft. ac. sg. 3,NA,,

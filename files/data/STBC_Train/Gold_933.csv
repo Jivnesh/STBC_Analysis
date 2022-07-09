@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratianyadanti,dantI,conj.,0,viseranam,1
+1,calitam,cal,acc. sg. m.,3,viseranam,3
+2,niSitaaNkuSadUraBinnaniryARaniryadasfjaM,asfj,acc. sg. m.,4,viseranam,3
+3,mahAiBaM,iBa,acc. sg. m.,5,karma,4
+4,rodDuM,ruD,inf.,7,prayojanam,7
+5,nizAdI,nizAdin,nom. sg. m.,9,karwa,7
+6,aparivraQimAnam,tad,acc. sg. m.,10,karma,7
+7,AgAt,i,impft. ac. sg. 3,11,samucciwam,15
+8,taTAhi,api,conj.,13,sambanxah,14
+9,mahAn,tad,nom. sg. m.,14,karwa,14
+10,AkrAntitaH,AkrAnti,conj.,15,apaxanam,14
+11,parasya,para,g. sg. m.,16,rartisambanxah,12
+12,vaSaM,vaSa,acc. sg. m.,18,karma,14
+13,na,na,conj.,23,sambanxah,14
+14,eti,i,pr. ac. sg. 3,24,samucciwam,15
+15,ca,ca,conj.,25,,

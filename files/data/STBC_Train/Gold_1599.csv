@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvitIyA,dvitIya,nom. sg. f.,0,viseranam,1
+1,saKI,tad,nom. sg. f.,1,karwa,6
+2,praTama-saKyAH,saKya,nom. pl. f.,3,karwa,3
+3,kaTanam,kaTana,acc. sg. n.,4,karma,4
+4,SrutvA,Sru,abs.,6,purvakalah,6
+5,kim,kim,acc. sg. n.,7,karma,6
+6,akaTayat,kaT,impft. [10] ac. sg. 3,9,,

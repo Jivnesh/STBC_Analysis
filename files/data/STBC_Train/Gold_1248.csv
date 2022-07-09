@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAratarAzwriyA,rAzwriya,nom. pl. f.,3,viseranam,1
+1,janatA,jana,nom. pl. f.,5,karwa,4
+2,yAdfSIm,yAdfS,acc. sg. f.,6,,
+3,viSvabanDutAm,banDu,acc. sg. f.,8,karma,4
+4,vAYCati,vAYC,pr. [1] ac. sg. 3,9,prawiyogi,2
+5,tAm,tad,acc. sg. f.,10,viseranam,6
+6,viSvabanDutAm,banDu,acc. sg. f.,12,karma,7
+7,prAcArayat,car,ca. impft. ac. sg. 3,13,prawiyogi,2
+8,asmAkam,asmad,g. pl. *,14,rartisambanxah,9
+9,rAzwradevatA,deva,nom. sg. f.,16,karwa,7

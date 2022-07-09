@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaH,kim,nom. sg. m.,0,karwa,6
+1,DarmajYaH,jYa,nom. sg. m.,2,samucciwam,5
+2,kftajYaH,jYa,nom. sg. m.,5,samucciwam,5
+3,satyavAkyaH,vAkya,nom. sg. m.,7,samucciwam,5
+4,dfQavrataH,vrata,nom. sg. m.,9,samucciwam,5
+5,ca,ca,conj.,10,karwqsamanaxikaranam,6
+6,asti,as,pr. [2] ac. sg. 3,11,,

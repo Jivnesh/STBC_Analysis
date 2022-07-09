@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aDunA,aDunA,loc. sg. m.,1,axikaranam,3
+1,anyaH,anya,nom. sg. m.,0,viseranam,2
+2,putrahatyApratiSoDagrahaRaDarmaH,Darma,nom. sg. m.,8,viseranam,3
+3,pAlanIyaH,pA,nom. sg. m.,9,karwqsamanaxikaranam,4
+4,avaSizyate,Siz,pr. ps. sg. 3,22,,

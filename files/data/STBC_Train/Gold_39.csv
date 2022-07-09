@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samudraH,samudra,nom. sg. m.,1,karma,3
+1,tu,tu,conj.,2,sambanxah,0
+2,agastyena,agasti,i. sg. m.,3,karwa,3
+3,pItaH,pA,pp.,4,,

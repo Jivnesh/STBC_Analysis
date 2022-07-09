@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pareRa,para,inst. sg. m.,1,karwa,1
+1,jitaH,ji,pp. . sg. ,2,karwa,5
+2,kaH,kim,nom. sg. m.,3,prawiyogi,3
+3,iva,iva,conj.,4,anuyogi,1
+4,puraH,puras,conj.,6,axikaranam,5
+5,prAduzyAt,as,nom. sg. n.,7,,

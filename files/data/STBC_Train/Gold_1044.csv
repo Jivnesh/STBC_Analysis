@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jagatA,matsya,inst. sg. m.,1,karwa,2
+1,kuwumbinaM,kuwumbin,acc. sg. m.,2,karma,2
+2,manyate,man,pr. md. sg. 3,3,,
+3,AtmAnaM,Atman,acc. sg. m.,5,viseranam,1
+4,sADuH,sADu,nom. sg. m.,6,kriyaviseranam,2

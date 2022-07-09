@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,10
+1,kiyat,tad,acc. sg. n.,1,viseranam,2
+2,dUram,dUra,loc. sg. m.,3,axikaranam,3
+3,gatam,gam,acc. sg. m.,7,viseranam,4
+4,tam,tad,acc. sg. m.,8,karma,6
+5,pUrvavat,pUrva,loc. sg. n.,10,axikaranam,6
+6,AhUya,kf,abs.,11,purvakalah,10
+7,punaH,punar,adv.,12,kriyaviseranam,10
+8,eva,eva,prep.,14,sambanxah,7
+9,satAqanam,tAqana,adv.,18,kriyaviseranam,10
+10,niragamayat,gam,ca. impft. ac. sg. 3,19,,

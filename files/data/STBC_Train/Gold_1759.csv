@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadanantaram,antara,loc. sg. m.,4,axikaranam,8
+1,arjunaH,arjuna,nom. sg. m.,5,karwa,8
+2,janatAyAH,jana,g. sg. f.,7,rartisambanxah,3
+3,suKam,suKa,acc. sg. m.,8,karma,5
+4,duHKam,duHKa,acc. sg. m.,11,karma,5
+5,nirIkzitum,Ikz,inf.,14,prayojanam,8
+6,ekAkI,ekAkin,nom. sg. m.,15,karwqsamanaxikaranam,8
+7,eva,eva,prep.,16,sambanxah,6
+8,nirgataH,gam,pp.,17,,

@@ -1,0 +1,103 @@
+0,iha,iha,conj.,0,axikaranam,16
+1,amUH,adas,nom. pl. f.,2,viseranam,2
+2,mahOzaDayaH,OzaDa,nom. pl. f.,58,karwa,16
+3,niyateH,niyati,g. sg. f.,6,rartisambanxah,4
+4,niyogAt,niyoga,abl. sg. m.,8,apaxanam,6
+5,tamasA,tamas,inst. sg. n.,11,karanam,6 ####### g_inst_karanam #######
+6,AsAditasya,sad,g. sg. m.,15,rartisambanxah,7
+7,punaH,punar,conj.,17,sambanxah,10
+8,apakrameRa,apakrama,inst. sg. m.,19,karanam,10 ####### g_inst_karanam #######
+9,kAlam,kAla,acc. sg. m.,21,karma,10
+10,AkANkzataH,kANkz,g. sg. m.,24,bavalakranasapwami_samanakalah,16
+11,tvizAM,tviz,g. pl. f.,26,rartisambanxah,12
+12,patyuH,pati,g. sg. m.,27,rartisambanxah,13
+13,parEH,para,inst. pl. m.,30,hewuh,14
+14,anaBiBUtaM,anaBiBUta,acc. sg. n.,34,viseranam,15
+15,kalatrasTAnaM,sTAna,acc. sg. n.,36,karma,16
+16,vahanti,vah,pr. ac. pl. 3,38,,
+
+0,paritaH,ca,conj.,0,sambanxah,7
+1,turagaSataAkulasya,Akula,g. sg. n.,2,rartisambanxah,2
+2,pratipaTaM,pratipaTa,conj.,3,axikaranam,7
+3,pramaTitaBUBftaH,BUBft,g. sg. m.,6,rartisambanxah,4
+4,satataM,satata,conj.,10,kriyaviseranam,7
+5,DftaSriyaH,SrI,g. sg. m.,14,upapaxasambanxah,6
+6,puraH,puras,conj.,16,axikaranam,13
+7,paricalataH,cal,nom. sg. n.,18,viseranam,8
+8,balAnujabalasya,bala,g. sg. n.,19,upapaxasambanxah,9
+9,param,param,conj.,23,sambanxah,20
+10,ekaturaNgajanmanaH,janman,g. sg. n.,24,rartisambanxah,11
+11,mahIBftA,mahIBft,inst. sg. m.,32,karanam,13 ####### g_inst_karanam #######
+12,BfSaM,BfSam,conj.,35,kriyaviseranam,13
+13,maTitasya,maT,g. sg. m.,37,viseranam,15
+14,ciravigataSriyaH,SrI,g. sg. m.,41,viseranam,15
+15,jalaniDeH,niDi,g. sg. m.,42,rartisambanxah,18
+16,ca,ca,conj.,44,sambanxah,20
+17,tadA,tadA,conj.,45,axikaranam,20
+18,mahat,tad,nom. sg. n.,47,viseranam,19
+19,antaram,antara,nom. sg. n.,50,karwa,20
+20,aBavat,BU,impft . ac. sg. 3,51,,
+
+0,udIrRarAgapratiroDakam,pratiroDaka,acc. sg. m.,2,viseranam,5
+1,aBIkzRam,aBIkzRam,conj.,5,viseranam,6
+2,akzuRRatayA,kzuRRa,inst. sg. f.,7,hewuh,3
+3,janEH,jana,inst. pl. m.,9,karanam,6 ####### g_inst_karanam #######
+4,atidurgamam,durgama,acc. sg. m.,12,viseranam,5
+5,mokzapaTam,paTa,acc. sg. m.,16,karma,6
+6,upeyuzaH,tad,g. sg. m.,22,viseranam,7
+7,manasvinaH,manasvin,g. sg. m.,25,rartisambanxah,8
+8,nirapAyasaMSrayA,tad,nom. sg. f.,29,viseranam,9
+9,tvam,yuzmad,nom. sg. n.,30,karwa,11
+10,agraBUmiH,BUmi,nom. sg. f.,32,karwqsamanaxikaranam,11
+11,asi,as,pr. ac. sg. 2,33,,
+
+0,katipayEH,katipaya,i. pl. m.,NA,viseranam,2
+1,eva,eva,ind.,NA,sambanxah,0
+2,varREH,varRa,i. pl. m.,NA,karanam,7 ####### g_inst_karanam #######
+3,katipayEH,katipaya,i. pl. m.,NA,viseranam,5
+4,eva,eva,ind.,NA,sambanxah,3
+5,svarEH,svara,i. pl. m.,NA,prawiyogi,6
+6,iva,iva,ind.,NA,anuyogi,2
+7,graTitasya,graTita,g. sg. n.,NA,viseranam,8
+8,vANmayasya,vANmaya,g. sg. n.,NA,rartisambanxah,9
+9,geyasya,geya,g. sg. n.,NA,prawiyogi,10
+10,iva,iva,ind.,NA,anuyogi,8
+11,vicitratA,vicitratA,nom. sg. f.,NA,karwa,13
+12,anantA,anantA,nom. sg. f.,NA,viseranam,13
+13,Bavati,BU1,pr. ac. sg. 3,NA,,
+14,aho,aho,ind.,NA,sambanxah,13
+
+0,katipayEH,katipaya,inst. pl. m.,5,viseranam,2
+1,eva,eva,conj.,6,sambanxah,0
+2,varREH,varRa,inst. pl. m.,3,karanam,7 ####### g_inst_karanam #######
+3,katipayEH,katipaya,inst. pl. m.,1,viseranam,5
+4,eva,eva,conj.,2,sambanxah,3
+5,svarEH,svara,inst. pl. m.,7,prawiyogi,6
+6,iva,iva,conj.,14,anuyogi,2
+7,graTitasya,graTita,g. sg. n.,9,viseranam,8
+8,vANmayasya,vANmaya,g. sg. n.,13,rartisambanxah,9
+9,geyasya,geya,g. sg. n.,23,prawiyogi,10
+10,iva,iva,conj.,8,anuyogi,13
+11,vicitratA,vicitratA,nom. sg. f.,16,karwa,13
+12,anantA,anantA,nom. sg. f.,18,viseranam,13
+13,Bavati,BU,pr. ac. sg. 3,19,,
+14,aho,aho,conj.,20,sambanxah,13
+
+0,pratisaKi,saKi,conj.,1,axikaranam,3
+1,kAminA,kAmin,inst. sg. m.,3,karwa,3
+2,anyanAmnA,nAman,inst. sg. n.,4,karanam,3 ####### g_inst_karanam #######
+3,hUtAyAH,tad,g. sg. f.,6,viseranam,5
+4,galanmuKendukAnteH,kAnti,g. sg. f.,7,viseranam,5
+5,hrImatyAH,mati,g. sg. f.,40,rartisambanxah,7
+6,kasyAScit,tad,g. sg. f.,13,viseranam,5
+7,aSruvarzEH,varza,inst. pl. m.,15,karwa,15
+8,sarasi,saras,loc. sg. n.,16,axikaranam,15
+9,drutam,drutam,conj.,19,viseranam,11
+10,antarDiM,antarDi,acc. sg. m.,20,karma,11
+11,kartum,kf,conj.,21,prayojanam,15
+12,payAMsi,payas,nom. pl. n.,23,karma,15
+13,BUmAnam,BUman,acc. sg. m.,24,karma,14
+14,gamayitum,Ric,conj.,25,prayojanam,15
+15,Izire,iz,pft. md. pl. 3,27,,
+16,iva,iva,conj.,28,sambanxah,15
+

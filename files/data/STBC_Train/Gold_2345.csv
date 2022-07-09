@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sahasA,sahasA,nom. sg. f.,3,kriyaviseranam,12
+1,pfzWataH,pfzWa,loc. sg. m.,4,apaxanam,3
+2,cikitsAlaye,Alaya,loc. sg. m.,47,axikaranam,3
+3,netum,nI,inf.,7,prayojanam,12
+4,atyantam,atyanta,acc. sg. f.,10,viseranam,5
+5,rugRAm,tad,acc. sg. f.,11,viseranam,7
+6,vfdDAm,vfdDa,acc. sg. f.,12,viseranam,7
+7,mAtaram,mAtf,acc. sg. f.,13,karma,8
+8,AdAya,dA,abs.,14,purvakalah,12
+9,tasyAH,tad,g. sg. f.,15,rartisambanxah,10
+10,putraH,putra,nom. sg. m.,17,karwa,12
+11,tatra,tatra,loc. sg. n.,19,axikaranam,12
+12,upasTitaH,sTita,pp.,20,,

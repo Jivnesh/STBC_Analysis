@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,adv.,0,kriyaviseranam,3
+1,nAradaH,nArada,nom. sg. m.,2,karwa,3
+2,kim,kim,acc. sg. n.,3,karma,3
+3,akarot,kf,impft. [8] ac. sg. 3,5,,

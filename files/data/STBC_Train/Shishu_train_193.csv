@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,AdipUruzaH,AdipUruza,nom. sg. m.,NA,karwa,7
+1,saH,tad,nom. sg. m.,NA,viseranam,0
+2,arGyaM,arGya,acc. sg. m.,NA,karma,7
+3,tam,tad,acc. sg. m.,NA,viseranam,2
+4,arGyAdikayA,arGya-adikA,i. sg. f.,NA,karanam,7
+5,saparyayA,saparyA,i. sg. f.,NA,viseranam,4
+6,sADu,sADu,ind.,NA,kriyaviseranam,7
+7,paryapUjayat,pari_pUj1_Ric,impft. ac. sg. 3,NA,,
+8,manIziRaH,manIzin,nom. pl. m.,NA,karwa,15
+9,apuRyakftAM,apuRyakft,g. pl. m.,NA,rartisambanxah,10
+10,gfhAn,gfha,acc. pl. m.,NA,karma,15
+11,praRayAt,praRaya,abl. sg. m.,NA,apaxanam,12
+12,upEtum,upa_i1,inf.,NA,prayojanam,15
+13,aBIpsavaH,aBIpsu,nom. pl. m.,NA,karwqsamanaxikaranam,15
+14,na,na,ind.,NA,sambanxah,15
+15,Bavanti,BU1,pr. ac. pl. 3,NA,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AvAm,asmad,nom. du. *,1,karwa,6
+1,sA,tad,nom. sg. f.,2,karwa,6
+2,dvO,tad,nom. sg. f.,4,viseranam,1
+3,api,api,conj.,5,sambanxah,2
+4,praveSitavatI,viS,ca. ppa.,9,samucciwam,6
+5,kaTitavatI,kaT,ppa.,12,samucciwam,6
+6,ca,ca,conj.,13,,

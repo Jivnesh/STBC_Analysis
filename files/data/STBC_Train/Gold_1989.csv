@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nfsiMha,nfsiMha,voc. sg. m.,1,samboxyah,11
+1,atanuM,atanu,acc. sg. f.,3,viseranam,3
+2,sEMhIM,tad,acc. sg. f.,4,viseranam,3
+3,tanuM,tanu,acc. sg. f.,5,karma,4
+4,biBratA,Bf,inst. sg. n.,7,viseranam,8
+5,sawAcCawABinnaGanena,Gana,inst. sg. m.,12,viseranam,8
+6,mugDakAntAstanasaNgaBaNgurEH,BaNgura,inst. pl. m.,20,viseranam,7
+7,naKEH,naKa,inst. pl. m.,22,karanam,11
+8,tvayA,yuzmad,inst. sg. n.,24,karwa,11
+9,urovidAraM,vidAra,conj.,28,viseranam,11
+10,saH,tad,nom. sg. m.,29,karma,11
+11,praticaskare,kf,pft. ps. pl. 3,30,,

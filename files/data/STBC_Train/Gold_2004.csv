@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,ekavAram,vAra,loc. sg. m.,2,axikaranam,6
+2,SItartO,ftu,loc. sg. f.,45,axikaranam,6
+3,tasya,tad,g. sg. n.,7,rartisambanxah,4
+4,pAdatrARe,trARa,nom. du. n.,11,karwa,6
+5,jIrRaSIrRe,dvi,nom. du. f.,19,karwqsamanaxikaranam,6
+6,aBavatAm,BU,impft. [1] ac. du. 3,20,,

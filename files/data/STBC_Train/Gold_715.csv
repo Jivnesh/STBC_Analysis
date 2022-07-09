@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prAtaH,prAtar,loc. sg. n.,0,axikaranam,4
+1,prabudDaH,budDa,nom. sg. m.,1,viseranam,2
+2,citrakAraH,tad,nom. sg. m.,2,karwa,4
+3,idam,idam,acc. sg. n.,9,karma,4
+4,ajAnAt,jYA,impft. [9] ac. sg. 3,4,,

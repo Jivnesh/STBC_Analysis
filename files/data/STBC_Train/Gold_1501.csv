@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAnicit,kim,loc. pl. n.,2,viseranam,1
+1,dinAni,dina,loc. pl. n.,4,axikaranam,6
+2,saH,tad,nom. sg. m.,5,karwa,6
+3,SvaSurAlaye,Alaya,loc. sg. m.,25,axikaranam,6
+4,sapatnIkaH,sapatnIka,nom. sg. m.,8,karwqsamanaxikaranam,6
+5,sAnandam,Ananda,adv.,10,kriyaviseranam,6
+6,sTitavAn,sTA,ppa.,11,,

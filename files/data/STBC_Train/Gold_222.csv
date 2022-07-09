@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SaradaNganA,aNganA,nom. sg. f.,2,karwa,9
+1,anilEH,anila,inst. pl. m.,3,karanam,9
+2,vilulitAM,tad,acc. sg. f.,4,viseranam,4
+3,navasaroruhakeSarasamBavAM,samBava,acc. sg. f.,5,viseranam,4
+4,DUliM,DUli,acc. sg. f.,6,karma,9
+5,parihAsaviDitsayA,viDitsA,inst. sg. f.,9,hewuh,6
+6,harivaDUH,vaDU,acc. sg. f.,12,karma,7
+7,vikaritum,ca,conj.,13,prayojanam,9
+8,iva,iva,conj.,14,sambanxah,9
+9,udakzipat,kzip,impft . ps. sg. 3,15,,

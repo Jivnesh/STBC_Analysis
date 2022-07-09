@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,sambanxah,4
+1,tava,yuzmad,g. sg. *,1,rartisambanxah,3
+2,kiYcit,ca,adv.,2,kriyaviseranam,3
+3,Bavizyati,BU,fut. ac. sg. 3,3,prawiyogi,0
+4,tarhi,tarhi,adv.,4,anuyogi,7
+5,aham,asmad,nom. sg. *,5,karwa,7
+6,kim,kim,acc. sg. n.,6,karma,7
+7,karizyAmi,kf,fut. ac. sg. 1,8,,

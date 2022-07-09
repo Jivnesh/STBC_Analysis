@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,santatim,tad,acc. sg. f.,0,karma,3
+1,mAtfhInAm,hIna,acc. sg. f.,2,karmasamanaxikaranam,3
+2,na,na,part.,3,sambanxah,3
+3,kuryAt,kf,opt. [8] ac. sg. 3,4,,
+4,sarveSvaraH,ISvara,nom. sg. m.,28,karwa,3
+5,kvacit,kvacid,loc. sg. n.,10,axikaranam,3

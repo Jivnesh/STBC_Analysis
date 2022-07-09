@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jagatkartuH,jagatkartf,g. sg. m.,2,rartisambanxah,1
+1,mahimnAM,mahiman,g. pl. m.,3,rartisambanxah,2
+2,PalaM,Pala,nom. sg. n.,5,karma,4
+3,sarvatra,sarvatra,conj.,6,axikaranam,4
+4,dfSyate,dfS,pr. md. sg. 3,7,,

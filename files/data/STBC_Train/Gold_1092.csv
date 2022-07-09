@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iyam,dam,nom. sg. f.,0,karwa,4
+1,vAstave,vAstava,loc. sg. m.,1,axikaranam,4
+2,caRqikA,caRqikA,nom. pl. m.,10,karwqsamanaxikaranam,4
+3,na,na,part.,11,sambanxah,4
+4,asti,as,pr. [2] ac. sg. 3,12,,

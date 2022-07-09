@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idDaM,inD,nom. sg. n.,2,viseranam,2
+1,tam,tad,acc. sg. m.,3,viseranam,2
+2,rAvaRam,rAvaRa,acc. sg. m.,4,karma,3
+3,ArADayitum,rAD,inf.,7,prayojanam,15
+4,parasya,para,g. sg. m.,8,rartisambanxah,5
+5,marmAviDaM,viDa,acc. sg. m.,13,viseranam,7
+6,nijaM,nija,acc. sg. m.,14,viseranam,7
+7,dvijihvatAdozaM,doza,acc. sg. m.,19,karma,8
+8,ujJatAM,tad,g. pl. m.,20,bavalakranasapwami_samanakalah,15
+9,PaRinAM,PaRin,g. pl. m.,21,rartisambanxah,10
+10,ajihmagAmiBiH,gAmin,inst. pl. m.,25,viseranam,12
+11,sakarRakEH,karRaka,inst. pl. m.,27,viseranam,12
+12,kulEH,kula,inst. pl. m.,28,karwa,15
+13,BujaNgatA,gam,nom. sg. f.,30,karma,15
+14,na,na,conj.,31,sambanxah,15
+15,Beje,Baj,pft. md. sg. 3,32,,

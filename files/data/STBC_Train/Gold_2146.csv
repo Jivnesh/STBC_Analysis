@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,conj.,0,axikaranam,9
+1,viralavikIrRavajraSakalA,Sakala,nom. sg. f.,27,viseranam,2
+2,DOtakalaDOtamahI,mahI,nom. sg. f.,3,karwa,9
+3,jaladena,jalada,inst. sg. m.,4,karanam,9
+4,anaticirojJitasya,ujJita,g. sg. n.,29,viseranam,6
+5,cirasTitabudbudasya,budbuda,g. sg. n.,6,viseranam,6
+6,payasaH,payas,g. sg. n.,7,rartisambanxah,7
+7,sakalAm,sakala,acc. sg. f.,9,viseranam,8
+8,anukftiM,anukfti,acc. sg. f.,10,karma,9
+9,vidaDAti,DA,pr. ps. sg. 3,11,,

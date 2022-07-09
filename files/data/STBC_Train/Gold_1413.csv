@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTavA,aTavA,conj.,1,samucciwam,5
+1,tam,tad,acc. sg. m.,2,viseranam,3
+2,eva,eva,conj.,3,sambanxah,1
+3,piMgalakaM,piNgalaka,acc. sg. m.,4,karma,4
+4,gacCAmi,gam,pr. ac. sg. 1,7,samucciwam,5
+5,ca,ca,conj.,8,,

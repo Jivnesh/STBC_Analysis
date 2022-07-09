@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,adrIndrakuYjacarakuYjaragaRqakAzasaNkrAntadAnapayasaH,payas,g. sg. m.,1,rartisambanxah,1
+1,senAgajena,gaja,inst. sg. m.,2,karwa,5
+2,maTitasya,maT,g. sg. m.,4,viseranam,3
+3,vanapAdapasya,pAdapa,g. sg. m.,6,rartisambanxah,4
+4,nijaprasUnEH,prasUna,inst. pl. n.,8,karanam,5
+5,mamle,vid,pft. md. sg. 1,9,samucciwam,10
+6,alInAM,ali,g. pl. m.,10,rartisambanxah,7
+7,kulEH,kula,inst. pl. n.,11,karwa,9
+8,yaTAAgatam,Agata,conj.,14,viseranam,9
+9,agAmi,gam,impft. md. sg. 3,15,samucciwam,10
+10,ca,ca,conj.,16,,

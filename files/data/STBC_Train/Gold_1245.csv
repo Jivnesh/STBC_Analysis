@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yaH,yad,nom. sg. m.,0,karwa,4
+1,gAyatrImantram,mantra,acc. sg. m.,18,karma,4
+2,nityam,nitya,loc. sg. m.,4,axikaranam,4
+3,na,na,part.,7,sambanxah,4
+4,japati,jap,pr. [1] ac. sg. 3,8,samucciwam,10
+5,kim,kim,part.,10,sambanxah,9
+6,saH,tad,nom. sg. m.,11,karwa,9
+7,api,api,conj.,12,sambanxah,6
+8,hinduH,tad,nom. sg. m.,14,karwqsamanaxikaranam,9
+9,asti,as,pr. [2] ac. sg. 3,15,samucciwam,10
+10,ca,ca,conj.,16,,

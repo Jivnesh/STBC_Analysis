@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,sUtaputraH,putra,nom. sg. m.,2,prawiyogi,2
+2,iti,t,part.,3,anuyogi,4
+3,eva,eva,prep.,4,sambanxah,5
+4,aDikam,aDika,acc. sg. m.,5,karma,5
+5,manye,man,pr. ps. sg. 1,15,,

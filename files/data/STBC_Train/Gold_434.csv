@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putryAH,putra,g. sg. f.,0,rartisambanxah,1
+1,vivAhArTam,arTa,acc. sg. n.,34,prayojanam,2
+2,saYcitam,cita,acc. sg. n.,3,viseranam,3
+3,Danam,Dana,acc. sg. n.,6,karma,6
+4,yadi,yad,conj.,8,sambanxah,7
+5,dasyavaH,dasyu,nom. pl. m.,9,karwa,6
+6,nezyanti,nI,fut. ac. pl. 3,10,prawiyogi,4
+7,tarhi,tarhi,adv.,11,anuyogi,10
+8,saH,tad,nom. sg. m.,12,karwa,10
+9,kim,kim,acc. sg. n.,13,karma,10
+10,karizyati,kf,fut. ac. sg. 3,15,,

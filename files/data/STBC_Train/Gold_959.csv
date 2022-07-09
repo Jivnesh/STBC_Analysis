@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,candraH,candra,nom. sg. m.,0,karwa,3
+1,niSAyAH,niSA,g. sg. f.,1,rartisambanxah,2
+2,vallaBaH,vallaBa,nom. sg. m.,3,karwqsamanaxikaranam,3
+3,asti,as,pr. [2] ac. sg. 3,4,,

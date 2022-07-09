@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lohasya,loha,g. sg. n.,0,rartisambanxah,2
+1,ca,ca,conj.,1,sambanxah,2
+2,utTAya,sTA,abs.,4,purvakalah,4
+3,tAn,tad,acc. pl. m.,2,karma,4
+4,apfcCat,brU,impft. [6] ac. sg. 3,3,,

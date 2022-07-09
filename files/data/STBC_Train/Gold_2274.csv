@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,amAnavam,amAnava,nom. sg. m.,3,viseranam,1
+1,ajaM,aja,acc. sg. m.,5,karma,4
+2,manoH,manu,g. sg. m.,8,rartisambanxah,3
+3,kule,kula,loc. sg. n.,12,axikaranam,4
+4,jAtaM,tad,acc. sg. m.,15,viseranam,6
+5,praBAvinaM,BAvin,acc. sg. m.,19,viseranam,6
+6,BavantaM,tad,acc. sg. m.,64,viseranam,9
+7,AtmanaH,Atman,g. sg. m.,24,rartisambanxah,9
+8,antaM,anta,acc. sg. m.,26,viseranam,9
+9,BAvinaM,BAvin,acc. sg. m.,27,karma,10
+10,jAnan,jYA,nom. sg. m.,28,bavalakranasapwami_samanakalah,15
+11,api,api,conj.,29,sambanxah,15
+12,yaH,yad,nom. sg. m.,31,karwa,15
+13,jAnakIM,jAnakI,acc. sg. f.,32,karma,15
+14,na,na,conj.,34,sambanxah,15
+15,mumoca,muc,pft. ac. sg. 3,35,samucciwam,21
+16,hi,hi,conj.,37,sambanxah,20
+17,mAninaH,mAnin,nom. pl. m.,39,viseranam,19
+18,sadA,sadA,conj.,48,kriyaviseranam,20
+19,aBimAnEkaDanAH,Dana,nom. pl. m.,45,karwa,20
+20,Bavanti,BU,pr. ac. pl. 3,49,samucciwam,21
+21,ca,ca,conj.,50,,

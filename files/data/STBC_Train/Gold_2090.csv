@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,jyAyAMsaH,jyAyas,nom. pl. m.,0,samucciwam,1
+1,ca,ca,conj.,1,karwa,5
+2,taTA,taTA,adv.,2,sambanxah,5
+3,jyezWAH,jyezWa,nom. pl. m.,3,samucciwam,1
+4,laByAH,nadI,nom. pl. f.,8,karwqsamanaxikaranam,5
+5,syuH,as,opt. [2] ac. pl. 3,9,,
+6,tatra,tatra,loc. sg. m.,10,axikaranam,5
+7,BUriSaH,BUriSas,adv.,11,kriyaviseranam,5

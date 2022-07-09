@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,26,karwa,14
+1,navapraBAjAlaBftAM,Bfta,g. pl. m.,2,viseranam,2
+2,maRInAM,maRi,g. pl. m.,3,rartisambanxah,3
+3,kAYcanavapraBAjA,BAj,inst. sg. m.,6,karanam,5
+4,rucA,ruc,inst. sg. f.,7,karwa,5
+5,krAntaM,kram,acc. sg. m.,10,viseranam,13
+6,punaH,punar,conj.,12,kriyaviseranam,11
+7,SilASyAmalatAaBirAmaM,aBirAma,acc. sg. m.,13,viseranam,13
+8,taTA,taTA,conj.,16,sambanxah,11
+9,AmantritazawpadABiH,pada,inst. pl. f.,17,viseranam,10
+10,latABiH,latA,inst. pl. f.,18,karwa,11
+11,Sritam,Sri,acc. sg. m.,21,viseranam,13
+12,giriM,giri,acc. sg. m.,22,viseranam,13
+13,rEvatakaM,rEvataka,acc. sg. m.,23,karma,14
+14,dadarSa,dfS,pft. ac. sg. 3,24,,

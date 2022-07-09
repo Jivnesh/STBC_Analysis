@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,9
+1,tatra,tatra,conj.,1,axikaranam,5
+2,nirJarAn,nirJara,acc. pl. m.,2,karma,5
+3,api,api,conj.,3,sambanxah,2
+4,SuzkAn,Suzka,acc. pl. m.,5,karma,5
+5,dfzwvA,dfS,conj.,6,purvakalah,8
+6,mahAtmAnam,mahAtman,acc. sg. m.,10,karma,7
+7,Agatya,gam,conj.,11,purvakalah,8
+8,avocat,vac,impft. ac. sg. 3,12,samucciwam,9
+9,ca,ca,conj.,13,,

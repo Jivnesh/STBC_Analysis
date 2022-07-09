@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAraviH,sTAyin,nom. sg. m.,0,karwa,6
+1,viSvaviKyAtaH,KyA,nom. sg. m.,7,karwqsamanaxikaranam,6
+2,ekaH,eka,nom. sg. m.,8,viseranam,3
+3,ajaraH,jara,nom. sg. m.,29,viseranam,5
+4,amaraH,mara,nom. sg. m.,11,viseranam,5
+5,mahAkaviH,kavi,nom. sg. m.,13,karwqsamanaxikaranam,6
+6,Bavatu,BU,imp. [1] ac. sg. 3,14,,

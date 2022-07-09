@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yuvatisaritAM,sarit,g. pl. f.,0,rartisambanxah,1
+1,svedaApUraH,ApUra,nom. sg. m.,1,karwa,15
+2,jaGanapuline,pulina,loc. sg. n.,5,axikaranam,4
+3,udrekaM,udreka,acc. sg. m.,6,karma,4
+4,gattvA,gam,conj.,7,purvakalah,15
+5,rudDamaDyapradeSaH,pradeSa,nom. sg. m.,8,karwa,6
+6,krAman,kram,nom. sg. n.,9,bavalakranasapwami_samanakalah,15
+7,UrudrumaBujalatAH,latA,nom. pl. f.,11,viseranam,8
+8,pUrRanABIhfdaantaH,tad,nom. sg. m.,13,karwa,11
+9,uccEH,ucca,conj.,15,viseranam,10
+10,kucatawaBuvam,BU,acc. sg. f.,19,karma,11
+11,ullaNGya,laNG,conj.,20,purvakalah,15
+12,romakUpAn,kUpa,acc. pl. m.,21,karma,13
+13,plAvayan,Ric,nom. sg. n.,22,bavalakranasapwami_samanakalah,15
+14,gaRqasTalAni,sTala,acc. pl. n.,23,karma,15
+15,vyApa,Ap,pft. ac. sg. 3,26,,

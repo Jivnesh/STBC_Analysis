@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAruRikaH,kim,nom. sg. m.,1,viseranam,1
+1,SamIkaH,SamIka,nom. sg. m.,2,karwa,13
+2,sattvavantaH,sat,nom. pl. m.,3,samucciwam,4
+3,AyuzmantaH,tad,nom. pl. m.,4,samucciwam,4
+4,ca,ca,conj.,10,viseranam,5
+5,ime,idam,nom. pl. n.,9,karwa,6
+6,santi,sat,nom. pl. n.,34,prawiyogi,7
+7,iti,iti,part.,12,anuyogi,8
+8,uktvA,vac,abs.,13,purvakalah,13
+9,tAn,tad,acc. pl. m.,14,karma,11
+10,svASrame,ASrama,loc. sg. m.,49,axikaranam,11
+11,AnIya,nI,abs.,17,purvakalah,13
+12,yaTocitAhArapAnapradAnAdinA,Adin,adv.,24,kriyaviseranam,13
+13,apozayat,puz,ca. impft. ac. sg. 3,25,,

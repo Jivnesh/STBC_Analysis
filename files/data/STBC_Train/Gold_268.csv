@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,13,viseranam,1
+1,cedirAw,rAj,nom. sg. m.,3,karwa,4
+2,ekaH,eka,nom. sg. m.,7,viseranam,1
+3,ataH,atas,conj.,8,sambanxah,4
+4,jetavyaH,ji,nom. sg. m.,9,prawiyogi,5
+5,iti,iti,conj.,10,anuyogi,6
+6,mA,mA,conj.,11,sambanxah,7
+7,vedi,vid,impft. md. sg. 3,12,,

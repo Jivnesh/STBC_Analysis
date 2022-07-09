@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,apakArI,apakArin,nom. sg. m.,0,karwa,2
+1,vaSe,vaSa,loc. sg. m.,2,axikaranam,2
+2,yAti,yA,pr. ac. sg. 3,9,,
+3,upakAreRa,upakAra,inst. sg. n.,10,karanam,2
+4,kevalam,kevala,acc. sg. m.,11,sambanxah,2

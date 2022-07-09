@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,4
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,putrasya,putra,g. sg. m.,2,rartisambanxah,3
+3,jIvanam,jIvana,acc. sg. m.,3,karma,4
+4,icCAmi,z,pr. [6] ac. sg. 1,6,,

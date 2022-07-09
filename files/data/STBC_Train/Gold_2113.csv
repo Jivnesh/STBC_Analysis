@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aviratakusumAvacAyaKedAt,Keda,abl. sg. m.,0,hewuh,1
+1,upakaRWaM,kaRWa,conj.,2,axikaranam,5
+2,nihitaBujAlatayA,latA,inst. sg. f.,3,viseranam,4
+3,ekayA,tad,inst. sg. f.,4,viseranam,4
+4,vipulataranirantarAvalagnastanapihitapriyavakzasA,vakzas,inst. sg. f.,6,karwa,5
+5,lalambe,lamb,pft. md. sg. 3,7,,

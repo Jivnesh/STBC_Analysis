@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,katipayamAsAnantaram,antara,loc. sg. m.,6,axikaranam,8
+1,saH,tad,nom. sg. m.,7,viseranam,3
+2,eva,eva,prep.,8,sambanxah,1
+3,mahAtmA,Atman,acc. pl. f.,33,karma,8
+4,rAjYA,rAjya,nom. sg. m.,10,karwa,8
+5,punaH,punar,loc. sg. n.,12,axikaranam,8
+6,api,api,conj.,13,sambanxah,5
+7,BagavaccarcAyE,carcA,dat. sg. f.,17,waxarwyam,8
+8,AhUtaH,vac,pp.,18,,

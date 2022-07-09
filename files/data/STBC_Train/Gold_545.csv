@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,SiKaram,SiKara,nom. sg. n.,4,karwa,3
+2,tuNgam,tuNga,nom. sg. n.,7,karwqsamanaxikaranam,3
+3,asti,as,pr. [2] ac. sg. 3,8,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bahu-BAryaH,BArya,nom. sg. m.,1,viseranam,1
+1,patiH,pat,nom. sg. m.,2,karwa,4
+2,tABiH,tad,i. pl. f.,3,viseranam,3
+3,BAryABiH,BArya,i. pl. f.,5,karanam,4
+4,tapyate,tap,pr. ps. sg. 3,6,,
+5,bahu,bahu,adv.,9,kriyaviseranam,4

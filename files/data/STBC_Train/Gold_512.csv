@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,arkaH,arka,nom. sg. m.,0,karwa,8
+1,jagatpUjyaM,pUjya,acc. sg. m.,3,viseranam,2
+2,taM,tad,acc. sg. m.,4,karma,8
+3,jagatpavitrEH,pavitra,inst. pl. m.,6,viseranam,5
+4,api,api,conj.,7,sambanxah,3
+5,pAdEH,pAda,inst. pl. m.,9,karanam,8
+6,sprazwuM,spfS,inf.,10,prayojanam,8
+7,na,na,conj.,11,sambanxah,8
+8,ayujyata,yuj,impft . md. sg. 3,14,,

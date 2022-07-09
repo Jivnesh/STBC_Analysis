@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mitra,mitra,voc. sg. m.,1,samboxyah,6
+1,aham,asmad,nom. sg. *,2,karwa,6
+2,atra,atra,loc. sg. m.,3,axikaranam,6
+3,pratidinam,kf,abs.,6,purvakalah,6
+4,maDurARi,maDura,acc. pl. n.,7,viseranam,5
+5,PalAni,Pala,acc. pl. n.,9,karma,6
+6,KAdAmi,KAd,pr. [1] ac. sg. 1,11,samucciwam,7
+7,kintu,ca,conj.,12,,
+8,kadApi,Api,loc. sg. n.,13,axikaranam,13
+9,tvAm,yuzmad,acc. sg. *,14,sambanxah,13
+10,BojanAya,Bojana,dat. sg. n.,15,waxarwyam,13
+11,svagfham,gfha,acc. sg. n.,17,sambanxah,13
+12,na,na,part.,19,sambanxah,13
+13,nayAmi,nI,pr. [1] ac. sg. 1,20,samucciwam,7

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BikzuH,Bikzu,nom. sg. m.,0,karwa,8
+1,api,api,conj.,1,sambanxah,0
+2,kiYcit,cit,acc. sg. n.,23,kriyaviseranam,3
+3,smaran,tad,nom. sg. m.,4,prawiyogi,4
+4,iva,iva,conj.,5,anuyogi,5
+5,tAm,tad,acc. sg. f.,6,viseranam,7
+6,eva,eva,conj.,7,sambanxah,5
+7,sTitim,sTiti,acc. sg. f.,8,karma,8
+8,ApannaH,pad,pp. . sg. ,9,,

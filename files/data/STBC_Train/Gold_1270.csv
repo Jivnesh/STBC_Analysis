@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,somadattaH,datta,nom. sg. m.,2,karwa,6
+1,tena,tad,i. sg. n.,3,viseranam,2
+2,vacasA,vacas,i. sg. n.,5,karanam,3
+3,vismitaH,smita,nom. sg. m.,6,prawiyogi,4
+4,iva,iva,part.,7,anuyogi,5
+5,gurukulam,kula,acc. sg. n.,9,karma,6
+6,pratyAvfttaH,vftta,pp.,12,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taTA,taTA,adv.,1,kriyaviseranam,8
+1,asmaByam,asmad,dat. pl. *,0,sampraxanam,2
+2,dattam,dA,acc. sg. m.,2,viseranam,3
+3,SApam,SApa,acc. sg. m.,3,karma,4
+4,parAvartayitum,vft,ca. inf.,27,prayojanam,8
+5,api,api,conj.,5,sambanxah,4
+6,tam,tad,acc. sg. m.,7,karma,8
+7,sAgraham,graha,acc. sg. m.,9,kriyaviseranam,8
+8,nyavedayat,veda,ca. impft. ac. sg. 3,10,,

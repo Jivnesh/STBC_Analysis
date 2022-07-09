@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,alinAdEH,nAda,inst. pl. m.,0,karwa,2
+1,muhuH,muhur,conj.,1,viseranam,2
+2,upahasitAm,has,pp. . sg. ,2,prawiyogi,3
+3,iva,iva,conj.,3,anuyogi,5
+4,enAM,idam,acc. sg. f.,4,viseranam,5
+5,kalikAM,kala,nom. sg. n.,5,karma,8
+6,naH,asmad,g. pl. n.,8,rartisambanxah,7
+7,kimarTaM,kimarTa,conj.,10,waxarwyam,8
+8,vitarasi,as,pr. ac. sg. 2,11,,

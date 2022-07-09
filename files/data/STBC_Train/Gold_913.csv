@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,ca,conj.,0,samucciwam,10
+1,dvO,pAda,acc. du. m.,2,viseranam,3
+2,api,api,prep.,4,sambanxah,1
+3,tO,tad,acc. du. m.,5,karma,6
+4,puzpitapalASapratimO,pratima,acc. du. m.,10,viseranam,3
+5,parasparavaDa-kANkziRO,kANkzin,acc. du. m.,11,viseranam,3
+6,dfzwvA,dfS,abs.,13,purvakalah,9
+7,karawakaH,karawaka,nom. sg. m.,14,karwa,9
+8,damanakam,damanaka,acc. sg. m.,15,karma,9
+9,Aha,ah,pft. ac. sg. 3,16,samucciwam,10
+10,ca,ca,conj.,17,,

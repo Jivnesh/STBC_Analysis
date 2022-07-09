@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvO,tad,acc. du. m.,1,viseranam,2
+1,api,api,conj.,2,sambanxah,0
+2,mAtAputrO,putra,acc. du. m.,5,karwa,7
+3,tam,tad,acc. sg. m.,7,karma,7
+4,pUrvam,pUrva,loc. sg. m.,10,axikaranam,7
+5,nagare,nagara,loc. sg. m.,11,axikaranam,7
+6,eva,eva,prep.,15,sambanxah,5
+7,anvizwavantO,anviz,pp.,17,,

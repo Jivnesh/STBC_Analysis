@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,8
+1,buBukzayA,buBukzA,i. sg. f.,1,viseranam,3
+2,mriyamARena,mf,i. sg. f.,5,viseranam,3
+3,tena,tad,i. sg. f.,7,karanam,8
+4,kasyacit,kim,g. sg. m.,9,viseranam,5
+5,gfhasTasya,gfhasTa,g. sg. m.,11,rartisambanxah,6
+6,gfhAt,gfha,abl. sg. n.,12,apaxanam,8
+7,rowikAm,tad,acc. sg. f.,13,karma,8
+8,corayitvA,cora,abs.,15,purvakalah,10
+9,kzuDASAntiH,tad,nom. sg. f.,18,karma,10
+10,kftA,kfta,pp.,19,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,munayaH,muni,nom. pl. m.,0,karwa,5
+1,puzpEH,puzpa,inst. pl. n.,3,samucciwam,3
+2,PalEH,Pala,inst. pl. n.,4,samucciwam,3
+3,ca,ca,conj.,5,karanam,5
+4,rAmam,rAma,acc. sg. m.,6,karma,5
+5,pUjayanti,gam,pr. ac. pl. 3,9,,

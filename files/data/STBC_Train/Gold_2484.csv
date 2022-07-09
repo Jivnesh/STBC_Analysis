@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dvayoH,fzaBa,loc. du. m.,5,viseranam,2
+1,api,api,conj.,6,sambanxah,0
+2,pAdayoH,pAda,loc. du. m.,8,axikaranam,7
+3,ekaH,eka,nom. sg. m.,10,viseranam,5
+4,eva,eva,prep.,11,sambanxah,3
+5,SizyaH,Sizya,nom. sg. m.,12,karwa,8
+6,sevAm,sevA,acc. sg. f.,13,karma,7
+7,kartum,kf,inf.,14,prayojanam,8
+8,icCati,iz,pr. [6] ac. sg. 3,15,,
+9,sma,sma,part.,16,sambanxah,8

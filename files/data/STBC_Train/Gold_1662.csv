@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAm,asmad,acc. sg. *,0,sambanxah,2
+1,svaveSam,veSa,acc. sg. m.,2,sambanxah,2
+2,pariDApya,DA,ca. abs.,3,purvakalah,11
+3,kadAcit,cit,loc. sg. m.,22,axikaranam,11
+4,BavAn,Bava,nom. sg. m.,7,karwa,11
+5,api,api,conj.,8,sambanxah,4
+6,mama,asmad,g. sg. *,10,rartisambanxah,7
+7,veSam,veSa,acc. sg. m.,11,karma,8
+8,DftvA,Df,abs.,12,purvakalah,11
+9,mama,asmad,g. sg. *,13,rartisambanxah,10
+10,sevAm,sevA,acc. sg. f.,14,karma,11
+11,karotu,kf,imp. [8] ac. sg. 3,15,,

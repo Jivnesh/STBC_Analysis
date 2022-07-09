@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idAnIm,idAnIm,loc. sg. n.,0,axikaranam,6
+1,tu,tu,conj.,1,sambanxah,0
+2,tam,tad,acc. sg. m.,2,karma,5
+3,buBukzA,buBukzA,nom. pl. f.,4,karwa,6
+4,api,api,conj.,5,sambanxah,3
+5,bADitum,bAD,inf.,7,prayojanam,6
+6,pravfttA,vftta,pp.,8,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gataDftiH,Dfti,nom. sg. f.,0,karwa,7
+1,ahaM,asmad,nom. sg. n.,1,viseranam,0
+2,BavatyAH,BavatI,g. sg. f.,3,rartisambanxah,3
+3,anAlApanAt,AlApana,abl. sg. n.,5,hewuh,4
+4,asUn,asu,acc. pl. m.,6,karma,5
+5,avalambitum,lamb,conj.,7,prayojanam,7
+6,analam,alam,conj.,8,sambanxah,7
+7,Bavati,BU,pr. ac. sg. 3,9,,
+8,bata,bata,conj.,10,sambanxah,7

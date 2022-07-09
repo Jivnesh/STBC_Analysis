@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vinA,vinA,prep.,0,anuyogi,4
+1,praSnAn,praSna,acc. pl. m.,1,prawiyogi,0
+2,vinA,vinA,prep.,2,anuyogi,4
+3,sandeham,tad,acc. sg. m.,3,prawiyogi,2
+4,aham,asmad,nom. sg. *,4,karwa,5
+5,AgamizyAmi,gam,fut. ac. sg. 1,5,,

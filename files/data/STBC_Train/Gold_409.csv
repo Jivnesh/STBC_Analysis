@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjYA,rAjan,nom. sg. m.,0,karwa,1
+1,pfzwaH,pfzwa,nom. sg. m.,2,viseranam,3
+2,ca,ca,conj.,3,sambanxah,6
+3,saH,tad,nom. sg. m.,4,karwa,6
+4,sarvam,sarva,acc. sg. m.,5,viseranam,5
+5,satyam,satya,acc. sg. m.,8,karma,6
+6,akaTayat,brU,impft. [10] ac. sg. 3,11,,

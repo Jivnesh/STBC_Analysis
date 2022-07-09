@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ahamahamikayA,tad,inst. sg. f.,0,karanam,3
+1,guroH,guru,g. sg. m.,1,rartisambanxah,2
+2,prARAn,prARa,acc. pl. m.,3,karma,3
+3,rakzitum,rakz,conj.,4,prayojanam,11
+4,sarve,sarva,nom. pl. m.,5,viseranam,6
+5,api,api,conj.,10,sambanxah,4
+6,SizyAH,Sizya,nom. pl. m.,29,karwa,11
+7,tatkAlam,tatkAla,loc. sg. m.,18,axikaranam,11
+8,eva,eva,conj.,19,sambanxah,7
+9,sPowam,sPowa,acc. sg. m.,20,karma,10
+10,cUzitum,cUz,conj.,21,prayojanam,11
+11,pravfttAH,vftta,pp. . pl. ,24,,

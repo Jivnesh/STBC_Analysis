@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yoDaH,yoDa,nom. sg. m.,0,karwa,3
+1,arO,ari,loc. sg. m.,3,axikaranam,3
+2,izU,izu,acc. du. m.,7,karma,3
+3,kzipati,kzip,pr. ac. sg. 3,11,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. n.,0,axikaranam,7
+1,saH,tad,nom. sg. m.,1,karwa,7
+2,svIyam,svIya,acc. sg. m.,2,viseranam,3
+3,BrAtfjam,ja,acc. sg. m.,6,karma,5
+4,eva,eva,prep.,7,sambanxah,3
+5,utTApya,sTA,ca. abs.,8,purvakalah,7
+6,BUmO,BUmi,loc. sg. f.,9,axikaranam,7
+7,nyapAtayat,pat,ca. impft. ac. sg. 3,10,samucciwam,9
+8,nirdayam,nirdaya,acc. sg. m.,11,viseranam,10
+9,ca,ca,conj.,14,,
+10,tam,tad,acc. sg. m.,15,karma,11
+11,apoTayat,brU,ca. impft. ac. sg. 3,16,samucciwam,9

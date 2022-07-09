@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtapatfzRAsantaptaH,tapta,nom. sg. m.,10,viseranam,1
+1,saH,tad,nom. sg. m.,3,karwa,4
+2,pArSvasTAm,sTa,acc. sg. f.,5,viseranam,3
+3,kuwIm,kuwI,acc. sg. f.,6,karma,4
+4,prAptaH,Apta,pp.,7,,

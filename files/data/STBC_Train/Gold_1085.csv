@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ucCfNKalaM,ucCfNKala,nom. sg. n.,0,viseranam,1
+1,satvam,tad,nom. sg. n.,2,karwa,3
+2,anyat,anya,nom. sg. n.,4,viseranam,1
+3,asti,as,pr. ac. sg. 3,5,samucciwam,8
+4,SAstraniyantritaM,yantra,nom. sg. n.,8,viseranam,5
+5,satvam,tad,nom. sg. n.,10,karwa,7
+6,anyat,anya,nom. sg. n.,12,viseranam,5
+7,asti,as,pr. ac. sg. 3,13,samucciwam,8
+8,ca,ca,conj.,14,,

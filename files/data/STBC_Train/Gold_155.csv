@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pradarSanam,pradarSana,nom. sg. n.,1,karwa,4
+1,idam,idam,loc. sg. f.,2,viseranam,0
+2,rAtrO,rAtri,loc. sg. f.,3,viseranam,3
+3,candraprakASe,prakASa,loc. sg. f.,10,axikaranam,4
+4,AsIt,as,aor. [5] ac. sg. 3,12,,

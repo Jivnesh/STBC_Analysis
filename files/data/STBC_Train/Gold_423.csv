@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavatA,Bava,nom. pl. f.,1,karwa,5
+1,api,api,conj.,2,sambanxah,0
+2,bAlye,bAlya,loc. sg. n.,20,axikaranam,5
+3,bahUnAm,bahu,g. pl. m.,7,rartisambanxah,4
+4,hAniH,hAni,acc. sg. f.,10,karma,5
+5,kftA,kf,acc. sg. f.,11,karmasamanaxikaranam,6
+6,syAt,as,opt. [2] ac. sg. 3,23,,

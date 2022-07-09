@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mantrI,mantrin,nom. sg. m.,0,karwa,3
+1,kaH,kim,nom. sg. m.,1,karwqsamanaxikaranam,3
+2,Bavitum,BU,inf.,2,prayojanam,3
+3,arhati,arh,pr. [1] ac. sg. 3,3,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,tu,conj.,3,sambanxah,11
+1,tAm,tad,acc. sg. f.,4,viseranam,2
+2,rowIm,tad,acc. sg. f.,5,karma,6
+3,utTApya,sTA,ca. abs.,6,purvakalah,6
+4,kroDena,kroDa,i. sg. m.,7,karanam,6
+5,taTA,taTA,adv.,8,anuyogi,11
+6,prakziptavAn,tad,nom. sg. m.,9,prawiyogi,7
+7,yaTA,yaTA,conj.,10,sambanxah,5
+8,sA,tad,nom. sg. f.,11,karwa,11
+9,alakzitasTAne,sTAna,loc. sg. n.,18,axikaranam,10
+10,gatvA,gam,abs.,12,purvakalah,11
+11,nyapatat,pat,impft. [1] ac. sg. 3,13,,

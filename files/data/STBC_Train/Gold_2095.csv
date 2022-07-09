@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kzitiBftAM,Bft,g. pl. m.,0,rartisambanxah,1
+1,nivAsAH,nivAsa,nom. pl. m.,1,karwa,10
+2,CAyAviDAyiBiH,viDAyin,inst. pl. m.,3,viseranam,7
+3,anujJitaBUtiSoBEH,SoBa,inst. pl. m.,4,viseranam,7
+4,ucCrAyiBiH,ucCrAyin,inst. pl. m.,5,viseranam,7
+5,bahalapAwalaDAturAgEH,rAga,inst. pl. m.,7,viseranam,7
+6,udAratArAvalIviracanEH,tad,inst. pl. m.,8,viseranam,7
+7,dviradEH,dvirada,inst. pl. m.,11,karanam,10
+8,dUzyEH,dUzya,inst. pl. m.,13,prawiyogi,9
+9,iva,iva,conj.,14,anuyogi,7
+10,vyarucan,ruc,impft. md. pl. 3,15,,

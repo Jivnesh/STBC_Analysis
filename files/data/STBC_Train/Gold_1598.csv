@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tAm,tad,acc. sg. f.,0,karma,8
+1,upetya,upa,abs.,1,purvakalah,8
+2,saH,tad,nom. sg. m.,2,karwa,8
+3,anunayam,anunaya,acc. sg. m.,3,samucciwam,5
+4,vinayam,vinaya,acc. sg. m.,6,samucciwam,5
+5,ca,ca,conj.,7,karma,6
+6,kftvA,kf,abs.,8,purvakalah,8
+7,rAjaBavanam,Bavana,acc. sg. n.,10,karma,8
+8,AnItavAn,prAp,pp.,12,,

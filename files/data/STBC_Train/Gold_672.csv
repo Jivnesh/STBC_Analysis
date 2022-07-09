@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rayAt,raya,abl. sg. m.,0,apaxanam,1
+1,patantaH,pat,nom. pl. m.,1,bavalakranasapwami_samanakalah,9
+2,raTAH,raTa,nom. pl. m.,2,karma,9
+3,sayatnasUtAyataraSmiBugnagrIvAgrasaMsaktayugEH,yuga,inst. pl. m.,3,viseranam,5
+4,aKedEH,Keda,inst. pl. m.,5,viseranam,5
+5,turaNgEH,tad,inst. pl. m.,6,karwa,9
+6,hastinaKAt,naKa,abl. sg. m.,7,hewuh,9
+7,SanEH,ca,conj.,9,viseranam,9
+8,kzitim,kziti,acc. sg. f.,11,karma,9
+9,anIyanta,nI,impft . md. pl. 3,12,,

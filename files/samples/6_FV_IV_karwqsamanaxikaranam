@@ -1,0 +1,98 @@
+0,anena,idam,inst. sg. m.,1,karanam,2
+1,SarIraM,SarIra,nom. sg. n.,4,karwa,2
+2,syAt,as,opt. ac. sg. 3,5,,
+3,ca,ca,conj.,6,sambanxah,2
+4,kAryakft,kft,pp. . . ,13,karwqsamanaxikaranam,2 ####### FV_IV_karwqsamanaxikaranam #######
+
+0,vaDUnAm,vaDU,g. pl. f.,NA,rartisambanxah,1
+1,payasi,payas,loc. sg. n.,NA,axikaranam,4
+2,viBUzaRaM,viBUzaRa,nom. sg. n.,NA,karwa,4
+3,paryAptaM,pari_Ap1,pp.,NA,karwqsamanaxikaranam,4 ####### FV_IV_karwqsamanaxikaranam #######
+4,baBUva,BU1,pft. ac. sg. 3,NA,,
+
+0,nAvikaH,nAvika,nom. sg. m.,0,karwa,4
+1,mantriRA,mantrin,i. sg. m.,1,karanam,4
+2,taTA,taTA,adv.,3,anuyogi,4
+3,sandizwaH,dizwa,pp.,4,karwqsamanaxikaranam,4 ####### FV_IV_karwqsamanaxikaranam #######
+4,AsIt,as,aor. [5] ac. sg. 3,6,,
+5,yaTA,yaTA,conj.,7,sambanxah,2
+6,saH,tad,nom. sg. m.,8,karwa,9
+7,nadyAm,nadI,loc. sg. f.,9,axikaranam,9
+8,maDyepravAham,pravAha,acc. sg. m.,16,karma,9
+9,prApnuyAt,Ap,opt. [5] ac. sg. 3,17,prawiyogi,5
+
+0,balaAkrAntaH,bala-AkrAnta,nom. sg. m.,NA,viseranam,2
+1,asO,adas,nom. sg. m.,NA,viseranam,2
+2,giripatiH,giri-pati,nom. sg. m.,NA,karwa,26
+3,krIqaddviradmaTitaurvIruharavEH,krIqad-dvirad-maTita-urvI-ruha-rava,i. pl. m.,NA,hewuh,2
+4,SrIpatiM,SrI-pati,acc. sg. m.,NA,karma,26
+5,nanu,nanu,ind.,NA,sambanxah,6
+6,tvaM,yuzmad,nom. sg. *.,NA,karwa,9
+7,Darasya,Dara,g. sg. m.,NA,rartisambanxah,8
+8,udDartA,ud_Df1,nom. sg. m.,NA,karwqsamanaxikaranam,9
+9,asi,as2,pr. ac. sg. 2,NA,prawiyogi,10
+10,iti,iti,ind.,NA,anuyogi,11
+11,sarvatra,sarvatra,ind.,NA,axikaranam,14
+12,jagati,jagat,loc. sg. n.,NA,axikaranam,15
+13,tvaM,yuzmad,nom. sg. *.,NA,karwa,15
+14,pratItaH,prati_i1,pp.,NA,karwqsamanaxikaranam,15 ####### FV_IV_karwqsamanaxikaranam #######
+15,asi,as2,pr. ac. sg. 2,NA,,
+16,tat,tad,nom. sg. n.,NA,viseranam,17
+17,kim,kim,ind.,NA,sambanxah,23
+18,atiBaraM,ati-Bara,acc. sg. m.,NA,viseranam,19
+19,mAm,asmad,acc. sg. *.,NA,karma,23
+20,tvaM,yuzmad,nom. sg. *.,NA,karwa,23
+21,aDaH,aDaH,ind.,NA,axikaranam,23
+22,prApipayizuH,prApipayizu,nom. sg. m.,NA,karwqsamanaxikaranam,23
+23,asi,as2,pr. ac. sg. 2,NA,prawiyogi,24
+24,iti,iti,ind.,NA,anuyogi,25
+25,uccEH,uccEH,ind.,NA,kriyaviseranam,26
+26,upAlabDaH,upa_ANa_laB1,pp.,NA,prawiyogi,27
+27,iva,iva,ind.,NA,anuyogi,2
+
+0,mune,muni,voc. sg. m.,NA,samboxyah,10
+1,yadyapi,yadyapi,ind.,NA,sambanxah,11
+2,nibarhitAMhasA,nibarhitAMhas,i. sg. n.,NA,viseranam,3
+3,amunA,adas,i. sg. n.,NA,karwa,9
+4,tava,yuzmad,g. sg. *.,NA,rartisambanxah,5
+5,vilokanena,vi_lok2,i. sg. n.,NA,hewuh,8
+6,eva,eva,ind.,NA,sambanxah,5
+7,ahaM,asmad,nom. sg. *.,NA,karwa,10
+8,kftArTaH,kftArTa,nom. sg. m.,NA,karma,9
+9,kftaH,kf2,pp.,NA,karwqsamanaxikaranam,10 ####### FV_IV_karwqsamanaxikaranam #######
+10,asmi,as2,pr. ac. sg. 1,NA,prawiyogi,11
+11,taTApi,taTApi,ind.,NA,anuyogi,17
+12,ahaM,asmad,nom. sg. *.,NA,karwa,17
+13,tava,yuzmad,g. sg. *.,NA,rartisambanxah,15
+14,garIyasIH,garIyasI,acc. pl. f.,NA,viseranam,15
+15,giraH,gir,abl. sg. f.,NA,karma,17
+16,SuSrUzuH,SuSrUzu,nom. sg. m.,NA,karwqsamanaxikaranam,17
+17,asmi,as2,pr. ac. sg. 1,NA,,
+18,aTavA,aTavA,ind.,NA,sambanxah,21
+19,Sreyasi,Sreyas,loc. sg. m.,NA,axikaranam,21
+20,kena,kim,i. sg. m.,NA,karwa,21
+21,tfpyate,tfp1,pr. ps. sg. 3,NA,,
+
+0,saMyati,saMyat,loc. sg. f.,NA,axikaranam,2
+1,yena,yad,i. sg. m.,NA,karwa,2
+2,anudrutaH,anu_dru1,pp.,NA,karwqsamanaxikaranam,10 ####### FV_IV_karwqsamanaxikaranam #######
+3,balasya,bala,g. sg. n.,NA,rartisambanxah,4
+4,SatruH,Satru,nom. sg. m.,NA,viseranam,5
+5,indraH,indra,nom. sg. m.,NA,karwa,10
+6,aBramoH,aBra-mu,g. sg. m.,NA,rartisambanxah,7
+7,BartuH,Bartf,g. sg. m.,NA,rartisambanxah,8
+8,salIlayAtAni,salIla-yA1,pp.,NA,karma,10
+9,na,na,ind.,NA,sambanxah,10
+10,praSaSaMsa,pra_SaMs1,pft. ac. sg. 3,NA,,
+11,indraH,indra,nom. sg. m.,NA,karwa,16
+12,uccEHSravasaH,uccEHSravA,g. sg. m.,NA,rartisambanxah,14
+13,citraM,citra,acc. sg. n.,NA,viseranam,14
+14,padakramaM,padakrama,acc. sg. m.,NA,karma,16
+15,na,na,ind.,NA,sambanxah,16
+16,praSaSaMsa,pra_SaMs1,pft. ac. sg. 3,NA,,
+17,indraH,indra,nom. sg. m.,NA,karwa,21
+18,kevalaM,kevala,ind.,NA,kriyaviseranam,21
+19,tayoH,tad,g. du. m.,NA,rartisambanxah,20
+20,SIGratAM,SIGratA,acc. sg. f.,NA,karma,21
+21,praSaSaMsa,pra_SaMs1,pft. ac. sg. 3,NA,,
+

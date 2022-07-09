@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vikrayikasya,tad,g. sg. m.,4,rartisambanxah,1
+1,uttareRa,uttara,i. sg. m.,2,karanam,5
+2,keSavaSAstrI,SAstf,nom. sg. m.,7,karwa,5
+3,kIdfSam,kIdfSa,acc. sg. n.,8,viseranam,4
+4,Anandam,Ananda,acc. sg. m.,12,karma,5
+5,anuBUtavAn,BU,ppa.,15,,

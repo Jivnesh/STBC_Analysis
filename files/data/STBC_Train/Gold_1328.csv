@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,12
+1,api,api,conj.,1,sambanxah,0
+2,skanDena,tad,i. sg. m.,3,karanam,4
+3,skanDam,tad,acc. sg. m.,4,karma,4
+4,melayitvA,mela,abs.,6,purvakalah,8
+5,sarvatra,sarvatra,loc. sg. n.,7,axikaranam,8
+6,BavadIyam,BavadIya,acc. sg. m.,8,viseranam,7
+7,sahayogam,yoga,acc. sg. m.,14,karma,8
+8,kftvA,kf,abs.,11,purvakalah,12
+9,eva,eva,prep.,15,sambanxah,8
+10,AtmAnam,Atman,acc. sg. *,16,karma,12
+11,Danyam,Danya,acc. sg. m.,18,karmasamanaxikaranam,12
+12,maMsye,man,fut. md. sg. 1,21,,

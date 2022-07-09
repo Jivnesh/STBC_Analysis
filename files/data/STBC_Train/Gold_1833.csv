@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paranindAyAH,nindA,g. sg. f.,9,rartisambanxah,1
+1,karaRe,karaRa,loc. sg. m.,2,samucciwam,3
+2,SravaRe,SravaRa,loc. sg. n.,18,samucciwam,3
+3,ca,ca,conj.,21,axikaranam,7
+4,mama,asmad,g. sg. m.,22,rartisambanxah,5
+5,AnandaH,Ananda,nom. sg. m.,0,karwa,6
+6,AyAti,yA,pr. [2] ac. sg. 3,1,,
+7,sma,sma,part.,23,sambanxah,6

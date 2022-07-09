@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,alInAM,ali,g. pl. m.,0,rartisambanxah,1
+1,kulAni,kula,nom. pl. n.,2,karwa,8
+2,avacitakusumAH,kusuma,acc. pl. f.,3,viseranam,3
+3,vallIH,valli,acc. pl. f.,4,karma,4
+4,vihAya,hA,conj.,6,purvakalah,8
+5,komalamAlyamAlinIzu,mAlinI,loc. pl. f.,7,viseranam,6
+6,yuvatizu,yuvati,loc. pl. f.,8,axikaranam,8
+7,padam,pad,acc. sg. n.,11,karma,8
+8,upadaDire,DA,pft. md. pl. 3,12,,

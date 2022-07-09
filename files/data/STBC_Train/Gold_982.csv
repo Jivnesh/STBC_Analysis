@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,prabuDya,buD,abs.,1,purvakalah,3
+2,svapnaGawanAm,Gawana,acc. sg. f.,3,karma,3
+3,acintayat,parAmfS,impft. [10] ac. sg. 3,4,,

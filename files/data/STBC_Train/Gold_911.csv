@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,candraDaraH,DarA,nom. sg. m.,15,karwa,6
+1,cOrARAm,tad,g. pl. m.,2,rartisambanxah,2
+2,vacane,vacana,loc. sg. m.,3,axikaranam,6
+3,vAram,vAra,acc. sg. m.,9,sambanxah,4
+4,vAram,vAra,acc. sg. m.,10,sambanxah,6
+5,mananam,manana,acc. sg. m.,11,karma,6
+6,kftavAn,kf,ppa.,14,,

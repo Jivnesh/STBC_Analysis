@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hasta-kzepam,kzepa,acc. sg. m.,0,karma,4
+1,parasya,para,g. sg. m.,1,rartisambanxah,0
+2,asmin,dam,loc. sg. n.,4,axikaranam,4
+3,na,na,part.,14,sambanxah,4
+4,sahante,sah,pr. [1] md. pl. 3,5,,
+5,kadApi,Api,loc. sg. m.,16,axikaranam,4
+6,te,tad,nom. du. n.,8,karwa,4

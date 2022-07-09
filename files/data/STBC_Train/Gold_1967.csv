@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvastena,stena,nom. sg. m.,2,karwa,3
+1,durAcAraH,durAcAra,acc. sg. m.,3,karma,3
+2,nEva,eva,prep.,18,sambanxah,3
+3,kAryaH,kArya,ca. pfp. [1],7,,
+4,kadAcana,kadA,loc. sg. n.,9,axikaranam,3

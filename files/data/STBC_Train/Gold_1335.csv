@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Saradi,Sarad,loc. sg. f.,0,axikaranam,10
+1,yadavaH,yadu,nom. pl. m.,1,karwa,10
+2,kvacit,cit,conj.,2,axikaranam,10
+3,vigatavAriDaraAvaraRAH,AvaraRa,acc. pl. f.,4,viseranam,7
+4,ullasitAsilatAasitAH,asita,acc. pl. f.,7,viseranam,7
+5,kvacit,cit,conj.,8,axikaranam,10
+6,niradinIH,diS,acc. pl. f.,9,viseranam,7
+7,indragajAjinakaYcukAH,kaYcuka,acc. pl. f.,10,prawiyogi,8
+8,iva,iva,conj.,11,anuyogi,10
+9,diSaH,diS,acc. pl. f.,12,karma,10
+10,dadfSuH,dfS,pft. ac. pl. 3,16,,

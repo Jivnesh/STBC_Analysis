@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ime,idam,nom. pl. m.,2,viseranam,2
+1,ASramasTAH,sTa,nom. pl. m.,6,viseranam,2
+2,vfkzAH,vfkza,nom. pl. m.,9,karwa,6
+3,mama,asmad,g. sg. *,10,rartisambanxah,5
+4,sarvAH,sarva,acc. pl. f.,18,viseranam,5
+5,AvaSyakatAH,AvaSyaka,acc. pl. f.,13,karma,6
+6,pUrayanti,BU,ca. pr. ac. pl. 3,14,,

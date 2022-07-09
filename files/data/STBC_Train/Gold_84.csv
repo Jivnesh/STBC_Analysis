@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parantu,parantu,conj.,3,sambanxah,7
+1,ekaH,eka,nom. sg. m.,4,samucciwam,8
+2,aSizwaH,aSizwa,nom. sg. m.,7,viseranam,3
+3,janaH,jana,nom. sg. m.,10,karwa,7
+4,idaM,idam,acc. sg. n.,18,viseranam,5
+5,patraM,amla,acc. sg. n.,13,karma,6
+6,paWan,paW,nom. sg. m.,14,karwqsamanaxikaranam,7
+7,vartate,vft,pr. . sg. 3,15,samucciwam,8
+8,ca,ca,conj.,16,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,arjunaH,arjuna,nom. sg. m.,0,karwa,6
+1,tasya,tad,g. sg. n.,1,rartisambanxah,2
+2,muKAt,muKa,abl. sg. m.,3,apaxanam,4
+3,etat,etad,acc. sg. n.,10,karma,4
+4,AkarRya,karRa,conj.,5,purvakalah,6
+5,lajjitaH,tad,nom. sg. m.,7,karwqsamanaxikaranam,6
+6,aBavat,BU,impft . ac. sg. 3,8,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,sambanxah,3
+1,evam,evam,adv.,1,kriyaviseranam,2
+2,asti,as,pr. [2] ac. sg. 3,2,prawiyogi,0
+3,tarhi,tarhi,adv.,3,anuyogi,7
+4,aham,asmad,nom. sg. *,4,karwa,8
+5,prakftiniyamAgre,agra,loc. sg. n.,16,axikaranam,7
+6,kim,kim,acc. sg. n.,7,karma,7
+7,kartum,kf,inf.,9,prayojanam,8
+8,Saknomi,Sak,pr. [5] ac. sg. 1,10,,

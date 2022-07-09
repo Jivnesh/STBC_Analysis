@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,7
+1,saMramBiRaH,saMramBin,g. sg. m.,1,viseranam,2
+2,balasya,bala,g. sg. m.,3,rartisambanxah,3
+3,vARIH,vARI,acc. pl. f.,4,karma,7
+4,AleKyadevatAH,deva,acc. pl. f.,7,karwa,7
+5,saBABittipratiDvAnEH,pratiDvAna,inst. pl. n.,8,karanam,7
+6,BayAt,Baya,abl. sg. n.,9,hewuh,7
+7,anvavadan,vad,impft . ac. pl. 3,11,,
+8,iva,iva,conj.,12,sambanxah,7

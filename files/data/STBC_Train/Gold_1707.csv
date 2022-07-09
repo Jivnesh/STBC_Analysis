@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjYaH,rAjan,g. sg. m.,1,viseranam,1
+1,Bojasya,Boja,g. sg. m.,3,rartisambanxah,2
+2,rAjye,rAjya,loc. sg. m.,24,axikaranam,6
+3,durmuKaH,durmuKa,nom. sg. m.,7,prawiyogi,4
+4,nAmakaH,nAmaka,nom. sg. m.,8,anuyogi,5
+5,ekacOraH,idam,nom. sg. m.,10,karwa,6
+6,nivasati,vas,pr. [1] ac. sg. 3,11,,
+7,sma,sma,part.,12,sambanxah,6

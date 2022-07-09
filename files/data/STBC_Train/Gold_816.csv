@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,naBasi,naBas,loc. sg. n.,0,viseranam,1
+1,ambare,ambara,loc. sg. n.,4,axikaranam,5
+2,gajakadambakamecakam,mecaka,acc. sg. n.,6,viseranam,4
+3,uccakEH,ca,conj.,8,viseranam,4
+4,navaAmbudaM,tad,acc. sg. n.,13,karma,5
+5,vIkzya,Ikz,abs.,14,purvakalah,12
+6,aNganA,aNganA,nom. sg. f.,16,karwa,12
+7,ekarasaM,rasa,acc. sg. m.,18,viseranam,9
+8,kaM,kim,acc. sg. m.,19,viseranam,9
+9,vallaBaM,vallaBa,acc. sg. m.,20,karma,12
+10,rahaH,rahas,nom. sg. n.,24,viseranam,12
+11,na,na,conj.,25,sambanxah,12
+12,cakame,kam,pft. md. sg. 3,26,samucciwam,16
+13,na,na,conj.,28,sambanxah,14
+14,aBisasAra,aBisf,pft. ac. sg. 3,30,samucciwam,16
+15,ca,ca,conj.,31,sambanxah,14
+16,ca,ca,conj.,32,,

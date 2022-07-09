@@ -1,0 +1,46 @@
+0,sadA,sadA,conj.,0,axikaranam,2
+1,prasUnaklfptim,tad,nom. sg. f.,1,karma,2
+2,daDataH,DA,nom. sg. m.,2,viseranam,3
+3,ftavaH,ftu,nom. pl. m.,3,karwa,15
+4,varzAH,varza,nom. pl. m.,6,samucciwam,10
+5,tapena,tapa,inst. sg. m.,7,sambanxah,6 ####### nom_inst_sambanxah #######
+6,himAgamaH,himAgama,nom. sg. m.,9,samucciwam,10
+7,SaradA,Sarad,inst. sg. f.,10,sambanxah,6 ####### nom_inst_sambanxah #######
+8,SiSiraH,SiSira,nom. sg. m.,11,samucciwam,10
+9,vasantalakzmyA,lakzmI,inst. sg. f.,15,sambanxah,8 ####### nom_inst_sambanxah #######
+10,ca,ca,conj.,16,sambanxah,15
+11,sametya,i,abs.,84,purvakalah,15
+12,asya,idam,g. sg. m.,19,rartisambanxah,14
+13,pure,pura,loc. sg. n.,22,axikaranam,15
+14,vAstavyakuwumbitAM,tad,acc. sg. f.,57,karma,15
+15,yayuH,yA,pft. ac. pl. 3,25,,
+
+0,tEH,tad,i. pl. n.,0,sambanxah,1 ####### nom_inst_sambanxah #######
+1,yuktaH,yukta,nom. sg. m.,2,viseranam,2
+2,naraH,nara,nom. sg. m.,3,karma,3
+3,SrUyatAm,Sru,imp. ps. sg. 3,4,,
+
+0,kanakaviBUzaRAni,viBUzaRa,acc. pl. n.,0,karma,1
+1,udvoQum,vah,conj.,2,prayojanam,2
+2,aSaktaH,Sak,pp. . sg. ,4,viseranam,7
+3,saDrIcA,tad,inst. sg. m.,6,sambanxah,4 ####### nom_inst_sambanxah #######
+4,valayitapadmanAlasUtraH,sUtra,nom. sg. m.,7,viseranam,7
+5,ArUQaprativanitAkawAkzaBAraH,BAra,nom. sg. m.,8,viseranam,7
+6,taruRyAH,taruRI,g. sg. f.,10,rartisambanxah,7
+7,BujaH,Buja,nom. sg. m.,11,karwa,10
+8,sADIyaH,sADIyas,conj.,13,viseranam,10
+9,guruH,guru,nom. sg. m.,14,karwqsamanaxikaranam,10
+10,aBavat,BU,impft . ac. sg. 3,15,,
+
+0,kanakaviBUzaRAni,kanaka-viBUzaRa,acc. pl. n.,NA,karma,1
+1,udvoQum,ut_vah1,inf.,NA,prayojanam,2
+2,aSaktaH,a_Sak1,pp.,NA,viseranam,7
+3,saDrIcA,saDrayaN,i. sg. m.,NA,sambanxah,4 ####### nom_inst_sambanxah #######
+4,valayitapadmanAlasUtraH,valayitapadma-nAla-sUtra,nom. sg. m.,NA,viseranam,7
+5,ArUQaprativanitAkawAkzaBAraH,ArUQaprativanitAkawAkza-BAra,nom. sg. m.,NA,viseranam,7
+6,taruRyAH,taruRI,g. sg. f.,NA,rartisambanxah,7
+7,BujaH,Buja,nom. sg. m.,NA,karwa,10
+8,sADIyaH,sADIyas,ind.,NA,kriyaviseranam,10
+9,guruH,guru,nom. sg. m.,NA,karwqsamanaxikaranam,10
+10,aBavat,BU1,impft. ac. sg. 3,NA,,
+

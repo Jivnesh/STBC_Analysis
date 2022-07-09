@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,conj.,0,axikaranam,5
+1,kecana,cana,nom. pl. m.,6,viseranam,3
+2,taruRAH,taruRa,nom. pl. m.,7,viseranam,3
+3,vfkzAH,vfkza,nom. pl. m.,8,karwa,5
+4,parasparaM,paraspara,acc. sg. m.,9,kriyaviseranam,5
+5,kaTitavantaH,kf,pp. . pl. ,12,,

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gAmBIryaM,gAmBIrya,acc. sg. n.,1,karma,1
+1,daDat,DA,nom. sg. n.,6,bavalakranasapwami_samanakalah,7
+2,api,api,conj.,7,sambanxah,1
+3,rantum,ram,conj.,9,prayojanam,13
+4,aNganABiH,aNganA,inst. pl. f.,10,karwa,7
+5,jaGanaviGawwanena,viGawwana,inst. sg. n.,11,hewuh,6
+6,saNkzoBaM,tad,acc. sg. m.,12,karma,7
+7,nItaH,nI,pp. . sg. ,13,viseranam,10
+8,vikasitavArijAnanaH,Anana,nom. sg. m.,91,viseranam,10
+9,asO,adas,nom. sg. m.,41,viseranam,10
+10,amBoDiH,amBoDi,nom. sg. m.,21,karwa,13
+11,sapadi,sapadi,conj.,22,viseranam,13
+12,maryAdAM,maryAdA,acc. sg. f.,23,karma,13
+13,vilaNGayAmbaBUva,laNG,impft . ps. sg. 3,27,,

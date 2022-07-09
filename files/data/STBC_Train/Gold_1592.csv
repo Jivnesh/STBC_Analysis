@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,payodanaBasvati,rAjan,loc. sg. m.,0,karwa,11
+1,vAti,vA,nom. sg. n.,1,purvakalah,7
+2,vigatarAgaguRaH,guRa,nom. sg. m.,2,viseranam,5
+3,api,api,conj.,3,sambanxah,2
+4,kaH,kim,nom. sg. m.,5,viseranam,5
+5,janaH,jana,nom. sg. m.,8,karwa,7
+6,na,na,conj.,9,sambanxah,7
+7,calati,cal,pr. ac. sg. 3,10,samucciwam,16
+8,evam,evam,conj.,11,sambanxah,7
+9,aliBiH,ali,inst. pl. m.,13,karwa,12
+10,uccakEH,ca,conj.,14,viseranam,12
+11,ananfte,anfta,loc. sg. n.,21,viseranam,12
+12,aBihite,DA,pp. . sg. ,27,purvakalah,14
+13,navapallavEH,pallava,inst. pl. m.,29,karwa,14
+14,nanfte,nft,pft. md. sg. 3,32,samucciwam,16
+15,iva,iva,conj.,33,sambanxah,14
+16,ca,ca,conj.,34,,

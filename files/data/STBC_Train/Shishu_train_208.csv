@@ -1,0 +1,26 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,nAkinAM,nAkin,g. pl. m.,NA,rartisambanxah,1
+1,gaREH,gaRa,i. pl. m.,NA,karwa,8
+2,yam,yad,acc. sg. m.,NA,karma,3
+3,ASaNkya,AN_SaNk1,abs.,NA,purvakalah,8
+4,tatAdi,tat-Adi,ind.,NA,sambanxah,8
+5,svarUpaSoBaekaPalAni,svarUpa-SoBa-ekaPala,nom. pl. n.,NA,viseranam,7
+6,purARi,pura,nom. pl. n.,NA,viseranam,7
+7,durgARi,durga,nom. pl. n.,NA,karma,8
+8,cakrire,kf3,pft. md. pl. 3,NA,,
+9,nAkinAM,nAkin,g. pl. m.,NA,rartisambanxah,10
+10,gaRena,gaRa,nom. pl. m.,NA,karwa,13
+11,AyuDaM,AyuDa,nom. sg. n.,NA,karma,13
+12,niSAtaM,ni_So1,pp.,NA,viseranam,11
+13,cakre,kf3,pft. md. sg. 3,NA,,
+14,nAkinAM,nAkin,g. pl. m.,NA,rartisambanxah,15
+15,gaREH,gaRa,i. pl. m.,NA,karwa,18
+16,balAni,bala,nom. pl. n.,NA,karwa,18
+17,SUrARi,SUra,nom. pl. n.,NA,viseranam,16
+18,cakrire,kf3,pft. md. pl. 3,NA,,
+19,nAkinAM,nAkin,g. pl. m.,NA,rartisambanxah,20
+20,gaREH,gaRa,i. pl. m.,NA,karwa,23
+21,kaYcukAH,kaYcuka,nom. pl. m.,NA,karma,23
+22,GanAH,Gana,nom. pl. m.,NA,viseranam,21
+23,cakrire,kf3,pft. md. pl. 3,NA,,
+24,ca,ca,ind.,NA,sambanxah,23

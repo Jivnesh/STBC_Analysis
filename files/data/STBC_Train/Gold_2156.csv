@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praRayini,praRayin,loc. sg. m.,0,karwa,4
+1,premRA,preman,inst. sg. m.,3,karanam,4
+2,priyAyAH,priyA,g. sg. f.,5,rartisambanxah,4
+3,uraH,uras,acc. sg. n.,6,karma,4
+4,siYcati,sic,nom. sg. n.,8,purvakalah,14
+5,sati,as,nom. sg. n.,10,sambanxah,4
+6,kaWinakucasTalaaBiGAtAt,aBiGAta,abl. sg. m.,11,hewuh,7
+7,udDUtAH,DU,pp. . pl. ,15,viseranam,8
+8,navajalavipruzaH,vipruz,nom. pl. f.,16,karwa,14
+9,santApaM,tad,acc. sg. m.,17,karma,10
+10,gfhItvA,ca,conj.,24,purvakalah,14
+11,AsannAm,sanna,acc. sg. f.,18,viseranam,12
+12,aparaaNganAM,aNganA,acc. sg. f.,19,karma,14
+13,BfSam,BfSam,conj.,22,viseranam,14
+14,aDAkzuH,dah,impft. ac. pl. 3,23,,

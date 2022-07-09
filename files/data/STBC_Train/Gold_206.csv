@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anekapAnAM,pA,g. pl. m.,0,rartisambanxah,1
+1,vigAQamadatAparujaH,ruja,g. sg. f.,4,rartisambanxah,2
+2,SamAya,Sama,dat. sg. m.,5,prayojanam,8
+3,SanEH,ca,conj.,6,viseranam,8
+4,hastEH,hasta,inst. pl. m.,7,karwa,8
+5,anukapolaM,kapola,conj.,10,viseranam,7
+6,kIrRam,tad,nom. sg. n.,13,viseranam,7
+7,AkarRam,AkarRa,nom. sg. n.,16,karma,8
+8,ullasitaM,tad,nom. sg. n.,19,viseranam,10
+9,vikAsikASanIkASam,kASa,nom. sg. n.,25,viseranam,10
+10,ambu,ambu,nom. sg. n.,27,karwa,13
+11,sitacAmarasya,cAmara,g. sg. m.,28,rartisambanxah,12
+12,samatAm,samatA,acc. sg. f.,30,karma,13
+13,Apa,Ap,pft. ac. sg. 3,32,,

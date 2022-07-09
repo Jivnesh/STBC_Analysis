@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,4
+1,tu,tu,conj.,1,sambanxah,0
+2,atra,atra,loc. sg. m.,3,axikaranam,4
+3,eva,eva,prep.,2,sambanxah,2
+4,tizWati,sTA,pr. [1] ac. sg. 3,4,,

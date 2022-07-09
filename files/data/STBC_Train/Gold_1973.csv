@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,2
+1,pAdatrARe,trARa,acc. du. n.,2,karma,2
+2,dehi,dA,imp. [3] ac. sg. 2,31,sambanxah,3
+3,vA,vA,conj.,7,prawiyogi,6
+4,mA,mA,part.,32,sambanxah,5
+5,dehi,dA,imp. [3] ac. sg. 2,33,sambanxah,3
+6,kintu,ca,adv.,11,anuyogi,14
+7,asmE,idam,dat. sg. m.,13,viseranam,8
+8,bAlakAya,bAlaka,dat. sg. m.,14,sampraxanam,14
+9,tu,tu,conj.,16,sambanxah,8
+10,dvO,tad,acc. du. m.,18,viseranam,11
+11,pAdO,pAda,acc. du. m.,19,karma,14
+12,avaSyam,vaSya,pfp. [1],24,kriyaviseranam,14
+13,eva,eva,prep.,25,sambanxah,12
+14,dehi,dA,imp. [3] ac. sg. 2,41,,

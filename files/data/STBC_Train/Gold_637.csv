@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anavaratarasena,rasa,inst. sg. m.,0,viseranam,6
+1,rAgaBAjA,BAj,inst. sg. m.,1,viseranam,6
+2,karajaparikzatilabDasaMstavena,saMstava,inst. sg. m.,2,viseranam,6
+3,vaDvA,vaDU,inst. sg. f.,7,karwa,5
+4,vigatadayaM,dayA,nom. sg. n.,3,viseranam,5
+5,KaRqitena,vac,pp. . sg. ,11,viseranam,6
+6,taruRapallavena,pallava,inst. sg. m.,13,karwa,8
+7,sapadi,sapadi,conj.,14,viseranam,8
+8,mamle,vid,pft. md. sg. 1,15,,
+9,Kalu,Kalu,conj.,16,sambanxah,8

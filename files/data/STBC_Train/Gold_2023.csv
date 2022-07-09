@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evameva,evam,adv.,0,kriyaviseranam,6
+1,janatAyAH,jana,g. sg. f.,3,rartisambanxah,3
+2,vyaktiH,vyakti,nom. sg. f.,4,karwa,6
+3,AtmIyAn,AtmIya,acc. pl. m.,5,viseranam,5
+4,aBAvABiyogAn,yoga,acc. pl. m.,7,sambanxah,6
+5,janapratiniDim,pratiniDi,acc. sg. m.,9,sambanxah,6
+6,SrAvayati,Sru,ca. pr. ac. sg. 3,10,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kuWAre,kuWAra,loc. sg. m.,0,axikaranam,2
+1,kAzWadaRqam,daRqa,acc. sg. m.,2,karma,2
+2,Ayojya,yuj,ca. abs.,5,purvakalah,5
+3,saH,tad,nom. sg. m.,6,karwa,5
+4,vanam,vana,acc. sg. n.,7,karma,5
+5,gataH,gam,pp.,9,,

@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,dam,nom. sg. m.,0,karwa,3
+1,svapnaH,svapna,nom. sg. m.,1,sambanxah,2
+2,vA,vA,conj.,2,karwqsamanaxikaranam,9
+3,Bavatu,BU,imp. [1] ac. sg. 3,3,samucciwam,18
+4,vismftasya,tad,g. sg. n.,5,viseranam,5
+5,satyasya,satya,g. sg. n.,7,rartisambanxah,7
+6,aMSataH,aMSa,adv.,8,kriyaviseranam,7
+7,smaraRam,smaraRa,nom. sg. n.,10,sambanxah,2
+8,vA,vA,conj.,11,sambanxah,18
+9,Bavatu,BU,imp. [1] ac. sg. 3,12,samucciwam,18
+10,mama,asmad,g. sg. *,13,upapaxasambanxah,11
+11,antikam,tad,loc. sg. m.,15,axikaranam,12
+12,AgacCa,gam,imp. [1] ac. sg. 2,16,samucciwam,18
+13,mama,asmad,g. sg. *,17,rartisambanxah,15
+14,BAle,BAla,loc. sg. n.,20,axikaranam,17
+15,tava,yuzmad,g. sg. *,21,rartisambanxah,16
+16,dakziRahastam,hasta,acc. sg. m.,23,karma,17
+17,niDehi,DA,imp. [3] ac. sg. 2,24,samucciwam,18
+18,ca,ca,conj.,25,,

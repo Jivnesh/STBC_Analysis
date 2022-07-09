@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kiyat,ca,adv.,0,viseranam,1
+1,ciram,cira,adv.,3,kriyaviseranam,3
+2,tvAm,yuzmad,acc. sg. *,4,karwa,3
+3,rodayizyAmi,rud,ca. fut. ac. sg. 1,5,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavAn,BU,nom. sg. m.,1,karwa,7
+1,svam,sva,acc. sg. m.,2,viseranam,2
+2,SarIram,SarIra,acc. sg. m.,5,karma,7
+3,hfzwam,sva,acc. sg. m.,10,samucciwam,6
+4,puzwam,puzwa,acc. sg. m.,13,samucciwam,6
+5,kAntimayam,maya,acc. sg. m.,21,samucciwam,6
+6,ca,ca,conj.,16,karmasamanaxikaranam,7
+7,nirmAtu,mA,imp. [2] ac. sg. 3,17,,

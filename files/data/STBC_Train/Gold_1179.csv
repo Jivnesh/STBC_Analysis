@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadanusAreRa,anusAra,i. sg. m.,1,karanam,6
+1,sampAdakaH,sampAdaka,nom. sg. m.,2,karwa,6
+2,anyasmin,anya,loc. sg. n.,4,viseranam,3
+3,dine,dina,loc. sg. n.,7,axikaranam,6
+4,KaRqanam,KaRqana,acc. sg. n.,8,karma,6
+5,evam,evam,adv.,11,kriyaviseranam,6
+6,prakASitavAn,kAS,ca. ppa.,12,,

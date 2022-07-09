@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,svakIyam,svakIya,acc. sg. n.,2,viseranam,2
+2,patram,pattra,acc. sg. n.,4,karma,5
+3,agre,agra,loc. sg. n.,8,axikaranam,5
+4,evam,evam,adv.,9,kriyaviseranam,5
+5,upasaMhftavAn,upasaMhf,pp.,10,,

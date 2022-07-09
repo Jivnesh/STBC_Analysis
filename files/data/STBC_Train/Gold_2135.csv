@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,4
+1,tam,tad,acc. sg. m.,1,karma,4
+2,svakakze,kakza,loc. sg. m.,16,axikaranam,4
+3,yadA,yadu,loc. sg. m.,4,axikaranam,7
+4,upAveSayam,veSa,ca. impft. ac. sg. 1,5,prawiyogi,3
+5,mama,asmad,g. sg. *,6,rartisambanxah,6
+6,putraH,putra,nom. sg. m.,7,karwa,9
+7,tadA,tadA,loc. sg. m.,8,axikaranam,9
+8,vidyAlayataH,devI,loc. sg. f.,10,apaxanam,9
+9,AgataH,gam,nom. sg. m.,11,karwqsamanaxikaranam,11
+10,eva,eva,prep.,12,sambanxah,9
+11,AsIt,as,aor. [5] ac. sg. 3,14,,

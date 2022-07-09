@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,1,axikaranam,5
+1,ca,ca,conj.,4,sambanxah,0
+2,ekasmAt,eka,abl. sg. n.,3,viseranam,3
+3,sajjanAt,jana,abl. sg. n.,8,apaxanam,5
+4,leKanIm,tad,acc. sg. f.,9,karma,5
+5,gfhItvA,grah,abs.,10,purvakalah,9
+6,cEkapatram,pattra,acc. sg. n.,12,karma,9
+7,lokasevAmaRqalanAmnA,nAman,i. sg. n.,17,karanam,9
+8,deyam,deya,acc. sg. m.,26,karmasamanaxikaranam,9
+9,liKitavAn,kf,ppa.,27,,

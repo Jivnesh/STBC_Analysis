@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,ind.,1,sambanxah,7
+1,kzutpipAsayoH,BrU,g. du. f.,4,rartisambanxah,2
+2,SAntikArakam,kAraka,nom. sg. n.,8,viseranam,3
+3,sADanam,sADana,nom. sg. n.,11,karwa,7
+4,jAtiviSezasya,viSeza,g. sg. m.,13,rartisambanxah,5
+5,sparSena,sparSa,i. sg. m.,14,karanam,7
+6,dUzitam,tad,acc. sg. n.,17,karma,7
+7,Bavati,BU,pr. [1] ac. sg. 3,32,,

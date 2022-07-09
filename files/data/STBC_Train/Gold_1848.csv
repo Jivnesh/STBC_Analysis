@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,6
+1,nirASO,nirASa,acc. du. m.,1,karwa,6
+2,BUtvA,BU,abs.,3,purvakalah,6
+3,viMSatipaYcaviMSativarzARi,varza,loc. pl. n.,8,axikaranam,6
+4,evam,evam,adv.,9,kriyaviseranam,6
+5,eva,eva,prep.,10,sambanxah,4
+6,yApitavantO,yA,ca. ppa.,12,,

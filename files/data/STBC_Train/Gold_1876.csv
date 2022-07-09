@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvam,yuzmad,nom. sg. *,0,karwa,3
+1,yat,yad,conj.,1,sambanxah,3
+2,uktavAn,tad,nom. sg. m.,2,karwqsamanaxikaranam,3
+3,AsIH,as,aor. [5] ac. sg. 2,4,samucciwam,10
+4,tat,tad,ind.,6,sambanxah,9
+5,aham,asmad,nom. sg. *,7,karwa,9
+6,api,api,conj.,8,sambanxah,5
+7,satyam,satya,acc. sg. m.,10,karma,8
+8,anuBUtavAn,tad,nom. sg. m.,13,karwqsamanaxikaranam,9
+9,asmi,as,pr. [2] ac. sg. 1,14,samucciwam,10
+10,ca,ca,conj.,15,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patim,pat,acc. sg. m.,0,karma,3
+1,jAgarayantI,jAgf,nom. sg. f.,3,viseranam,2
+2,patnI,patnI,nom. sg. f.,4,karwa,3
+3,kaTitavatI,kaT,ppa.,7,,

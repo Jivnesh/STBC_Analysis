@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kavayaH,kavi,nom. pl. m.,0,karwa,3
+1,SlokEH,Sloka,i. pl. m.,1,karanam,3
+2,nfpam,nfpa,acc. sg. m.,2,karma,3
+3,varRayanti,varRa,pr. [vn.] ac. pl. 3,3,,

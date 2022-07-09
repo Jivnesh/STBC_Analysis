@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,acc. sg. n.,6,viseranam,1
+1,kzetram,kzetra,acc. sg. n.,1,karma,3
+2,aham,asmad,nom. sg. *,3,karwa,4
+3,krItavAn,krI,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,asmi,as,pr. [2] ac. sg. 1,5,,

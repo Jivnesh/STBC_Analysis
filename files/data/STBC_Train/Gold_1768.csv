@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SyAmaH,SyAma,nom. sg. m.,0,karwa,4
+1,etat,etad,acc. sg. n.,8,karma,2
+2,pratikartum,karta,dat. sg. m,2,prayojanam,4
+3,bahu,bahu,adv.,4,kriyaviseranam,4
+4,acezwata,cezw,impft. [1] md. sg. 3,5,,

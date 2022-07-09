@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kukkuramuKe,muKa,loc. sg. n.,27,axikaranam,3
+1,taTA,taTA,prep.,4,viseranam,2
+2,kalAlAGavam,lAGava,acc. sg. n.,6,karma,3
+3,vIkzya,Ikz,abs.,8,purvakalah,11
+4,pARqavAH,pARqava,nom. pl. m.,9,karwa,11
+5,vismitAH,smita,acc. pl. f.,10,prawiyogi,6
+6,iva,iva,part.,13,anuyogi,11
+7,tam,tad,acc. sg. m.,14,viseranam,8
+8,kalAkAram,tad,acc. sg. m.,15,karma,9
+9,anvizyantaH,tad,nom. pl. m.,16,karwqsamanaxikaranam,11
+10,ekalavyam,ekalavya,acc. sg. n.,20,karma,11
+11,prAptAH,Apta,pp.,23,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,idam,loc. sg. m.,1,viseranam,1
+1,prasaNge,prasaNga,loc. sg. m.,2,axikaranam,5
+2,saH,tad,nom. sg. m.,3,karwa,5
+3,ekaM,eka,acc. sg. m.,4,viseranam,4
+4,mahAtmAnaM,mahAtman,acc. sg. m.,10,karma,5
+5,prAptaH,prApta,pp. . sg. ,11,,

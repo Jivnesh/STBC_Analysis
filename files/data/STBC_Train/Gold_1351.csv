@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,conj.,0,kriyaviseranam,1
+1,kaTayati,rAjan,loc. sg. m.,1,bavalakranasapwami_samanakalah,7
+2,eva,eva,conj.,2,sambanxah,1
+3,tasmin,tad,loc. sg. m.,4,axikaranam,7
+4,rAjA,rAjan,nom. sg. m.,9,karwa,7
+5,api,api,conj.,10,sambanxah,4
+6,tatra,tatra,conj.,13,axikaranam,7
+7,AgataH,Agata,pp. . sg. ,14,,

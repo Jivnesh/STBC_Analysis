@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atyunnatatvAt,unnata,abl. sg. n.,2,hewuh,1
+1,UrDvam,UrDvam,conj.,5,viseranam,2
+2,AkarzatA,kfz,inst. sg. m.,7,prawiyogi,3
+3,iva,iva,conj.,8,anuyogi,5
+4,atigurutvaBAjA,tad,inst. sg. n.,12,viseranam,5
+5,kucamaRqalena,maRqala,inst. sg. n.,15,karwa,12
+6,nitAntam,nitAnta,conj.,17,viseranam,7
+7,AkrAntaH,kram,nom. sg. m.,18,prawiyogi,8
+8,iva,iva,conj.,19,anuyogi,11
+9,atikraSIyAn,tad,nom. sg. m.,20,viseranam,11
+10,aNganAnAM,viS,g. pl. f.,22,rartisambanxah,11
+11,maDyaH,maDya,nom. sg. m.,23,karwa,12
+12,nanAma,nam,pft. ac. sg. 3,24,,

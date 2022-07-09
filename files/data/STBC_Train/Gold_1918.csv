@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sA,tad,nom. sg. f.,0,karwa,7
+1,tu,tu,conj.,1,sambanxah,0
+2,svaSayanakakze,kakza,loc. sg. m.,4,axikaranam,5
+3,sTUlasTUlAkzarezu,kzara,loc. pl. m.,9,axikaranam,5
+4,imam,idam,acc. sg. m.,11,karma,5
+5,leKayitvA,kf,ca. abs.,16,purvakalah,7
+6,upayuktasTAne,sTAna,loc. sg. n.,15,axikaranam,7
+7,surakzitavatI,vac,pp.,19,,

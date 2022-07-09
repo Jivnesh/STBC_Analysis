@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anutsUtrapadanyAsA,tad,nom. sg. f.,0,viseranam,3
+1,sadvfttiH,vftti,nom. sg. f.,3,viseranam,3
+2,sannibanDanA,nibanDana,nom. sg. f.,22,viseranam,3
+3,rAjanItiH,nIti,nom. sg. f.,10,karwa,8
+4,apaspaSA,tad,nom. sg. f.,12,viseranam,5
+5,SabdavidyA,tad,nom. sg. f.,15,prawiyogi,6
+6,iva,iva,conj.,16,anuyogi,3
+7,na,na,conj.,17,sambanxah,8
+8,BAti,BA,pr. ac. sg. 3,18,,

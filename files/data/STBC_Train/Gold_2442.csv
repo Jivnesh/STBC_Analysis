@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sanDyAMyAvat,yAvat,loc. sg. n.,1,axikaranam,6
+1,grAmasImAyAm,sImA,loc. sg. f.,3,axikaranam,2
+2,sTitasya,sTita,loc. sg. n.,5,viseranam,4
+3,vawavfkzasya,vfkza,g. sg. m.,7,rartisambanxah,5
+4,CAyAyAm,CAya,loc. sg. f.,9,axikaranam,6
+5,gatvA,gam,abs.,10,purvakalah,7
+6,sTitaH,sTita,nom. sg. m.,11,karwqsamanaxikaranam,7
+7,vyacArayat,car,ca. impft. ac. sg. 3,12,prawiyogi,9
+8,ca,ca,conj.,13,sambanxah,7
+9,yat,yad,acc. sg. n.,33,anuyogi,10
+10,mAm,asmad,acc. sg. *,15,karma,11
+11,Anetum,nI,inf.,16,samucciwam,13
+12,vinetum,nI,inf.,17,samucciwam,13
+13,ca,ca,conj.,18,prayojanam,16
+14,avaSyam,vaSya,adv.,22,kriyaviseranam,16
+15,kaScit,kim,nom. sg. m.,23,karwa,16
+16,AyAsyati,yA,fut. ac. sg. 3,25,,

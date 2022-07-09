@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,nom. sg. n.,14,viseranam,1
+1,SAstravacanam,vacana,acc. sg. m.,2,karma,2
+2,anusftya,sf,abs.,5,purvakalah,7
+3,BavAn,ad,nom. sg. m.,8,karwa,7
+4,mama,asmad,g. sg. *,6,rartisambanxah,5
+5,patnIm,patnI,acc. sg. f.,9,karma,7
+6,mAtfvat,mAtf,nom. sg. n.,11,kriyaviseranam,7
+7,maMsyate,man,fut. md. sg. 3,12,,

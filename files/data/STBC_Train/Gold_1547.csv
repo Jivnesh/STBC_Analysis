@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,priyaviyuktavaDUjanacetasAm,cetas,g. pl. m.,0,rartisambanxah,1
+1,anavanI,tad,nom. sg. f.,3,viseranam,2
+2,navanIpavanaAvaliH,Avali,nom. sg. f.,4,karwa,7
+3,DftapawopamavArimucAM,muc,g. pl. m.,5,viseranam,4
+4,diSAM,diS,g. pl. f.,9,rartisambanxah,5
+5,nijarajaHpawavAsam,vAsa,nom. sg. n.,12,prawiyogi,6
+6,iva,iva,conj.,13,anuyogi,2
+7,akirat,brU,impft . ac. sg. 3,14,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,5
+1,ca,ca,conj.,1,,
+2,agnijam,agni,nom. sg. n.,3,viseranam,4
+3,kiYcit,ca,adv.,4,kriyaviseranam,5
+4,Bayam,Baya,nom. sg. n.,6,karwa,5
+5,Bavizyati,BU,fut. ac. sg. 3,8,samucciwam,1

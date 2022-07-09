@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,kiYcit,ca,adv.,1,kriyaviseranam,4
+2,vAtajam,vAta,acc. sg. m.,3,viseranam,3
+3,Bayam,Baya,nom. sg. n.,5,karwa,4
+4,Bavizyati,BU,fut. ac. sg. 3,7,,

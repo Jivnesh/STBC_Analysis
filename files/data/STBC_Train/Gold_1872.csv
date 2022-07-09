@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kapAwavistIrRamanoramauraHsTalasTitaSrIlalanasya,lalana,g. sg. m.,2,viseranam,1
+1,tasya,tad,g. sg. m.,5,rartisambanxah,4
+2,AnanditaaSezajanA,tad,nom. sg. f.,0,viseranam,4
+3,sarvANgasaNginI,saNginI,nom. sg. f.,8,viseranam,4
+4,lakzmIH,lakzmI,nom. sg. f.,9,karwa,7
+5,aparA,aparA,nom. sg. f.,11,karwqsamanaxikaranam,7
+6,eva,eva,conj.,12,sambanxah,5
+7,baBUva,BU,pft. ac. sg. 3,14,,

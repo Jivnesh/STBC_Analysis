@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,7
+1,dUradUrAt,dUra,abl. sg. n.,3,apaxanam,4
+2,sADU,sADu,acc. pl. m.,5,viseranam,3
+3,mahAtmanaH,Atman,acc. pl. m.,33,karma,4
+4,AhUya,AhU,abs.,7,purvakalah,7
+5,teByaH,tad,abl. pl. n.,8,apaxanam,7
+6,jYAnopadeSam,upadeSa,acc. sg. m.,26,karma,7
+7,SfRoti,Sru,pr. [5] ac. sg. 3,14,,
+8,sma,sma,part.,15,sambanxah,7

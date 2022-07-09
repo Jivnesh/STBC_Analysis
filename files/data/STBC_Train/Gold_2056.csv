@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bahuspfSA,spfS,inst. sg. m.,4,karwa,5
+1,api,api,conj.,5,sambanxah,0
+2,sTUlena,sTUla,inst. sg. m.,8,karanam,5
+3,aSmavat,eva,conj.,10,sambanxah,5
+4,bahiH,bahis,conj.,12,axikaranam,5
+5,sTIyate,sTA,pr. md. sg. 3,13,,

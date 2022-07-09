@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BaradvAjaputraH,putra,nom. sg. m.,3,viseranam,1
+1,yavakrItaH,tad,nom. sg. m.,5,karwa,4
+2,mahatIm,mahant,acc. sg. f.,6,viseranam,3
+3,GoratapasyAm,tapasya,acc. sg. f.,8,karma,4
+4,kftavAn,kfta,pp.,9,,

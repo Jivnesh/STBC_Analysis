@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAkAlam,mahAkAla,acc. sg. m.,4,karma,4
+1,ekadA,ekadA,conj.,5,axikaranam,4
+2,tasya,tad,g. sg. m.,7,rartisambanxah,3
+3,jananI,jananI,nom. sg. f.,8,karwa,4
+4,kaTitavatI,vac,pp. . sg. ,11,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putrasya,putra,g. sg. m.,0,rartisambanxah,1
+1,pAdaM,pAda,acc. sg. m.,1,karma,3
+2,kzatavikzataM,tad,acc. sg. m.,2,karmasamanaxikaranam,3
+3,dfzwvA,dfS,conj.,3,purvakalah,5
+4,mAtA,mAtf,nom. sg. f.,4,karwa,5
+5,pfzwavatI,pfzWa,pp. . sg. ,10,,

@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,muniindrEH,muni-indra,i. pl. m.,NA,karwa,8
+1,tataH,tataH,ind.,NA,apaxanam,7
+2,eva,eva,ind.,NA,sambanxah,1
+3,arTam,arTa,acc. sg. m.,NA,prawiyogi,4
+4,iva,iva,ind.,NA,anuyogi,6
+5,meGEH,meGa,i. pl. m.,NA,karanam,7
+6,toyam,toya,acc. sg. n.,NA,karma,7
+7,udDftya,ud_Df1,abs.,NA,purvakalah,8
+8,sampraRItAH,sam_pra_nI1,pp.,NA,,
+9,amburASiM,amburASi,acc. sg. m.,NA,karma,10
+10,patantIH,pat1,ppr. ac,NA,viseranam,14
+11,nadIH,nadI,acc. pl. f.,NA,karma,13
+12,vedaM,veda,acc. sg. m.,NA,karma,17
+13,patantIH,pat1,ppr. ac,NA,bavalakranasapwami_samanakalah,17
+14,smftIH,smfti,acc. pl. f.,NA,prawiyogi,15
+15,iva,iva,ind.,NA,anuyogi,11
+16,hariH,hari,nom. sg. m.,NA,karwa,17
+17,AlokayAmAsa,AN_lok2,pft. sg. 3,NA,,

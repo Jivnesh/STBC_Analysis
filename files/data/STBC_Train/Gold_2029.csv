@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjA,rAjan,nom. sg. m.,0,karwa,3
+1,mfgAn,mfga,acc. pl. m.,4,karma,3
+2,kim,kim,part.,6,sambanxah,3
+3,amocayat,muc,ca. impft. ac. sg. 3,7,,

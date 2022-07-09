@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavatAm,BU,g. pl. n.,0,rartisambanxah,1
+1,svaBAvaH,BAva,nom. sg. m.,2,karwa,3
+2,PalotpAdanam,utpAdana,nom. sg. n.,14,karwqsamanaxikaranam,3
+3,asti,as,pr. [2] ac. sg. 3,4,,

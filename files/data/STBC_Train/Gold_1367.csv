@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,8,axikaranam,6
+1,ahaM,asmad,nom. sg. *.,0,karwa,6
+2,tasyAH,tad,g. sg. f.,1,rartisambanxah,3
+3,patitvAt,patitva,abl. sg. n.,3,hewuh,6
+4,BavataH,BU,g. sg. m.,4,rartisambanxah,5
+5,pitA,pitf,nom. sg. m.,5,karwqsamanaxikaranam,6
+6,BavizyAmi,BU,fut. ac. sg. 1,6,,
+7,eva,eva,conj.,7,sambanxah,6

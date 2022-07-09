@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,suKam,suKa,acc. sg. m.,0,samucciwam,2
+1,SAntim,SAnti,acc. sg. m.,4,samucciwam,2
+2,ca,ca,conj.,6,karma,4
+3,sA,tad,nom. sg. f.,7,karwa,4
+4,icCati,z,pr. [6] ac. sg. 3,5,,

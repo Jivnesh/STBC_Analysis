@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AcCAditaAyatadigambaram,digambara,acc. sg. m.,2,viseranam,4
+1,uccakEH,ca,conj.,3,viseranam,2
+2,gAm,go,acc. sg. f.,5,karma,3
+3,Akramya,kram,abs.,6,purvakalah,4
+4,saMsTitam,sTA,nom. sg. n.,9,viseranam,9
+5,udagraviSAlaSrfNgam,tad,acc. sg. m.,10,viseranam,9
+6,mUrDni,mUrDan,loc. sg. m.,11,axikaranam,10
+7,sPurattuhinadIDitikowim,ko,acc. sg. m.,12,viseranam,9
+8,enaM,idam,acc. sg. m.,13,viseranam,9
+9,nageSam,ISA,acc. sg. m.,35,karma,10
+10,udvIkzya,Ikz,abs.,16,purvakalah,14
+11,Buvi,BU,loc. sg. f.,17,axikaranam,14
+12,kaH,kim,nom. sg. m.,18,karwa,14
+13,na,na,conj.,19,sambanxah,14
+14,vismayate,smi,pr. md. sg. 3,21,,

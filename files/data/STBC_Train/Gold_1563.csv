@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyA,anyA,nom. sg. f.,1,karwa,11
+1,ucCritagucCavAYCayA,tad,inst. sg. f.,2,hewuh,6
+2,salalitaM,lalita,conj.,9,viseranam,11
+3,sahacaraM,sahacara,acc. sg. m.,14,karma,11
+4,pARinA,pARi,inst. sg. m.,15,karanam,6
+5,aMse,aMsa,loc. sg. m.,16,axikaranam,6
+6,avalambya,lamb,conj.,17,purvakalah,11
+7,sakalakalaBakumBaviBramAByAm,viBrama,inst. du. m.,20,viseranam,8
+8,stanAByAM,stana,inst. du. m.,23,karanam,11
+9,rasAt,rasa,abl. sg. m.,24,hewuh,10
+10,urasi,uras,loc. sg. n.,25,axikaranam,11
+11,avatastare,stf,pft. ac. sg. 3,30,,

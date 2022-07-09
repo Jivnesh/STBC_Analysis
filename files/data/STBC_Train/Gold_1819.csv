@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tat,tad,conj.,2,sambanxah,6
+1,taM,tad,acc. sg. m.,3,viseranam,3
+2,cedInAm,cedi,g. pl. m.,4,rartisambanxah,3
+3,ISitAraM,IS,acc. sg. m.,5,karma,6
+4,BavAn,tad,acc. pl. m.,7,karwa,6
+5,mA,mA,conj.,0,sambanxah,6
+6,avaman,man,impft. md. sg. 3,11,,

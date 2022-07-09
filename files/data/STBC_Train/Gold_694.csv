@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AvartinaH,Avartin,nom. pl. m.,1,viseranam,3
+1,SuBaPalapradaSuktiyuktAH,yukta,nom. pl. m.,32,viseranam,3
+2,sampannadevamaRayaH,devamaRi,nom. pl. m.,9,viseranam,3
+3,BftaranDraBAgAH,BAga,nom. pl. m.,10,karwa,4
+4,atirocamAnAH,ruc,nom. pl. m.,15,bavalakranasapwami_samanakalah,12
+5,UrmiBiH,Urmi,inst. pl. m.,17,karanam,6
+6,A_patantaH,pat,nom. pl. m.,18,bavalakranasapwami_samanakalah,12
+7,aSvAH,aSva,nom. pl. m.,19,karwa,12
+8,payoDayaH,payoDi,nom. pl. m.,22,prawiyogi,9
+9,iva,iva,conj.,23,anuyogi,7
+10,tUrRaM,tUrRa,conj.,26,viseranam,12
+11,vasumatIM,vasumatI,acc. sg. f.,27,karma,12
+12,pyaDuH,DA,impft. ac. pl. 3,28,,

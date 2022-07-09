@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekamAtram,mAtra,nom. sg. m.,3,viseranam,1
+1,saH,tad,nom. sg. m.,4,viseranam,6
+2,eva,eva,prep.,5,sambanxah,1
+3,rAjYaH,rAjya,g. sg. n.,8,rartisambanxah,6
+4,priyatamaH,priyatama,nom. sg. m.,9,viseranam,5
+5,uttarADikArI,aDikArin,nom. sg. m.,48,karwqsamanaxikaranam,6
+6,AsIt,as,aor. [5] ac. sg. 3,18,,

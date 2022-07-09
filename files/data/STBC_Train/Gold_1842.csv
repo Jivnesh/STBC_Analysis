@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,etAni,etad,acc. pl. n.,0,karma,4
+1,api,api,conj.,2,sambanxah,0
+2,BavadBiH,BU,i. pl. n.,4,karwa,4
+3,lokasevAmaRqalAya,maRqala,dat. sg. m.,7,sampraxanam,4
+4,dattAni,datta,pp.,10,,

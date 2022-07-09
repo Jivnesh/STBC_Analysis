@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putri,putrI,voc. sg. f.,1,samboxyah,8
+1,tava,yuzmad,g. sg. *.,2,rartisambanxah,2
+2,praSnasya,praSna,g. sg. m.,3,rartisambanxah,3
+3,uttaraM,uttara,acc. sg. m.,10,karma,4
+4,dadAmi,dA,pr. ac. sg. 1,5,prawiyogi,5
+5,yat,yat,conj.,6,anuyogi,6
+6,ahaM,asmad,nom. sg. *.,7,karwa,8
+7,puruzaH,puruza,nom. sg. m.,8,karwqsamanaxikaranam,8
+8,asmi,as,pr. ac. sg. 1,9,,

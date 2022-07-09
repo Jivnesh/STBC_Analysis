@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,7
+1,saH,tad,nom. sg. m.,1,karwa,7
+2,anugiram,gir,conj.,4,axikaranam,7
+3,ftuBiH,ftu,inst. pl. m.,5,karwa,4
+4,vitAyamAnAM,tan,acc. sg. f.,6,viseranam,5
+5,vanaantalakzmIM,lakzmI,acc. sg. f.,7,karma,7
+6,vilokayituM,loka,conj.,8,prayojanam,7
+7,niragamat,gam,impft. ac. sg. 3,9,,

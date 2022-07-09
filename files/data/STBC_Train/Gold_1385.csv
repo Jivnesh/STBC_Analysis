@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kadAcit,cit,loc. sg. m.,11,axikaranam,5
+1,BaratIyam,tad,nom. sg. n.,3,karwa,5
+2,imO,idam,acc. du. m.,4,karma,5
+3,mAm,asmad,acc. sg. *,6,karmasamanaxikaranam,4
+4,matvA,man,abs.,8,purvakalah,5
+5,apamAnayataH,man,ca. pr. ac. du. 3,48,,

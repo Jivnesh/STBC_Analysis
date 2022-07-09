@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lokAn,loka,acc. pl. m.,0,karma,1
+1,lilaNGayizataH,laNG,ppr. . pl. ,1,viseranam,4
+2,alaNGyAn,alaNGya,acc. pl. m.,4,viseranam,4
+3,alaGIyasaH,laGIyas,acc. pl. m.,6,viseranam,4
+4,yAdavaamBoniDIn,amBoniDi,acc. pl. m.,11,karma,9
+5,BavataH,tad,g. sg. m.,12,rartisambanxah,6
+6,kzamA,kzamA,nom. sg. f.,32,karwa,9
+7,velA,velA,nom. sg. f.,19,prawiyogi,8
+8,iva,iva,conj.,20,anuyogi,6
+9,runDe,ruD,pr. md. sg. 3,22,,

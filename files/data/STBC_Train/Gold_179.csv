@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kecit,cit,conj.,5,sambanxah,3
+1,svaSaktyupacaye,upacaya,loc. sg. m.,6,axikaranam,3
+2,yAnam,yAna,nom. sg. n.,9,karma,3
+3,AhuH,brU,pr. ac. pl. 3,10,samucciwam,14
+4,apare,apara,nom. pl. m.,11,karwa,8
+5,parasya,para,g. sg. m.,16,rartisambanxah,6
+6,vyasane,vyasana,loc. sg. n.,20,axikaranam,8
+7,yAnam,yAna,nom. sg. n.,23,karma,8
+8,AhuH,brU,pr. ac. pl. 3,24,samucciwam,14
+9,tad,tad,nom. sg. n.,26,viseranam,12
+10,dvayam,dvaya,nom. sg. n.,29,karwa,13
+11,AsInaM,tad,acc. sg. n.,35,viseranam,12
+12,tvAm,yuzmad,acc. sg. n.,36,karwa,13
+13,utTApayati,sTA,pr. ac. sg. 3,37,samucciwam,14
+14,ca,ca,conj.,38,,

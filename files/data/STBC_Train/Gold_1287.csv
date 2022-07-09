@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yena,yad,inst. sg. m.,1,hewuh,6
+1,coritam,corita,pp. . sg. ,2,viseranam,4
+2,sarvam,sarva,acc. sg. m.,3,viseranam,4
+3,api,api,conj.,6,sambanxah,2
+4,dravyam,dravya,acc. sg. m.,21,karma,6
+5,SrezWine,SrezWin,dat. sg. m.,13,sampraxanam,6
+6,militam,mil,pp. . sg. ,16,,

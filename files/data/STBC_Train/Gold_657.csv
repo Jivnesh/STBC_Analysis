@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmIyAm,AtmIya,acc. sg. f.,0,viseranam,1
+1,manovyaTAm,vyaTA,acc. sg. f.,28,karma,5
+2,ca,ca,conj.,2,sambanxah,1
+3,mama,asmad,g. sg. *,3,rartisambanxah,4
+4,agre,agra,loc. sg. n.,6,axikaranam,5
+5,kaTayitvA,kaT,abs.,7,purvakalah,8
+6,svamanaH,manas,acc. sg. n.,24,karma,8
+7,laGu,laGu,acc. sg. n.,26,karmasamanaxikaranam,8
+8,karoti,kf,pr. [8] ac. sg. 3,14,,

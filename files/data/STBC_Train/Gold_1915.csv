@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSezakAmaH,kAma,nom. sg. m.,0,karwa,3
+1,kaH,kim,nom. sg. m.,1,viseranam,0
+2,Ocityam,Ocitya,acc. sg. n.,2,karma,3
+3,gaRayati,gaRa,pr. ac. sg. 3,4,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfkzasya,vfkza,g. sg. m.,0,upapaxasambanxah,1
+1,aDaH,ca,conj.,1,axikaranam,4
+2,makaraH,makara,nom. sg. m.,2,karwa,7
+3,ciram,ciram,conj.,5,kriyaviseranam,4
+4,pratIkzAm,pratIkzA,acc. sg. f.,6,karma,5
+5,kftvA,kf,conj.,11,purvakalah,7
+6,uccEH,ucca,inst. pl. m.,9,kriyaviseranam,7
+7,avadat,vad,impft . ac. sg. 3,10,,

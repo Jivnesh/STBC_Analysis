@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,loc. sg. n.,1,axikaranam,6
+1,yuvatim,yuvan,acc. sg. f.,2,prawiyogi,2
+2,prati,prati,prep.,3,anuyogi,6
+3,hastO,hasta,acc. du. m.,4,karma,4
+4,nibaDya,kf,abs.,6,purvakalah,6
+5,savinayam,ca,adv.,9,kriyaviseranam,6
+6,aBAzata,BAz,impft. [1] md. sg. 3,10,,

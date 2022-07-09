@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,evam,conj.,0,sambanxah,5
+1,satkaviH,kavi,nom. sg. m.,3,karwa,5
+2,SabdArTO,SabdArTa,acc. du. m.,4,prawiyogi,3
+3,iva,iva,conj.,5,anuyogi,4
+4,dvayam,dvaya,acc. sg. n.,7,karma,5
+5,apekzate,Ikz,pr. md. sg. 3,9,,

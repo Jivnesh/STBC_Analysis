@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nOkAm,nOkA,loc. sg. m.,0,axikaranam,2
+1,taTA,taTA,adv.,1,anuyogi,2
+2,kuryAt,kf,opt. [8] ac. sg. 3,2,,
+3,yaTA,yaTA,conj.,3,sambanxah,1
+4,rAjakumAraH,kumAra,nom. sg. m.,5,karwa,6
+5,nipatya,pat,abs.,6,purvakalah,6
+6,nimajjatu,majj,imp. [6] ac. sg. 3,7,prawiyogi,3

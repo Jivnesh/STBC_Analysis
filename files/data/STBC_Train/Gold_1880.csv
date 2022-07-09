@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,3
+1,kuwIsvAmI,svAmin,nom. sg. m.,2,karwa,3
+2,tam,tad,acc. sg. m.,3,karma,3
+3,ASvAsayat,Svas,ca. impft. ac. sg. 3,4,,

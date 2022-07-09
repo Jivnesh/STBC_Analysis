@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yOvanaudDatAnAM,udData,g. pl. f.,2,viseranam,1
+1,kAminInAM,kAminI,g. pl. f.,3,rartisambanxah,2
+2,kucayugaM,yuga,nom. sg. n.,5,karwa,12
+3,vipulakam,tad,nom. sg. n.,6,viseranam,2
+4,api,api,conj.,7,sambanxah,3
+5,GanapulakodayakomalaM,komala,nom. sg. n.,11,viseranam,2
+6,priyEH,priya,inst. pl. m.,13,karwa,8
+7,prakAmaM,prakAma,conj.,14,viseranam,8
+8,parimalitam,vac,pp. . sg. ,15,viseranam,2
+9,api,api,conj.,16,sambanxah,8
+10,ujjvalam,ujjvala,nom. sg. n.,20,viseranam,2
+11,eva,eva,conj.,21,sambanxah,10
+12,cakASe,kAS,pft. md. sg. 3,22,,

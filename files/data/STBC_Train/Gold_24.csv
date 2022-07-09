@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praPullatApicCaniBEH,niBa,inst. pl. m.,1,samucciwam,3
+1,saptacCadapAMSupARquBiH,pARqu,inst. pl. m.,4,samucciwam,3
+2,SuBEH,SuBa,inst. pl. m.,6,samucciwam,3
+3,ca,ca,conj.,7,viseranam,4
+4,aBIzuBiH,aBIzu,inst. pl. m.,8,karanam,11
+5,paraspareRa,paraspara,inst. sg. m.,10,viseranam,11
+6,cCuritaamalacCavI,dvi,nom. du. f.,15,viseranam,7
+7,tO,tad,nom. du. m.,17,karwa,11
+8,tadA,tadA,conj.,24,axikaranam,11
+9,ekavarRO,varRa,nom. du. m.,20,prawiyogi,10
+10,iva,iva,conj.,22,anuyogi,11
+11,baBUvatuH,BU,pft. ac. du. 3,23,,

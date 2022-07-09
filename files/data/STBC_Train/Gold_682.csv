@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAtrindivA,div,loc. sg. m.,7,axikaranam,7
+1,asya,idam,g. sg. m.,9,rartisambanxah,2
+2,sevayA,sevA,i. sg. f.,10,karanam,7
+3,vayam,asmad,nom. pl. *,11,karwa,8
+4,sarve,sarva,nom. pl. f.,16,viseranam,7
+5,api,api,prep.,18,sambanxah,4
+6,atyantam,atyanta,adv.,21,kriyaviseranam,7
+7,santaptAH,tapta,nom. pl. f.,23,karwqsamanaxikaranam,8
+8,smaH,as,pr. [2] ac. pl. 1,25,,

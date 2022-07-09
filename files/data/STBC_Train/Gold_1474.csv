@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvasya,viSva,nom. sg. m.,1,karwa,1
+1,kartAram,kartf,acc. sg. m.,2,karma,2
+2,namAmi,nam,pr. [1] ac. sg. 1,3,,

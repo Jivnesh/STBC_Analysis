@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vyavasAyI,vyavasAyin,nom. sg. m.,0,karwa,5
+1,svam,sva,acc. sg. m.,1,viseranam,2
+2,DanarASim,tad,acc. sg. m.,5,karma,4
+3,kutra,kutra,loc. sg. m.,6,axikaranam,4
+4,viniyojayitum,yuj,ca. inf.,7,prayojanam,5
+5,icCati,z,pr. [6] ac. sg. 3,8,,
+6,sma,sma,part.,9,sambanxah,5

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,0,kriyaviseranam,1
+1,upadiSya,diS,abs.,1,purvakalah,4
+2,saH,tad,nom. sg. m.,2,karwa,4
+3,antarhitaH,hita,nom. sg. m.,8,karwqsamanaxikaranam,4
+4,ajAyata,jan,impft. [4] md. sg. 3,4,,

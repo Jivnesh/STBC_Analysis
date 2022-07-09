@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,axikaranam,10
+1,kzaRadAsu,kzaRadA,loc. pl. f.,1,axikaranam,4
+2,nAryaH,nArI,nom. pl. f.,2,karma,4
+3,sPurattuzArAMSumarIcijAlEH,jAla,inst. pl. n.,7,karwa,4
+4,vinihnutAH,hnu,acc. pl. f.,8,samucciwam,11
+5,sPAwikaseDapaNktIH,paNkti,acc. pl. f.,9,karma,10
+6,Aruhya,ruh,abs.,10,purvakalah,10
+7,naBogatAH,gam,nom. pl. f.,13,viseranam,8
+8,devyaH,devI,nom. pl. f.,14,prawiyogi,9
+9,iva,iva,conj.,15,anuyogi,2
+10,vyarAjan,rAj,impft . ps. pl. 3,16,samucciwam,11
+11,ca,ca,conj.,17,,

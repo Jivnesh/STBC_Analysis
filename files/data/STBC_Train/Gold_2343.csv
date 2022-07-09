@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,api,api,conj.,0,sambanxah,7
+1,tu,tu,conj.,2,sambanxah,0
+2,anyAni,anya,nom. pl. n.,4,viseranam,4
+3,eva,eva,prep.,5,sambanxah,2
+4,AGAtarogavizasevanAdIni,tad,nom. pl. n.,9,karwa,7
+5,eva,eva,prep.,10,sambanxah,4
+6,nimittAni,nimitta,nom. pl. n.,12,karwqsamanaxikaranam,7
+7,santi,as,pr. [2] ac. pl. 3,13,,
+8,iti,iti,part.,14,sambanxah,7

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,2
+1,jAtyA,jAtya,nom. sg. f.,1,karwa,2
+2,pUjyate,vac,pr. ps. sg. 3,3,samucciwam,6
+3,vyaktiH,vyakti,nom. sg. f.,4,karma,6
+4,na,na,part.,5,sambanxah,7
+5,DarmeRa,Darma,i. sg. m.,6,karwa,7
+6,ca,ca,conj.,8,,
+7,mAnyate,man,ca. pr. ps. sg. 3,9,samucciwam,6

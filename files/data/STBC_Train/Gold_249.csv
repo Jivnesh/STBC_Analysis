@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AryaBAvapuraskftaH,kf,nom. sg. m.,2,viseranam,1
+1,saH,tad,nom. sg. m.,3,karwa,7
+2,gatvA,gam,abs.,4,purvakalah,7
+3,mahAtmAnam,Atman,acc. sg. m.,28,viseranam,6
+4,satyaparAkramam,parAkrama,acc. sg. m.,10,viseranam,6
+5,BrAtaram,BrAtf,acc. sg. m.,11,viseranam,6
+6,rAmam,rAma,acc. sg. m.,12,karma,7
+7,ayAcat,yAc,impft. [1] ac. sg. 3,15,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hyaH,api,conj.,0,axikaranam,6
+1,tatraBavatAm,BU,g. pl. m.,2,rartisambanxah,4
+2,irAvatI,irAvatI,nom. sg. f.,5,karwa,6
+3,devI,devI,nom. sg. f.,6,viseranam,2
+4,suKaM,suKa,acc. sg. m.,7,karma,5
+5,prazwum,ca,conj.,10,prayojanam,6
+6,AgatA,gam,pp. . sg. ,11,,

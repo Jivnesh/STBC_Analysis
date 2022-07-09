@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,puruzakaunnamitaagrakAyaH,kAya,nom. sg. m.,0,viseranam,3
+1,udayaSElamUrDnaH,mUrDan,abl. sg. m.,3,apaxanam,5
+2,arDoditaH,udita,nom. sg. m.,40,viseranam,3
+3,hariH,hari,nom. sg. m.,7,prawiyogi,4
+4,iva,iva,conj.,9,anuyogi,7
+5,sTitaH,sTA,nom. sg. m.,10,samucciwam,13
+6,uccEH,ucca,conj.,12,viseranam,7
+7,SrIvfkzakI,tad,nom. sg. f.,13,karwa,12
+8,dantaalikADaraRaniScalapARiyugmaM,yugma,acc. sg. m.,14,viseranam,9
+9,vallaBapAlaM,pAla,acc. sg. m.,17,karma,12
+10,stokena,stoka,conj.,19,viseranam,12
+11,na,na,conj.,22,sambanxah,12
+12,aAkramata,kram,pft. md. sg. 3,23,samucciwam,13
+13,ca,ca,conj.,24,,

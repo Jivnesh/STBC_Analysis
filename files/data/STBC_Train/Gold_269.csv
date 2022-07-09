@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,1,sambanxah,4
+1,rAjakumArasya,putra,g. sg. m.,7,rartisambanxah,2
+2,cetanA,cetanA,nom. sg. f.,8,karwa,4
+3,nEva,eva,conj.,0,sambanxah,4
+4,AyAtA,yA,per.  fut. ac. sg. 3,4,,

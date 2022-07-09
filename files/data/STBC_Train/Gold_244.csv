@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaYcit,kim,acc. sg. m.,0,viseranam,1
+1,paSum,paSu,acc. sg. m.,2,karma,2
+2,anuDAvan,vEkartana,nom. sg. m.,3,viseranam,4
+3,ekaH,eka,nom. sg. m.,4,viseranam,4
+4,vfkaH,vfka,nom. sg. m.,5,karwa,7
+5,ekasmin,eka,loc. sg. m.,6,viseranam,6
+6,kUpe,kUpa,loc. sg. m.,8,axikaranam,7
+7,nipatitaH,pat,pp.,9,,

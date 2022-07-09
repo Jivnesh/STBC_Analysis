@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,7
+1,kasyacit,kim,nom. sg. n.,3,viseranam,2
+2,sADumahAtmanaH,Atman,nom. sg. *,5,karwa,7
+3,saNgatim,tad,acc. sg. f.,6,karma,7
+4,api,api,conj.,7,sambanxah,3
+5,kadApi,Ap,loc. sg. m.,9,axikaranam,7
+6,mA,mA,part.,10,sambanxah,7
+7,kuru,kf,imp. [8] ac. sg. 2,11,,

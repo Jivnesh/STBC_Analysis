@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ataH,atas,i. sg. n.,0,hewuh,6
+1,eva,eva,prep.,1,sambanxah,0
+2,upakArakAn,upakAraka,acc. pl. m.,2,karma,6
+3,asmAn,asmad,acc. pl. *,3,viseranam,2
+4,saH,tad,nom. sg. m.,4,karwa,6
+5,mahArAjena,rAjan,i. sg. m.,11,karanam,6
+6,samamAnayat,man,ca. impft. ac. sg. 3,9,,

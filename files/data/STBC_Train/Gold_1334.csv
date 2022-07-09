@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,na,conj.,0,samucciwam,7
+1,kfpaRaH,kfpaRa,nom. sg. m.,1,karwa,6
+2,api,api,conj.,2,sambanxah,1
+3,tataH,na,conj.,4,apaxanam,6
+4,nyUnaH,nyUna,nom. sg. m.,5,karwqsamanaxikaranam,6
+5,na,na,conj.,6,sambanxah,6
+6,asti,as,pr. ac. sg. 3,7,samucciwam,7
+7,ca,ca,conj.,8,,

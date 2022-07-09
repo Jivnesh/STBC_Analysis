@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,cikitsayA,vEdehI,i. sg. f.,2,karanam,2
+1,api,api,conj.,3,sambanxah,0
+2,lABaH,lABa,nom. sg. m.,5,karwa,4
+3,na,na,part.,6,sambanxah,4
+4,dfSyate,dfSya,pfp. [1],7,,

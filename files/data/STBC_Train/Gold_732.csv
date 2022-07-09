@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kAlajYasya,kAlajYa,g. sg. m.,3,viseranam,1
+1,mahIpateH,mahIpati,g. sg. m.,6,rartisambanxah,2
+2,tejaH,tejas,nom. sg. n.,8,karwa,7
+3,kzamA,kzamA,nom. sg. f.,25,karwqsamanaxikaranam,7
+4,vA,vA,conj.,15,sambanxah,3
+5,ekAntaM,ekAnta,conj.,17,viseranam,7
+6,na,na,conj.,18,sambanxah,7
+7,Bavati,BU,pr. ac. sg. 3,19,,

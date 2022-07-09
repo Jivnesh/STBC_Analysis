@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmin,tad,loc. sg. n.,0,viseranam,1
+1,vane,vana,loc. sg. n.,4,axikaranam,7
+2,rAkzaseByaH,rAkzasa,abl. pl. m.,5,samucciwam,5
+3,vanyeByaH,vanya,abl. pl. n.,11,samucciwam,5
+4,paSuByaH,paSu,abl. pl. m.,13,samucciwam,5
+5,ca,ca,conj.,15,apaxanam,6
+6,Bayam,Baya,nom. sg. n.,17,karwa,7
+7,asti,as,pr. ac. sg. 3,19,,

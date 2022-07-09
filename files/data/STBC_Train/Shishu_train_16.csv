@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tAH,tad,nom. pl. f.,NA,viseranam,1
+1,kAminyaH,kAminI,nom. pl. f.,NA,karwa,20
+2,kAminaH,kAmin,g. sg. m.,NA,rartisambanxah,3
+3,manaH,manas,nom. sg. n.,NA,prawiyogi,4
+4,iva,iva,ind.,NA,anuyogi,6
+5,tat,tad,nom. sg. n.,NA,viseranam,6
+6,jalam,jala,nom. sg. n.,NA,karwa,10
+7,pUrvaM,pUrva,ind.,NA,kriyaviseranam,10
+8,sacakitaM,sacakita,acc. sg. n.,NA,karmasamanaxikaranam,10
+9,gADam,gADa,acc. sg. n.,NA,karma,10
+10,Agamayya,AN_gam1_Ric,abs.,NA,purvakalah,20
+11,aTa,aTa,ind.,NA,sambanxah,20
+12,mfdu,mfdu,acc. sg. n.,NA,viseranam,13
+13,padaM,pad,acc. sg. m.,NA,karma,14
+14,kftvA,kf1,abs.,NA,purvakalah,20
+15,antaH,antaH,ind.,NA,axikaranam,16
+16,AviSantyaH,A_viS1,ppr. ac,NA,bavalakranasapwami_samanakalah,20
+17,satyaH,as2,ppr. ac,NA,viseranam,16
+18,sarAgEH,sarAga,i. pl. n.,NA,viseranam,19
+19,aNgEH,aNga,i. pl. n.,NA,karanam,20
+20,anuraYjayAmbaBUvuH,anu-raYj2_Ric,pft. md. pl. 3,NA,,

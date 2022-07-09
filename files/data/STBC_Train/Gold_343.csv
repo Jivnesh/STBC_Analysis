@@ -1,0 +1,26 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tezAM,tad,g. pl. m.,1,rartisambanxah,1
+1,bAhyaH,bAhya,nom. sg. m.,2,viseranam,3
+2,yaH,yad,nom. sg. m.,3,sambanxah,4
+3,rAgaH,rAga,nom. sg. m.,4,karma,6
+4,saH,tad,nom. sg. m.,5,viseranam,3
+5,jalEH,jala,inst. pl. n.,7,karwa,6
+6,nirAsi,As,impft. md. sg. 3,8,samucciwam,24
+7,Kalu,Kalu,conj.,9,sambanxah,6
+8,citte,citta,loc. sg. n.,46,axikaranam,14
+9,yaH,yad,nom. sg. m.,12,sambanxah,10
+10,saH,tad,nom. sg. m.,13,karwa,14
+11,tu,tu,conj.,14,sambanxah,10
+12,tadavasTaH,avasTA,nom. sg. m.,16,karwqsamanaxikaranam,14
+13,eva,eva,conj.,17,sambanxah,12
+14,AsIt,as,impft . ac. sg. 3,19,samucciwam,24
+15,hi,hi,conj.,20,sambanxah,23
+16,sarvaH,sarva,nom. sg. m.,21,karwa,23
+17,DIrARAm,DIra,g. pl. m.,25,rartisambanxah,18
+18,antaHpAtitvAt,tva,abl. sg. n.,30,hewuh,19
+19,eva,eva,conj.,31,sambanxah,23
+20,parasya,para,g. sg. m.,32,rartisambanxah,21
+21,aBiBavanIyatAM,yat,nom. sg. f.,34,karma,23
+22,na,na,conj.,35,sambanxah,23
+23,vrajati,vraj,pr. ac. sg. 3,36,samucciwam,24
+24,ca,ca,conj.,37,,

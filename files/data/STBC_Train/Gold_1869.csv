@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvatra,sarvatra,conj.,1,axikaranam,5
+1,Odarikasya,Odarika,g. sg. m.,2,rartisambanxah,4
+2,aByavahAryam,aByavahArya,nom. sg. n.,9,karwqsamanaxikaranam,5
+3,eva,eva,conj.,10,sambanxah,2
+4,vizayaH,vizaya,nom. sg. m.,11,karwa,5
+5,asti,as,pr. ac. sg. 3,12,,

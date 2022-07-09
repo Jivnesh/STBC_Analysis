@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pUrRaH,pUrRa,nom. sg. m.,0,karwa,7
+1,saH,tad,nom. sg. m.,1,viseranam,0
+2,tasya,tad,g. sg. m.,3,rartisambanxah,3
+3,viDuH,viDu,nom. sg. m.,4,karwqsamanaxikaranam,7
+4,viDuntudasya,viDu,g. sg. m.,7,prawiyogi,5
+5,iva,iva,conj.,8,anuyogi,0
+6,utsavAya,su,nom. sg. n.,9,prayojanam,7
+7,Bavati,BU,pr. ac. sg. 3,10,,

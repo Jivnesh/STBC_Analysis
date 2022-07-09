@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAgAnDIkftanayanena,nayana,inst. sg. m.,2,viseranam,1
+1,priyeRa,priya,inst. sg. m.,4,karwa,4
+2,nAmaDeyavyatyAsAt,vyatyAsa,abl. sg. m.,5,hewuh,3
+3,aBimuKam,ca,conj.,8,axikaranam,4
+4,IritaH,Ir,pp. . sg. ,9,viseranam,10
+5,vapuzi,vapus,loc. sg. n.,10,axikaranam,6
+6,patan,pat,nom. sg. n.,12,viseranam,10
+7,nisargamandaH,manda,nom. sg. m.,19,viseranam,10
+8,hfdayam,hfdaya,acc. sg. n.,13,karma,9
+9,BindAnaH,Bid,nom. sg. n.,15,viseranam,10
+10,udavajraH,vajra,nom. sg. m.,16,karma,13
+11,mAninyA,mAninI,inst. sg. f.,1,karwa,13
+12,na,na,conj.,17,sambanxah,13
+13,asAhi,sah,impft. md. sg. 3,18,,

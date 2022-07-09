@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmAnam,Atman,acc. sg. *,17,karma,1
+1,praRamya,nam,abs.,4,purvakalah,5
+2,saH,tad,nom. sg. m.,5,karwa,5
+3,tataH,tad,abl. sg. m.,24,apaxanam,5
+4,jalam,jala,acc. sg. m.,7,karma,5
+5,ayAcata,yAc,impft. [1] md. sg. 3,10,,

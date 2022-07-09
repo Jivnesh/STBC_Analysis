@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahilA,mahilA,nom. sg. f.,0,karwa,4
+1,tasmE,tad,dat. sg. m.,2,sampraxanam,4
+2,kim,kim,acc. sg. n.,3,viseranam,3
+3,uttaraM,uttara,acc. sg. n.,9,karma,4
+4,dattavatI,datta,pp. . sg. ,13,,

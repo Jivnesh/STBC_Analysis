@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gamBIravedini,vedin,loc. sg. m.,0,viseranam,1
+1,karIndre,karIndra,loc. sg. m.,1,karwa,7
+2,saMrabDahastipakanizWuracodanABiH,codanA,inst. pl. f.,2,karanam,7
+3,api,api,conj.,3,sambanxah,2
+4,mukulitAkzaM,akza,nom. sg. n.,73,viseranam,7
+5,puraH,puras,conj.,7,viseranam,6
+6,kavalam,kavala,acc. sg. m.,8,karma,7
+7,anAdadAne,dA,loc. sg. m.,21,purvakalah,17
+8,mandaH,manda,nom. sg. m.,22,karwa,12
+9,api,api,conj.,23,sambanxah,8
+10,mahAn,tad,nom. sg. m.,25,karwa,11
+11,avagfhya,kf,abs.,28,purvakalah,17
+12,sADyaH,sAD,nom. sg. m.,29,karma,17
+13,na,na,conj.,30,sambanxah,12
+14,nAma,nAma,conj.,31,prawiyogi,15
+15,iti,iti,conj.,32,anuyogi,16
+16,janEH,jana,inst. pl. m.,34,karwa,17
+17,jajYe,jYA,pft. md. sg. 3,37,,

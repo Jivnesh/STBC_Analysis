@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,rAjyakAle,kAla,loc. sg. m.,5,axikaranam,4
+2,janAH,jana,nom. pl. m.,9,karwa,4
+3,santuzwAH,tuz,nom. pl. f.,12,karwqsamanaxikaranam,4
+4,Asan,as,impft. [2] ac. pl. 3,13,,

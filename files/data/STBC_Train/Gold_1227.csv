@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aNge,aNga,loc. sg. n.,2,axikaranam,4
+1,prasvedavArisaviSezavizaktaM,tad,acc. sg. m.,6,viseranam,2
+2,kUrpAsakaM,kUrpAsaka,acc. sg. m.,7,karma,4
+3,kzatanaKakzatam,kzata,conj.,10,viseranam,4
+4,utkzipantI,kzip,nom. sg. f.,13,bavalakranasapwami_samanakalah,10
+5,AvirBavadGanapayoDarabAhumUlA,mUla,nom. sg. f.,14,viseranam,6
+6,SAtodarI,dara,nom. sg. f.,27,karwqsamanaxikaranam,10
+7,yuvadfSAM,dfS,g. pl. f.,18,rartisambanxah,8
+8,kzaRam,kzaRa,conj.,19,viseranam,10
+9,utsavaH,utsava,nom. sg. m.,20,karwa,10
+10,aBUt,BU,impft. ac. sg. 3,21,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svasTe,svasTa,nom. du. n.,2,samucciwam,2
+1,sabale,sabala,nom. du. n.,8,samucciwam,2
+2,ca,ca,conj.,12,karwa,3
+3,saYjAte,jAta,pp.,18,purvakalah,5
+4,tam,tad,acc. sg. f.,19,viseranam,5
+5,sati,satI,acc. sg. f.,21,karma,6
+6,kaTitavAn,vac,pp.,22,,

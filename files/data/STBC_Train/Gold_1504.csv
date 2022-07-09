@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,22,karwa,13
+1,nIlaupalasyUtavicitraDAtum,DAtu,acc. sg. m.,5,viseranam,12
+2,ratnaBABiH,BA,inst. pl. f.,7,upapaxasambanxah,3
+3,saha,saha,conj.,9,sambanxah,5
+4,BUmiM,BUmi,acc. sg. f.,10,karma,5
+5,BitvA,Bid,conj.,21,purvakalah,13
+6,utTitam,sTA,acc. sg. m.,2,viseranam,8
+7,uragARAM,uraga,g. pl. m.,11,rartisambanxah,8
+8,niHSvAsaDUmam,DUma,acc. sg. m.,12,prawiyogi,9
+9,iva,iva,conj.,13,anuyogi,12
+10,sTitaM,sTA,acc. sg. m.,16,viseranam,12
+11,rEvatakaM,rEvataka,acc. sg. m.,17,viseranam,12
+12,giriM,giri,acc. sg. m.,18,karma,13
+13,dadarSa,dfS,pft. ac. sg. 3,19,,

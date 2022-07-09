@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmin,tad,nom. sg. n.,1,viseranam,1
+1,daSaraTe,dvi,nom. du. f.,3,karwa,2
+2,gate,gata,pp.,9,purvakalah,12
+3,tu,tu,conj.,10,sambanxah,2
+4,vasizWapramuKEH,pramuKa,i. pl. m.,12,viseranam,5
+5,dvijEH,dvija,i. pl. m.,14,karwa,7
+6,rAjyAya,rAjya,dat. sg. m.,19,waxarwyam,7
+7,niyujyamAnaH,yuj,nom. sg. m.,21,viseranam,9
+8,mahAbalaH,bala,nom. sg. m.,23,viseranam,9
+9,BarataH,Barata,nom. sg. m.,48,karwa,12
+10,rAjyam,rAjya,acc. sg. m.,30,karma,12
+11,na,na,part.,33,sambanxah,12
+12,EcCat,iz,impft. [6] ac. sg. 3,34,,

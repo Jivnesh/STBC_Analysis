@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ASAH,ASA,nom. pl. f.,3,karwa,9
+1,BAsvatkaravyatikaraullasitaambarAntAH,anta,nom. pl. f.,68,viseranam,0
+2,mahAjanadarSanena,darSana,inst. sg. m.,8,hewuh,3
+3,sApatrapAH,trapA,nom. pl. f.,46,prawiyogi,4
+4,iva,iva,conj.,27,anuyogi,0
+5,ambaravikASi,vikASin,acc. sg. n.,28,viseranam,8
+6,camUsamutTaM,samutTa,acc. sg. n.,30,viseranam,8
+7,karaBakaRWakaqAraM,kaqAra,acc. sg. n.,32,viseranam,8
+8,pfTvIrajaH,rajas,acc. sg. n.,34,karma,9
+9,saMvivyuH,vye,pft. ac. pl. 3,36,,

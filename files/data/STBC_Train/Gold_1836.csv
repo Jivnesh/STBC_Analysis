@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sanDyAyAm,devI,loc. sg. f.,0,axikaranam,4
+1,kanyAH,kanyA,nom. pl. f.,2,karwa,4
+2,devatAyAH,deva,g. sg. f.,7,rartisambanxah,3
+3,pUjAm,pUjA,acc. sg. f.,8,karma,4
+4,karizyanti,kf,fut. ac. pl. 3,9,,

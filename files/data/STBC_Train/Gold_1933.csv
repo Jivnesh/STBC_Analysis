@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,4
+1,yozARAm,yozA,g. pl. f.,1,rartisambanxah,2
+2,AkfzwapratanuvapurlatEH,tad,inst. pl. m.,4,viseranam,6
+3,prasftavilolabAhupakzEH,pakza,inst. pl. m.,5,viseranam,6
+4,taradBiH,tad,nom. sg. n.,7,viseranam,6
+5,uruBiH,uru,inst. pl. m.,9,viseranam,6
+6,urojagaRqaSElEH,SEla,inst. pl. m.,11,karwa,11
+7,tasya,tad,g. sg. m.,13,viseranam,8
+8,saromahAarRavasya,arRava,g. sg. m.,14,rartisambanxah,9
+9,tat,tad,nom. sg. n.,17,viseranam,10
+10,amBaH,amBas,nom. sg. n.,19,karma,11
+11,akzoBi,kzuB,impft. md. sg. 3,20,,

@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmA,Atman,nom. sg. *,8,karwa,2
+1,samADAnam,samADAna,acc. sg. n.,1,karma,2
+2,akarot,kf,impft. [8] ac. sg. 3,3,,

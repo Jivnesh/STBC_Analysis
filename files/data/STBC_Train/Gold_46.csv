@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prayARABimuKaH,aBimuKa,nom. sg. m.,9,viseranam,2
+1,sakalaH,sakala,nom. sg. m.,1,viseranam,2
+2,skanDAvAraH,tad,nom. sg. m.,5,karwa,5
+3,tvAm,yuzmad,acc. sg. *,6,karma,4
+4,pratipAlayan,prati,ca. ppr. ac.,7,bavalakranasapwami_samanakalah,5
+5,Aste,As,pr. [2] md. sg. 3,8,,

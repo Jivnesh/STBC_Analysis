@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ISvaraH,ISvara,nom. sg. m.,0,karwa,6
+1,api,api,conj.,1,sambanxah,0
+2,sAndraiBacarmavasanaAvaraRaH,AvaraRa,nom. sg. m.,3,karwa,3
+3,san,as,nom. sg. m.,4,bavalakranasapwami_samanakalah,6
+4,prAleyaSItam,SIta,acc. sg. m.,7,viseranam,5
+5,acalaISvaram,ISvara,acc. sg. m.,8,karma,6
+6,aDiSete,SI,pr. md. sg. 3,11,,

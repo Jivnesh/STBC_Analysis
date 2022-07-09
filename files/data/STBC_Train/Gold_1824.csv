@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tava,yuzmad,g. sg. *,1,rartisambanxah,4
+1,imam,idam,acc. sg. m.,0,viseranam,4
+2,maraRAsannam,sanna,acc. sg. m.,18,viseranam,4
+3,rugRam,tad,acc. sg. m.,8,viseranam,4
+4,pitAmaham,pitAmaha,acc. sg. m.,9,karma,6
+5,iha,ha,loc. sg. m.,10,axikaranam,6
+6,SAyayitum,SI,ca. inf.,11,prayojanam,9
+7,mahAgartaH,garta,nom. sg. m.,13,karwa,9
+8,ayam,dam,nom. sg. m.,14,viseranam,7
+9,nirmIyate,mA,pr. ps. sg. 3,15,,

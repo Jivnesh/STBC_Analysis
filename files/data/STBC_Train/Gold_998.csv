@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,5
+1,gamanalAlasAvaSIBUtAH,BU,nom. du. m.,75,viseranam,2
+2,te,tad,nom. du. n.,9,karwa,6
+3,gurvAjYayA,AjYA,i. sg. f.,16,karanam,6
+4,gfham,gfha,acc. sg. n.,17,karma,5
+5,gantum,gam,inf.,39,prayojanam,6
+6,prasTitAH,sTita,pp.,22,,

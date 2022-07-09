@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,raTaaNgapAReH,pARi,g. sg. m.,0,rartisambanxah,1
+1,rocizAM,rocis,g. pl. n.,2,rartisambanxah,2
+2,pawalena,pawala,inst. sg. n.,3,karanam,3
+3,saMvalitAH,val,nom. pl. f.,4,viseranam,4
+4,fzitvizaH,tviz,g. sg. f.,7,karwa,11
+5,naktaM,nakta,conj.,10,axikaranam,11
+6,taroH,taru,g. sg. m.,11,rartisambanxah,7
+7,calatpalASAntaragocarAH,gocara,nom. pl. m.,14,viseranam,9
+8,tuzAramUrteH,mUrti,g. sg. m.,16,rartisambanxah,9
+9,aMSavaH,aMSu,nom. pl. m.,17,prawiyogi,10
+10,iva,iva,conj.,18,anuyogi,11
+11,virejire,rAj,pft. ps. pl. 3,19,,

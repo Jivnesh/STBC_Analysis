@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavAn,Bava,nom. sg. m.,1,karwa,4
+1,DarmAcaraRaSIlaH,SIla,nom. sg. m.,4,samucciwam,3
+2,kftaparameSvarasAkzAtkAraH,sAkzAtkAra,nom. sg. m.,63,samucciwam,3
+3,ca,ca,conj.,13,karwqsamanaxikaranam,4
+4,vartate,BU,pr. [1] md. sg. 3,14,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadAnIm,tadAnIm,conj.,0,axikaranam,4
+1,aNganAsu,aNganA,loc. pl. f.,1,axikaranam,4
+2,viBramasampadaH,sampad,nom. pl. f.,3,karwa,4
+3,padam,pad,acc. sg. n.,8,karma,4
+4,nyadaData,DA,impft . ps. pl. 3,11,,

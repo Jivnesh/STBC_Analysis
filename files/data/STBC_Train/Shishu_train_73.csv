@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,ambuDiH,ambuDi,nom. sg. m.,NA,karwa,13
+1,pitA,pitf,nom. sg. m.,NA,prawiyogi,2
+2,iva,iva,ind.,NA,anuyogi,3
+3,varAya,vara,dat. sg. m.,NA,viseranam,4
+4,raTANgaBartre,raTANgaBartf,dat. sg. m.,NA,prayojanam,13
+5,aBinavaM,aBinava,acc. sg. m.,NA,karma,6
+6,pratipAditAyAH,pratipAditA,g. sg. f.,NA,viseranam,8
+7,aNkaBAjaH,aNkaBAj,g. sg. f.,NA,viseranam,8
+8,yasyAH,yad,g. sg. f.,NA,rartisambanxah,9
+9,upakaRWaM,upakaRWa,ind.,NA,axikaranam,13
+10,muhuH,muhuH,ind.,NA,kriyaviseranam,13
+11,premRA,preman,i. sg. n.,NA,hewuh,13
+12,ratnAvalIH,ratnAvalI,acc. pl. f.,NA,karma,13
+13,AbabanDa,AN_banD1,pft. ac. sg. 3,NA,,

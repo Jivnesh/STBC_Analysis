@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aGanASanakIrtanaH,kIrtana,nom. sg. m.,0,viseranam,1
+1,saH,tad,nom. sg. m.,1,karwa,9
+2,vikacautpalacakzuzam,cakzus,acc. sg. f.,4,viseranam,8
+3,acCagaladvasanopamAkzamaGanAm,GanA,acc. sg. f.,5,viseranam,8
+4,kzitiBftaH,Bfta,g. sg. m.,6,rartisambanxah,5
+5,aNkagatAM,gam,acc. sg. f.,7,viseranam,8
+6,dayitAm,dayitA,acc. sg. f.,8,prawiyogi,7
+7,iva,iva,conj.,9,anuyogi,8
+8,Saradam,Sarad,acc. sg. f.,10,karma,9
+9,Ekzata,Ikz,impft . md. sg. 3,12,,

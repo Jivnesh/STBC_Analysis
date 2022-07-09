@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kaPakAsAByAm,kAsa,abl. du. m.,1,apaxanam,1
+1,pIqitam,pIqita,acc. sg. m.,9,viseranam,2
+2,tam,tad,acc. sg. m.,10,karma,5
+3,putravaDUH,vaDU,nom. sg. f.,13,karwa,7
+4,aDikam,aDika,adv.,17,kriyaviseranam,5
+5,sevitum,sev,inf.,18,prayojanam,7
+6,SrAntA,Sram,nom. pl. f.,21,karwqsamanaxikaranam,7
+7,ajAyata,jan,impft. [4] md. sg. 3,22,,

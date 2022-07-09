@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BImena,BIma,inst. sg. m.,1,karwa,2
+1,vakzasi,vakzas,loc. sg. n.,2,axikaranam,2
+2,tAqitaH,vac,pp. . sg. ,4,viseranam,3
+3,kIcakaH,kIcaka,nom. sg. m.,5,karwa,4
+4,amuhyat,muh,impft . ac. sg. 3,6,,

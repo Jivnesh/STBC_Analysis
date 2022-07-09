@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,sambanxah,4
+1,kA,kim,nom. sg. f.,1,viseranam,3
+2,sA,tad,nom. sg. f.,2,viseranam,3
+3,mahilA,mahilA,nom. sg. f.,4,karwa,4
+4,asti,as,pr. ac. sg. 3,5,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tad,i. sg. n.,0,hewuh,1
+1,nirASaH,ASa,nom. sg. m.,2,viseranam,2
+2,rAjA,rAjan,nom. sg. m.,3,karwa,8
+3,svayam,svayam,nom. sg. n.,8,karwqsamanaxikaranam,8
+4,eva,eva,prep.,9,sambanxah,3
+5,AtmIyam,AtmIya,acc. sg. m.,10,viseranam,6
+6,avaguRajYam,jYa,acc. sg. m.,15,karma,7
+7,drazwum,dfS,inf.,18,prayojanam,8
+8,niHsftaH,sfta,pp.,19,,

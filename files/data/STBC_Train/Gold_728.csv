@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kadA,kadA,loc. sg. m.,0,axikaranam,5
+1,pitA,etad,nom. sg. m.,1,karwa,5
+2,svaputrasya,putra,g. sg. m.,5,rartisambanxah,4
+3,eva,eva,prep.,6,sambanxah,2
+4,putraH,putra,nom. sg. m.,7,karwqsamanaxikaranam,5
+5,Bavati,BU,pr. [1] ac. sg. 3,9,,

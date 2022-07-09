@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yaTAsamayam,samaya,loc. sg. m.,1,axikaranam,6
+1,sA,tad,nom. sg. f.,2,karwa,6
+2,sundaram,sundara,acc. sg. m.,3,viseranam,3
+3,putraratnam,ratna,acc. sg. m.,22,karma,6
+4,ekam,eka,acc. sg. m.,9,viseranam,3
+5,sasuKam,suKA,adv.,15,kriyaviseranam,6
+6,prasUtavatI,prasUta,pp.,18,,

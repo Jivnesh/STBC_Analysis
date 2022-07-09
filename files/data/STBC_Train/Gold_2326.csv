@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,eka,loc. pl. m.,3,axikaranam,4
+1,arjunaH,arjuna,nom. sg. m.,4,karwa,4
+2,Bagavantam,Baga,acc. sg. m.,5,viseranam,3
+3,SrIkfzRam,kfzRa,acc. sg. m.,7,karma,4
+4,pfzwavAn,kf,ppa.,11,,

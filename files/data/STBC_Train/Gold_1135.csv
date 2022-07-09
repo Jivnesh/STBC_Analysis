@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadine,dina,loc. sg. n.,3,axikaranam,5
+1,prativeSigrAme,grAma,loc. sg. m.,5,axikaranam,3
+2,cOryam,tad,acc. sg. n.,7,karma,3
+3,kartum,kf,inf.,8,prayojanam,5
+4,saH,tad,nom. sg. m.,9,karwa,5
+5,prasTitaH,sTA,pp.,10,,

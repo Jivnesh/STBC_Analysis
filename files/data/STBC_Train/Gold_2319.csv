@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,viseranam,1
+1,vijYApanasya,vijYApana,g. sg. n.,2,rartisambanxah,2
+2,pAWakAH,pAWaka,nom. pl. m.,3,karwa,4
+3,kim,kim,acc. sg. n.,4,karma,4
+4,kurvanti,kf,pr. [8] ac. pl. 3,6,,
+5,sma,sma,part.,7,sambanxah,4

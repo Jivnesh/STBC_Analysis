@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,adv.,0,kriyaviseranam,9
+1,mama,asmad,g. sg. *,2,rartisambanxah,2
+2,putreRa,putra,i. sg. m.,3,prawiyogi,3
+3,saha,saha,prep.,5,anuyogi,4
+4,svaputrasya,putra,g. sg. m.,7,rartisambanxah,5
+5,tulanAm,tulana,acc. sg. f.,8,karma,6
+6,kurvan,as,ppr. [8] ac.,9,bavalakranasapwami_samanakalah,9
+7,saH,tad,nom. sg. m.,10,karwa,9
+8,mAm,asmad,acc. sg. *,11,karma,9
+9,pfzwavAn,pfzwa,pp.,13,,

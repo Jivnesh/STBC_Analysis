@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svakIye,svakIya,loc. sg. m.,0,viseranam,1
+1,rakzAviBAge,viBAga,loc. sg. m.,7,axikaranam,3
+2,ca,ca,conj.,8,sambanxah,3
+3,niyuktavAn,Bid,pp.,9,,

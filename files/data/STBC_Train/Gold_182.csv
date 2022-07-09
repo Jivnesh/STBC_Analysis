@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekatra,ekatra,conj.,0,viseranam,5
+1,sPawikatawAMSuBinnanIrAH,nIra,nom. pl. f.,2,viseranam,4
+2,aparatra,paratra,conj.,3,viseranam,5
+3,nIlASmadyutiBiduraamBasaH,amBas,nom. pl. f.,5,viseranam,4
+4,saritaH,sarit,nom. pl. f.,7,karwa,9
+5,iha,iha,conj.,10,axikaranam,9
+6,kAlindIjalajanitaSriyaH,SrI,g. pl. f.,14,viseranam,7
+7,surApagAyAH,viS,g. pl. f.,22,rartisambanxah,8
+8,vEdagDIM,tad,acc. sg. f.,23,karma,9
+9,Srayante,Sri,pr. md. pl. 3,24,,

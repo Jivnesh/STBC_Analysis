@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,krudDaH,vac,pp. . sg. ,0,viseranam,1
+1,aham,asmad,nom. sg. *.,1,karwa,4
+2,asya,idam,g. sg. m.,3,rartisambanxah,3
+3,SiraH,Siras,acc. sg. n.,4,karma,4
+4,sPowitavAn,vac,pp. . sg. ,6,samucciwam,10
+5,ayam,idam,nom. sg. m.,7,karwa,9
+6,ca,ca,conj.,8,sambanxah,5
+7,mama,asmad,g. sg. *.,9,rartisambanxah,8
+8,SiraH,Siras,acc. sg. n.,10,karma,9
+9,sPowitavAn,vac,pp. . sg. ,12,samucciwam,10
+10,ca,ca,conj.,13,,

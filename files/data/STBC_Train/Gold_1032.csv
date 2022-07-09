@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guRAH,guRa,nom. pl. m.,0,karwa,9
+1,pUjA-sTAnam,sTAna,acc. sg. n.,1,karma,9
+2,guRizu,guRin,loc. pl. m.,3,axikaranam,9
+3,na,na,part.,5,sambanxah,5
+4,ca,ca,conj.,6,sambanxah,5
+5,liNgam,liNga,acc. sg. n.,7,viseranam,8
+6,na,na,part.,9,sambanxah,8
+7,ca,ca,conj.,10,sambanxah,8
+8,vayaH,vayas,acc. sg. n.,13,karma,9
+9,asti,as,pr. [2] ac. sg. 3,15,,

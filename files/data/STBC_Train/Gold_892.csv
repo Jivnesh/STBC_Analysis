@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SizyaH,Sizya,nom. sg. m.,0,karwa,13
+1,akasmAt,akasmAt,adv.,1,kriyaviseranam,3
+2,tatra,tatra,loc. sg. n.,4,axikaranam,6
+3,AyAntam,yA,acc. sg. m.,5,viseranam,5
+4,ekam,eka,acc. sg. m.,6,viseranam,5
+5,BayAnakasiMham,siMha,acc. sg. m.,10,karma,6
+6,dfzwvA,dfS,abs.,11,purvakalah,13
+7,BayAturaH,Atura,nom. sg. m.,49,karwqsamanaxikaranam,13
+8,samIpasTam,samIpa,loc. sg. m.,16,axikaranam,11
+9,eva,eva,prep.,17,sambanxah,8
+10,ekam,eka,nom. sg. n.,20,viseranam,11
+11,vfkzam,vfkza,acc. sg. m.,21,karma,13
+12,satvaram,satvara,adv.,24,kriyaviseranam,13
+13,ArUQavAn,tad,nom. sg. m.,25,samucciwam,15
+14,AtmAnam,Atman,acc. sg. *,26,karma,17
+15,ca,ca,conj.,28,,
+16,siMhAt,siMha,abl. sg. m.,29,apaxanam,17
+17,surakzitavAn,tad,nom. sg. m.,30,samucciwam,15

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,sambanxah,3
+1,na,na,part.,1,sambanxah,2
+2,viSvasizi,Svas,pr. [2] ac. sg. 2,2,prawiyogi,0
+3,tarhi,tarhi,adv.,3,anuyogi,5
+4,tvAm,yuzmad,acc. sg. *,4,karma,5
+5,nayAmi,nI,pr. [1] ac. sg. 1,5,,

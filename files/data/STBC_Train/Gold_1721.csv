@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAmaH,rAma,nom. sg. m.,0,samucciwam,2
+1,lakzmaRaH,lakzmaRa,nom. sg. m.,1,samucciwam,2
+2,ca,ca,conj.,4,karwa,4
+3,sItAm,sItA,acc. sg. f.,5,karma,4
+4,rakzataH,rakz,pr. [1] ac. du. 3,9,,

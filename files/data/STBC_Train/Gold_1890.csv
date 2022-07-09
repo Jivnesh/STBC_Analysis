@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rameSaH,ISa,nom. sg. m.,7,karwa,3
+1,tadA,tadA,loc. sg. m.,1,axikaranam,3
+2,kim,kim,acc. sg. n.,2,karma,3
+3,akarot,kf,impft. [8] ac. sg. 3,4,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,i. sg. m.,1,hewuh,1
+1,prasannaH,sad,nom. sg. m.,2,viseranam,3
+2,saH,tad,nom. sg. m.,3,viseranam,3
+3,cOraH,tad,nom. sg. m.,4,karwa,10
+4,prAtaH,prAtar,loc. sg. n.,5,axikaranam,6
+5,tam,tad,acc. sg. m.,6,karma,6
+6,praRamya,nam,abs.,7,purvakalah,9
+7,tAm,tad,acc. sg. f.,8,viseranam,8
+8,vidyAm,vidyA,acc. sg. f.,9,karma,9
+9,Sikzayitum,Sikz,ca. inf.,10,prayojanam,10
+10,prArTayata,arTa,impft. [vn.] md. sg. 3,11,,

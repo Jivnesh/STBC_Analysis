@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,udarapUram,pUra,acc. sg. n.,2,viseranam,2
+1,ca,ca,conj.,4,sambanxah,0
+2,Bojanam,Bojana,acc. sg. n.,5,karma,3
+3,kArayitvA,kf,ca. abs.,7,purvakalah,7
+4,sAmAnyaSuzkarowikAyAH,tad,g. sg. f.,11,rartisambanxah,6
+5,api,api,conj.,12,sambanxah,4
+6,mahattvam,mahant,acc. sg. n.,16,karma,7
+7,aboDayat,buD,ca. impft. ac. sg. 3,17,,
+8,iti,iti,part.,18,sambanxah,7

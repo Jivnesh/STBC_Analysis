@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmAnam,Atman,acc. sg. *,19,sambanxah,4
+1,tasya,tad,g. sg. n.,4,rartisambanxah,2
+2,sevakaH,sevaka,nom. sg. m.,6,karwa,4
+3,kim,kim,acc. sg. n.,7,sambanxah,4
+4,nyavedayat,vid,ca. impft. ac. sg. 3,9,,

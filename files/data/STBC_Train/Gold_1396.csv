@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,amuzmin,adas,loc. sg. m.,0,axikaranam,10
+1,anyonyavyatikaracAruBiH,cAru,inst. pl. m.,3,viseranam,4
+2,vicitrEH,vicitra,inst. pl. m.,5,viseranam,4
+3,atrasyannavamaRijanmaBiH,janman,inst. pl. m.,7,viseranam,4
+4,mayUKEH,mayUKa,inst. pl. m.,8,karwa,6
+5,AkASe,AkASa,loc. sg. n.,11,axikaranam,6
+6,racitam,tad,nom. sg. n.,14,viseranam,7
+7,aBitticitrakarma,citrakarman,nom. sg. n.,17,karwa,10
+8,gaganasadaH,sadas,acc. pl. m.,19,karma,10
+9,vismerAn,tad,acc. pl. m.,20,viseranam,8
+10,karoti,kf,pr. ac. sg. 3,21,,

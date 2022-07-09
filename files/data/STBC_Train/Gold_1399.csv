@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,uccEH,ucca,conj.,1,viseranam,2
+1,vidvizAM,vidviz,g. pl. m.,2,rartisambanxah,2
+2,mUrDasu,mUrDan,loc. pl. m.,3,axikaranam,5
+3,helayA,helA,inst. sg. f.,4,hewuh,5
+4,pAdam,pAda,acc. sg. m.,5,karma,5
+5,akftvA,kf,abs.,11,purvakalah,10
+6,anAlambA,Alamba,nom. sg. f.,9,viseranam,7
+7,kIrtiH,kIrti,nom. sg. f.,12,karwa,10
+8,kaTamkAram,ca,conj.,15,kriyaviseranam,10
+9,dyAm,tad,acc. sg. f.,18,karma,10
+10,aDirohati,ruh,pr. ac. sg. 3,19,,

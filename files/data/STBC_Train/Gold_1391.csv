@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDuvratAnAM,vrata,g. pl. m.,0,rartisambanxah,1
+1,pawale,pawala,loc. sg. n.,3,karwa,3
+2,aBimuKam,aBimuKa,conj.,6,axikaranam,3
+3,upayAti,yA,nom. sg. n.,7,purvakalah,9
+4,sati,as,nom. sg. n.,9,sambanxah,3
+5,tvam,yuzmad,nom. sg. n.,10,karwa,9
+6,kiYcit,ca,conj.,11,karma,9
+7,mA,mA,conj.,24,sambanxah,9
+8,sma,sma,conj.,13,sambanxah,9
+9,aBidaDAH,Acakz,impft . ac. sg. 2,14,samucciwam,16
+10,maDusuraBimuKAbjaganDalabDeH,labDi,abl. sg. f.,15,hewuh,11
+11,anena,idam,inst. sg. n.,17,karwa,15
+12,aDitvat,van,conj.,19,axikaranam,15
+13,aDikaM,aDika,nom. sg. n.,22,kriyaviseranam,15
+14,mA,asmad,conj.,12,sambanxah,15
+15,nipAti,pat,impft. ac. sg. 3,23,samucciwam,16
+16,ca,ca,conj.,25,,

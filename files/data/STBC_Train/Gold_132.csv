@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saha,saha,prep.,1,sambanxah,2
+1,sA,tad,adv.,2,kriyaviseranam,2
+2,vidaDIta,DA,opt. [3] md. sg. 3,3,,
+3,na,na,part.,4,sambanxah,2
+4,kriyAm,kriyA,acc. sg. f.,5,karma,2

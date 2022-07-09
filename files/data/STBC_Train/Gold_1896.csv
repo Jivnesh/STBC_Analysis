@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,6
+1,anena,idam,i. sg. n.,1,viseranam,2
+2,aparADena,tad,nom. sg. m.,6,hewuh,6
+3,eva,eva,prep.,7,sambanxah,2
+4,saH,tad,nom. sg. m.,8,karwa,8
+5,SAlAtaH,SAla,nom. sg. f.,10,apaxanam,6
+6,bahizkftaH,kf,nom. sg. m.,11,karwqsamanaxikaranam,8
+7,api,api,conj.,12,sambanxah,6
+8,aBUt,BU,aor. [1] ac. sg. 3,14,,
+9,iti,iti,part.,15,sambanxah,8

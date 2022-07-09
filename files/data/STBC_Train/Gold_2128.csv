@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hi,hi,conj.,0,sambanxah,4
+1,sA,tad,nom. sg. f.,6,karwa,4
+2,aSeze,aSeza,loc. sg. n.,5,viseranam,3
+3,vapuzi,vapus,loc. sg. n.,7,axikaranam,4
+4,vasati,vas,pr. ac. sg. 3,20,samucciwam,12
+5,kiYca,ca,conj.,28,sambanxah,11
+6,aKilalokakAntA,kAntA,nom. sg. f.,18,viseranam,9
+7,itarA,itara,nom. sg. f.,14,viseranam,9
+8,tu,tu,conj.,15,sambanxah,7
+9,ananyakAntA,kAntA,nom. sg. f.,13,karwa,11
+10,urasi,uras,loc. sg. n.,19,axikaranam,11
+11,vasati,vas,pr. ac. sg. 3,9,samucciwam,12
+12,ca,ca,conj.,21,,

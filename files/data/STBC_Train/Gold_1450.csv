@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekaH,eka,nom. sg. m.,0,samucciwam,9
+1,pipIlakaH,pipIlaka,nom. sg. m.,1,samucciwam,6
+2,ekA,eka,nom. sg. f.,11,viseranam,3
+3,vAnarI,vAnarI,nom. sg. f.,4,samucciwam,6
+4,ekaH,eka,nom. sg. m.,5,samucciwam,9
+5,kapotaH,kapota,nom. sg. m.,6,samucciwam,6
+6,ca,ca,conj.,7,karwa,7
+7,asti,as,pr. ac. sg. 3,8,samucciwam,9
+8,iti,iti,conj.,9,sambanxah,7
+9,ca,ca,conj.,10,,

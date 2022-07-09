@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,candrApIqasya,candrApIqa,g. sg. m.,1,rartisambanxah,1
+1,balasya,bala,g. sg. n.,2,rartisambanxah,2
+2,saMcalanena,calana,inst. sg. n.,4,hewuh,4
+3,mahI,mahI,nom. sg. f.,5,karwa,4
+4,akampata,kap,impft . md. sg. 3,6,,

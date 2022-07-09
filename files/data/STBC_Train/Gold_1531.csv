@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aram,ara,conj.,2,viseranam,1
+1,izwamaDuvAsarasA,rasA,nom. sg. f.,5,viseranam,3
+2,alinAm,alin,g. pl. m.,6,rartisambanxah,3
+3,AliH,Ali,nom. sg. f.,7,karwa,11
+4,yuvatimAnanirAse,nirAsa,loc. sg. m.,9,axikaranam,11
+5,dakzaM,dakza,acc. sg. m.,10,viseranam,7
+6,maDuvAsarasAraM,sAra,acc. sg. m.,13,viseranam,7
+7,cUtam,cUta,acc. sg. m.,16,karma,11
+8,atirAgAt,rAga,abl. sg. m.,19,hewuh,9
+9,ujJituM,ca,conj.,20,prayojanam,11
+10,na,na,conj.,21,sambanxah,11
+11,akzamizwa,kzam,impft. md. sg. 3,28,,

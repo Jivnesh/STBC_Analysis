@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iyam,idam,nom. sg. f.,0,viseranam,1
+1,kaTA,kaTA,nom. sg. f.,8,karwa,4
+2,kIdfSam,kIdfSa,acc. sg. m.,4,viseranam,3
+3,sandeSam,mahABAga,acc. sg. m.,6,karma,4
+4,dadAti,dA,pr. [3] ac. sg. 3,7,,

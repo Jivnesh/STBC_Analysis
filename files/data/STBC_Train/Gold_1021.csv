@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ayam,idam,nom. sg. m.,0,viseranam,1
+1,kramaH,krama,nom. sg. m.,1,karwa,6
+2,nirantaram,antara,adv.,4,kriyaviseranam,6
+3,anekAni,aneka,acc. pl. n.,5,viseranam,4
+4,dinAni,dina,acc. pl. n.,7,viseranam,5
+5,paryantam,paryanta,acc. pl. m.,11,karma,6
+6,pracalitaH,calita,pp.,12,,

@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,16
+1,punaH,punar,conj.,2,sambanxah,16
+2,tridaSEH,tridaSa,inst. pl. m.,5,upapaxasambanxah,3
+3,samaM,samam,conj.,8,sambanxah,8
+4,raRena,raRa,inst. sg. m.,10,karanam,8
+5,darpajanmanaH,janman,g. sg. n.,12,viseranam,6
+6,kaRqvAH,kaRqu,g. sg. f.,17,rartisambanxah,7
+7,vinodam,vinoda,acc. sg. m.,19,karma,8
+8,icCan,iz,nom. sg. m.,20,bavalakranasapwami_samanakalah,16
+9,saH,tad,nom. sg. m.,21,viseranam,13
+10,divaH,div,g. sg. f.,32,rartisambanxah,11
+11,kzatarakzaRaM,rakzaRa,acc. sg. n.,35,viseranam,12
+12,nikAmaBIzaRaM,BIzaRa,acc. sg. m.,37,karma,16
+13,rAvaRaH,rAvaRa,nom. sg. m.,38,prawiyogi,14
+14,nAma,nAma,conj.,40,anuyogi,15
+15,rakzaH,rakzas,nom. sg. n.,42,karwa,16
+16,baBUva,BU,pft. ac. sg. 3,45,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,parityaktena,tyaj,i. sg. n.,1,viseranam,2
+1,mama,asmad,g. sg. *,2,rartisambanxah,2
+2,praTamaputreRa,putra,i. sg. n.,28,karwa,5
+3,yA,yad,acc. pl. f.,5,viseranam,4
+4,avajYA,avajYA,acc. pl. f.,7,karma,5
+5,anuBUtA,BU,nom. sg. f.,9,samucciwam,11
+6,tayA,tad,i. sg. f.,10,karwa,10
+7,mama,asmad,g. sg. *,11,rartisambanxah,9
+8,sarvam,sarva,acc. sg. m.,12,viseranam,9
+9,suKam,suKa,acc. sg. m.,15,karma,10
+10,apahftam,hf,pp.,20,samucciwam,11
+11,ca,ca,conj.,21,,

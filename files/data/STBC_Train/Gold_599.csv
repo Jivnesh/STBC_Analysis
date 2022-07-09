@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvaftunirvftikare,kara,loc. sg. m.,6,axikaranam,9
+1,iha,iha,conj.,7,axikaranam,2
+2,nivasan,vas,nom. sg. m.,8,bavalakranasapwami_samanakalah,9
+3,akiYcanaH,akiYcana,nom. sg. m.,12,karwa,2
+4,api,api,conj.,13,sambanxah,3
+5,kiYcid,na,conj.,15,sambanxah,9
+6,api,api,conj.,16,sambanxah,5
+7,dvandvaduHKaM,duHKa,acc. sg. n.,19,karma,9
+8,na,na,conj.,23,sambanxah,9
+9,upEti,i,pr. ac. sg. 3,24,,

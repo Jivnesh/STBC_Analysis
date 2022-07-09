@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SvaH,api,conj.,0,axikaranam,4
+1,prAtaH,prAtar,loc. sg. m.,1,axikaranam,4
+2,vayam,asmad,nom. pl. *.,2,karwa,4
+3,ISvaram,ISvara,acc. sg. m.,3,karma,4
+4,naMsyAmaH,vyAKyA,fut. ac. pl. 1,6,,

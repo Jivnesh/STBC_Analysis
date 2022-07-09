@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,agninA,agni,inst. sg. m.,0,karanam,2
+1,gfhaM,gfha,nom. sg. n.,2,karma,2
+2,dahati,dah,pr. ac. sg. 3,3,,

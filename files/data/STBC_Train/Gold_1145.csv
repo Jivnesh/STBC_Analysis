@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,katipayEH,katipaya,inst. pl. m.,5,viseranam,2
+1,eva,eva,conj.,6,sambanxah,0
+2,varREH,varRa,inst. pl. m.,3,karanam,7
+3,katipayEH,katipaya,inst. pl. m.,1,viseranam,5
+4,eva,eva,conj.,2,sambanxah,3
+5,svarEH,svara,inst. pl. m.,7,prawiyogi,6
+6,iva,iva,conj.,14,anuyogi,2
+7,graTitasya,graTita,g. sg. n.,9,viseranam,8
+8,vANmayasya,vANmaya,g. sg. n.,13,rartisambanxah,9
+9,geyasya,geya,g. sg. n.,23,prawiyogi,10
+10,iva,iva,conj.,8,anuyogi,13
+11,vicitratA,vicitratA,nom. sg. f.,16,karwa,13
+12,anantA,anantA,nom. sg. f.,18,viseranam,13
+13,Bavati,BU,pr. ac. sg. 3,19,,
+14,aho,aho,conj.,20,sambanxah,13

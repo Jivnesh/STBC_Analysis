@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paYcapaRAnAm,paRa,g. pl. m.,1,rartisambanxah,2
+1,eva,eva,prep.,2,sambanxah,0
+2,dAnam,dAna,acc. sg. n.,3,karma,3
+3,kartum,kf,inf.,5,prayojanam,6
+4,tam,tad,acc. sg. m.,6,karma,5
+5,bADyam,tad,acc. sg. m.,12,karma,6
+6,akuruta,kf,impft. [8] md. sg. 3,13,,

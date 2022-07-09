@@ -1,0 +1,29 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,balaAkrAntaH,bala-AkrAnta,nom. sg. m.,NA,viseranam,2
+1,asO,adas,nom. sg. m.,NA,viseranam,2
+2,giripatiH,giri-pati,nom. sg. m.,NA,karwa,26
+3,krIqaddviradmaTitaurvIruharavEH,krIqad-dvirad-maTita-urvI-ruha-rava,i. pl. m.,NA,hewuh,2
+4,SrIpatiM,SrI-pati,acc. sg. m.,NA,karma,26
+5,nanu,nanu,ind.,NA,sambanxah,6
+6,tvaM,yuzmad,nom. sg. *.,NA,karwa,9
+7,Darasya,Dara,g. sg. m.,NA,rartisambanxah,8
+8,udDartA,ud_Df1,nom. sg. m.,NA,karwqsamanaxikaranam,9
+9,asi,as2,pr. ac. sg. 2,NA,prawiyogi,10
+10,iti,iti,ind.,NA,anuyogi,11
+11,sarvatra,sarvatra,ind.,NA,axikaranam,14
+12,jagati,jagat,loc. sg. n.,NA,axikaranam,15
+13,tvaM,yuzmad,nom. sg. *.,NA,karwa,15
+14,pratItaH,prati_i1,pp.,NA,karwqsamanaxikaranam,15
+15,asi,as2,pr. ac. sg. 2,NA,,
+16,tat,tad,nom. sg. n.,NA,viseranam,17
+17,kim,kim,ind.,NA,sambanxah,23
+18,atiBaraM,ati-Bara,acc. sg. m.,NA,viseranam,19
+19,mAm,asmad,acc. sg. *.,NA,karma,23
+20,tvaM,yuzmad,nom. sg. *.,NA,karwa,23
+21,aDaH,aDaH,ind.,NA,axikaranam,23
+22,prApipayizuH,prApipayizu,nom. sg. m.,NA,karwqsamanaxikaranam,23
+23,asi,as2,pr. ac. sg. 2,NA,prawiyogi,24
+24,iti,iti,ind.,NA,anuyogi,25
+25,uccEH,uccEH,ind.,NA,kriyaviseranam,26
+26,upAlabDaH,upa_ANa_laB1,pp.,NA,prawiyogi,27
+27,iva,iva,ind.,NA,anuyogi,2

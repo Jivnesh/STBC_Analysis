@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SramakAryam,kArya,nom. sg. n.,8,karwa,7
+1,tu,tu,conj.,10,sambanxah,0
+2,tasya,tad,g. sg. n.,11,rartisambanxah,3
+3,gfhe,gfha,loc. du. n.,15,axikaranam,7
+4,eva,eva,prep.,16,sambanxah,3
+5,bahu,bahu,adv.,18,kriyaviseranam,7
+6,karaRIyam,kf,nom. sg. n.,24,karwqsamanaxikaranam,7
+7,asti,as,pr. [2] ac. sg. 3,25,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asya,idam,g. sg. n.,0,viseranam,1
+1,BAzaRasya,BAzaRa,g. sg. n.,2,rartisambanxah,2
+2,samarTanaM,samarTana,acc. sg. n.,3,karma,3
+3,kurvatI,tad,nom. sg. f.,6,viseranam,5
+4,anyA,anyA,nom. sg. f.,8,viseranam,5
+5,ajA,ajA,nom. sg. f.,10,karwa,6
+6,kaTitavatI,vac,pp. . sg. ,13,,

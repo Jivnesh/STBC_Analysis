@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,apavyayam,vyaya,acc. sg. m.,1,karma,2
+1,na,na,part.,4,sambanxah,2
+2,kurvanti,kf,pr. [8] ac. pl. 3,5,,
+3,budDimantaH,tad,nom. pl. m.,6,viseranam,4
+4,mahAjanAH,jana,nom. pl. m.,8,karwa,2

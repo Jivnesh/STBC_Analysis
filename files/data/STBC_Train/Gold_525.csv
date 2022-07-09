@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,3,viseranam,4
+1,madena,mada,inst. sg. m.,4,karanam,5
+2,dantI,dantI,nom. sg. m.,5,prawiyogi,3
+3,iva,iva,conj.,6,anuyogi,4
+4,viBinnaSaNKaH,SaNKa,nom. sg. m.,8,karwa,12
+5,kaluzIBavan,kaluzIBU,nom. sg. n.,2,bavalakranasapwami_samanakalah,12
+6,nirastagAmBIryam,gAmBIrya,acc. sg. n.,11,viseranam,9
+7,apAstapuzpakaM,puzpaka,acc. sg. n.,14,viseranam,9
+8,manuzyaDarmaRaH,manuzyaDarman,g. sg. m.,21,rartisambanxah,9
+9,mAnasaM,mAnasa,acc. sg. n.,23,karma,12
+10,muhuH,muhur,conj.,25,viseranam,12
+11,na,na,conj.,29,sambanxah,12
+12,prakampayAmAsa,Ric,pft. md. sg. 3,28,,
+13,iti,iti,conj.,0,sambanxah,12
+14,na,na,conj.,26,sambanxah,12

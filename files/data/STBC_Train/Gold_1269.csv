@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfdDA,vfdDa,nom. pl. f.,1,karwa,6
+1,api,api,prep.,4,sambanxah,0
+2,patim,pat,acc. sg. m.,5,karma,4
+3,kIdfSam,kIdfSa,acc. sg. n.,6,kriyaviseranam,4
+4,icCantI,tad,nom. sg. f.,12,karwqsamanaxikaranam,6
+5,kim,kim,nom. sg. n.,14,karma,6
+6,kftavatI,kf,ppa.,17,,

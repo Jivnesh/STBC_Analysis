@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putrAya,putra,dat. sg. m.,0,sampraxanam,3
+1,kim,kim,nom. sg. n.,2,karwa,3
+2,na,na,part.,3,sambanxah,3
+3,arocata,ruc,impft. [1] md. sg. 3,4,,

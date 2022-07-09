@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,rasikA,rasa1,nom. sg. f.,NA,karwa,10
+1,sA,tad,nom. sg. f.,NA,viseranam,0
+2,kA,kim,nom. sg. f.,NA,viseranam,0
+3,ekAnte,ekAnta,ind.,NA,axikaranam,5
+4,tatsamparkaM,tat-samparka,acc. sg. m.,NA,karma,5
+5,prApya,pra_Ap2,abs.,NA,purvakalah,10
+6,purA,purA,ind.,NA,axikaranam,10
+7,kAM,kim,acc. sg. f.,NA,viseranam,8
+8,mohanalIlAM,mohana-lIlA,acc. sg. f.,NA,karma,10
+9,na,na,ind.,NA,sambanxah,10
+10,kurute,kf3,pr. md. sg. 3,NA,,

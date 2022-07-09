@@ -1,0 +1,30 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tasmin,tad,loc. sg. m.,NA,viseranam,1
+1,suramunO,suramuni,loc. sg. m.,NA,prawiyogi,2
+2,iti,iti,ind.,NA,anuyogi,3
+3,vAcaM,vAc,acc. sg. f.,NA,karma,4
+4,vyAhftya,vyA_hf1,abs.,NA,purvakalah,28
+5,naBaH,naBas,acc. sg. n.,NA,karma,6
+6,utpatite,utpatita,loc. sg. m.,NA,purvakalah,28
+7,puraH,puraH,ind.,NA,sambanxah,10
+8,indoH,indu,g. sg. m.,NA,upapaxasambanxah,7
+9,SriyaM,SrI,acc. sg. f.,NA,karma,10
+10,biBrati,Bf2,ppr. ac,NA,bavalakranasapwami_samanakalah,28
+11,aTa,aTa,ind.,NA,sambanxah,14
+12,om,om,ind.,NA,prawiyogi,13
+13,iti,iti,ind.,NA,anuyogi,14
+14,uktavataH,uktavat,g. sg. m.,NA,rartisambanxah,15
+15,cEdyaM,cEdya,acc. sg. m.,NA,upapaxasambanxah,16
+16,prati,prati,ind.,NA,sambanxah,28
+17,krudDasya,krudDa,g. sg. m.,NA,viseranam,18
+18,SArNgiRaH,SArNgin,g. sg. m.,NA,rartisambanxah,19
+19,vadane,vadana,loc. sg. n.,NA,axikaranam,28
+20,vyomni,vyoman,loc. sg. n.,NA,prawiyogi,21
+21,iva,iva,ind.,NA,anuyogi,19
+22,aniSaM,aniSa,ind.,NA,kriyaviseranam,28
+23,SatrURAM,Satru,g. pl. m.,NA,rartisambanxah,24
+24,vinASapiSunaH,vinASa-piSuna,nom. sg. m.,NA,viseranam,25
+25,ketuH,ketu,nom. sg. m.,NA,karwa,28
+26,BrakuwiCalena,Brakuwi-Cala,i. sg. n.,NA,karanam,27
+27,AspadaM,Aspada,acc. sg. n.,NA,karma,28
+28,cakAra,kF2,pft. ac. sg. 3,NA,,

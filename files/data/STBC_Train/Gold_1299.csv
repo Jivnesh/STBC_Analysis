@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tarhi,tarhi,adv.,0,kriyaviseranam,9
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,pAdaH,pAda,nom. sg. m.,2,karwa,5
+3,eva,eva,prep.,3,sambanxah,2
+4,mahattamaH,mahattama,nom. sg. m.,4,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,5,prawiyogi,6
+6,iti,t,part.,6,anuyogi,8
+7,vizRoH,vizRu,g. sg. m.,7,rartisambanxah,8
+8,samADAnam,samADAna,nom. sg. n.,10,karwa,9
+9,AsIt,as,impft. [2] ac. sg. 3,12,,

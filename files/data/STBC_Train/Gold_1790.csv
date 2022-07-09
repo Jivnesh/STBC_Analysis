@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vivaSO,vivaSa,nom. du. m.,0,viseranam,1
+1,tO,tad,acc. du. m.,1,karwa,3
+2,taTA,taTA,conj.,3,kriyaviseranam,3
+3,kftavantO,kft,pp. . du. ,5,,

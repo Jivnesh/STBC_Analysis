@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,alaGutarastanEH,stana,inst. pl. m.,0,viseranam,2
+1,svanadBiH,svan,nom. sg. n.,2,viseranam,2
+2,avikacalocanaaravindEH,aravinda,inst. pl. m.,3,karanam,11
+3,AyAsAt,AyAsa,abl. sg. m.,4,hewuh,4
+4,SrAntAnAM,Sram,pp. . pl. ,7,viseranam,5
+5,yozitAM,yozit,g. pl. f.,8,rartisambanxah,7
+6,tEH,tad,inst. pl. m.,10,viseranam,7
+7,samUhEH,samUha,inst. pl. m.,11,karwa,11
+8,urvInihitacalapadam,pada,nom. sg. n.,14,kriyaviseranam,11
+9,aByamBaH,ca,conj.,17,karma,11
+10,kaTamapi,api,conj.,19,kriyaviseranam,11
+11,pracele,cal,pft. md. sg. 3,21,,

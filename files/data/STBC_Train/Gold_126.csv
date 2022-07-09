@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,na,na,part.,0,sambanxah,4
+1,ca,ca,conj.,1,,
+2,apsu,ap,loc. pl. f.,2,axikaranam,4
+3,jantavaH,jantu,nom. pl. m.,3,karwa,4
+4,majjanti,majj,pr. [6] ac. pl. 3,4,samucciwam,1
+5,Bavizyati,BU,fut. ac. sg. 3,5,samucciwam,1

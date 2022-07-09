@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. n.,0,axikaranam,5
+1,BojaH,Boja,nom. sg. m.,1,karwa,5
+2,nagarIsurakzAvyavasTAm,vyavasTA,acc. sg. f.,5,karma,3
+3,drazwum,dfS,inf.,6,prayojanam,5
+4,nirgataH,gam,nom. sg. m.,7,karwqsamanaxikaranam,5
+5,AsIt,as,aor. [5] ac. sg. 3,9,,

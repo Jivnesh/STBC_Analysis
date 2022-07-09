@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asmin,idam,loc. sg. m.,1,axikaranam,10
+1,dantojjvalAsu,ujjvala,loc. pl. f.,72,viseranam,3
+2,sadratnacitrakawakAsu,kawaka,loc. pl. f.,5,viseranam,3
+3,aDityakAsu,aDityakA,loc. pl. f.,6,axikaranam,10
+4,vimalaupalameKalaantAH,anta,nom. pl. f.,92,viseranam,7
+5,bfhannitambAH,nitamba,nom. pl. f.,62,viseranam,7
+6,GanakomalagaRqaSElAH,SEla,nom. pl. f.,22,viseranam,7
+7,nAryaH,nArI,nom. pl. f.,23,karwa,10
+8,anurUpam,anurUpa,conj.,26,viseranam,9
+9,aDivAsaM,aDivAsa,conj.,28,karma,10
+10,Bajanti,Baj,pr. ac. pl. 3,29,,

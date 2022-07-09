@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekasmin,eka,loc. sg. m.,0,viseranam,1
+1,upavane,upavana,loc. sg. m.,2,axikaranam,2
+2,sTitAH,sTA,nom. pl. f.,7,viseranam,3
+3,AmravfkzAH,vfkza,nom. pl. m.,9,karwa,7
+4,parasparam,paraspara,adv.,12,kriyaviseranam,6
+5,vArtAlApam,AlApa,acc. sg. m.,53,karma,6
+6,kurvantaH,kf,nom. pl. m.,15,karwqsamanaxikaranam,7
+7,Asan,as,impft. [2] ac. pl. 3,16,prawiyogi,8
+8,yat,yad,conj.,18,anuyogi,14
+9,manuzyAH,manuzya,nom. pl. m.,19,karwa,14
+10,tezAm,tad,g. pl. n.,24,rartisambanxah,12
+11,pakvAni,pac,acc. pl. n.,27,viseranam,12
+12,PalAni,Pala,acc. pl. n.,28,karma,13
+13,nayanti,truw,ca. abs.,30,purvakalah,14
+14,nayanti,as,ppr. [1] ac.,31,,

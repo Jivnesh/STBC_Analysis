@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvakarmA,viSvakarman,nom. sg. m.,1,karwa,4
+1,tu,tu,conj.,2,sambanxah,0
+2,ekaH,eka,nom. sg. m.,3,samucciwam,5
+3,eva,eva,conj.,4,sambanxah,2
+4,asti,as,pr. ac. sg. 3,5,samucciwam,5
+5,ca,ca,conj.,6,,

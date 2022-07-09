@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,apasArakam,kim,acc. sg. m.,3,karma,4
+2,ca,ca,conj.,4,sambanxah,6
+3,svasammuKe,sammuKa,loc. sg. m.,6,axikaranam,4
+4,upasTApayitum,sTA,ca. inf.,10,prayojanam,6
+5,sevakam,sevaka,acc. sg. m.,11,karma,6
+6,AdiSat,diS,impft. [6] ac. sg. 3,14,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,7
+1,eva,eva,prep.,1,sambanxah,0
+2,vAstavikaH,tad,nom. sg. m.,2,viseranam,6
+3,sanyAsI,as,nom. sg. m.,4,samucciwam,6
+4,mahAtmA,Atman,nom. pl. m.,22,samucciwam,6
+5,rAzwranetA,netf,nom. sg. m.,7,samucciwam,6
+6,vA,vA,conj.,8,viseranam,0
+7,yaH,yad,nom. sg. m.,9,,
+8,nirDanAn,nirDana,acc. pl. m.,10,karma,11
+9,sevate,seva,nom. du. f.,12,sambanxah,11
+10,Bajate,tad,nom. sg. n.,13,sambanxah,11
+11,vA,vA,conj.,14,prawiyogi,0

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kuru,kf,imp. [8] ac. sg. 2,0,prawiyogi,2
+1,idAnIm,idAnIm,loc. sg. m.,1,axikaranam,0
+2,yat,yad,acc. sg. n.,4,anuyogi,3
+3,icCasi,iz,pr. [6] ac. sg. 2,3,,

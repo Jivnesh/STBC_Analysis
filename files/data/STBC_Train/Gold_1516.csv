@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tilakasya,tilaka,g. sg. m.,0,rartisambanxah,4
+1,tatra,tatra,loc. sg. m.,1,axikaranam,5
+2,tadA,tadA,loc. sg. m.,2,axikaranam,5
+3,kim,kim,nom. sg. n.,4,viseranam,4
+4,uttaram,uttara,nom. sg. n.,10,karwa,5
+5,AsIt,As,aor. [5] ac. sg. 3,11,,

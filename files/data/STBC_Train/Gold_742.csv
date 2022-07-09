@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,DftaDanurvalayasya,valaya,g. sg. m.,0,rartisambanxah,1
+1,payomucaH,muc,g. sg. m.,4,rartisambanxah,2
+2,SabalimA,nakula,nom. sg. m.,15,karwa,6
+3,viviDopalakuRqaladyutivitAnakasaMvalitAaMSukaM,aMSuka,acc. sg. n.,16,viseranam,5
+4,balimAnamuzaH,muz,g. sg. m.,18,rartisambanxah,5
+5,vapuH,vapus,acc. sg. n.,19,karma,6
+6,anuyayO,yA,pft. ac. sg. 3,34,,

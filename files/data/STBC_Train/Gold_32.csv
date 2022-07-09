@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saNGe,pArTa,loc. sg. m.,0,axikaranam,2
+1,SaktiH,Sakti,nom. sg. f.,1,karwa,2
+2,Bavati,BU,pr. [1] ac. sg. 3,8,samucciwam,6
+3,Bede,Beda,loc. sg. m.,4,axikaranam,5
+4,nASaH,nASa,nom. sg. m.,5,karwa,5
+5,Bavati,BU,pr. [1] ac. sg. 3,10,samucciwam,6
+6,ca,ca,conj.,7,,

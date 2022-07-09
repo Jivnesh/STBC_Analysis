@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aBimuKapatitEH,pat,pp. . pl. ,1,viseranam,5
+1,ujjvalAm,ujjvalA,acc. sg. f.,2,viseranam,2
+2,udDatiM,udDati,acc. sg. f.,3,karma,3
+3,daDAnEH,DA,nom. sg. n.,7,bavalakranasapwami_samanakalah,11
+4,aNganAnAm,BUta,g. pl. n.,9,rartisambanxah,5
+5,agrahastEH,hasta,inst. pl. m.,10,karwa,11
+6,guRaprakarzAt,prakarza,abl. sg. m.,11,hewuh,7
+7,avajitaM,ji,pp. . sg. ,14,viseranam,10
+8,tarukisalayajAlaM,jAla,nom. sg. n.,16,viseranam,10
+9,prasaBaM,prasaBa,nom. sg. n.,18,viseranam,10
+10,BaNgam,BaNga,nom. sg. n.,21,karma,11
+11,anIyata,nI,impft . md. sg. 3,22,,

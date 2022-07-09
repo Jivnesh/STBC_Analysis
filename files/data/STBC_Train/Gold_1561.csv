@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hi,hi,conj.,0,sambanxah,7
+1,sarvaH,sarva,nom. sg. m.,1,karwa,7
+2,upagatam,gam,acc. sg. m.,4,viseranam,5
+3,api,api,conj.,5,sambanxah,2
+4,apacIyamAnam,pada,acc. sg. n.,9,viseranam,5
+5,ASrayam,ASraya,acc. sg. m.,10,karma,7
+6,na,na,conj.,13,sambanxah,7
+7,upEti,i,pr. ac. sg. 3,14,,

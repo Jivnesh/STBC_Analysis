@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,amunA,adas,i. sg. m.,NA,upapaxasambanxah,1
+1,samaM,samam,ind.,NA,sambanxah,3
+2,saraH,saras,acc. sg. n.,NA,karma,3
+3,avagAQuM,ava_gAh1,inf.,NA,prayojanam,5
+4,na,na,ind.,NA,sambanxah,5
+5,icCantI,iz2,ppr. ac,NA,viseranam,11
+6,saKIBiH,saKI,i. pl. f.,NA,karwa,10
+7,roDastaH,roDas,ind.,NA,apaxanam,10
+8,jalaM,jala,acc. sg. n.,NA,upapaxasambanxah,9
+9,prati,prati,ind.,NA,sambanxah,10
+10,IritA,Ir1,pp.,NA,viseranam,11
+11,navoQA,navoQA,nom. sg. f.,NA,karwa,14
+12,BayacakitaIkzaRaM,Baya-cakita-IkzaRa,nom. sg. n.,NA,viseranam,13
+13,voQAram,vah1,acc. sg. m.,NA,karma,14
+14,ASliSyat,AN_Sliz2,impft. ac. sg. 3,NA,,
+15,yataH,yataH,ind.,NA,viseranam,16
+16,kAraRAt,kAraRa,abl. sg. n.,NA,hewuh,17
+17,vipadi,vipad,loc. sg. f.,NA,axikaranam,21
+18,atiBUmiH,ati-BUmi,nom. sg. f.,NA,karwqsamanaxikaranam,21
+19,na,na,ind.,NA,sambanxah,21
+20,dUzitA,dUzitA,nom. sg. f.,NA,karwa,21
+21,Bavati,BU1,pr. ac. sg. 3,NA,,

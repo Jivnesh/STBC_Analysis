@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmanaH,Atman,g. sg. *,27,rartisambanxah,2
+1,anena,enas,i. sg. m.,2,viseranam,2
+2,upadeSena,upadeSa,i. sg. m.,3,karanam,7
+3,SAntamanAH,manas,nom. sg. m.,5,viseranam,4
+4,puruzaH,puruza,nom. sg. m.,7,karwa,11
+5,sAzwANgam,tad,adv.,9,kriyaviseranam,7
+6,tam,tad,acc. sg. m.,10,karma,7
+7,praRamya,nam,abs.,11,purvakalah,11
+8,tUzRIm,tUzRIm,adv.,12,kriyaviseranam,11
+9,gfham,gfha,nom. sg. n.,14,prawiyogi,10
+10,prati,prati,prep.,15,anuyogi,11
+11,prasTitaH,sTA,pp.,16,,

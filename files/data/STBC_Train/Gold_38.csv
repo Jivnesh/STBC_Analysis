@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,AtmAnam,Atman,acc. sg. *,1,karma,3
+2,bahubudDimantam,tad,acc. sg. m.,4,karmasamanaxikaranam,3
+3,manyate,man,pr. ps. sg. 3,5,,
+4,sma,sma,part.,6,sambanxah,3

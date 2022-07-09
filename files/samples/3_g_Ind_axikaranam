@@ -1,0 +1,51 @@
+0,paritaH,ca,conj.,0,sambanxah,7
+1,turagaSataAkulasya,Akula,g. sg. n.,2,rartisambanxah,2
+2,pratipaTaM,pratipaTa,conj.,3,axikaranam,7
+3,pramaTitaBUBftaH,BUBft,g. sg. m.,6,rartisambanxah,4
+4,satataM,satata,conj.,10,kriyaviseranam,7
+5,DftaSriyaH,SrI,g. sg. m.,14,upapaxasambanxah,6
+6,puraH,puras,conj.,16,axikaranam,13 ####### g_Ind_axikaranam #######
+7,paricalataH,cal,nom. sg. n.,18,viseranam,8
+8,balAnujabalasya,bala,g. sg. n.,19,upapaxasambanxah,9
+9,param,param,conj.,23,sambanxah,20
+10,ekaturaNgajanmanaH,janman,g. sg. n.,24,rartisambanxah,11
+11,mahIBftA,mahIBft,inst. sg. m.,32,karanam,13
+12,BfSaM,BfSam,conj.,35,kriyaviseranam,13
+13,maTitasya,maT,g. sg. m.,37,viseranam,15
+14,ciravigataSriyaH,SrI,g. sg. m.,41,viseranam,15
+15,jalaniDeH,niDi,g. sg. m.,42,rartisambanxah,18
+16,ca,ca,conj.,44,sambanxah,20
+17,tadA,tadA,conj.,45,axikaranam,20
+18,mahat,tad,nom. sg. n.,47,viseranam,19
+19,antaram,antara,nom. sg. n.,50,karwa,20
+20,aBavat,BU,impft . ac. sg. 3,51,,
+
+0,utsaNgitaamBaHkaRakaH,brahman,nom. sg. m.,0,viseranam,3
+1,elAlatAsPAlanalabDaganDaH,ganDa,nom. sg. m.,1,viseranam,3
+2,udanvataH,Atman,g. sg. m.,2,rartisambanxah,3
+3,naBasvAn,brahman,nom. sg. m.,4,karwa,9
+4,aDivelaM,vela,conj.,6,axikaranam,5 ####### g_Ind_axikaranam #######
+5,vrajataH,vraj,g. sg. m.,7,viseranam,6
+6,tasya,tad,g. sg. m.,9,rartisambanxah,7
+7,svedalavAn,lava,acc. pl. m.,10,karma,9
+8,anuvelaM,vela,conj.,12,axikaranam,9
+9,mamArja,mfj,pft. ac. sg. 3,13,,
+
+0,pratisaKi,saKi,conj.,1,axikaranam,3 ####### g_Ind_axikaranam #######
+1,kAminA,kAmin,inst. sg. m.,3,karwa,3
+2,anyanAmnA,nAman,inst. sg. n.,4,karanam,3
+3,hUtAyAH,tad,g. sg. f.,6,viseranam,5
+4,galanmuKendukAnteH,kAnti,g. sg. f.,7,viseranam,5
+5,hrImatyAH,mati,g. sg. f.,40,rartisambanxah,7
+6,kasyAScit,tad,g. sg. f.,13,viseranam,5
+7,aSruvarzEH,varza,inst. pl. m.,15,karwa,15
+8,sarasi,saras,loc. sg. n.,16,axikaranam,15
+9,drutam,drutam,conj.,19,viseranam,11
+10,antarDiM,antarDi,acc. sg. m.,20,karma,11
+11,kartum,kf,conj.,21,prayojanam,15
+12,payAMsi,payas,nom. pl. n.,23,karma,15
+13,BUmAnam,BUman,acc. sg. m.,24,karma,14
+14,gamayitum,Ric,conj.,25,prayojanam,15
+15,Izire,iz,pft. md. pl. 3,27,,
+16,iva,iva,conj.,28,sambanxah,15
+

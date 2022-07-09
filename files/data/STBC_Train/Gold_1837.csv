@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tarhi,tarhi,adv.,0,sambanxah,4
+1,kimarTam,arTa,acc. sg. m.,2,sambanxah,3
+2,aham,asmad,nom. sg. *,3,karwa,4
+3,parityaktaH,tyaj,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,Asam,as,impft. [2] ac. sg. 1,12,,

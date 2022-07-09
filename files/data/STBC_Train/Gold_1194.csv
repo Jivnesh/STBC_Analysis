@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavadBiH,BU,inst. pl. m.,0,karwa,1
+1,AdizwaH,Adizwa,pp. . sg. ,1,viseranam,2
+2,kiMkaraH,rAma,nom. sg. m.,4,karwa,4
+3,nagaraM,nagara,acc. sg. n.,6,karma,4
+4,agacCat,gam,impft . ac. sg. 3,8,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,conj.,0,kriyaviseranam,5
+1,tO,tad,nom. du. m.,2,karwa,5
+2,muneH,muni,g. sg. m.,3,rartisambanxah,3
+3,yajYam,yajYa,acc. sg. m.,7,karma,5
+4,pUrRam,pUrRa,acc. sg. m.,10,karmasamanaxikaranam,5
+5,akurutAm,kf,impft . ac. du. 3,11,,

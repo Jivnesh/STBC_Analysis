@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,tava,yuzmad,g. sg. *,1,rartisambanxah,2
+2,nirDanatAm,nirDana,acc. sg. f.,2,karma,3
+3,dUrIkartum,kf,inf.,4,prayojanam,5
+4,sahAyatAm,sahAya,acc. sg. f.,5,karma,5
+5,karomi,kf,pr. [8] ac. sg. 1,6,,

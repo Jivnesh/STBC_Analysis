@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mantrI,mantrin,nom. sg. m.,0,karwa,6
+1,tatkAlaM,tatkAla,loc. sg. m.,5,axikaranam,4
+2,vyADam,vyADa,acc. sg. m.,6,karma,6
+3,mfgAn,mfga,acc. pl. m.,8,karma,4
+4,nigfhya,api,conj.,10,purvakalah,5
+5,Anetum,nI,conj.,7,prayojanam,6
+6,AdiSat,diS,impft . ac. sg. 3,9,,

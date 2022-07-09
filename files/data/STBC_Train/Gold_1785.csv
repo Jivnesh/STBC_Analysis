@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,conj.,1,axikaranam,3
+1,te,tad,nom. pl. m.,4,karwa,3
+2,munIn,muni,acc. pl. m.,9,karma,3
+3,milanti,mil,pr. ac. pl. 3,0,,

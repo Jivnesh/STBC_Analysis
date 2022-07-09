@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tad,abl. sg. n.,56,apaxanam,2
+1,idam,idam,acc. sg. n.,37,karma,2
+2,jYAtvA,jYA,abs.,2,purvakalah,16
+3,yat,yad,conj.,3,samucciwam,17
+4,saH,tad,nom. sg. m.,4,karwa,16
+5,tu,tu,conj.,5,sambanxah,4
+6,rAtrO,rAtri,loc. sg. f.,6,axikaranam,7
+7,BuktvA,Buj,abs.,8,samucciwam,9
+8,pItvA,kf,abs.,10,samucciwam,9
+9,ca,ca,conj.,11,purvakalah,16
+10,gfhAt,gfha,abl. sg. n.,12,upapaxasambanxah,12
+11,kiYcit,rAjan,loc. sg. m.,13,viseranam,12
+12,dUre,dUra,loc. sg. m.,14,axikaranam,16
+13,eva,eva,prep.,20,sambanxah,12
+14,svasambanDinaH,sambanDi,g. sg. m.,29,rartisambanxah,15
+15,inDanavipaRO,vipaRa,loc. sg. f.,33,axikaranam,16
+16,gataH,gam,pp.,34,samucciwam,17
+17,ca,ca,conj.,35,,

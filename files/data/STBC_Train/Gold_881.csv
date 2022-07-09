@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,eva,adv.,0,samucciwam,6
+1,saH,tad,nom. sg. m.,1,karwa,5
+2,hastO,hasta,acc. du. m.,2,karma,4
+3,na,na,part.,4,sambanxah,4
+4,prasArya,sf,ca. abs.,6,purvakalah,5
+5,udatarat,tf,impft. [1] ac. sg. 3,7,samucciwam,6
+6,ca,ca,conj.,8,,

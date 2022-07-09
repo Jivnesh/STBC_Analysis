@@ -1,0 +1,24 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,1
+1,bruvantaM,brU,acc. sg. m.,2,viseranam,2
+2,tam,tad,acc. sg. m.,3,karma,5
+3,saH,tad,nom. sg. m.,4,viseranam,4
+4,vratI,vratin,nom. sg. m.,5,karwa,5
+5,uvAca,vac,pft. ac. sg. 3,6,samucciwam,22
+6,puruzottama,puruzottama,voc. sg. m.,8,samboxyah,10
+7,tvayA,yuzmad,inst. sg. n.,10,karwa,10
+8,itTaM,itTam,conj.,11,viseranam,10
+9,na,na,conj.,12,sambanxah,10
+10,vAcyaM,vac,acc. sg. m.,15,samucciwam,22
+11,yoginAm,yogin,g. pl. m.,16,rartisambanxah,13
+12,api,api,conj.,18,sambanxah,11
+13,tvam,yuzmad,nom. sg. n.,20,viseranam,15
+14,eva,eva,conj.,21,sambanxah,13
+15,sAkzAtkaraRIyaH,kf,pfp. . sg. ,24,karwa,16
+16,asi,as,pr. ac. sg. 2,25,samucciwam,22
+17,ityataH,itya,conj.,27,sambanxah,21
+18,guru,guru,nom. sg. n.,29,viseranam,19
+19,kAryam,kArya,nom. sg. n.,37,karwa,21
+20,kim,kim,nom. sg. n.,40,karwqsamanaxikaranam,21
+21,asti,as,pr. ac. sg. 3,41,samucciwam,22
+22,ca,ca,conj.,42,,

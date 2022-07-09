@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasyAH,tad,g. sg. f.,0,rartisambanxah,1
+1,sparSamAtreRa,mAtra,i. sg. m.,3,karanam,7
+2,rAjakumAraH,kumAra,nom. sg. m.,6,karwa,7
+3,tatkzaRam,kzaRa,loc. sg. m.,8,axikaranam,7
+4,eva,eva,prep.,9,sambanxah,3
+5,suptotTitaH,arTa,nom. sg. m.,10,prawiyogi,6
+6,iva,iva,part.,11,anuyogi,7
+7,jAgaritaH,jAgf,ca. pp.,12,,

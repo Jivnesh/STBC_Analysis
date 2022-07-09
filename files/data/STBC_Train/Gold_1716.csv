@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,cintAyAH,cintA,g. sg. f.,0,rartisambanxah,4
+1,na,na,part.,2,sambanxah,5
+2,kA,kim,nom. pl. f.,4,viseranam,4
+3,api,api,prep.,6,sambanxah,2
+4,vArtA,vArttA,nom. pl. f.,8,karwa,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7
+7,uktvA,vac,abs.,11,purvakalah,10
+8,tatkzaRam,kzaRa,loc. sg. m.,13,axikaranam,10
+9,eva,eva,prep.,14,sambanxah,8
+10,nirgataH,gam,pp.,15,,

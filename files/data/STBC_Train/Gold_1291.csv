@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmin,tad,loc. sg. n.,0,viseranam,1
+1,dine,dina,loc. sg. n.,4,axikaranam,11
+2,hastinApure,pura,loc. sg. m.,49,axikaranam,11
+3,SastrakOSalaparIkzAsparDAvasare,avasara,loc. sg. m.,69,axikaranam,11
+4,na,na,part.,16,sambanxah,7
+5,kasya,kim,g. sg. n.,17,rartisambanxah,7
+6,api,api,conj.,19,sambanxah,5
+7,viditaH,vid,nom. sg. m.,59,viseranam,8
+8,tvam,yuzmad,nom. sg. *,22,karwa,11
+9,DEryeRa,tad,i. sg. n.,23,kriyaviseranam,11
+10,sparDABUmim,BUmi,acc. sg. f.,25,karma,11
+11,AgataH,gam,nom. sg. m.,26,prawiyogi,12
+12,iti,iti,part.,27,anuyogi,13
+13,idam,dam,acc. sg. n.,28,karma,16
+14,dfQam,dfh,adv.,31,kriyaviseranam,16
+15,aham,asmad,nom. sg. *,32,karwa,16
+16,smarAmi,smf,pr. [1] ac. sg. 1,33,,

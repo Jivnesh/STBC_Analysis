@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kimarTam,kimarTa,nom. sg. n.,1,sambanxah,7
+1,tasyAH,tad,g. sg. f.,2,rartisambanxah,2
+2,jihvAyAm,jihvA,loc. sg. f.,4,axikaranam,7
+3,mama,asmad,g. sg. *.,5,rartisambanxah,4
+4,nAma,nAma,conj.,7,karwa,7
+5,etAvat,tad,acc. sg. n.,8,viseranam,6
+6,mADuryam,mADurya,acc. sg. n.,9,karma,7
+7,ApnuyAt,Ap,opt. ac. sg. 3,11,,

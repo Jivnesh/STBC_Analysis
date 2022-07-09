@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mantriRaH,mantrin,g. sg. m.,2,rartisambanxah,1
+1,anumatyA,anumati,i. sg. f.,24,karanam,7
+2,rAjA,rAjan,nom. sg. m.,8,karwa,7
+3,tam,tad,acc. sg. m.,12,viseranam,4
+4,yuvAnam,yuvan,acc. sg. m.,13,karma,7
+5,eva,eva,prep.,14,sambanxah,4
+6,svakIyapraDAnamantrirUpe,rUpa,acc. du. n.,18,kriyaviseranam,7
+7,niyuktavAn,vac,pp.,21,,
+8,iti,iti,part.,22,sambanxah,7

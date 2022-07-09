@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,banDaH,banDa,voc. sg. m.,0,samboxyah,4
+1,mayA,asmad,nom. sg. *,1,karwa,4
+2,tat,tad,acc. sg. n.,2,karma,4
+3,eva,eva,prep.,4,sambanxah,4
+4,Acaritam,car,acc. sg. n.,7,prawiyogi,5
+5,yat,yad,acc. sg. n.,21,anuyogi,7
+6,ekena,eka,i. sg. n.,10,viseranam,7
+7,prativeSinA,tad,i. sg. n.,12,karwa,11
+8,anyena,anya,i. sg. m.,13,viseranam,9
+9,prativeSinA,tad,i. sg. n.,16,prawiyogi,10
+10,saha,saha,prep.,17,anuyogi,7
+11,AcaraRIyam,car,pfp. [2],20,,

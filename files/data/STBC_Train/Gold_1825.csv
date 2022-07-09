@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yatra,yatra,conj.,0,viseranam,5
+1,apAMniDiH,niDi,nom. sg. m.,2,karwa,10
+2,amBaScyutaH,tad,acc. pl. m.,3,viseranam,4
+3,PenapinadDaBAsaH,BAs,acc. pl. m.,12,viseranam,4
+4,komalaratnarASIn,rASi,acc. pl. m.,15,karma,10
+5,Atape,Atapa,loc. sg. m.,16,axikaranam,6
+6,dAtum,dA,inf.,19,prawiyogi,7
+7,iva,iva,conj.,20,anuyogi,4
+8,aDitalpaM,talpa,conj.,24,axikaranam,10
+9,taraNgahastEH,hasta,inst. pl. m.,26,karanam,10
+10,vistArayAmAsa,Ric,pft. ac. sg. 3,28,,

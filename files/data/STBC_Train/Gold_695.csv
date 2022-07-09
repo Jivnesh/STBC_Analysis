@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,SrezWinaH,SrezWin,g. sg. m.,3,rartisambanxah,2
+2,manaH,manas,acc. sg. n.,5,karma,6
+3,tena,tad,nom. sg. n.,8,karwa,6
+4,na,na,part.,11,sambanxah,6
+5,eva,eva,prep.,12,sambanxah,4
+6,santuzwam,tuz,pp.,15,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,arjunasya,arjuna,g. sg. m.,0,viseranam,1
+1,mAtuH,mAtf,g. sg. f.,2,rartisambanxah,2
+2,hfdayam,hfdaya,nom. sg. n.,5,karwa,4
+3,idam,idam,nom. sg. n.,14,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,7,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ezu,idam,loc. pl. m.,1,sambanxah,2
+1,katamam,katama,nom. sg. n.,2,viseranam,2
+2,aBAvam,aBAva,acc. sg. m.,4,karma,3
+3,jijYAsate,jYA,pr. ac. sg. 3,5,,
+4,BavAn,Bava,acc. pl. m.,6,karwa,3

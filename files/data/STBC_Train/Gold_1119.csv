@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atra,atra,loc. sg. m.,0,axikaranam,6
+1,samayAtItAni,at,acc. pl. n.,2,viseranam,3
+2,rogakArIRi,kArin,acc. pl. n.,4,viseranam,3
+3,mizwAnnAni,anna,acc. pl. n.,17,karma,6
+4,na,na,part.,9,sambanxah,6
+5,eva,eva,prep.,10,sambanxah,4
+6,vikrIyante,krI,pr. ps. pl. 3,11,,
+7,iti,iti,part.,12,sambanxah,6

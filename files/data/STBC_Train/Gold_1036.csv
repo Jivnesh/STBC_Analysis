@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,trinayanalocanAnalArcirnirdagDasmarapftanADirAjyalakzmyAH,lakzmI,g. sg. f.,0,rartisambanxah,1
+1,yogyasya,yogya,g. sg. m.,3,rartisambanxah,2
+2,kAntAyAH,kAntA,g. sg. f.,5,rartisambanxah,3
+3,vaktraindoH,indu,g. sg. m.,6,rartisambanxah,4
+4,karakalaSaudyatEH,tad,inst. pl. n.,9,viseranam,5
+5,payoBiH,payas,inst. pl. n.,10,karanam,8
+6,ekaH,eka,nom. sg. m.,11,karwa,8
+7,mahAaBizekam,aBizeka,acc. sg. m.,12,karma,8
+8,akfta,kf,impft. md. sg. 3,15,,

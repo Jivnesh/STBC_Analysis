@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvaTA,sarvaTA,adv.,9,kriyaviseranam,1
+1,asahAyaH,sahAya,nom. sg. m.,27,viseranam,3
+2,ekAkI,ekAkin,nom. sg. m.,2,viseranam,3
+3,SyAmaH,SyAma,nom. sg. m.,3,karwa,7
+4,api,api,prep.,5,sambanxah,3
+5,jIvanataH,jIvana,abl. sg. n.,6,apaxanam,7
+6,nirASaH,ASa,nom. sg. m.,7,karwqsamanaxikaranam,7
+7,saYjAtaH,jAta,pp.,8,,

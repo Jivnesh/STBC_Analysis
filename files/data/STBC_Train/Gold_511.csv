@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatra,tatra,loc. sg. m.,0,axikaranam,5
+1,aham,asmad,nom. sg. *,1,karwa,5
+2,tuByam,yuzmad,dat. sg. *,2,sampraxanam,5
+3,mama,asmad,g. sg. *,3,rartisambanxah,4
+4,hfdayam,hfdaya,nom. sg. n.,5,karma,5
+5,dAsyAmi,dA,fut. ac. sg. 1,8,,

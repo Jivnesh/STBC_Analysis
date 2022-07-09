@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,devasya,deva,g. sg. m.,0,rartisambanxah,1
+1,pUjAyAH,pUjA,g. sg. f.,2,rartisambanxah,2
+2,suKaM,suKa,nom. sg. n.,6,karwa,3
+3,laBate,laB,pr. md. sg. 3,7,,

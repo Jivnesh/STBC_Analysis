@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gurunibiqanitambabimbaBArAkramaRanipIqitamaNganAjanasya,jana,g. sg. m.,0,rartisambanxah,1
+1,caraRayugaM,yuga,nom. sg. n.,4,karwa,6
+2,padezu,pada,loc. pl. n.,6,axikaranam,6
+3,alaktakacCalena,tad,inst. sg. m.,8,karanam,6
+4,svarasam,rasa,acc. sg. m.,9,karma,6
+5,asaktam,asakta,acc. sg. m.,13,viseranam,4
+6,asusruvat,sru,impft. ac. sg. 3,16,,

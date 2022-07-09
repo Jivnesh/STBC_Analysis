@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,5
+1,saPalatA,saPala,acc. pl. f.,2,karma,5
+2,na,na,part.,3,sambanxah,5
+3,kutra,kutra,loc. sg. m.,4,axikaranam,5
+4,api,api,conj.,5,sambanxah,3
+5,militA,mil,per. fut. ac. sg. 3,7,,

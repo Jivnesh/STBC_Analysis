@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrezWI,SrezWin,nom. sg. m.,0,karwa,4
+1,tam,tad,acc. sg. m.,1,karma,2
+2,praRamya,nam,abs.,2,purvakalah,4
+3,bahu,bahu,adv.,4,kriyaviseranam,4
+4,sammAnitavAn,man,ca. ppa.,5,,

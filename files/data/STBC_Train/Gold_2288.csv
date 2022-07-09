@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAme,rAma,nom. sg. n.,5,karwa,2
+1,citrakUwam,kUwa,acc. sg. m.,7,karma,2
+2,gate,gam,pp.,15,purvakalah,9
+3,putraSokAturaH,Atura,nom. sg. m.,51,viseranam,5
+4,rAjA,rAjan,nom. sg. m.,19,viseranam,5
+5,daSaraTaH,tad,nom. sg. m.,24,karwa,9
+6,sutam,suta,acc. sg. n.,42,karma,7
+7,vilapan,lap,ppr. [1] ac.,26,bavalakranasapwami_samanakalah,9
+8,svargam,svarga,acc. sg. m.,27,karma,9
+9,jagAma,gam,pft. ac. sg. 3,30,,

@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,rAjapuruzaH,puruza,nom. sg. m.,1,karwa,3
+1,praTamAyE,sidDi,dat. sg. f.,2,sampraxanam,3
+2,SiSum,SiSu,acc. sg. m.,3,karma,3
+3,ayacCat,yam,impft. [1] ac. sg. 3,4,samucciwam,7
+4,dvitIyAm,dvitIya,acc. sg. f.,5,sambanxah,6
+5,bandIgfham,gfha,acc. sg. n.,7,sambanxah,6
+6,anayat,nI,impft. [1] ac. sg. 3,9,samucciwam,7
+7,ca,ca,conj.,10,,

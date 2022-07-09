@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,calane,calana,loc. sg. m.,0,samucciwam,2
+1,BramaRe,BramaRa,loc. sg. n.,8,samucciwam,2
+2,ca,ca,conj.,9,axikaranam,6
+3,api,api,conj.,10,sambanxah,2
+4,saH,tad,nom. sg. m.,12,karwa,6
+5,asuviDAm,tad,acc. sg. f.,14,karma,6
+6,anuBavati,BU,pr. [1] ac. sg. 3,32,,
+7,sma,sma,part.,16,sambanxah,6

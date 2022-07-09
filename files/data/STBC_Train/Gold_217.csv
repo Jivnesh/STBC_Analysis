@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ante,anta,loc. sg. m.,0,axikaranam,4
+1,mAtA,mAtf,nom. sg. f.,1,karwa,4
+2,kiYcit,kim,acc. sg. m.,2,viseranam,3
+3,vaktum,vac,acc. sg. m.,3,karma,4
+4,udyatA,yat,ppr. [2] ac.,4,,

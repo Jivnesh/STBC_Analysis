@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. n.,0,axikaranam,3
+1,saH,tad,nom. sg. m.,1,karwa,8
+2,kfzRavastram,vastra,acc. sg. n.,3,karma,3
+3,pariDAya,DA,abs.,6,purvakalah,4
+4,BikzArTam,arTa,acc. sg. m.,25,prayojanam,8
+5,ekasya,eka,g. sg. m.,8,viseranam,6
+6,gfhasTasya,gfhasTa,g. sg. m.,10,rartisambanxah,7
+7,AvAsam,AvAsa,acc. sg. m.,12,karma,8
+8,prAptaH,Ap,pp.,11,,

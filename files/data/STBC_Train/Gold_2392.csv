@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekaH,eka,nom. sg. m.,0,karwa,8
+1,ArakzamagnaM,tad,acc. sg. m.,3,viseranam,3
+2,SitAgraM,agra,acc. sg. m.,31,viseranam,3
+3,sfRim,sfRi,acc. sg. m.,5,karma,4
+4,avamatya,man,abs.,6,purvakalah,8
+5,kftArtanAdaH,nAda,nom. sg. m.,9,karwa,6
+6,san,as,nom. sg. m.,10,bavalakranasapwami_samanakalah,8
+7,javena,java,inst. sg. m.,12,hewuh,8
+8,palAyata,ay,impft . md. sg. 3,13,,

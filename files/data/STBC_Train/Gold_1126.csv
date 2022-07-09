@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AyatimatIm,Ayat,acc. sg. f.,0,viseranam,2
+1,avfTA,api,conj.,1,kriyaviseranam,3
+2,SiroDiM,SiroDi,acc. sg. m.,2,karma,3
+3,biBrARam,Bf,acc. sg. m.,5,bavalakranasapwami_samanakalah,14
+4,udagramuKam,muKa,acc. sg. m.,7,viseranam,5
+5,Ozwrakam,Ozwraka,acc. sg. m.,8,karwa,14
+6,atirasAm,rasA,acc. sg. f.,13,viseranam,7
+7,pratyagratAm,rata,acc. sg. f.,15,karma,9
+8,aDikaM,aDika,acc. sg. m.,16,kriyaviseranam,9
+9,daDanti,DA,acc. pl. n.,19,viseranam,12
+10,aBraMlihAni,liha,acc. pl. n.,20,viseranam,12
+11,tarURAM,taru,g. pl. m.,21,rartisambanxah,12
+12,navapallavAni,pallava,acc. pl. n.,22,karma,14
+13,lolozWaM,tad,acc. sg. m.,24,kriyaviseranam,14
+14,lilihe,lih,pft. md. sg. 3,25,,

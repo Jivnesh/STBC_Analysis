@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,2
+1,girO,giri,loc. sg. m.,3,axikaranam,2
+2,riraMsuM,riraMsu,acc. sg. m.,4,prayojanam,12
+3,satAM,sat,g. pl. m.,7,rartisambanxah,4
+4,vipadantakftam,kft,acc. sg. m.,10,viseranam,5
+5,amuM,adas,acc. sg. m.,11,karma,6
+6,nizevituM,sev,conj.,12,purvakalah,12
+7,kftayaTAsvataruprasavaSriyA,SrI,inst. sg. m.,14,viseranam,8
+8,ftugaRena,gaRa,inst. sg. m.,15,karwa,12
+9,yugapat,ca,conj.,16,viseranam,12
+10,Buvi,BU,loc. sg. f.,17,axikaranam,12
+11,padam,pada,nom. sg. n.,20,karma,12
+12,AdaDe,DA,pft. md. sg. 3,22,,

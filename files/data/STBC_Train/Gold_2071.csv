@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,paRqitaH,paRqita,nom. sg. m.,0,karwa,4
+1,tat,tad,acc. sg. n.,1,karma,4
+2,na,na,part.,5,sambanxah,4
+3,eva,eva,prep.,6,sambanxah,2
+4,svIkftavAn,AraB,ppa.,8,samucciwam,6
+5,kaTitavAn,gam,pp.,9,samucciwam,6
+6,ca,ca,conj.,10,,

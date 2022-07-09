@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,indraprasTagamaH,gama,nom. sg. m.,2,karma,3
+1,tAvat,tAvat,conj.,3,kriyaviseranam,3
+2,mA,mA,conj.,4,sambanxah,3
+3,kAri,kf,impft. md. sg. ,5,samucciwam,8
+4,cedayaH,cedi,nom. pl. m.,6,karwa,7
+5,AsmAkadantisAnniDyAt,tva,abl. sg. n.,10,hewuh,7
+6,vAminIBUtaBUruhaH,BUruha,nom. pl. m.,13,karwqsamanaxikaranam,7
+7,santu,as,imp. ac. pl. 3,14,samucciwam,8
+8,ca,ca,conj.,15,,

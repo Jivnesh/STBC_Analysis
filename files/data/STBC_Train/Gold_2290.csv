@@ -1,0 +1,21 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guhena,guha,i. sg. m.,0,samucciwam,3
+1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3
+2,sItayA,sItA,i. sg. f.,2,samucciwam,3
+3,ca,ca,conj.,3,upapaxasambanxah,4
+4,sahitaH,sahita,prep.,4,sambanxah,5
+5,rAmaH,rAma,nom. sg. m.,5,karwa,19
+6,vanena,vana,i. sg. n.,6,karanam,8
+7,vanam,vana,acc. sg. n.,7,karma,8
+8,gatvA,gam,abs.,9,purvakalah,19
+9,bahUdakAH,udaka,acc. pl. f.,89,viseranam,10
+10,nadIH,nadI,acc. pl. f.,14,karma,11
+11,tIrtvA,tf,abs.,15,purvakalah,19
+12,BaradvAjasya,vAja,g. sg. m.,18,rartisambanxah,13
+13,SAsanAt,SAsana,abl. sg. m.,20,apaxanam,15
+14,citrakUwam,kUwa,acc. sg. m.,23,karma,15
+15,anuprApya,Apya,abs.,29,purvakalah,19
+16,vane,vana,loc. sg. n.,32,axikaranam,19
+17,ramyam,ramya,acc. sg. m.,38,viseranam,18
+18,AvasaTam,AvasaTa,acc. sg. m.,39,karma,19
+19,akarot,kf,impft. [8] ac. sg. 3,40,,

@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yadi,yad,conj.,0,,
+1,kadAcit,cit,loc. sg. m.,2,axikaranam,4
+2,siMhaH,siMha,nom. sg. m.,3,karwa,4
+3,ekam,eka,acc. sg. m.,4,karma,4
+4,praharet,hf,opt. [1] ac. sg. 3,7,prawiyogi,0
+5,tarhi,tarhi,adv.,8,kriyaviseranam,4
+6,dvitIyaH,dvitIya,nom. sg. m.,9,karwa,10
+7,siMham,siMha,acc. sg. m.,10,karma,10
+8,eva,eva,prep.,11,sambanxah,7
+9,svaSfNgeRa,SfNga,i. sg. m.,20,karanam,10
+10,vidArayet,vid,ca. opt. ac. sg. 3,14,prawiyogi,0

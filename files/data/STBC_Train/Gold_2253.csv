@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,navapremaRi,preman,loc. sg. m.,2,viseranam,1
+1,patyO,pati,loc. sg. m.,4,viseranam,7
+2,sAnurAgAH,tad,nom. pl. m.,6,viseranam,5
+3,surasundarIBiH,surasundarI,inst. pl. f.,8,upapaxasambanxah,4
+4,samAH,samA,nom. pl. f.,10,samucciwam,6
+5,striyaH,strI,nom. pl. f.,15,samucciwam,6
+6,ca,ca,conj.,18,karwa,8
+7,itastataH,api,conj.,17,axikaranam,8
+8,vilasanti,las,pr. ac. pl. 3,19,,

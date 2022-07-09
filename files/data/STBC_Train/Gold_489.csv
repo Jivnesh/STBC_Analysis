@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAmahAnIlaSilArucaH,ruc,g. sg. m.,3,viseranam,1
+1,kaMsakfzaH,tad,g. sg. m.,4,rartisambanxah,2
+2,puraH,puras,conj.,6,viseranam,5
+3,uccakEH,ca,conj.,7,viseranam,4
+4,vizware,vizwara,loc. sg. m.,12,axikaranam,5
+5,nizedivAn,sad,pp. . sg. ,13,viseranam,6
+6,saH,tad,nom. sg. m.,14,karwa,11
+7,aBisAyaM,sAyam,conj.,17,sambanxah,9
+8,SritodayAdreH,udayAdri,g. sg. m.,19,viseranam,9
+9,candramasaH,candramas,g. sg. m.,22,rartisambanxah,10
+10,aBirAmatAm,rAma,acc. sg. f.,24,karma,11
+11,acUcurat,Ric,impft. ac. sg. 3,25,,

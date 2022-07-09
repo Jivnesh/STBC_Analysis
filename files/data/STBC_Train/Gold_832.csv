@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratIkzyAyE,Ikz,dat. sg. f.,0,viseranam,1
+1,pitfsvasre,svasf,dat. sg. f.,1,prayojanam,6
+2,te,yuzmad,g. sg. n.,8,rartisambanxah,3
+3,sUnoH,sUnu,g. sg. m.,9,rartisambanxah,4
+4,Satam,Sata,nom. sg. n.,14,karwa,6
+5,AgAMsi,Agas,acc. pl. n.,15,karma,6
+6,sahizye,sah,fut. md. sg. 1,17,prawiyogi,7
+7,iti,iti,conj.,18,anuyogi,8
+8,yat,yad,nom. sg. n.,32,sambanxah,11
+9,tvayA,yuzmad,inst. sg. n.,20,karwa,12
+10,pratiSrutaM,Sru,nom. sg. n.,23,viseranam,11
+11,tat,tad,nom. sg. n.,25,karma,12
+12,pratIkzyam,Ikz,nom. sg. n.,28,,

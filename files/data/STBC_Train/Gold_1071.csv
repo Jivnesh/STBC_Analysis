@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SvaSuraH,SvaSura,nom. sg. m.,0,karwa,5
+1,api,api,conj.,1,sambanxah,0
+2,anena,Ana,i. sg. n.,4,karanam,5
+3,AtmAnam,Atman,acc. sg. *,5,karma,5
+4,gOravAnvitam,anu,acc. sg. n.,9,karmasamanaxikaranam,5
+5,amanyata,man,impft. ps. sg. 3,10,,

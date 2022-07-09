@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bavitavyam,BU,pfp. [3],2,,
+1,eva,eva,prep.,3,sambanxah,0
+2,tena,tad,nom. sg. n.,5,karwa,0

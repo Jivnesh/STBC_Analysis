@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,loc. sg. m.,0,axikaranam,6
+1,sugrIvasahitaH,sahita,nom. sg. m.,19,viseranam,2
+2,rAmaH,rAma,nom. sg. m.,3,karwa,11
+3,tat,tad,acc. sg. n.,4,viseranam,4
+4,puzpakam,puzpaka,acc. sg. n.,6,karma,6
+5,punaH,punar,adv.,8,kriyaviseranam,6
+6,samAruhya,ruh,pr. ps. sg. 1,43,purvakalah,11
+7,AKyAyikAm,tad,acc. sg. f.,11,karma,8
+8,jalpan,jalp,ppr. [1] ac.,12,bavalakranasapwami_samanakalah,11
+9,tadA,tadA,loc. sg. m.,13,axikaranam,11
+10,nandigrAmam,grAma,acc. sg. m.,16,karma,11
+11,yayO,yA,pft. ac. sg. 3,17,,

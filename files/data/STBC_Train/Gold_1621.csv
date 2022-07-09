@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,durganDena,durganDa,i. sg. m.,0,hewuh,5
+1,tu,tu,conj.,2,sambanxah,0
+2,SvAsagrahaRam,grahaRa,acc. sg. m.,4,karwa,5
+3,api,api,conj.,7,sambanxah,2
+4,kaWinam,kaWina,nom. sg. n.,11,karwqsamanaxikaranam,5
+5,aBavat,BU,impft. [1] ac. sg. 3,12,,

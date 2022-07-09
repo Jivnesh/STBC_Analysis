@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,punaH,punar,loc. sg. n.,1,axikaranam,2
+1,arjunaH,arjuna,nom. sg. m.,2,karwa,2
+2,akaTayat,kaT,impft. [10] ac. sg. 3,3,,

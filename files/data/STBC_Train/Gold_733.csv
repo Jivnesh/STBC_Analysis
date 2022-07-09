@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vinA,vinA,conj.,0,anuyogi,2
+1,tapasyAM,tapas,acc. sg. f.,2,prawiyogi,0
+2,vidyA,vidyA,nom. sg. f.,10,karwa,4
+3,na,na,conj.,5,sambanxah,4
+4,milati,mil,pr. ac. sg. 3,6,,

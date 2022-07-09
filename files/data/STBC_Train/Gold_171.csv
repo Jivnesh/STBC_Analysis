@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yasyAm,yad,loc. sg. f.,0,axikaranam,5
+1,ajihmAH,ajihma,nom. pl. m.,4,viseranam,2
+2,apaNkAH,apaNka,nom. pl. m.,6,karwa,5
+3,mahatIM,mahatI,acc. sg. f.,7,viseranam,4
+4,sImAnam,sIman,acc. sg. f.,9,karma,5
+5,atyajantaH,tyaj,nom. pl. m.,12,viseranam,9
+6,atyAyatayaH,Ayati,nom. pl. m.,14,viseranam,9
+7,dvaye,dvaya,loc. sg. n.,18,axikaranam,14
+8,api,api,conj.,19,sambanxah,9
+9,vinItamArgAH,mArga,nom. pl. m.,22,karma,14
+10,ajAtasKalanEH,sKalana,inst. pl. m.,27,viseranam,11
+11,janEH,jana,inst. pl. m.,29,karwa,14
+12,jAtu,jAtu,conj.,30,sambanxah,14
+13,na,na,conj.,31,sambanxah,14
+14,amucyanta,muc,impft . md. pl. 3,32,,

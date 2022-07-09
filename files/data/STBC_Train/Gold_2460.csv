@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,agninA,agni,i. sg. f.,1,karanam,2
+1,agniH,agni,nom. sg. m.,2,karwa,2
+2,vivarDeta,vfD,opt. [1] md. sg. 3,3,,

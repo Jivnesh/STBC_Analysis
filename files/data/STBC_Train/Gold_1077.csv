@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kanyayoH,kanyA,g. du. n.,7,rartisambanxah,1
+1,vivAhasya,vivAha,g. sg. m.,8,rartisambanxah,2
+2,samBArAH,samBAra,nom. pl. m.,9,karma,3
+3,kriyante,kf,pr. ps. pl. 3,12,,

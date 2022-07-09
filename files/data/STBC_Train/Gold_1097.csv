@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,9
+1,asyAH,as,aor. [5] ac. sg. 3,2,viseranam,2
+2,vfdDAyAH,vfdDA,g. sg. f.,4,rartisambanxah,3
+3,pOtram,pOtra,acc. sg. m.,5,karma,4
+4,anvizya,iz,conj.,8,purvakalah,7
+5,asyE,asi,dat. sg. f.,9,sampraxanam,7
+6,saH,tad,nom. sg. m.,10,karwa,7
+7,deyaH,deya,pfp. . sg. ,13,samucciwam,9
+8,eva,eva,conj.,14,sambanxah,7
+9,ca,ca,conj.,15,,

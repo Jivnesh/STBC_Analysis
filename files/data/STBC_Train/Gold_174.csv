@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarve,sarva,nom. pl. m.,0,viseranam,2
+1,api,api,conj.,5,sambanxah,0
+2,saByAH,saBya,nom. pl. m.,7,karwa,6
+3,rAjYaH,rAjan,g. sg. m.,11,rartisambanxah,4
+4,OdAryam,OdArya,acc. sg. n.,13,karma,6
+5,BfSam,BfSa,adv.,17,kriyaviseranam,6
+6,aBinanditavantaH,kf,ca. ppa.,18,,

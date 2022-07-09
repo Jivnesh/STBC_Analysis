@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yUnA,yuvan,inst. sg. m.,1,karwa,6
+1,aBinavoQavaDUH,vaDU,nom. sg. f.,3,karma,6
+2,balAt,bala,conj.,6,viseranam,4
+3,muKakamalakam,alaka,acc. sg. n.,9,karma,4
+4,unnamayya,nam,conj.,11,purvakalah,6
+5,yat,yad,nom. sg. n.,30,sambanxah,6
+6,acumbi,cumb,impft. md. sg. 3,13,samucciwam,14
+7,tat,tad,acc. sg. n.,14,sambanxah,12
+8,vidagDasaKyA,saKI,inst. sg. f.,17,karwa,12
+9,bAlapallavAgragrahaparayA,parA,inst. sg. f.,20,viseranam,8
+10,api,api,conj.,21,sambanxah,9
+11,na,na,conj.,23,sambanxah,12
+12,vivide,vid,pft. md. sg. 3,24,samucciwam,14
+13,kila,kila,conj.,26,sambanxah,12
+14,ca,ca,conj.,27,,

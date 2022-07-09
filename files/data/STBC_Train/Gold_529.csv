@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ABaraRasya,ABaraRa,g. sg. n.,0,rartisambanxah,1
+1,samIpam,samIpa,loc. sg. m.,3,axikaranam,3
+2,sarpam,sarpa,acc. sg. m.,4,karma,3
+3,dfzwvA,dfS,abs.,7,purvakalah,9
+4,te,yuzmad,nom. du. n.,14,karwa,9
+5,tasya,tad,acc. sg. n.,16,karma,7
+6,vaDam,vaDa,acc. sg. m.,17,karma,7
+7,kftvA,kf,abs.,22,purvakalah,9
+8,ABaraRam,ABaraRa,acc. sg. n.,20,karma,9
+9,pratyAnayanti,as,ppr. [1] ac.,24,,

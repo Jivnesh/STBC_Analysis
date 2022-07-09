@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anena,idam,inst. sg. m.,1,karanam,2
+1,SarIraM,SarIra,nom. sg. n.,4,karwa,2
+2,syAt,as,opt. ac. sg. 3,5,,
+3,ca,ca,conj.,6,sambanxah,2
+4,kAryakft,kft,pp. . . ,13,karwqsamanaxikaranam,2

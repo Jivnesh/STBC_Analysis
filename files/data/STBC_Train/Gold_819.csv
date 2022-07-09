@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yugAntakAlapratisaMhftaAtmanaH,Atman,g. sg. m.,3,viseranam,1
+1,kEwaBadvizaH,dviza,g. sg. m.,9,rartisambanxah,2
+2,yasyAM,yad,loc. sg. f.,10,viseranam,3
+3,tanO,tanu,loc. sg. f.,13,axikaranam,6
+4,jaganti,tad,nom. pl. n.,15,karwa,6
+5,savikAsam,vikAsa,acc. sg. m.,17,viseranam,6
+6,Asata,as,impft . md. sg. 3,20,samucciwam,12
+7,tatra,tatra,conj.,21,axikaranam,11
+8,tapoDanaaByAgamasamBavAH,samBava,nom. pl. m.,22,viseranam,9
+9,mudaH,mud,nom. pl. f.,24,karwa,11
+10,na,na,conj.,28,sambanxah,11
+11,mamuH,mA,pft. ac. pl. 3,30,samucciwam,12
+12,ca,ca,conj.,31,,

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyasmin,anya,loc. du. m.,1,viseranam,1
+1,dine,dina,loc. du. n.,4,axikaranam,10
+2,prAtaH,prAtar,loc. sg. n.,5,axikaranam,10
+3,SrezWI,SrezWin,nom. sg. m.,6,karwa,12
+4,sarvAn,sarva,acc. pl. m.,7,viseranam,6
+5,api,api,conj.,8,sambanxah,4
+6,sadasyAn,sadasya,acc. pl. m.,10,karma,10
+7,daridratAyAH,tad,g. sg. f.,12,rartisambanxah,9
+8,samastAm,asta,acc. sg. f.,13,viseranam,9
+9,GawanAm,Gawana,acc. sg. f.,14,karma,10
+10,SrAvayitvA,Sru,ca. abs.,15,purvakalah,12
+11,varavizaye,vizaya,loc. sg. n.,32,axikaranam,12
+12,apfcCat,brU,impft. [6] ac. sg. 3,21,,

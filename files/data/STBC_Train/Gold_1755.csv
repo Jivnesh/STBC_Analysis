@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vidvAn,vidvas,nom. sg. m.,28,viseranam,4
+1,tasyAM,tad,loc. sg. f.,1,viseranam,2
+2,puri,pur,loc. sg. f.,2,axikaranam,14
+3,dattacakzuH,cakzu,nom. sg. m.,5,viseranam,4
+4,asO,adas,nom. sg. m.,31,karwa,14
+5,nirantarABiH,nirantara,inst. pl. f.,8,viseranam,6
+6,anIkinIBiH,anIkinI,inst. pl. f.,9,karwa,12
+7,nirucCvAsaM,nirucCvAsa,acc. sg. n.,11,viseranam,8
+8,vartma,vartman,acc. sg. n.,17,karma,14
+9,upeyuzaH,tad,g. sg. m.,16,viseranam,10
+10,raTasya,raTa,g. sg. m.,19,rartisambanxah,12
+11,SanEH,ca,conj.,20,viseranam,12
+12,yAtaM,yA,nom. sg. n.,21,samucciwam,15
+13,na,na,conj.,22,sambanxah,14
+14,vidAmAsa,vid,pft. ac. sg. 3,26,samucciwam,15
+15,ca,ca,conj.,27,,

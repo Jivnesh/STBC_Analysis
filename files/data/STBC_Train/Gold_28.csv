@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,senApatiH,pat,nom. sg. m.,1,karwa,4
+1,kim,kim,acc. sg. n.,2,karma,2
+2,kftvA,kf,abs.,4,purvakalah,4
+3,pracalitaH,calita,loc. sg. m.,5,axikaranam,4
+4,agre,agra,acc. du. n.,6,,

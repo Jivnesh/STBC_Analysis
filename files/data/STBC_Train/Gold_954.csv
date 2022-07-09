@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tatsambanDe,sambanDa,loc. sg. m.,1,axikaranam,5
+1,ca,ca,conj.,2,sambanxah,5
+2,kAMScit,kim,acc. pl. m.,3,viseranam,3
+3,praSaMsASabdAn,Sabda,acc. pl. m.,6,karma,5
+4,api,api,conj.,7,sambanxah,3
+5,kaTitavAn,samAvft,pp.,9,,

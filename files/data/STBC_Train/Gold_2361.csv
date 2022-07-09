@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,6
+1,tasya,tas,imp. ac. sg. 2,2,rartisambanxah,2
+2,kim,kim,nom. sg. n.,4,karma,5
+3,api,api,conj.,5,sambanxah,2
+4,na,na,conj.,7,sambanxah,5
+5,Srutam,Sruta,pp. . sg. ,10,samucciwam,6
+6,ca,ca,conj.,11,,

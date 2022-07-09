@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gfham,gfha,acc. sg. n.,0,karma,1
+1,gatvA,gam,conj.,2,purvakalah,6
+2,bAlikA,bAlikA,nom. sg. f.,3,karwa,6
+3,tam,tad,acc. sg. m.,4,viseranam,4
+4,modakam,modaka,acc. sg. m.,5,karma,6
+5,mAtre,mAtf,dat. sg. m.,16,sampraxanam,6
+6,dattavatI,datta,pp. . sg. ,19,,

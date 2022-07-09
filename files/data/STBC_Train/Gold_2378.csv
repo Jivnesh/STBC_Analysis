@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ciram,ciram,conj.,2,kriyaviseranam,5
+1,api,api,conj.,3,sambanxah,0
+2,prayAsaBAjaH,tad,nom. pl. f.,6,karma,5
+3,cet,ced,conj.,7,sambanxah,5
+4,kimuta,kim,conj.,10,sambanxah,5
+5,vaktavyam,vac,pfp. . sg. ,13,,

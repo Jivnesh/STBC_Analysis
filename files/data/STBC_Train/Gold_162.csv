@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,viseranam,1
+1,bAlaH,bAla,nom. sg. m.,1,karwa,5
+2,san,as,nom. sg. m.,2,bavalakranasapwami_samanakalah,5
+3,vapuzA,vapus,inst. sg. n.,4,karanam,5
+4,caturBujaH,caturBuja,nom. sg. m.,6,karwa,5
+5,AsIt,as,impft . ac. sg. 3,8,samucciwam,21
+6,saH,tad,nom. sg. m.,9,viseranam,9
+7,muKena,muKa,inst. sg. n.,10,karanam,10
+8,pUrRenduniBaH,niBa,nom. sg. m.,12,viseranam,9
+9,trilocanaH,trilocana,nom. sg. m.,14,karwa,10
+10,AsIt,as,impft . ac. sg. 3,16,samucciwam,21
+11,samprati,samprati,conj.,17,kriyaviseranam,19
+12,tu,tu,conj.,18,sambanxah,19
+13,saH,tad,nom. sg. m.,19,viseranam,18
+14,yuvA,yuvan,nom. sg. m.,20,viseranam,18
+15,karAkrAntamahIBft,mahIBft,nom. sg. m.,28,viseranam,18
+16,uccakEH,yAvat,conj.,29,viseranam,17
+17,tejasA,tejas,inst. sg. n.,30,karanam,19
+18,raviH,ravi,nom. sg. m.,31,karwa,19
+19,asti,as,pr. ac. sg. 3,32,samucciwam,21
+20,asaMSayam,asaMSaya,nom. sg. m.,34,karwqsamanaxikaranam,19
+21,ca,ca,conj.,35,,

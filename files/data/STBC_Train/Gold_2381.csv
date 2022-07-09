@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viramya,ram,ca. abs.,0,purvakalah,4
+1,saH,tad,nom. sg. m.,1,karwa,4
+2,kiYcit,kim,acc. sg. m.,2,karma,3
+3,vicArayitum,car,ca. inf.,3,prayojanam,4
+4,pravfttaH,vftta,pp.,4,,

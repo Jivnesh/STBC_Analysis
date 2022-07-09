@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,raTAvayavaAyuDaH,AyuDa,nom. sg. m.,3,karwa,10
+1,antaritAhimadIDitiM,dIDiti,acc. sg. m.,4,viseranam,10
+2,taTA,taTA,conj.,5,sambanxah,10
+3,KagakulAya,kula,dat. sg. n.,6,prayojanam,5
+4,kulAyanilAyitAM,tad,acc. sg. f.,7,karma,5
+5,dadataM,dA,acc. sg. m.,8,bavalakranasapwami_samanakalah,10
+6,diSAm,diS,g. pl. f.,10,rartisambanxah,7
+7,aboDakftaM,kft,acc. sg. m.,13,viseranam,8
+8,jaladakAlam,kAla,acc. sg. m.,15,karma,10
+9,aparaTA,raTa,conj.,19,viseranam,10
+10,Apa,Ap,pft. ac. sg. 3,21,,

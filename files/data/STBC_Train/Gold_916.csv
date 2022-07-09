@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gajasya,ja,g. sg. m.,0,rartisambanxah,1
+1,karaBakaH,karaBaka,nom. sg. m.,1,karma,4
+2,sItayA,sItA,inst. sg. f.,2,karwa,4
+3,pallavEH,pallava,inst. pl. m.,4,karanam,4
+4,puzyate,puz,pr. md. sg. 3,6,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,0,kriyaviseranam,3
+1,sarvezu,sarva,nom. pl. m.,2,viseranam,2
+2,siMhezu,siMha,nom. pl. m.,3,karwa,3
+3,nirgatezu,gam,pp.,5,purvakalah,10
+4,SyAmaH,SyAma,nom. sg. m.,6,karwa,10
+5,api,api,conj.,7,sambanxah,4
+6,vfkzAt,vfkza,abl. sg. m.,9,apaxanam,7
+7,avatIrya,tf,abs.,10,purvakalah,10
+8,sakuSalam,kuSala,adv.,14,kriyaviseranam,10
+9,gfham,gfha,nom. sg. n.,16,karma,10
+10,pratyAgacCat,gam,impft. [1] ac. sg. 3,48,,
+11,iti,iti,part.,18,sambanxah,10

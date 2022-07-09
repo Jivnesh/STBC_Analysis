@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atasIsUnasamAnaBAsaH,BAs,g. sg. m.,8,viseranam,1
+1,tasya,tad,g. sg. m.,12,rartisambanxah,2
+2,ekabAhuH,bAhu,nom. sg. m.,10,karwa,8
+3,BrAmyanmayUKAvalimaRqalena,maRqala,inst. sg. n.,18,viseranam,4
+4,cakreRa,cakra,inst. sg. n.,19,karanam,8
+5,sPuranmahAvartaH,varta,nom. sg. m.,44,viseranam,6
+6,yamunAjalOGaH,sEnya,nom. sg. m.,25,prawiyogi,7
+7,iva,iva,conj.,26,anuyogi,2
+8,reje,rAj,pft. md. sg. 3,27,,

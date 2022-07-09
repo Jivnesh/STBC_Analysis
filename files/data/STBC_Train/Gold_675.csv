@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pratiyuvatO,yuvati,loc. sg. f.,1,viseranam,2
+1,vratativitatiBiH,vitati,inst. pl. f.,2,karanam,7
+2,tirohitAyAM,devI,loc. sg. f.,3,axikaranam,7
+3,priyaH,priya,nom. sg. m.,4,karwa,7
+4,priyAyAH,priyA,g. sg. f.,6,rartisambanxah,5
+5,vadanaM,vadana,acc. sg. n.,7,karma,7
+6,yat,yad,acc. sg. n.,27,viseranam,5
+7,aDayat,DA,impft . ac. sg. 3,10,samucciwam,11
+8,tad,tad,nom. sg. n.,11,sambanxah,10
+9,aDarAvalopanftyatkaravalayasvanitena,svanita,inst. sg. n.,15,karwa,10
+10,vivavre,vf,pft. md. sg. 3,16,samucciwam,11
+11,ca,ca,conj.,18,,

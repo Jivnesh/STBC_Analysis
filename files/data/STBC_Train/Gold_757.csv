@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asya,idam,g. sg. m.,0,viseranam,2
+1,ekasya,eka,g. sg. m.,1,viseranam,2
+2,vfkzasya,vfkza,g. sg. m.,3,rartisambanxah,4
+3,kIdfSI,dfS,nom. sg. f.,6,viseranam,4
+4,pIqA,pIqA,nom. sg. f.,13,karwa,5
+5,Bavati,BU,pr. ac. sg. 3,9,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yena,yad,i. sg. n.,0,hewuh,4
+1,viSrAmaH,viSrAma,nom. sg. m.,2,karwa,4
+2,tu,tu,conj.,3,sambanxah,1
+3,kaScana,cana,part.,5,viseranam,1
+4,milet,mil,opt. [6] ac. sg. 3,6,,

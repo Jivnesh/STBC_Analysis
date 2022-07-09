@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,navaambudaSyAmatanuH,tanu,nom. sg. m.,2,viseranam,1
+1,saH,tad,nom. sg. m.,3,karwa,6
+2,muneH,muni,g. sg. m.,4,rartisambanxah,3
+3,anujYayA,anujYA,inst. sg. f.,8,hewuh,6
+4,kAYcane,kAYcana,loc. sg. n.,12,axikaranam,6
+5,yatra,yatra,conj.,15,viseranam,4
+6,nyavikzata,viS,impft. ac. sg. 3,16,samucciwam,14
+7,tat,tad,nom. sg. n.,18,viseranam,8
+8,AsanaM,Asana,nom. sg. n.,20,karwa,13
+9,tadA,tadA,conj.,21,axikaranam,13
+10,jambUjanitaSriyaH,SrI,g. sg. f.,24,viseranam,11
+11,sumeruSrfNgasya,tad,g. sg. n.,26,rartisambanxah,12
+12,SriyaM,SrI,acc. sg. f.,27,karma,13
+13,jigAya,ji,pft. ac. sg. 3,28,samucciwam,14
+14,ca,ca,conj.,30,,

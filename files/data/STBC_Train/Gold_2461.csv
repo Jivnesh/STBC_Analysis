@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tarhi,tarhi,adv.,4,sambanxah,5
+1,kIdfSaH,kIdfSa,nom. sg. m.,5,viseranam,2
+2,saH,tad,nom. sg. m.,16,viseranam,4
+3,mahASaktiSAlI,SAli,nom. sg. m.,22,viseranam,4
+4,rAjA,rAjan,nom. sg. m.,0,karwa,5
+5,asit,as,pr. [2] ac. sg. 3,17,,

@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,praRayakopaBftaH,Bfta,nom. pl. f.,0,viseranam,9
+1,parANmuKAH,muKa,nom. pl. f.,1,viseranam,9
+2,api,api,conj.,2,sambanxah,1
+3,sapadi,sapadi,conj.,4,viseranam,8
+4,vAriDarAravaBIravaH,BIru,nom. pl. f.,6,viseranam,9
+5,aNganAH,aNganA,nom. pl. f.,8,viseranam,9
+6,aTa,aTa,conj.,9,sambanxah,8
+7,praRayinaH,praRayin,acc. pl. m.,10,karma,8
+8,parirabDuM,ca,conj.,17,purvakalah,11
+9,valirecitamaDyamAH,maDyama,nom. pl. f.,20,karwa,11
+10,satyaH,as,nom. pl. f.,22,viseranam,9
+11,vavalire,val,pft. md. pl. 3,23,,

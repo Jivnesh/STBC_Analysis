@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrUyate,Sru,pr. ps. sg. 3,0,prawiyogi,1
+1,yat,yad,acc. sg. n.,23,anuyogi,4
+2,kenacit,kim,i. sg. m.,3,viseranam,4
+3,tu,tu,conj.,5,sambanxah,2
+4,jIvAnurAgiRA,anurAgin,i. sg. m.,59,karwa,10
+5,nyAyAlaye,Alaya,loc. sg. m.,47,axikaranam,10
+6,etasmin,etad,loc. sg. m.,13,viseranam,7
+7,sambanDe,sambanDa,loc. sg. m.,14,axikaranam,10
+8,yAcikA,yAcaka,acc. pl. f.,15,karma,10
+9,api,api,conj.,17,sambanxah,8
+10,prastutA,stuta,pp.,21,,
+11,iti,iti,part.,22,sambanxah,10

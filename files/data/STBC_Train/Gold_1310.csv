@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrezWinA,SrezWin,inst. sg. m.,0,prawiyogi,1
+1,saha,saha,conj.,2,anuyogi,2
+2,sarve,sarva,acc. du. n.,5,karwa,4
+3,api,api,conj.,8,sambanxah,4
+4,prabudDAH,prabudDa,pp. . pl. ,12,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SirasaH,Siras,abl. sg. n.,1,apaxanam,2
+1,bahu,bahu,adv.,3,kriyaviseranam,4
+2,ruDiram,tad,nom. sg. n.,6,karwa,4
+3,niHsftam,sfta,nom. sg. n.,8,karwqsamanaxikaranam,4
+4,AsIt,as,aor. [5] ac. sg. 3,11,,

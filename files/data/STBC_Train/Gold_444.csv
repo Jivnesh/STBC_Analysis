@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,purA,purA,conj.,1,axikaranam,5
+1,BAryayA,BAryA,inst. sg. f.,3,prawiyogi,2
+2,saha,saha,conj.,5,anuyogi,3
+3,aham,asmad,nom. sg. *.,6,karwa,5
+4,ujjayinyAM,ujjayinI,loc. sg. f.,8,axikaranam,5
+5,avasam,vas,impft . ac. sg. 1,11,,

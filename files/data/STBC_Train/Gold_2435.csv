@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svArTI,arTin,nom. sg. m.,23,karwa,5
+1,svArTAtiriktam,rikta,acc. sg. n.,25,karma,5
+2,na,na,part.,5,sambanxah,5
+3,kiYcit,ca,adv.,6,kriyaviseranam,5
+4,kadApi,Ap,loc. sg. n.,7,axikaranam,5
+5,paSyati,paS,pr. [4] ac. sg. 3,8,,

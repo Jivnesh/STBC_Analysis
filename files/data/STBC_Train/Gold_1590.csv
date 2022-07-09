@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BavAn,tad,nom. sg. m.,1,viseranam,1
+1,dASaraTiH,dASaraTi,nom. sg. m.,2,karwa,11
+2,Bavan,BU,nom. sg. n.,3,bavalakranasapwami_samanakalah,11
+3,vanAntAt,vanAnta,abl. sg. m.,8,apaxanam,11
+4,vanitApahAriRam,apahArin,acc. sg. m.,33,viseranam,5
+5,amum,adas,acc. sg. m.,11,karma,11
+6,AbadDacalajjalAvilaM,Avila,acc. sg. m.,54,viseranam,7
+7,payoDiM,payoDi,acc. sg. m.,17,karma,8
+8,vilaNGya,laNG,abs.,18,purvakalah,11
+9,laNkAM,laNkA,acc. sg. f.,20,upapaxasambanxah,10
+10,nikazA,nikazA,conj.,23,sambanxah,11
+11,hanizyati,han,fut. ac. sg. 3,24,samucciwam,15
+12,smarati,smf,pr. ac. sg. 3,25,samucciwam,15
+13,adaH,adas,acc. sg. n.,26,karma,12
+14,kvacit,cit,conj.,28,axikaranam,12
+15,ca,ca,conj.,29,,

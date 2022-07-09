@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anaGaM,anaGa,acc. sg. m.,3,viseranam,1
+1,murAriM,murAri,acc. sg. m.,4,karma,2
+2,didfkzamARAH,dfS,nom. pl. m.,7,bavalakranasapwami_samanakalah,6
+3,janOGAH,tad,nom. pl. m.,8,karwa,6
+4,pratiraTyam,raTya,conj.,11,axikaranam,6
+5,ArAt,ArAt,conj.,12,kriyaviseranam,6
+6,IyuH,i,pft. ac. pl. 3,13,,

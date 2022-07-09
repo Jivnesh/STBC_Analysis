@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,svasamakze,samakza,loc. sg. m.,1,axikaranam,4
+1,eva,eva,prep.,7,sambanxah,0
+2,svasantAnAnAm,tad,g. pl. m.,11,rartisambanxah,3
+3,vaDam,vaDa,acc. sg. m.,12,karma,4
+4,drazwum,dfS,inf.,15,samucciwam,12
+5,apekzayA,apekzA,i. sg. f.,16,karwa,11
+6,tu,tu,conj.,17,sambanxah,5
+7,asmABiH,asmad,i. pl. *,18,karwa,10
+8,pUrvam,pUrva,loc. sg. m.,21,axikaranam,10
+9,eva,eva,prep.,22,sambanxah,8
+10,maraRIyam,tad,nom. sg. n.,25,karwa,11
+11,AsIt,as,aor. [5] ac. sg. 3,27,samucciwam,12
+12,ca,ca,conj.,28,,

@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vfkzaH,vfkza,nom. sg. m.,0,karwa,3
+1,manuzyam,manuzya,acc. sg. m.,1,karma,3
+2,kim,kim,nom. sg. n.,5,karma,3
+3,kaTitavAn,kaT,ppa.,6,,

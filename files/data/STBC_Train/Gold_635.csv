@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asO,adas,nom. sg. m.,22,karwa,9
+1,ASlizwaBUmim,BUmi,acc. sg. m.,2,viseranam,4
+2,uccEH,ucca,conj.,4,viseranam,3
+3,rasitAraM,Ara,acc. sg. m.,84,viseranam,4
+4,loladBujaAkArabfhattaraNgaM,pati,acc. sg. m.,6,karma,9
+5,PenAyamAnam,kyaN,acc. sg. m.,9,bavalakranasapwami_samanakalah,9
+6,ApagAnAM,ApagA,g. pl. f.,17,rartisambanxah,7
+7,patim,pati,acc. sg. m.,18,viseranam,8
+8,apasmAriRam,apasmArin,acc. sg. m.,19,karma,9
+9,ASaSaNke,SaNk,pft. md. sg. 3,20,,

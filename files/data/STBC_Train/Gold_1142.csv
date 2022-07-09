@@ -1,0 +1,21 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyadA,anyadA,conj.,0,sambanxah,1
+1,yozitaH,yozit,g. sg. f.,3,rartisambanxah,2
+2,lajjA,lajjA,nom. sg. f.,6,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,6
+4,puMsaH,tad,g. sg. m.,10,rartisambanxah,6
+5,anyadA,anyadA,conj.,11,sambanxah,6
+6,kzamA,kzamA,nom. sg. f.,67,karwa,8
+7,BUzaRam,BUzaRa,nom. sg. n.,19,karwqsamanaxikaranam,8
+8,Bavati,BU,pr. ac. sg. 3,20,samucciwam,19
+9,pariBave,pariBava,loc. sg. m.,21,axikaranam,18
+10,tu,tu,conj.,22,sambanxah,9
+11,yozitaH,yozit,g. sg. f.,25,rartisambanxah,13
+12,suratezu,surata,loc. pl. m.,27,axikaranam,18
+13,vEyAtyam,vEyAtya,nom. sg. n.,34,prawiyogi,14
+14,iva,iva,conj.,35,anuyogi,16
+15,puMsaH,tad,g. sg. m.,38,rartisambanxah,16
+16,parAkramaH,parAkrama,nom. sg. m.,39,karwa,18
+17,BUzaRam,BUzaRa,nom. sg. n.,42,karwqsamanaxikaranam,18
+18,Bavati,BU,pr. ac. sg. 3,43,samucciwam,19
+19,ca,ca,conj.,44,,

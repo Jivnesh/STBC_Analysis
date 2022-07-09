@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vanAnAm,vana,g. pl. n.,0,rartisambanxah,1
+1,AvaliH,Avali,nom. sg. f.,1,karwa,6
+2,nUtanapallavaaNgulIBiH,aNguli,inst. pl. f.,2,karanam,6
+3,tad,tad,conj.,4,sambanxah,6
+4,aBinayam,naya,acc. sg. m.,11,prawiyogi,5
+5,iva,iva,conj.,6,anuyogi,6
+6,atanuta,tan,impft . md. sg. 3,8,,

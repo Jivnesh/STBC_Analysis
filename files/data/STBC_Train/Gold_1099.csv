@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,baBroH,baBru,g. sg. m.,1,rartisambanxah,2
+2,dArAn,dAra,acc. pl. m.,3,karma,3
+3,apAharat,hf,impft . ps. sg. 3,4,prawiyogi,4
+4,iti,iti,conj.,5,anuyogi,5
+5,yat,yad,nom. sg. n.,28,viseranam,6
+6,idam,idam,nom. sg. n.,30,karwa,7
+7,Alapya,lap,abs.,8,purvakalah,16
+8,alam,alam,conj.,9,sambanxah,16
+9,yataH,yat,conj.,10,apaxanam,16
+10,pApAnAM,pApa,g. pl. m.,11,rartisambanxah,11
+11,kaTA,kaTA,nom. sg. f.,15,karwa,16
+12,api,api,conj.,16,sambanxah,11
+13,aSreyase,aSreyas,nom. sg. n.,20,upapaxasambanxah,14
+14,alaM,alam,conj.,21,sambanxah,16
+15,Kalu,Kalu,conj.,22,sambanxah,16
+16,Bavati,BU,pr. ac. sg. 3,23,,

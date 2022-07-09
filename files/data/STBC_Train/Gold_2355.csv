@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,avilambam,vilamba,adv.,3,kriyaviseranam,6
+1,eva,eva,prep.,4,sambanxah,0
+2,idAnIm,idAnIm,loc. sg. n.,5,axikaranam,6
+3,imAm,dam,acc. sg. f.,6,karma,6
+4,bahusammAnasahitAm,sahita,acc. sg. f.,22,karmasamanaxikaranam,6
+5,svakIyasTAnam,sTAna,loc. sg. m.,12,axikaranam,6
+6,prApayatu,Ap,ca. imp. ac. sg. 3,13,,

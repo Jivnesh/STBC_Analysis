@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,Kalu,Kalu,ind.,NA,prawiyogi,1
+1,iti,iti,ind.,NA,anuyogi,2
+2,banDutayA,banDutA,i. sg. f.,NA,hewuh,3
+3,uditEH,vad1,pp.,NA,viseranam,4
+4,ftEH,fta,i. pl. m.,NA,karanam,8
+5,bahiH,bahiH,ind.,NA,axikaranam,8
+6,praRayinaH,praRayin,g. sg. m.,NA,rartisambanxah,7
+7,svaraM,svara,acc. sg. m.,NA,karma,12
+8,niSamayya,ni_Sam2,abs.,NA,purvakalah,12
+9,vaDUH,vaDU,nom. sg. f.,NA,karwa,12
+10,amftEH,amfta,i. pl. n.,NA,prawiyogi,11
+11,iva,iva,ind.,NA,anuyogi,4
+12,nirvavO,nis_vA1,pft. ac. sg. 3,NA,,

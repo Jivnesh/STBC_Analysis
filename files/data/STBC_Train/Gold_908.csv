@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,putri,putrin,voc. sg. f.,1,samboxyah,6
+1,aham,asmad,nom. sg. *,2,karwa,6
+2,idam,idam,acc. sg. n.,11,karma,5
+3,eva,eva,prep.,4,sambanxah,2
+4,svasmin,sva,loc. sg. m.,5,axikaranam,5
+5,parIkzamARaH,Ikz,nom. sg. m.,7,karwqsamanaxikaranam,6
+6,Asam,as,impft. [2] ac. sg. 1,14,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aSmaBiH,aSman,i. pl. m.,0,karanam,3
+1,aSvasya,aSva,g. sg. m.,1,rartisambanxah,2
+2,gatiH,gati,nom. sg. f.,2,karwa,4
+3,kuRWitA,kuRWita,nom. sg. f.,8,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,9,,

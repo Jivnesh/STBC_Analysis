@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,acc. sg. n.,19,karma,1
+1,drazwum,dfS,inf.,1,prayojanam,7
+2,kasyacit,kim,g. sg. n.,2,rartisambanxah,4
+3,api,api,conj.,5,sambanxah,2
+4,samIpe,samIpa,loc. sg. m.,7,axikaranam,7
+5,samayaH,samaya,nom. sg. m.,13,karwa,7
+6,na,na,part.,16,sambanxah,7
+7,AsIt,as,aor. [5] ac. sg. 3,18,,

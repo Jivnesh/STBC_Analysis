@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvAm,yuzmad,acc. sg. *.,0,karma,4
+1,punaH,ca,conj.,2,sambanxah,4
+2,mama,asmad,g. sg. *.,3,rartisambanxah,3
+3,bAhupASena,tad,inst. sg. m.,5,karanam,4
+4,prAptum,Ap,conj.,6,prayojanam,7
+5,na,na,conj.,7,sambanxah,7
+6,aham,asmad,nom. sg. *.,8,karwa,7
+7,AgatA,gam,pp. . sg. ,9,,

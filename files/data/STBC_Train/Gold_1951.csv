@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nadyAH,nadI,g. sg. f.,0,rartisambanxah,1
+1,tawam,tawa,acc. sg. m.,2,karma,2
+2,gatvA,gam,conj.,3,purvakalah,5
+3,makaraH,makara,nom. sg. m.,4,karwa,5
+4,vAnaram,vAnara,acc. sg. m.,5,karma,5
+5,akaTayat,anujYA,impft . ac. sg. 3,6,,

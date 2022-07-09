@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tam,tad,acc. sg. m.,0,karma,1
+1,avalokya,lokya,abs.,1,purvakalah,5
+2,videSisahapAWinaH,pAWin,g. sg. m.,6,rartisambanxah,3
+3,grIvA,grIvA,nom. pl. f.,11,karwa,5
+4,lajjayA,ca,adv.,12,kriyaviseranam,5
+5,avanatA,van,ppr. [1] ac.,13,,

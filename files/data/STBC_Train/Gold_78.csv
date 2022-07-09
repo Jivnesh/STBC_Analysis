@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,acc. sg. n.,0,viseranam,1
+1,idam,idam,acc. sg. n.,6,karma,3
+2,tvam,yuzmad,nom. sg. *,3,karwa,3
+3,karizyasi,kf,fut. ac. sg. 2,4,,

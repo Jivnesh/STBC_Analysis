@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,atulapratApaH,pratApa,nom. sg. m.,0,viseranam,1
+1,saH,tad,nom. sg. m.,1,karwa,4
+2,tAM,tad,acc. sg. f.,2,viseranam,3
+3,puram,pur,acc. sg. f.,4,karma,4
+4,IkzamARaH,Ikz,nom. sg. m.,5,bavalakranasapwami_samanakalah,7
+5,purastAt,purastAt,conj.,6,sambanxah,7
+6,pratolIM,pratolI,acc. sg. f.,7,karma,7
+7,prApat,Ap,impft. ac. sg. 3,8,samucciwam,14
+8,vajrapraBodBAsisurAyuDaSrIH,SrI,nom. sg. f.,9,viseranam,10
+9,yA,yad,nom. sg. f.,23,karwa,13
+10,devasenA,devasenA,nom. sg. f.,14,prawiyogi,11
+11,iva,iva,conj.,15,anuyogi,9
+12,parEH,para,conj.,17,sambanxah,13
+13,alaNGyA,laNG,nom. sg. f.,20,samucciwam,14
+14,ca,ca,conj.,21,,

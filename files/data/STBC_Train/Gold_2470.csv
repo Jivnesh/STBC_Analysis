@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,manujAH,manuja,nom. pl. m.,1,karwa,9
+1,uzRauzRaSIkarasfjaH,sfja,acc. pl. m.,4,viseranam,7
+2,antaH,antar,conj.,6,axikaranam,3
+3,prabalauzmaRaH,uzman,acc. pl. m.,7,viseranam,7
+4,utPullanIlanalinaudaratulyaBAsaH,BAs,acc. pl. m.,14,viseranam,7
+5,viSAlaSirasaH,Siras,acc. pl. m.,16,viseranam,7
+6,ekAn,an,acc. pl. m.,18,viseranam,7
+7,nAgAn,nAga,acc. pl. m.,24,karma,9
+8,haricandanezu,candana,loc. pl. n.,20,axikaranam,9
+9,babanDuH,banD,pft. ac. pl. 3,21,samucciwam,13
+10,aparAn,apara,acc. pl. m.,22,viseranam,11
+11,nAgAn,nAga,acc. pl. m.,17,karma,12
+12,nirAsuH,as,pft. ac. pl. 3,0,samucciwam,13
+13,ca,ca,conj.,23,,

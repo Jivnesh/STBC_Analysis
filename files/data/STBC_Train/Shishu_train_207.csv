@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,cirAya,cirAya,ind.,NA,kriyaviseranam,4
+1,asuraH,asura,nom. sg. m.,NA,prawiyogi,2
+2,iti,iti,ind.,NA,anuyogi,3
+3,nAmnaH,nAman,g. sg. n.,NA,rartisambanxah,4
+4,praTamABiDeyatAM,praTamABiDeyatA,acc. sg. f.,NA,karma,6
+5,samatsareRa,samatsara,i. sg. m.,NA,viseranam,8
+6,upeyuzA,upeyuz,i. sg. m.,NA,viseranam,8
+7,tarasvinA,tarasvin,i. sg. m.,NA,viseranam,8
+8,yena,yad,i. sg. m.,NA,karwa,13
+9,dyusadAM,dyusad,g. pl. m.,NA,rartisambanxah,10
+10,manassu,manas,loc. pl. n.,NA,axikaranam,13
+11,Bayasya,Baya,g. sg. n.,NA,rartisambanxah,12
+12,pUrvaavatAraH,pUrva-avatAra,nom. sg. m.,NA,karma,13
+13,nyaDIyata,ni-DA1,impft. ps. sg. 3,NA,,

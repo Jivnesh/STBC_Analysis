@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSrAntena,Sram,nom. pl. f.,1,viseranam,1
+1,BavatA,Bava,nom. pl. f.,3,karwa,8
+2,mama,asmad,g. sg. *,4,rartisambanxah,6
+3,api,api,prep.,6,sambanxah,2
+4,ekasmin,eka,loc. sg. m.,7,viseranam,6
+5,anAyAse,AyAsa,loc. sg. m.,10,viseranam,6
+6,karmaRi,karman,loc. sg. m.,11,axikaranam,8
+7,sahAyena,sahAya,nom. sg. m.,12,karwqsamanaxikaranam,8
+8,Bavitavyam,kf,pfp. [3],15,,

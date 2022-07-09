@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,guruH,guru,nom. sg. m.,0,karwa,7
+1,ekalavyam,ekalavya,acc. sg. n.,4,karma,2
+2,upasftya,sf,abs.,5,purvakalah,7
+3,tasya,tad,g. sg. n.,6,rartisambanxah,4
+4,dakziRahastasya,hasta,g. sg. m.,9,rartisambanxah,5
+5,aNguzWam,aNguzWa,acc. sg. m.,10,karma,7
+6,gurudakziRArUpe,rUpa,loc. sg. n.,15,axikaranam,7
+7,ayAcata,yAc,impft. [1] md. sg. 3,16,,

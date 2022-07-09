@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tattyAge,tyAga,loc. sg. m.,1,axikaranam,3
+1,yAdfSam,yAdfS,nom. sg. n.,5,viseranam,2
+2,sOKyam,tad,nom. sg. n.,7,karwa,3
+3,Bavati,BU,pr. [1] ac. sg. 3,31,samucciwam,9
+4,tadAsaktO,Asakti,loc. sg. f.,40,axikaranam,8
+5,na,na,part.,12,sambanxah,8
+6,tAdfSam,tAdfS,nom. sg. n.,16,viseranam,7
+7,sOKyam,tad,nom. sg. n.,18,karwa,8
+8,Bavati,BU,pr. [1] ac. sg. 3,34,samucciwam,9
+9,ca,ca,conj.,20,,

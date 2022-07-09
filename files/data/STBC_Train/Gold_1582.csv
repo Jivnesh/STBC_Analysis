@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrAvakasya,SrAvaka,g. sg. m.,1,rartisambanxah,2
+1,imam,idam,acc. sg. m.,9,viseranam,2
+2,praSnam,praSna,acc. sg. m.,3,karma,3
+3,samADAtum,DAtu,acc. sg. m.,12,prayojanam,7
+4,kaTAvAcakaH,vAcaka,nom. sg. m.,6,karwa,7
+5,dfzwAntam,anta,acc. sg. m.,41,karma,7
+6,imam,dam,acc. sg. m.,0,viseranam,5
+7,prastutavAn,prastuta,pp.,10,,

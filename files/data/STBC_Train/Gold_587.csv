@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patipatnyoH,patnI,g. du. f.,2,rartisambanxah,1
+1,kalahaH,kalaha,nom. sg. m.,3,karwa,4
+2,kadA,kadA,loc. sg. m.,4,axikaranam,4
+3,kutra,kutra,loc. sg. m.,5,axikaranam,4
+4,aBavat,BU,impft. [1] ac. sg. 3,6,,

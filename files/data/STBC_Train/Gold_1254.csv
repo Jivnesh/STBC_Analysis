@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAm,asmad,acc. sg. *,0,karma,2
+1,parivAre,parivAra,loc. sg. m.,1,axikaranam,2
+2,roditum,rud,inf.,2,prayojanam,7
+3,kaScit,kim,nom. sg. m.,3,karwa,7
+4,api,api,conj.,5,sambanxah,3
+5,na,asmad,part.,9,sambanxah,7
+6,eva,eva,prep.,10,sambanxah,7
+7,asti,as,pr. [2] ac. sg. 3,11,,

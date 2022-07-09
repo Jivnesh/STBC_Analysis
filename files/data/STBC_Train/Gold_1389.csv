@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,8
+1,uccakEHtoraRasaNgaBaNgaBayAvanamrIkftaketanAni,ketana,nom. pl. n.,2,viseranam,2
+2,sEnyAni,sEnya,nom. pl. n.,4,karwa,8
+3,somAnvayaM,anvaya,acc. sg. m.,35,viseranam,5
+4,taM,tad,acc. sg. m.,8,viseranam,5
+5,sunItiBAjaM,BAj,acc. sg. m.,11,karma,8
+6,kriyAPalAni,Pala,nom. pl. n.,13,prawiyogi,7
+7,iva,iva,conj.,14,anuyogi,2
+8,anvayuH,yA,impft . ac. pl. 3,15,,

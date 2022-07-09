@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,eva,adv.,0,sambanxah,3
+1,tam,tad,acc. sg. m.,1,karma,3
+2,anaDikAriRam,aDikArin,acc. sg. m.,3,karmasamanaxikaranam,3
+3,matvA,man,abs.,4,purvakalah,5
+4,nizidDavAn,maDyama,nom. sg. m.,5,karwa,5
+5,AcAryaH,AcArya,ca. pfp. [1],7,,

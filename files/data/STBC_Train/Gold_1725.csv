@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saKIjane,jana,loc. sg. m.,0,karwa,2
+1,iti,iti,conj.,4,sambanxah,2
+2,vadati,vad,nom. sg. n.,5,purvakalah,15
+3,sati,as,nom. sg. n.,7,sambanxah,2
+4,aparaH,apara,nom. sg. m.,8,karwa,15
+5,dayitatamAm,tamA,acc. sg. f.,9,karma,8
+6,anurAgAt,anurAga,abl. sg. m.,10,hewuh,7
+7,ciraM,ciram,conj.,13,viseranam,8
+8,pratIkzya,Ikz,conj.,14,purvakalah,15
+9,tadanugamavaSAt,vaSa,abl. sg. m.,16,hewuh,10
+10,avanim,avani,acc. sg. f.,18,karma,11
+11,mimAnaH,mA,nom. sg. n.,19,prawiyogi,12
+12,iva,iva,conj.,20,anuyogi,4
+13,anAyatAni,yA,pp. . pl. ,23,viseranam,14
+14,padAni,pada,acc. pl. n.,24,karma,15
+15,nyaDita,DA,impft. ps. sg. 3,26,,

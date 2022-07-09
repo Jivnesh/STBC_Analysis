@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mama,asmad,g. sg. *,3,rartisambanxah,2
+1,eva,eva,prep.,4,sambanxah,0
+2,kAraRena,kAraRa,i. sg. n.,5,karanam,5
+3,te,tad,nom. du. n.,7,karwa,5
+4,pfTivyAm,pfTvI,loc. sg. f.,13,axikaranam,5
+5,vyalIyanta,lI,impft. [4] md. pl. 3,14,,

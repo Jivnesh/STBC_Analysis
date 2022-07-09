@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sasADvasAnAm,sADvasa,g. pl. m.,1,rartisambanxah,1
+1,kim,kim,conj.,3,prawiyogi,2
+2,iva,iva,conj.,4,anuyogi,3
+3,SaktiharaM,hara,nom. sg. n.,8,karwa,5
+4,na,na,conj.,9,sambanxah,5
+5,Bavati,BU,pr. ac. sg. 3,10,,

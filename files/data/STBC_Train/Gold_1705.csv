@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,gajaindrAH,indra,nom. pl. m.,0,karwa,12
+1,vikasataH,kas,g. sg. n.,1,viseranam,2
+2,madajalasya,jala,g. sg. n.,3,rartisambanxah,3
+3,candrakEH,candraka,inst. pl. m.,5,karanam,7
+4,mahAnadInAM,nadI,g. pl. f.,6,rartisambanxah,5
+5,yAM,yad,acc. sg. f.,7,viseranam,6
+6,netraSriyaM,SrI,acc. sg. f.,8,karma,7
+7,vidaDuH,DA,pft. ps. pl. 3,9,samucciwam,13
+8,tAm,tad,acc. sg. f.,10,karma,12
+9,uttarantaH,tad,nom. pl. m.,11,bavalakranasapwami_samanakalah,12
+10,DOtaaNgalagnanavanIlapayojapatrEH,pattra,inst. pl. n.,13,karanam,12
+11,avilambitam,avilambita,conj.,17,viseranam,12
+12,pratiavApuH,Ap,pft. ac. pl. 3,61,samucciwam,13
+13,ca,ca,conj.,19,,

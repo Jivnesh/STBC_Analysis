@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sEnikaH,pAWa,nom. sg. m.,0,samucciwam,3
+1,sEnikam,pAWa,acc. sg. m.,3,karma,4
+2,kim,kim,nom. sg. n.,5,samucciwam,3
+3,yadi,yad,conj.,6,karwa,4
+4,svadeSaBaktaH,Bakta,pp.,8,,

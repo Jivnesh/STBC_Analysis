@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tataH,tad,abl. pl. n.,30,apaxanam,1
+1,satsaNgalABAya,lABa,dat. sg. m.,4,waxarwyam,10
+2,apakvAm,pakva,acc. sg. f.,6,viseranam,3
+3,BojanasAmagrIm,sAmagrI,acc. sg. f.,8,karma,4
+4,AdAya,dA,abs.,9,purvakalah,10
+5,grAmIRAH,grAmIRa,nom. pl. f.,12,viseranam,6
+6,striyaH,strI,nom. pl. f.,14,samucciwam,8
+7,puruzAH,puruza,nom. pl. m.,15,samucciwam,8
+8,ca,ca,conj.,17,karwa,10
+9,upasTAtum,sTA,inf.,16,prayojanam,10
+10,pravfttAH,vftta,pp.,20,,

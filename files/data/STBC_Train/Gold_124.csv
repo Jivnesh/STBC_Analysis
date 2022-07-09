@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,lavaRam,lavaRa,acc. sg. n.,1,karma,5
+1,Bakzitam,tad,acc. sg. n.,8,viseranam,0
+2,yasya,yad,g. sg. n.,9,rartisambanxah,0
+3,tadviSvAsaH,viSvAsa,nom. sg. m.,12,karwa,5
+4,na,na,part.,13,sambanxah,5
+5,hanyatAm,han,imp. ps. sg. 3,14,,

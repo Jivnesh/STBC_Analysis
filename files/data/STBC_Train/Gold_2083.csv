@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ADIyatAm,DA,imp. ps. sg. 3,2,,
+1,DErye,dvi,acc. du. n.,5,samucciwam,3
+2,Darme,Darma,acc. du. n.,7,samucciwam,3
+3,ca,ca,conj.,10,axikaranam,0
+4,DIH,DI,nom. sg. f.,11,karma,0

@@ -1,0 +1,25 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iti,iti,conj.,0,sambanxah,23
+1,puzpEH,puzpa,inst. pl. n.,2,karanam,6
+2,eva,eva,conj.,3,sambanxah,1
+3,atiBareRa,Bara,inst. sg. m.,7,hewuh,4
+4,nagAn,naga,acc. pl. m.,8,karma,6
+5,avAcaH,avAc,acc. pl. m.,9,karmasamanaxikaranam,6
+6,kurvantam,kf,nom. sg. n.,14,bavalakranasapwami_samanakalah,23
+7,alinAM,alin,g. pl. m.,15,rartisambanxah,8
+8,gAnavAcaH,vAc,g. sg. f.,18,rartisambanxah,10
+9,na,na,conj.,20,sambanxah,10
+10,virAmaM,virAma,acc. sg. m.,21,karma,11
+11,kurvantaM,kf,nom. sg. n.,22,bavalakranasapwami_samanakalah,23
+12,ca,ca,conj.,23,sambanxah,11
+13,samastam,samasta,acc. sg. m.,26,viseranam,14
+14,ftum,ftu,acc. sg. m.,27,karma,16
+15,anusAnu,sAnu,conj.,31,axikaranam,16
+16,biBrati,Bf,nom. sg. n.,32,purvakalah,23
+17,iha,iha,conj.,33,viseranam,18
+18,girO,giri,loc. sg. m.,36,axikaranam,23
+19,vihartuM,hf,conj.,37,prayojanam,23
+20,SrImAn,SrI,nom. sg. m.,38,viseranam,21
+21,saH,tad,nom. sg. m.,39,karma,23
+22,mayUragirA,gir,inst. sg. f.,41,karwa,23
+23,acodi,cud,impft. md. sg. 3,40,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,samAcArapatram,pattra,acc. sg. n.,1,karma,2
+1,tu,tu,conj.,3,sambanxah,0
+2,krItvA,krI,abs.,4,purvakalah,3
+3,paWanam,paWana,nom. sg. n.,6,karwa,8
+4,tasya,tad,g. sg. n.,7,rartisambanxah,5
+5,svABAve,BAva,loc. sg. m.,10,axikaranam,8
+6,eva,eva,prep.,11,sambanxah,5
+7,na,na,part.,12,sambanxah,8
+8,vartate,vft,pr. [1] md. sg. 3,13,,

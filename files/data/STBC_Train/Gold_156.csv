@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yat,yad,acc. sg. n.,8,viseranam,1
+1,kutaScit,cit,loc. sg. m.,11,axikaranam,5
+2,ekaH,eka,nom. sg. m.,4,viseranam,3
+3,kukkuraH,kukkura,nom. sg. m.,5,karwa,5
+4,akasmAt,akasmAt,adv.,6,kriyaviseranam,5
+5,AyAtaH,yA,pr. [2] ac. du. 3,7,,

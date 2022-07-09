@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tena,tad,i. sg. n.,0,karwa,5
+1,svam,sva,nom. sg. n.,4,viseranam,3
+2,sampUrRam,pUrRa,acc. sg. n.,5,viseranam,3
+3,yOvanam,vana,acc. sg. n.,18,karma,5
+4,kutra,kutra,loc. sg. n.,10,axikaranam,5
+5,yApitam,yA,ca. pp.,13,,

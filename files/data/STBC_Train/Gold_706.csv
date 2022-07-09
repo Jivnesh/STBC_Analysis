@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hfdayaM,hfdaya,nom. sg. n.,1,karwa,2
+1,kadA,kadA,conj.,2,axikaranam,3
+2,parivartitaM,vft,nom. sg. n.,5,karwa,3
+3,Bavati,BU,pr. ac. sg. 3,6,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mayUrAH,mayUra,nom. pl. m.,0,karwa,6
+1,AkASe,AkASa,loc. sg. n.,3,axikaranam,3
+2,meGAn,meGa,acc. pl. m.,4,karma,3
+3,paSyanti,dfS,pr. ac. pl. 3,5,samucciwam,6
+4,Anandena,Ananda,inst. sg. m.,7,kriyaviseranam,5
+5,nftyanti,nft,pr. ac. pl. 3,8,samucciwam,6
+6,ca,ca,conj.,9,,

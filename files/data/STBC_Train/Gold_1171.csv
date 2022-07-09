@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Atapena,Atapa,inst. sg. m.,0,hewuh,1
+1,klAntAH,kf,pp. . pl. ,1,viseranam,2
+2,vayam,asmad,nom. pl. *.,2,karwa,5
+3,taroH,taru,g. sg. m.,3,rartisambanxah,4
+4,mUlaM,mUla,acc. sg. m.,6,karma,5
+5,BajAmaH,Baj,pr. ac. pl. 1,7,,

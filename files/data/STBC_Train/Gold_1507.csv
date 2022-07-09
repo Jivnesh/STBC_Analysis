@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hi,hi,conj.,0,sambanxah,6
+1,tapasi,tapas,loc. sg. n.,1,axikaranam,6
+2,mandagaBastiH,gaBasti,nom. sg. m.,3,viseranam,4
+3,aBIzumAn,tad,nom. sg. m.,4,viseranam,4
+4,mahAhimahAnikaraH,kara,nom. sg. m.,6,karwa,6
+5,na,na,conj.,7,sambanxah,6
+6,aBavat,BU,impft . ac. sg. 3,8,,

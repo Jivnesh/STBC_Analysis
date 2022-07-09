@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anayA,idam,i. sg. f.,0,viseranam,1
+1,kalayA,kala,i. sg. f.,1,karanam,4
+2,tvayA,tu,nom. sg. n.,4,karwa,3
+3,upari,upari,loc. sg. n.,6,axikaranam,4
+4,carcitAH,carca,acc. pl. f.,9,viseranam,7
+5,samastAH,asta,acc. pl. f.,10,viseranam,7
+6,api,api,conj.,13,sambanxah,5
+7,granTAH,granTa,nom. pl. m.,15,karma,10
+8,BagavatA,Baga,i. sg. m.,17,viseranam,9
+9,vedavyAsena,vyAsa,i. sg. m.,19,karwa,11
+10,viracayya,kf,abs.,20,purvakalah,12
+11,lipibadDAH,diS,acc. pl. f.,24,karmasamanaxikaranam,12
+12,kftAH,kf,pp.,27,,

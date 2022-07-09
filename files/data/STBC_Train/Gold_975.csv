@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sampUrRe,pUrRa,loc. sg. n.,4,viseranam,1
+1,rAjaparivAre,parivAra,loc. sg. m.,7,axikaranam,3
+2,SokaH,Soka,nom. sg. m.,8,karwa,3
+3,AcCannaH,vac,pp.,9,,

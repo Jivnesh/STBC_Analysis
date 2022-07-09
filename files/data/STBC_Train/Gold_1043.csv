@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,0,sambanxah,3
+1,mama,asmad,g. sg. *,1,rartisambanxah,2
+2,putra,putra,voc. sg. m.,2,samboxyah,3
+3,astu,as,imp. [2] ac. sg. 3,3,,

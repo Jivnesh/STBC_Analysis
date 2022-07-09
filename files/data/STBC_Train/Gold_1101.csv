@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvAmitrasya,vAmin,g. sg. n.,3,rartisambanxah,1
+1,ASramAt,ASrama,abl. sg. m.,4,apaxanam,7
+2,rAmaH,rAma,nom. sg. m.,6,samucciwam,5
+3,ca,ca,conj.,7,sambanxah,7
+4,lakzmaRaH,lakzmaRa,nom. sg. m.,8,samucciwam,5
+5,ca,ca,conj.,11,karwa,7
+6,miTilAm,tad,acc. sg. f.,12,karma,7
+7,AgacCatAm,gam,imp. [1] ac. du. 3,13,,

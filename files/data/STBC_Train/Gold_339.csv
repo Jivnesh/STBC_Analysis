@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAm,asmad,acc. sg. *,0,karma,2
+1,evam,evam,adv.,1,kriyaviseranam,2
+2,kIrtayitvA,kIrti,abs.,2,purvakalah,6
+3,mama,asmad,g. sg. *,3,rartisambanxah,4
+4,aBimAnam,aBimAna,acc. sg. m.,4,karma,6
+5,na,na,part.,5,sambanxah,6
+6,jAgarayatu,jAgf,ca. imp. ac. sg. 3,6,,

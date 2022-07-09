@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kakudmikanyAvaktrAntarvAsalabDaaDivAsayA,aDivAsa,inst. sg. f.,3,viseranam,1
+1,madirayA,madirA,inst. sg. f.,4,hewuh,2
+2,kftAnuvyADaM,kfta,acc. sg. m.,8,viseranam,3
+3,muKAmodam,Amoda,acc. sg. m.,25,karma,4
+4,udvaman,vam,nom. sg. m.,11,bavalakranasapwami_samanakalah,6
+5,rAmaH,rAma,nom. sg. m.,12,karwa,6
+6,jagAda,gad,pft. ac. sg. 3,13,,

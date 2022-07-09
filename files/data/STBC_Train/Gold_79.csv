@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,udAracaritaH,car,nom. sg. m.,1,karwa,5
+1,api,api,conj.,2,sambanxah,0
+2,prakftiM,prakfti,acc. sg. f.,4,karma,5
+3,svAM,svA,acc. sg. f.,5,viseranam,2
+4,na,na,conj.,6,sambanxah,5
+5,muYcati,muc,pr. ac. sg. 3,7,,

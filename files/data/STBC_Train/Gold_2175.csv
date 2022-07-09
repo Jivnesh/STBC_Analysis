@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kim,kim,nom. sg. n.,1,sambanxah,4
+1,aham,asmad,nom. sg. *,2,karwa,4
+2,tava,yuzmad,g. sg. *,3,rartisambanxah,3
+3,pitfvyaH,pitfvya,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,asmi,as,pr. [2] ac. sg. 1,5,,

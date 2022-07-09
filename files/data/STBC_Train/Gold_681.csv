@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aBitAmramuKI,muKI,nom. sg. f.,0,viseranam,6
+1,SukaAvaliH,Avali,nom. sg. f.,1,viseranam,6
+2,marudgaREH,gaRa,inst. pl. m.,3,karanam,11
+3,divi,div,loc. sg. f.,6,axikaranam,11
+4,tatA,tan,pp. . sg. ,8,viseranam,6
+5,haritapatramayI,maya,nom. sg. f.,7,viseranam,6
+6,avanadDamanoramapallavA,tad,nom. sg. f.,10,karwa,11
+7,srag,sraj,nom. sg. f.,11,prawiyogi,8
+8,iva,iva,conj.,12,anuyogi,6
+9,maDuripoH,ripu,g. sg. m.,13,rartisambanxah,10
+10,mudaM,mud,acc. sg. f.,17,karma,11
+11,vitatAna,tan,pft. ps. sg. 3,20,,

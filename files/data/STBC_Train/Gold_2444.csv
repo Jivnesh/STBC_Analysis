@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vivekAnande,Ananda,nom. du. n.,20,karwa,1
+1,gacCati,gam,pr. [1] ac. sg. 3,4,bavalakranasapwami_samanakalah,8
+2,kiYcit,sva,loc. sg. n.,5,viseranam,3
+3,dUram,dUra,loc. sg. n.,8,axikaranam,8
+4,ekaH,eka,nom. sg. m.,9,viseranam,7
+5,kzutpipAsayA,kzuD,nom. sg. f.,10,hewuh,6
+6,AkulaH,Akula,nom. sg. m.,15,viseranam,7
+7,siMhaH,siMha,nom. sg. m.,16,karwa,8
+8,upAtizWat,sTA,impft. [1] ac. sg. 3,17,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,dve,dvi,nom. du. f.,4,viseranam,1
+1,nAryO,nAra,nom. du. f.,6,karwa,6
+2,ca,ca,conj.,7,,
+3,tena,tad,i. sg. n.,8,upapaxasambanxah,4
+4,saha,saha,prep.,11,sambanxah,1
+5,tatra,tra,loc. sg. m.,12,axikaranam,6
+6,AgacCatAm,gam,impft. [1] ac. du. 3,13,samucciwam,2

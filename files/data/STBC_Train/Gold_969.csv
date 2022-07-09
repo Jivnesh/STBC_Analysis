@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AtmahatyA,kzuDA,nom. sg. f.,2,karwa,4
+1,tu,tu,conj.,3,sambanxah,4
+2,mahat,mahant,nom. sg. n.,5,viseranam,3
+3,pApam,pApa,nom. sg. n.,8,karwqsamanaxikaranam,4
+4,asti,as,pr. [2] ac. sg. 3,9,,

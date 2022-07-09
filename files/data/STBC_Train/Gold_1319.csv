@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ahaskaraH,ahaskara,nom. sg. m.,0,karwa,4
+1,saSaNkaH,tad,nom. sg. m.,1,karma,4
+2,SucO,Suci,loc. sg. m.,4,viseranam,3
+3,samaye,samaya,loc. sg. m.,10,axikaranam,4
+4,sTitaH,sTA,nom. sg. m.,11,karwa,12
+5,api,api,conj.,12,sambanxah,4
+6,asamagrapAtiBiH,pAtin,inst. pl. n.,17,hewuh,12
+7,karAgrEH,agra,inst. pl. n.,20,hewuh,8
+8,spfSan,spfS,nom. sg. m.,21,bavalakranasapwami_samanakalah,12
+9,aGarmaGarmodakabindumOktikEH,mOktika,inst. pl. n.,27,hewuh,12
+10,asya,idam,g. sg. m.,29,rartisambanxah,11
+11,vaDUH,vaDU,acc. pl. f.,30,karwa,12
+12,alaYcakAra,kf,pft. ps. sg. 3,34,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,acc. sg. n.,8,karma,1
+1,AkarRya,AkarRa,abs.,1,purvakalah,5
+2,aham,asmad,nom. sg. *,2,karwa,5
+3,prARAn,prARa,acc. pl. m.,3,karma,4
+4,Ayamya,yam,abs.,4,purvakalah,5
+5,mriye,mf,pr. ps. sg. 1,6,,

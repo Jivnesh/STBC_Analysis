@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patyuH,pat,nom. sg. m.,1,karwa,1
+1,kaTanam,kaTana,nom. sg. n.,3,karwa,3
+2,kim,kim,acc. sg. n.,4,karma,3
+3,AsIt,As,aor. [5] ac. sg. 3,6,,

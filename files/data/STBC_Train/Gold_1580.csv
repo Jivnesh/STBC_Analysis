@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BfNgEH,BfNga,inst. pl. m.,0,karwa,10
+1,Sramajam,ja,acc. sg. m.,1,viseranam,4
+2,anindyaganDabanDum,banDu,acc. sg. m.,2,viseranam,4
+3,aNganAnAm,aNganA,g. pl. f.,4,rartisambanxah,4
+4,niHSvAsaSvasanam,Svasana,acc. sg. n.,6,karma,6
+5,asaktam,asakta,acc. sg. n.,11,viseranam,4
+6,AGrAya,GrA,conj.,13,purvakalah,10
+7,AraRyAH,AraRya,nom. pl. f.,16,viseranam,8
+8,sumanasaH,sumanas,nom. pl. f.,24,karma,10
+9,na,na,conj.,29,sambanxah,10
+10,Izire,iz,pft. md. pl. 3,31,,

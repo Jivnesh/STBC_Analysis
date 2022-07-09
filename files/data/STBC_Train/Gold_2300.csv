@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,pARqoH,pARqu,g. sg. m.,0,rartisambanxah,1
+1,sute,suta,loc. sg. m.,15,karwa,5
+2,Bavati,rAjan,loc. sg. m.,16,axikaranam,5
+3,saviSezaM,saviSeza,conj.,19,viseranam,4
+4,BaktiM,Bakti,acc. sg. f.,20,karma,5
+5,tanvati,tan,loc. sg. m.,22,purvakalah,11
+6,sati,as,loc. sg. m.,24,viseranam,5
+7,taralAH,tarala,nom. pl. m.,25,viseranam,11
+8,matsariRaH,matsarin,nom. pl. m.,29,karwa,11
+9,pare,pare,conj.,38,axikaranam,11
+10,svayaM,svayam,conj.,40,sambanxah,11
+11,vErAyitAraH,vara,nom. pl. m.,41,,

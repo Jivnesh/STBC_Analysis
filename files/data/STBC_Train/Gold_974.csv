@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sakopasya,tad,g. sg. m.,1,viseranam,1
+1,tasya,tad,g. sg. m.,3,rartisambanxah,2
+2,sAmavAdAH,vAda,nom. pl. m.,5,karwa,4
+3,sahasA,sahasA,conj.,11,viseranam,4
+4,prataptasya,tapta,g. sg. m.,13,viseranam,5
+5,sarpizaH,sarpis,g. sg. n.,14,rartisambanxah,6
+6,toyabindavaH,bindu,nom. sg. m.,17,prawiyogi,7
+7,iva,iva,conj.,18,anuyogi,10
+8,pratyuta,pratyuta,conj.,19,sambanxah,10
+9,dIpakAH,dIpaka,nom. pl. m.,20,karwqsamanaxikaranam,10
+10,Bavanti,BU,pr. ac. pl. 3,21,,

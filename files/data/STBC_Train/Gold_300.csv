@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,taTA,taTA,adv.,0,kriyaviseranam,4
+1,taskaraBayam,Baya,nom. sg. n.,3,karwa,4
+2,api,api,conj.,5,sambanxah,1
+3,na,na,part.,7,sambanxah,4
+4,Bavizyati,BU,fut. ac. sg. 3,8,,

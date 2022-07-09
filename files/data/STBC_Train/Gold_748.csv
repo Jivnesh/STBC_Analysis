@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,8
+1,kaScit,kim,nom. sg. m.,1,viseranam,4
+2,aBinavaH,aBinava,nom. sg. m.,3,viseranam,4
+3,eva,eva,prep.,4,sambanxah,2
+4,vidvAn,tad,nom. sg. m.,5,karwa,8
+5,SAstrArTI,tad,nom. sg. f.,6,karwa,6
+6,BUtvA,BU,abs.,7,purvakalah,8
+7,digvijayayAtrAyE,yAtrA,dat. sg. f.,24,prayojanam,8
+8,niHsftaH,sfta,pp.,11,,

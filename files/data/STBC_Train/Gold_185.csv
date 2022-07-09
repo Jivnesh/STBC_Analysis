@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SlaTaSirasijapASapAtaBArAt,BAra,abl. sg. m.,0,prawiyogi,1
+1,iva,iva,conj.,9,anuyogi,2
+2,nitarAM,nitarAm,conj.,2,karma,5
+3,natimadBiH,tad,inst. pl. m.,4,viseranam,4
+4,aMsaBAgEH,BAga,inst. pl. m.,5,hewuh,12
+5,GanamahatAM,BUta,g. pl. n.,7,viseranam,6
+6,pakzmaRAM,pakzman,g. pl. n.,8,rartisambanxah,7
+7,BareRa,Bara,inst. sg. m.,11,prawiyogi,8
+8,iva,iva,conj.,1,anuyogi,9
+9,mukulitanayanEH,nayana,inst. pl. n.,12,viseranam,10
+10,muKaaravindEH,aravinda,inst. pl. n.,13,karanam,12
+11,nitambinIBiH,nitambinI,inst. pl. f.,14,karwa,12
+12,atami,tam,impft. ac. sg. 3,15,,

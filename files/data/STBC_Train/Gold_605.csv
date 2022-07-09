@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,uttuNgaH,uttuNga,nom. sg. m.,0,viseranam,2
+1,prajYAbalabfhanmUlaH,mUla,nom. sg. m.,7,viseranam,2
+2,utsAhapAdapaH,pAdapa,nom. sg. m.,10,karwa,6
+3,karapraceyAM,ci,acc. sg. f.,13,viseranam,5
+4,praTIyasIM,vizUcikA,acc. sg. f.,14,viseranam,5
+5,praBuSaktiM,Sakti,acc. sg. f.,16,karma,6
+6,Palati,Pal,pr. ac. sg. 3,18,,

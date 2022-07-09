@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,prARinAM,prARin,g. pl. m.,0,rartisambanxah,1
+1,upakArAya,upakAra,dat. sg. m.,2,waxarwyam,5
+2,eva,eva,conj.,3,sambanxah,1
+3,sADUnAM,sADu,g. pl. m.,4,karwa,5
+4,jagati,rAjan,loc. sg. m.,7,karwa,5
+5,jIvitam,jIvita,pp. . sg. ,10,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SyAmasya,SyAma,g. sg. m.,0,rartisambanxah,1
+1,vizaye,vizaya,loc. sg. m.,2,axikaranam,6
+2,tasya,tad,acc. du. m.,6,viseranam,3
+3,mAtApitarO,pitf,acc. du. m.,8,sambanxah,6
+4,cikitsAlayakarmacArI,cArin,nom. sg. m.,13,karwa,6
+5,kim,kim,acc. sg. n.,14,sambanxah,6
+6,kaTitavAn,kaT,ppa.,16,,

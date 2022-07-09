@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,valgAviBAgakuSalaH,kuSala,nom. sg. m.,0,karwa,13
+1,kaScit,cit,conj.,2,viseranam,0
+2,avyAkulaM,avyAkula,acc. sg. m.,8,viseranam,6
+3,prakftaM,kf,acc. sg. m.,11,viseranam,6
+4,muKe,muKa,loc. sg. m.,14,axikaranam,5
+5,sidDam,siD,acc. sg. m.,20,viseranam,6
+6,aSvam,aSva,acc. sg. m.,21,karma,13
+7,uttaraDeyakarma,karman,nom. sg. n.,23,viseranam,9
+8,avyatikIrRarUpAH,rUpa,nom. pl. m.,24,viseranam,9
+9,DArAH,DArA,nom. pl. m.,31,karma,10
+10,prasADayituM,Ric,inf.,32,prayojanam,13
+11,navasu,navan,loc. pl. n.,33,viseranam,12
+12,vITizu,vITi,loc. pl. f.,34,axikaranam,13
+13,gamayAmbaBUva,Ric,pft. ac. sg. 3,38,,

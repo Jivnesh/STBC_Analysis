@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sAyam,sAyam,conj.,1,axikaranam,4
+1,api,api,conj.,2,sambanxah,0
+2,gfhaM,gfha,acc. sg. n.,4,prawiyogi,3
+3,prati,prati,conj.,6,anuyogi,4
+4,nivftya,vf,conj.,7,purvakalah,7
+5,eva,eva,conj.,8,sambanxah,4
+6,BojanaM,Bojana,acc. sg. n.,9,karma,7
+7,kftavAn,kft,pp. . sg. ,11,,

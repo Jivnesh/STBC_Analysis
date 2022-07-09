@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,bAlagaNgADaram,aDara,acc. sg. m.,31,sambanxah,3
+1,api,api,conj.,5,sambanxah,0
+2,hastO,hasta,acc. du. m.,7,sambanxah,3
+3,prasArayitum,sf,ca. inf.,9,prayojanam,6
+4,SikzakaH,Sikzaka,nom. sg. m.,10,karwa,6
+5,satarjanam,tarjana,adv.,13,kriyaviseranam,6
+6,AdizwavAn,Adizwa,pp.,14,,

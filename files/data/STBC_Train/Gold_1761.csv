@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,udyAnasya,udyAna,g. sg. n.,1,rartisambanxah,1
+1,SoBAm,SoBA,acc. sg. f.,2,karma,2
+2,drazwum,dfS,conj.,3,prayojanam,5
+3,aham,asmad,nom. sg. *.,4,karwa,5
+4,tatra,tatra,conj.,5,axikaranam,5
+5,AgacCam,gam,impft . ac. sg. 1,0,,

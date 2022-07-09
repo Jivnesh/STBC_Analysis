@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kfpaRasya,kfpaRa,g. sg. m.,0,rartisambanxah,1
+1,saNketena,tad,inst. sg. m.,2,karanam,3
+2,gfhe,gfha,loc. sg. n.,5,axikaranam,3
+3,rodanaM,rodana,nom. sg. n.,7,samucciwam,5
+4,vilapanaM,vilapana,nom. sg. n.,8,samucciwam,5
+5,ca,ca,conj.,9,karma,6
+6,prArabDam,tad,nom. sg. n.,12,,

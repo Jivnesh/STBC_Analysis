@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,conj.,0,samucciwam,8
+1,aDunA,aDunA,conj.,1,axikaranam,7
+2,tava,yuzmad,g. sg. *.,2,rartisambanxah,3
+3,gfhe,gfha,loc. sg. m.,3,axikaranam,7
+4,ahaM,asmad,nom. sg. *.,6,karwa,7
+5,kadApi,kadApi,conj.,7,axikaranam,7
+6,na,na,conj.,8,sambanxah,7
+7,vatsyAmi,vas,fut. ac. sg. 1,9,samucciwam,8
+8,ca,ca,conj.,10,,

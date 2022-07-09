@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,hutaBujA,hutaBuj,inst. sg. m.,7,karwa,1
+1,dagDaM,dagDa,pp. . sg. ,3,viseranam,2
+2,araRyaM,araRya,acc. sg. m.,5,karma,3
+3,apaSyan,dfS,impft . ac. pl. 3,6,,
+4,nalaH,nala,nom. sg. m.,0,karwa,3

@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,6
+1,AtmIyAm,AtmIya,acc. sg. f.,1,viseranam,2
+2,vedanAm,vedanA,acc. sg. f.,2,karma,6
+3,svakIye,svakIya,loc. sg. m.,5,viseranam,4
+4,BAzaRe,BAzaRa,loc. sg. n.,13,axikaranam,5
+5,vyaktAm,tad,acc. sg. f.,14,karmasamanaxikaranam,6
+6,kftavAn,kf,nom. sg. m.,15,prawiyogi,7
+7,yat,yad,acc. sg. n.,40,anuyogi,12
+8,saH,tad,nom. sg. m.,17,karwa,12
+9,kIdfSaH,kIdfSa,nom. sg. m.,18,viseranam,12
+10,sanAtanaDarmAvalambI,avalambin,nom. sg. m.,71,karwqsamanaxikaranam,12
+11,hinduH,tad,nom. sg. m.,33,karwqsamanaxikaranam,12
+12,asti,as,pr. [2] ac. sg. 3,34,,

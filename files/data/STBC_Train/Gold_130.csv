@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sAnandam,Ananda,ind.,16,kriyaviseranam,4
+1,ca,ca,conj.,2,,
+2,mama,asmad,g. sg. *,3,rartisambanxah,3
+3,kAlaH,kAla,nom. sg. m.,5,karwa,4
+4,gacCet,gam,opt. [1] ac. sg. 3,6,samucciwam,1

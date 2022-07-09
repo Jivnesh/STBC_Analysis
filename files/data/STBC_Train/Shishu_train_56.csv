@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,tam,tad,acc. sg. m.,NA,viseranam,1
+1,avasaram,avasara,acc. sg. m.,NA,karma,2
+2,aDigamya,aDi_gam1,abs.,NA,purvakalah,9
+3,hfdayaM,hfdaya,acc. sg. n.,NA,karma,4
+4,harantyaH,hf1,ppr. ac,NA,viseranam,6
+5,ayatnakftojjvalasvarUpAH,ayatnakftojjvala-svarUpa,nom. pl. f.,NA,viseranam,6
+6,aNganAH,aNganA,nom. pl. f.,NA,karwa,9
+7,avanizu,avani,loc. pl. f.,NA,axikaranam,9
+8,padaM,pad,acc. sg. n.,NA,karma,9
+9,nyadaData,ni_DA1,impft. pl. 3,NA,,

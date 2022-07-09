@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tava,yuzmad,g. sg. *.,0,rartisambanxah,1
+1,svareRa,svara,inst. sg. m.,1,karanam,5
+2,mayi,asmad,loc. sg. *.,2,axikaranam,5
+3,gUQam,vac,pp. . sg. ,5,viseranam,4
+4,duHKam,duHKa,nom. sg. n.,8,karma,5
+5,AvirBavati,BU,pr. ac. sg. 3,10,,

@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,3
+1,api,api,conj.,1,sambanxah,0
+2,tvAm,yuzmad,acc. sg. *,3,karma,3
+3,hanizyAmi,niDA,fut. ac. sg. 1,4,sambanxah,4
+4,uta,vA,conj.,5,,
+5,nigrAhayizyAmi,grah,ca. fut. ac. sg. 1,6,sambanxah,4

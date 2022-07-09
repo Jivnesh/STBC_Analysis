@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,3
+1,ekAM,eka,acc. sg. f.,1,viseranam,2
+2,vipaRiM,vipaRi,acc. sg. f.,2,karma,3
+3,prAptaH,prApta,pp. . sg. ,3,,

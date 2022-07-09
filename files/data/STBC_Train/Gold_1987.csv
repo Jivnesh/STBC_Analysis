@@ -1,0 +1,13 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,udIrRarAgapratiroDakam,pratiroDaka,acc. sg. m.,2,viseranam,5
+1,aBIkzRam,aBIkzRam,conj.,5,viseranam,6
+2,akzuRRatayA,kzuRRa,inst. sg. f.,7,hewuh,3
+3,janEH,jana,inst. pl. m.,9,karanam,6
+4,atidurgamam,durgama,acc. sg. m.,12,viseranam,5
+5,mokzapaTam,paTa,acc. sg. m.,16,karma,6
+6,upeyuzaH,tad,g. sg. m.,22,viseranam,7
+7,manasvinaH,manasvin,g. sg. m.,25,rartisambanxah,8
+8,nirapAyasaMSrayA,tad,nom. sg. f.,29,viseranam,9
+9,tvam,yuzmad,nom. sg. n.,30,karwa,11
+10,agraBUmiH,BUmi,nom. sg. f.,32,karwqsamanaxikaranam,11
+11,asi,as,pr. ac. sg. 2,33,,

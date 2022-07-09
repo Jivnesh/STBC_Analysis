@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SrImAlavIyaH,tad,nom. sg. m.,1,viseranam,1
+1,mahArAjaH,rAjan,nom. sg. m.,59,karwa,7
+2,tam,tad,acc. sg. m.,5,karma,7
+3,praRamya,nam,abs.,6,purvakalah,7
+4,savinayam,tatas,adv.,9,kriyaviseranam,7
+5,idam,dam,acc. sg. n.,10,karma,7
+6,eva,eva,prep.,11,sambanxah,5
+7,pratyavadat,vad,impft. [1] ac. sg. 3,34,,

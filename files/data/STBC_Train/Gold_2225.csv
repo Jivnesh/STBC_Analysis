@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,viSvAsaGAtakartA,karta,nom. sg. m.,4,viseranam,4
+1,yaH,yad,nom. sg. m.,5,karwa,2
+2,asti,as,pr. [2] ac. sg. 3,6,samucciwam,6
+3,narakam,naraka,acc. sg. m.,7,karma,4
+4,saH,tad,nom. sg. m.,10,karwa,5
+5,aDigacCati,gam,pr. [1] ac. sg. 3,24,samucciwam,6
+6,ca,ca,conj.,12,,

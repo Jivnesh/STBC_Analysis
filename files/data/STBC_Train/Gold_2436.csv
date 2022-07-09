@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aTa,aTa,conj.,0,sambanxah,14
+1,utkziptasPuwitasaroruhaarGyaM,arGya,nom. sg. n.,2,karwa,5
+2,sasneham,sneha,nom. sg. n.,5,kriyaviseranam,5
+3,uccEH,ucca,inst. pl. m.,7,viseranam,4
+4,vihagarutEH,ruta,inst. pl. m.,9,karanam,5
+5,AlapantI,lap,nom. sg. n.,12,prawiyogi,6
+6,iva,iva,conj.,13,anuyogi,8
+7,saPenahAsA,hAsa,nom. sg. f.,14,viseranam,8
+8,sarasI,sarasI,nom. sg. f.,16,karwa,14
+9,nArIRAm,nArI,g. pl. f.,17,rartisambanxah,10
+10,UrmihastEH,hasta,inst. pl. m.,18,karanam,14
+11,pAdyam,pad,pfp. . sg. ,21,karma,14
+12,prItyA,prIti,inst. sg. f.,23,hewuh,14
+13,eva,eva,conj.,24,sambanxah,12
+14,vyatanuta,tan,impft . ps. sg. 3,26,,

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,purAvidaH,purAvid,nom. pl. m.,11,karwa,12
+1,nigfhItamAnasEH,mAnasa,inst. pl. m.,13,karwa,4
+2,aDyAtmadfSA,dfS,inst. sg. m.,17,karanam,4
+3,kaTaYcana,cana,conj.,19,sambanxah,4
+4,gfhItam,grah,acc. sg. m.,22,samucciwam,13
+5,udAsitAraM,as,acc. sg. m.,23,viseranam,11
+6,bahirvikAraM,vikAra,acc. sg. m.,26,viseranam,11
+7,prakfteH,prakfti,abl. sg. f.,28,upapaxasambanxah,8
+8,pfTak,pfTak,conj.,29,sambanxah,12
+9,purAtanaM,purAtana,acc. sg. m.,32,viseranam,11
+10,puruzaM,puruza,acc. sg. m.,33,viseranam,11
+11,tvAM,yuzmad,acc. sg. n.,34,karwa,12
+12,viduH,vid,pr. ac. pl. 3,35,samucciwam,13
+13,ca,ca,conj.,36,,

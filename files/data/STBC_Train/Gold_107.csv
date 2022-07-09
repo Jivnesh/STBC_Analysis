@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,vyADaH,vyADa,nom. sg. m.,0,karwa,7
+1,mfgAn,mfga,acc. pl. m.,1,sambanxah,3
+2,rAjAntikam,tad,acc. sg. n.,3,sambanxah,3
+3,nItvA,nI,abs.,4,purvakalah,7
+4,tezAm,tad,g. pl. n.,5,rartisambanxah,5
+5,nigrahaRaprakAram,prakAra,acc. sg. m.,8,karma,7
+6,rAjAnam,rAjan,acc. sg. m.,9,karmasamanaxikaranam,7
+7,SrAvitavAn,Sru,ca. ppa.,10,,

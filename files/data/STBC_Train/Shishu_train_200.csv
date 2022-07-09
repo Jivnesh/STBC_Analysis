@@ -1,0 +1,18 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,jagati,jagat,loc. sg. n.,NA,axikaranam,5
+1,aparyAptasahasraBAnunA,aparyApta-sahasraBAnu,i. sg. m.,NA,viseranam,2
+2,BAnunA,BAnu,i. sg. m.,NA,karwa,7
+3,yat,yad,nom. sg. n.,NA,viseranam,4
+4,tamaH,tamas,nom. sg. n.,NA,karma,7
+5,niyantuM,ni_yam1,inf.,NA,prayojanam,7
+6,na,na,ind.,NA,sambanxah,7
+7,samaBAvi,sam_BU1,aor. ps. sg. 3,NA,,
+8,anuttamam,anuttama,nom. sg. n.,NA,viseranam,10
+9,adaH,adas,nom. sg. n.,NA,viseranam,10
+10,tamaH,tamas,nom. sg. n.,NA,karma,7
+11,asaNKyatAM,asaNKyatA,acc. sg. f.,NA,karma,12
+12,gatEH,gam1,pp.,NA,viseranam,13
+13,tejoBiH,tejas,i. pl. n.,NA,karanam,14
+14,prasahya,pra_sah1,abs.,NA,purvakalah,16
+15,tvayA,yuzmad,i. sg. *.,NA,karwa,16
+16,nunnam,nud2,pp.,NA,,

@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,0,kriyaviseranam,3
+1,vAyasadampatI,pat,nom. du. m.,4,karwa,6
+2,apatyAni,apatya,acc. pl. n.,5,karma,3
+3,rakzataH,rakz,pr. [1] ac. du. 3,19,samucciwam,6
+4,suKam,suKa,adv.,10,kriyaviseranam,5
+5,vasataH,vas,pr. [1] ac. du. 3,11,samucciwam,6
+6,ca,ca,conj.,12,,

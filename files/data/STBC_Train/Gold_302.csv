@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sakalAH,diS,acc. pl. f.,2,viseranam,1
+1,kalAH,kalA,acc. pl. f.,3,karma,2
+2,daDAnaH,DA,nom. sg. m.,9,bavalakranasapwami_samanakalah,12
+3,sODasitABiH,sitA,inst. pl. f.,11,karanam,6
+4,svaBABiH,BAs,inst. pl. f.,13,viseranam,3
+5,ASAH,ASA,acc. pl. f.,16,karma,6
+6,udBAsayan,BAsa,nom. sg. m.,21,bavalakranasapwami_samanakalah,12
+7,revatIjAniH,tad,nom. sg. m.,24,viseranam,8
+8,rOhiReyaH,rOhiReya,nom. sg. m.,25,karwa,12
+9,yAM,yad,acc. sg. f.,26,karma,12
+10,hAtuM,hA,inf.,27,prayojanam,12
+11,na,na,conj.,30,sambanxah,12
+12,iyeza,iz,pft. ac. sg. 3,33,,

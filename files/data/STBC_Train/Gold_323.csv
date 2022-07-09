@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kasyApi,kim,g. sg. n.,0,viseranam,1
+1,jIvasya,jIva,g. sg. n.,3,rartisambanxah,3
+2,dve,dvi,nom. du. n.,7,viseranam,3
+3,hfdaye,hfdaya,nom. du. n.,9,karwa,5
+4,na,na,part.,11,sambanxah,5
+5,BavataH,BU,pr. [1] ac. du. 3,34,,

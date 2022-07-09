@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sarvaguRasampannaH,pad,nom. sg. m.,2,viseranam,2
+1,api,api,conj.,3,sambanxah,0
+2,saH,tad,nom. sg. m.,5,karwa,8
+3,svasya,sva,g. sg. m.,6,rartisambanxah,4
+4,avaguRAn,guRa,acc. pl. m.,9,karma,5
+5,vaktum,vac,inf.,10,prayojanam,8
+6,praTamam,rAjan,loc. sg. m.,13,axikaranam,8
+7,karmacAriRaH,cArin,acc. pl. m.,15,karma,8
+8,akaTayat,kaT,impft. [10] ac. sg. 3,21,,

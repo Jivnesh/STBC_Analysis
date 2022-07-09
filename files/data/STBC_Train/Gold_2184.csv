@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,kriyaviseranam,4
+1,te,tad,nom. pl. m.,3,karwa,4
+2,agnim,agni,acc. sg. m.,8,karma,4
+3,na,na,part.,9,sambanxah,4
+4,vindanti,vid,pr. [6] ac. pl. 3,10,,

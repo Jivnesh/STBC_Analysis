@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,BAwakagfham,gfha,acc. sg. n.,1,karma,1
+1,parityajya,tyaj,abs.,3,purvakalah,3
+2,tatra,tatra,loc. sg. n,4,axikaranam,3
+3,nivastum,vas,dat. sg. n.,5,prayojanam,5
+4,api,api,conj.,6,sambanxah,3
+5,prArabDavAn,vac,pp.,8,,

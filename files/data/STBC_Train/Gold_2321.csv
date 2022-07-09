@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,saH,tad,nom. sg. m.,0,karwa,1
+1,pratyavadat,vad,impft. [1] ac. sg. 3,12,samucciwam,9
+2,viSvAsaGAtakaH,GAtaka,nom. sg. m.,3,viseranam,8
+3,mama,asmad,g. sg. *,4,rartisambanxah,4
+4,mitratAyE,mitra,dat. sg. f.,5,waxarwyam,7
+5,yogyaH,yogya,nom. sg. m.,6,karwqsamanaxikaranam,7
+6,na,na,part.,7,sambanxah,7
+7,asti,as,pr. [2] ac. sg. 3,8,samucciwam,9
+8,tvam,yuzmad,nom. sg. *,9,karwa,7
+9,ca,ca,conj.,10,,

@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,ajasram,ajasram,conj.,3,kriyaviseranam,7
+1,AsPAlitavallakIguRakzataujjvalaaNguzWanaKaaMSuBinnayA,zazwi,inst. sg. f.,4,viseranam,5
+2,pravAlEH,pravAla,inst. pl. n.,6,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,4
+4,pUritaarDayA,arDa,inst. sg. f.,8,viseranam,5
+5,acCasPawikaakzamAlayA,mAlA,inst. sg. f.,10,karanam,7
+6,puraH,pur,conj.,12,kriyaviseranam,7
+7,viBAntam,BA,acc. sg. m.,16,samucciwam,13
+8,amuM,adas,acc. sg. m.,17,karma,12
+9,nAradaH,nArada,nom. sg. m.,18,karmasamanaxikaranam,12
+10,iti,iti,conj.,19,sambanxah,9
+11,saH,tad,nom. sg. m.,20,karwa,12
+12,aboDi,buD,impft. md. sg. 3,21,samucciwam,13
+13,ca,ca,conj.,22,,

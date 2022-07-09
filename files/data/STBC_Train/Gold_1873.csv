@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasmin,tad,loc. sg. m.,1,viseranam,1
+1,samaye,samaya,loc. sg. m.,2,axikaranam,5
+2,cOraH,tad,nom. sg. m.,3,karwa,5
+3,gfhe,gfha,loc. sg. n.,6,axikaranam,5
+4,na,na,part.,9,sambanxah,5
+5,AsIt,as,aor. [5] ac. sg. 3,11,,

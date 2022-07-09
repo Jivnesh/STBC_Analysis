@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,yad,yad,conj.,0,sambanxah,6
+1,utsukAni,utsuka,nom. pl. n.,2,viseranam,2
+2,BramarakulAni,kula,nom. pl. n.,4,karwa,4
+3,maDumaTanavaDUH,vaDU,acc. pl. f.,5,karma,4
+4,Ahvayanti,tad,nom. sg. n.,8,prawiyogi,5
+5,iva,iva,conj.,9,anuyogi,6
+6,jaguH,gA,pft. ac. pl. 3,11,,

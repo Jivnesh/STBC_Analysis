@@ -1,0 +1,16 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,nIhArajAlamalinaH,malina,nom. sg. m.,0,karwa,3
+1,vaDUjanavilocanapakzmamAlAH,mAlA,acc. pl. f.,1,viseranam,2
+2,punaruktasAndrAH,sAndra,acc. pl. f.,5,karma,3
+3,kurvan,kf,nom. sg. m.,7,bavalakranasapwami_samanakalah,14
+4,kzaRaM,kzaRa,conj.,8,viseranam,8
+5,yadubalEH,bala,inst. pl. n.,10,karwa,8
+6,kzuRRaH,kzuRRa,nom. sg. m.,11,karma,8
+7,adreH,adri,abl. sg. m.,13,apaxanam,8
+8,utTitaH,sTA,nom. sg. m.,14,viseranam,11
+9,divam,diva,acc. sg. n.,15,karma,10
+10,AtitAMsuH,tad,nom. sg. m.,20,viseranam,11
+11,pAMSuH,pAMSu,nom. sg. m.,21,karwa,14
+12,diSAM,diS,g. pl. f.,23,rartisambanxah,13
+13,muKam,muKa,acc. sg. n.,24,karma,14
+14,atutTayat,tutTa,impft . ac. sg. 3,26,,

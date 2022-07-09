@@ -1,0 +1,20 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tilakarucaH,tilaka,nom. pl. f.,3,viseranam,2
+1,AmfzwAH,mfS,pp. . pl. ,6,viseranam,2
+2,srajaH,sraj,nom. pl. f.,8,karma,3
+3,nirastAH,asta,nom. pl. f.,12,samucciwam,18
+4,vasanaM,vas,nom. sg. n.,17,karma,6
+5,nIraktaM,tad,nom. sg. n.,20,karmasamanaxikaranam,6
+6,kftam,kft,nom. sg. n.,23,samucciwam,18
+7,aNgarAgaH,rAga,nom. sg. m.,24,karma,8
+8,apAkftaH,kf,pp. . sg. ,25,prawiyogi,9
+9,iti,iti,conj.,26,anuyogi,10
+10,svapakzavyAGAtAt,vyAGAta,abl. sg. m.,27,hewuh,11
+11,anuSayavAn,anuSaya,nom. sg. m.,28,prawiyogi,12
+12,iva,iva,conj.,29,anuyogi,17
+13,kAmaH,kAma,nom. sg. m.,30,karwa,17
+14,strIH,strI,acc. pl. f.,31,karma,17
+15,sutarAM,sutarAm,conj.,32,viseranam,17
+16,cArUH,diS,acc. pl. f.,33,karmasamanaxikaranam,17
+17,cakAra,kf,pft. ac. sg. 3,34,samucciwam,18
+18,ca,ca,conj.,38,,

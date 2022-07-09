@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,alpaprayojanakftaurutaraprayAsEH,prayAsa,inst. pl. m.,0,viseranam,2
+1,udgUrRalozwalaguqEH,laguqa,inst. pl. m.,2,viseranam,2
+2,pumBiH,puMs,inst. pl. m.,3,karwa,4
+3,paritaH,ca,conj.,4,sambanxah,4
+4,anuvidDam,vyaD,acc. sg. m.,12,upapaxasambanxah,10
+5,anokahajAlamaDyAt,maDya,abl. sg. m.,13,viseranam,8
+6,udyatam,yam,acc. sg. m.,17,viseranam,8
+7,uddrutam,tad,acc. sg. m.,18,viseranam,8
+8,SaSam,SaSa,acc. sg. m.,19,karma,10
+9,anyaH,anya,nom. sg. m.,20,karwa,10
+10,avan,av,nom. sg. m.,21,bavalakranasapwami_samanakalah,13
+11,analpaM,analpa,acc. sg. m.,25,viseranam,12
+12,guRam,guRa,acc. sg. m.,26,karma,13
+13,avApa,Ap,pft. ac. sg. 3,45,,

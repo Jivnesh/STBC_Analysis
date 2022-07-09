@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sA,tad,nom. sg. f.,10,karwa,5
+1,api,api,conj.,0,sambanxah,0
+2,AdyopAntam,upAnta,loc. sg. m.,5,axikaranam,5
+3,sarvAm,sarva,acc. sg. f.,6,viseranam,4
+4,tadvArtAm,vArttA,acc. sg. f.,8,karma,5
+5,avocat,vac,aor. [2] ac. sg. 3,9,,

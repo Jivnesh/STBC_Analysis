@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,3
+1,tava,yuzmad,g. sg. *,1,rartisambanxah,2
+2,javanikAm,javanikA,acc. sg. f.,2,karma,3
+3,apAvfRu,vf,imp. [5] ac. sg. 2,8,,

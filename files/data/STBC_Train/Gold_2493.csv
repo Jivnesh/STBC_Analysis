@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAtfvat,mAtf,nom. sg. n.,1,kriyaviseranam,6
+1,paradArezu,dAra,loc. pl. m.,3,axikaranam,2
+2,vartamAne,vartamAna,loc. sg. n.,8,axikaranam,6
+3,sati,sat,ppr. [2] ac.,11,bavalakranasapwami_samanakalah,7
+4,na,na,part.,12,sambanxah,7
+5,kaH,kim,nom. sg. m.,13,viseranam,6
+6,pitA,tad,nom. sg. m.,14,karwa,7
+7,asti,as,pr. [2] ac. sg. 3,15,,

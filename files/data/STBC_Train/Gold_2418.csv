@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,asya,idam,g. sg. m.,1,rartisambanxah,1
+1,prAyaScittam,citta,acc. sg. n.,3,karma,2
+2,kartum,kf,inf.,6,prayojanam,8
+3,mayA,asmad,i. sg. *,7,karwa,8
+4,tvaritam,tvarita,ca. pp.,13,kriyaviseranam,8
+5,eva,eva,prep.,14,sambanxah,4
+6,tasmE,tad,dat. sg. n.,15,sampraxanam,8
+7,cOryarahasyam,rahasya,acc. sg. m.,18,karma,8
+8,udGAwanIyam,Gaw,ca. pfp. [2],23,,

@@ -1,0 +1,11 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,KuraaBiGAtAt,aBiGAta,abl. sg. m.,0,hewuh,2
+1,udyatkfSAnuSakalezu,Sakala,loc. pl. m.,2,viseranam,4
+2,BUmIsamAyataSilAPalakaAcitezu,dvija,loc. pl. m.,5,viseranam,4
+3,SElasya,SEla,g. sg. m.,6,rartisambanxah,4
+4,paryantavartmasu,vartman,loc. pl. n.,8,axikaranam,7
+5,mahASvAH,mahASva,nom. pl. m.,9,karma,9
+6,dardurapuwAn,puwa,acc. pl. m.,10,karma,7
+7,vAdayantaH,vad,nom. pl. m.,11,prawiyogi,8
+8,iva,iva,conj.,12,anuyogi,9
+9,vicakramire,kram,pft. md. pl. 3,13,,

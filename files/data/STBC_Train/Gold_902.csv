@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tadA,tadA,conj.,0,axikaranam,3
+1,rAmaH,rAma,nom. sg. m.,1,karwa,3
+2,citrakUwAt,citrakUwa,abl. sg. m.,4,apaxanam,3
+3,avarohati,ruh,pr. ac. sg. 3,5,,

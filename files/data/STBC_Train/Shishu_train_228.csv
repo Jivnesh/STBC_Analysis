@@ -1,0 +1,15 @@
+s_no,word,lemma,morph,Coarse,dep_tag,to_node
+0,sAtvatIsUnuH,sAtvatIsUnu,nom. sg. m.,NA,karwa,3
+1,yat,yad,nom. sg. n.,NA,sambanxah,3
+2,mahyam,asmad,dat. sg. *.,NA,sampraxanam,3
+3,aparADyati,apa_rAD1,pr. ac. sg. 3,NA,,
+4,na,na,ind.,NA,sambanxah,6
+5,dUye,dU1,pr. md. sg. 1,NA,,
+6,yat,yad,nom. sg. n.,NA,sambanxah,10
+7,tu,tu,ind.,NA,sambanxah,6
+8,saH,tad,nom. sg. m.,NA,karwa,10
+9,lokaM,loka,acc. sg. m.,NA,karma,10
+10,dandahyate,dah1,pr. sg. 3,NA,,
+11,adaH,adas,acc. sg. n.,NA,karwa,13
+12,mAM,asmad,acc. sg. *.,NA,karma,13
+13,duHKAkaraati,duHKa_qAc_kf3,pr. sg. 3,NA,,

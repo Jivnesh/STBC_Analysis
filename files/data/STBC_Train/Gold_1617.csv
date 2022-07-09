@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mAyAm,mAyA,acc. sg. f.,0,karma,2
+1,vaDU-rUpe,rUpa,adv.,3,kriyaviseranam,2
+2,svIkartum,kf,inf.,5,prayojanam,5
+3,kA,kim,nom. pl. f.,16,karwa,5
+4,anukUlam,anukUla,acc. sg. m.,7,karma,5
+5,kftavatI,kf,ppa.,12,,

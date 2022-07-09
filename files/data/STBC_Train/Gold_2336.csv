@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,laGu,laGu,nom. sg. n.,26,viseranam,3
+1,api,api,conj.,1,sambanxah,0
+2,etat,etad,nom. sg. n.,28,viseranam,3
+3,vacaH,vacas,nom. sg. n.,5,karma,7
+4,BUyasyA,BUyas,inst. sg. f.,8,viseranam,5
+5,vAcA,vAc,inst. sg. f.,10,karwa,7
+6,na,na,conj.,11,sambanxah,7
+7,atiSayyate,SI,pr. md. sg. 3,12,samucciwam,15
+8,inDanaOGaDak,dah,nom. sg. m.,13,karwa,14
+9,api,api,conj.,14,sambanxah,8
+10,agniH,agni,nom. sg. m.,16,karwqsamanaxikaranam,14
+11,tvizA,tviz,inst. sg. f.,18,hewuh,12
+12,pUzaRaM,pUzan,acc. sg. n.,19,karma,14
+13,na,na,conj.,20,sambanxah,14
+14,atyeti,i,pr. ac. sg. 3,23,samucciwam,15
+15,ca,ca,conj.,24,,

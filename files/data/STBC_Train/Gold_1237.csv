@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,6
+1,vittADikArI,aDikArin,nom. sg. m.,41,karwa,6
+2,tasmE,tad,dat. sg. n.,7,sampraxanam,6
+3,na,na,part.,9,sambanxah,6
+4,kim,kim,acc. sg. n.,10,karma,6
+5,api,api,conj.,12,sambanxah,4
+6,dattavAn,dA,ppa.,14,,

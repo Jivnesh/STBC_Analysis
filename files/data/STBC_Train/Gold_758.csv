@@ -1,0 +1,19 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,iha,iha,conj.,0,axikaranam,16
+1,kvacit,cit,conj.,1,viseranam,9
+2,ca,ca,conj.,2,sambanxah,8
+3,SamitacAtakaArtasvarAH,svara,nom. pl. m.,3,viseranam,5
+4,taqittulitakAntakArttasvarAH,kArtasvara,nom. pl. m.,4,viseranam,5
+5,jaladAH,jalada,nom. pl. m.,5,karwa,8
+6,amUH,adas,acc. pl. f.,6,viseranam,7
+7,jagatIH,jagatI,acc. pl. f.,8,karma,8
+8,sTagayanti,BU,pr. ac. sg. 3,9,samucciwam,17
+9,kvacit,cit,conj.,10,axikaranam,8
+10,ca,ca,conj.,11,sambanxah,16
+11,sPuritacArucAmIkarAH,cAmIkara,nom. pl. m.,16,viseranam,14
+12,amI,adas,nom. pl. m.,17,viseranam,14
+13,savituH,savitf,g. sg. m.,18,rartisambanxah,14
+14,karAH,kara,nom. pl. m.,23,karwa,16
+15,jagatIH,jagatI,acc. pl. f.,24,karma,16
+16,kapiSayanti,yat,pr. ac. pl. 3,27,samucciwam,17
+17,ca,ca,conj.,28,,

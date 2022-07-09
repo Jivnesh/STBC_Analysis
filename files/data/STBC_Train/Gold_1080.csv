@@ -1,0 +1,5 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,sOmya,bAhu,voc. sg. m.,1,samboxyah,3
+1,vismayam,vismaya,acc. sg. m.,2,karma,3
+2,mA,mA,part.,3,sambanxah,3
+3,kuru,kf,imp. [8] ac. sg. 2,4,,

@@ -1,0 +1,23 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,AsmAkI,tad,nom. sg. f.,0,viseranam,2
+1,asO,adas,nom. sg. f.,44,viseranam,2
+2,CAyA,CAyA,nom. sg. f.,7,karwa,7
+3,eva,eva,conj.,8,sambanxah,2
+4,yuvatidfSAm,dfS,g. pl. f.,11,rartisambanxah,5
+5,anapAyinIM,tad,acc. sg. f.,12,viseranam,6
+6,SriyaM,SrI,acc. sg. f.,13,karma,7
+7,tanoti,tan,pr. ac. sg. 3,14,prawiyogi,8
+8,iti,iti,conj.,15,anuyogi,9
+9,eBiH,idam,inst. pl. n.,17,viseranam,10
+10,kajjalEH,kajjala,inst. pl. n.,18,karwa,14
+11,kim,kim,nom. sg. n.,20,viseranam,13
+12,etat,etad,nom. sg. n.,48,viseranam,13
+13,sADyaM,sAD,pfp. . sg. ,24,karma,14
+14,Bavati,BU,pr. ac. sg. 3,25,samucciwam,21
+15,evam,evam,conj.,26,sambanxah,16
+16,matvA,man,conj.,27,purvakalah,20
+17,svaguRapiDAnasAByasUyEH,asUya,inst. pl. n.,31,viseranam,18
+18,pAnIyEH,pA,pfp. . pl. ,35,karwa,20
+19,aYjanAni,aYjana,nom. pl. n.,37,karma,20
+20,vidaDAvire,DAv,pft. md. sg. 3,41,samucciwam,21
+21,ca,ca,conj.,42,,

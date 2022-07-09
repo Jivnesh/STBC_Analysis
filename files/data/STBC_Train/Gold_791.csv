@@ -1,0 +1,25 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aSItakaraH,kara,nom. sg. m.,48,karwa,5
+1,karEH,kara,inst. pl. m.,7,karanam,5
+2,jagati,sva,loc. sg. n.,9,axikaranam,5
+3,nESaM,nESa,acc. sg. n.,11,viseranam,4
+4,tamaH,tamas,acc. sg. n.,13,karma,5
+5,adidravat,Ric,impft. ac. sg. 3,16,samucciwam,23
+6,viyati,viyat,loc. sg. n.,17,axikaranam,9
+7,vArivfndamayaM,maya,acc. sg. n.,19,viseranam,8
+8,tamaH,tamas,acc. sg. n.,20,karma,9
+9,adidravat,Ric,impft. ac. sg. 3,22,samucciwam,23
+10,jalajarAjizu,rAji,loc. pl. m.,82,axikaranam,13
+11,nEdraM,tad,acc. sg. n.,25,viseranam,12
+12,tamaH,tamas,acc. sg. n.,26,karma,13
+13,adidravat,Ric,impft. ac. sg. 3,29,samucciwam,23
+14,taTA,taTA,conj.,30,sambanxah,22
+15,hi,hi,conj.,31,sambanxah,22
+16,mahatAm,tad,g. pl. m.,33,rartisambanxah,17
+17,arayaH,ari,loc. sg. m.,34,axikaranam,22
+18,kva,kva,conj.,37,sambanxah,22
+19,ca,ca,conj.,38,sambanxah,22
+20,na,na,conj.,39,sambanxah,21
+21,na,na,conj.,40,sambanxah,17
+22,ahatAH,han,pp. . pl. ,44,samucciwam,23
+23,ca,ca,conj.,45,,

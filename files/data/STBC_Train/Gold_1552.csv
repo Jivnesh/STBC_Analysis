@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patnI,patnI,nom. sg. f.,0,karwa,4
+1,keSavaSAstriRam,tad,acc. sg. m.,2,karma,4
+2,kim,kim,acc. sg. n.,3,karma,3
+3,kartum,kf,inf.,5,prayojanam,4
+4,prezitavatI,vac,pp.,8,,

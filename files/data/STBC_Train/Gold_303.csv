@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,SarIre,SarIra,loc. sg. m.,1,axikaranam,5
+1,sTUlatA,sTUlatA,nom. sg. f.,4,karwa,5
+2,kadA,kadA,conj.,5,axikaranam,5
+3,utpannA,pad,pp. . sg. ,8,karwqsamanaxikaranam,5
+4,na,na,conj.,6,sambanxah,5
+5,Bavati,BU,pr. ac. sg. 3,7,,

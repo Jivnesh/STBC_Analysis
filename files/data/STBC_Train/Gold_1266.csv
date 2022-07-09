@@ -1,0 +1,9 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,patiH,pat,nom. sg. m.,0,karwa,6
+1,ime,idam,acc. du. n.,1,viseranam,2
+2,dve,dvi,acc. du. n.,9,viseranam,4
+3,api,api,conj.,10,sambanxah,2
+4,nAmnI,nAman,acc. du. n.,12,karma,6
+5,na,na,part.,14,sambanxah,6
+6,icCati,as,ppr. [6] ac.,16,,
+7,sma,sma,part.,17,sambanxah,6

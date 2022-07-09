@@ -1,0 +1,17 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,turagAH,turaga,nom. pl. m.,0,karma,3
+1,yaduBiH,yadu,inst. pl. m.,1,karwa,3
+2,kaTaYcit,cit,conj.,6,kriyaviseranam,3
+3,niruDyamAnAH,ruD,nom. pl. m.,4,bavalakranasapwami_samanakalah,6
+4,agrapAdAn,pAda,acc. pl. m.,8,karma,6
+5,muhuH,muhur,conj.,10,kriyaviseranam,6
+6,uccikzipuH,kzip,pft. ac. pl. 3,9,samucciwam,15
+7,tat,tad,conj.,12,sambanxah,14
+8,DruvaM,Druva,conj.,15,sambanxah,14
+9,mArgaruDaH,tad,acc. pl. m.,16,viseranam,11
+10,gurUn,guru,acc. pl. m.,17,viseranam,11
+11,karIndrAn,karIndra,acc. pl. m.,18,karma,14
+12,ullaNaGya,laNG,abs.,19,purvakalah,14
+13,gantum,gam,inf.,42,prayojanam,14
+14,IzuH,iz,pft. ac. pl. 3,22,samucciwam,15
+15,ca,ca,conj.,23,,

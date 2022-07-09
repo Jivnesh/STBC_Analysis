@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bavizye,Bavizya,loc. sg. m.,0,axikaranam,4
+1,kadApi,Api,loc. sg. m.,6,axikaranam,4
+2,DarmavirudDam,virudDa,acc. sg. n.,10,karma,4
+3,na,na,part.,13,sambanxah,4
+4,Acara,car,imp. [1] ac. sg. 2,14,,

@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,idam,idam,acc. sg. n.,8,karma,1
+1,AkarRya,karRa,conj.,1,purvakalah,4
+2,SizyAH,SizyA,acc. pl. f.,3,karwa,4
+3,ekataH,eka,conj.,4,kriyaviseranam,4
+4,apasftAH,sfta,pp. . pl. ,7,,

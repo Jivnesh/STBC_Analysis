@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,Bayena,Baya,i. sg. n.,0,hewuh,5
+1,kampamAnam,kamp,acc. sg. n.,4,viseranam,3
+2,varzIyam,varzin,acc. sg. n.,5,viseranam,3
+3,yuvakam,yuvan,acc. sg. n.,8,karma,5
+4,senADyakzaH,aDyakza,nom. sg. m.,47,karwa,5
+5,ASvAsayat,Svas,ca. impft. ac. sg. 3,14,,

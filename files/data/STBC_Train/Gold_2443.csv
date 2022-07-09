@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,ca,ca,conj.,1,sambanxah,5
+2,api,api,conj.,2,sambanxah,0
+3,nijakarmAnuzWAnena,anuzWAna,i. sg. n.,21,karanam,5
+4,SudDaH,SudDa,nom. sg. m.,9,karwqsamanaxikaranam,5
+5,asmi,as,pr. [2] ac. sg. 1,10,,

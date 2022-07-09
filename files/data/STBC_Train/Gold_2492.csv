@@ -1,0 +1,4 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,mahAtmA,mahAtman,nom. sg. m.,0,karwa,2
+1,uttaraM,uttara,acc. sg. m.,4,karma,2
+2,dattavAn,datta,pp. . sg. ,7,,

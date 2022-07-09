@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,pitA,pitf,nom. sg. m.,2,karwa,5
+2,api,api,conj.,3,sambanxah,1
+3,netum,nI,inf.,5,prayojanam,5
+4,na,na,part.,6,sambanxah,5
+5,Saknoti,Sak,pr. [5] ac. sg. 3,7,,

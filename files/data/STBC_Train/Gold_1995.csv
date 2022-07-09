@@ -1,0 +1,8 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,anyAn,anya,acc. pl. m.,0,karma,1
+1,ca,ca,conj.,1,sambanxah,6
+2,api,api,conj.,2,sambanxah,1
+3,dayAyuktA,yukta,nom. sg. f.,37,viseranam,4
+4,jaganmAtA,mAtf,nom. sg. f.,13,prawiyogi,5
+5,iva,iva,part.,14,anuyogi,6
+6,rakzati,rakz,ppr. [1] ac.,15,,

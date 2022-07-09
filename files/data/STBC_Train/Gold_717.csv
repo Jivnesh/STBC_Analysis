@@ -1,0 +1,12 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,maDurARi,maDura,nom. pl. n.,1,viseranam,4
+1,pakvAni,pakva,nom. pl. n.,3,viseranam,4
+2,AmraPalAni,Pala,nom. pl. n.,6,samucciwam,4
+3,jambUPalAni,Pala,nom. pl. n.,9,samucciwam,4
+4,ca,ca,conj.,10,karwa,6
+5,BUmO,BUmi,loc. sg. f.,11,axikaranam,6
+6,patanti,pat,pr. [1] ac. pl. 3,12,samucciwam,10
+7,janAH,jana,nom. pl. m.,13,karwa,9
+8,tAni,tad,acc. pl. n.,14,karma,9
+9,KAdanti,BU,pr. [1] ac. pl. 3,16,samucciwam,10
+10,ca,ca,conj.,17,,

@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tasya,tad,g. sg. n.,0,rartisambanxah,1
+1,vyavasAyam,vyavasAya,acc. sg. m.,2,karma,3
+2,nizPalam,nizPala,acc. sg. m.,3,karmasamanaxikaranam,3
+3,kartum,kf,inf.,6,prayojanam,8
+4,uddeSyena,tad,i. sg. n.,10,hewuh,8
+5,praTamavyavasAyI,vyavasAyin,nom. sg. m.,12,karwa,8
+6,svavipaRyAm,vipaRa,loc. sg. f.,14,axikaranam,8
+7,pawwikAm,pawwikA,acc. sg. f.,15,karma,8
+8,Ayojayat,yuj,ca. impft. ac. sg. 3,16,,

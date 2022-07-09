@@ -1,0 +1,22 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,tvaM,yuzmad,nom. sg. n.,0,viseranam,1
+1,gataspfhaH,spfhA,nom. sg. m.,2,karwa,4
+2,api,api,conj.,3,sambanxah,4
+3,AgamanaprayojanaM,prayojana,acc. sg. n.,6,karma,4
+4,vada,vad,imp. ac. sg. 2,9,prawiyogi,5
+5,iti,iti,conj.,8,anuyogi,6
+6,vaktuM,brU,inf.,10,prayojanam,9
+7,yayA,yad,inst. sg. f.,11,viseranam,8
+8,DfzwatayA,Dfzwa,inst. sg. f.,12,karwa,9
+9,vyavasIyate,vas,pr. md. sg. 3,13,samucciwam,20
+10,uditAtmagOravaH,gOrava,nom. sg. m.,15,viseranam,14
+11,guruH,guru,nom. sg. m.,16,viseranam,14
+12,ezaH,etad,nom. sg. m.,35,viseranam,14
+13,tava,yuzmad,g. sg. n.,18,rartisambanxah,14
+14,AgamaH,Agama,nom. sg. m.,19,karwa,19
+15,eva,eva,conj.,20,sambanxah,14
+16,naH,asmad,g. pl. n.,23,rartisambanxah,19
+17,tAM,tad,acc. sg. f.,24,viseranam,18
+18,DfzwatAM,tad,acc. sg. f.,25,karma,19
+19,tanoti,tan,pr. ac. sg. 3,26,samucciwam,20
+20,ca,ca,conj.,27,,

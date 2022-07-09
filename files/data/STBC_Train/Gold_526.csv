@@ -1,0 +1,10 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,aham,asmad,nom. sg. *,0,karwa,8
+1,punaH,punar,adv.,1,sambanxah,0
+2,yuzmAkam,yuzmad,nom. sg. n.,5,karwa,3
+3,prekzamARAnAm,Ikz,ppr. [1] md.,8,bavalakranasapwami_samanakalah,8
+4,eva,eva,ind.,9,sambanxah,3
+5,enam,ena,acc. sg. m.,10,viseranam,6
+6,kumAravfzasenam,vfzasena,acc. sg. m.,12,karma,8
+7,smartavyaSezam,Seza,acc. sg. m.,14,karmasamanaxikaranam,8
+8,karomi,kf,pr. [8] ac. sg. 1,17,,

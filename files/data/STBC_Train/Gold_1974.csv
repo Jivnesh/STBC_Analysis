@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,amftarasena,rasa,inst. sg. m.,0,karwa,1
+1,siktA,sic,nom. sg. f.,3,prawiyogi,2
+2,iva,iva,conj.,4,anuyogi,7
+3,muhuH,muhur,conj.,5,viseranam,12
+4,janAnAM,jana,g. pl. m.,6,rartisambanxah,5
+5,klAnticCidaH,tad,nom. pl. m.,8,viseranam,7
+6,SAKAavasaktavasanaABaraRaaBirAmAH,aBirAma,nom. pl. m.,9,viseranam,7
+7,vanavanaspatayaH,vanaspati,nom. pl. m.,12,karwa,12
+8,vicitraPalEH,Pala,inst. pl. m.,13,viseranam,9
+9,kalpadrumEH,druma,inst. pl. m.,14,upapaxasambanxah,10
+10,saha,saha,conj.,16,sambanxah,12
+11,tadAnIM,tadAnIm,conj.,17,axikaranam,12
+12,virejuH,rAj,pft. ps. pl. 3,18,,

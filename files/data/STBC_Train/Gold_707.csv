@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,itTam,ca,adv.,0,kriyaviseranam,12
+1,vizamaSIlaH,SIla,nom. sg. m.,2,karwa,12
+2,svaputrARAm,putra,g. pl. m.,4,rartisambanxah,3
+3,parIkzAm,parIkzA,acc. sg. f.,5,karma,4
+4,kftvA,kf,abs.,6,purvakalah,12
+5,trizu,tra,loc. pl. n.,8,viseranam,6
+6,putrezu,putra,loc. pl. m.,9,sambanxah,9
+7,tftIyam,tftIya,acc. sg. m.,10,viseranam,9
+8,dayAluyuktimantam,yukti,acc. sg. m.,50,viseranam,9
+9,ahiMsAvfttim,vftti,acc. sg. m.,35,viseranam,10
+10,putram,putra,acc. sg. m.,18,karma,12
+11,rAjAnam,rAjan,acc. sg. m.,19,karmasamanaxikaranam,12
+12,akarot,kf,impft. [8] ac. sg. 3,20,,

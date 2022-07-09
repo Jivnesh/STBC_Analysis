@@ -1,0 +1,14 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,4
+1,yat,yad,conj.,1,sambanxah,4
+2,kim,kim,acc. sg. n.,2,karma,4
+3,api,api,conj.,4,sambanxah,2
+4,karomi,kf,pr. [8] ac. sg. 1,6,samucciwam,12
+5,tat,tad,conj.,8,sambanxah,11
+6,gfhasya,gfha,g. sg. m.,9,viseranam,8
+7,samastAnAm,as,g. pl. m.,12,viseranam,8
+8,sadasyAnAm,sadasya,g. pl. m.,13,rartisambanxah,9
+9,sahamatyA,sah,adv.,17,kriyaviseranam,11
+10,eva,eva,prep.,18,sambanxah,9
+11,karomi,kf,pr. [8] ac. sg. 1,19,samucciwam,12
+12,ca,ca,conj.,20,,

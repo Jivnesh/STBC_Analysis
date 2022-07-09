@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,kintu,ca,adv.,0,sambanxah,4
+1,tava,yuzmad,g. sg. *,1,rartisambanxah,2
+2,aDikAram,aDikAra,acc. sg. m.,2,karma,3
+3,pratizWApayitum,sTA,dat. sg. m.,3,prayojanam,4
+4,AgatA,gam,pp.,4,,

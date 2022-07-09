@@ -1,0 +1,7 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,evam,evam,adv.,6,kriyaviseranam,5
+1,pfzwasya,pfzwa,g. sg. n.,11,viseranam,3
+2,api,api,conj.,13,sambanxah,1
+3,tilakasya,tilaka,g. sg. m.,15,rartisambanxah,4
+4,uttaram,uttara,nom. sg. n.,5,karwa,5
+5,AsIt,as,aor. [5] ac. sg. 3,8,,

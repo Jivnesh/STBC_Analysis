@@ -1,0 +1,6 @@
+s_no,word,lemma,morph,true_node,dep_tag,to_node
+0,zawsu,zaz,nom. pl. *,0,viseranam,1
+1,mAsezu,mAsa,nom. pl. m.,2,karwa,2
+2,vyatItezu,vac,pp.,4,purvakalah,4
+3,sADumaRqalI,maRqalin,nom. sg. m.,6,karwa,4
+4,pratyAgatA,gam,pp.,7,,
