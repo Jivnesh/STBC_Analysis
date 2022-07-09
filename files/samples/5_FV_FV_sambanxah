@@ -24,11 +24,6 @@
 8,na,na,part.,17,sambanxah,9
 9,AsIt,as,aor. [5] ac. sg. 3,19,,
 
-0,are,ara,voc. sg. m.,5,sambanxah,1
-1,are,ara,voc. sg. m.,11,samboxyah,3
-2,paSyata,paS,imp. [4] ac. pl. 2,12,sambanxah,3 ####### FV_FV_sambanxah #######
-3,paSyata,paS,imp. [4] ac. pl. 2,13,,
-
 0,tarhi,tarhi,conj.,0,sampraxanam,1
 1,tasmE,tad,dat. sg. m.,2,,
 2,kopizyAmi,kup,fut. ac. sg. 1,3,sambanxah,8 ####### FV_FV_sambanxah #######
@@ -46,4 +41,9 @@
 4,jAyate,jan,pr. [4] md. sg. 3,10,sambanxah,5 ####### FV_FV_sambanxah #######
 5,sutaH,su,pr. [2] ac. du. 3,11,,
 6,eva,eva,prep.,12,karwa,5
+
+0,are,ara,voc. sg. m.,5,sambanxah,1
+1,are,ara,voc. sg. m.,11,samboxyah,3
+2,paSyata,paS,imp. [4] ac. pl. 2,12,sambanxah,3 ####### FV_FV_sambanxah #######
+3,paSyata,paS,imp. [4] ac. pl. 2,13,,
 

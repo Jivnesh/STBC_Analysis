@@ -1,3 +1,18 @@
+0,SOriH,SOri,nom. sg. m.,NA,karwa,13
+1,divyAnAm,divya,g. pl. f.,NA,rartisambanxah,3
+2,api,api,ind.,NA,sambanxah,3
+3,kftavismayAM,kfta-vismayA,acc. sg. f.,NA,viseranam,4
+4,sPuradaravindacAruhastAM,sPuradaravindacAru-hastA,acc. sg. f.,NA,karma,6
+5,purastAt,purastAt,ind.,NA,axikaranam,6
+6,uttarantIm,ut_tF1,ppr. ac,NA,viseranam,9
+7,amBastaH,amBas,ind.,NA,apaxanam,11
+8,kAYcit,kiYcit,acc. sg. f.,NA,viseranam,9
+9,Sriyam,SrI,acc. sg. f.,NA,prawiyogi,10
+10,iva,iva,ind.,NA,anuyogi,11
+11,udvIkzya,ut_vi_Ikz1,abs.,NA,purvakalah,12 ####### g_IV_purvakalah #######
+12,jalaniDimanTanasya,jalaniDi-manTana,g. sg. n.,NA,karma,13
+13,asmArzIt,smf2,aor. ac. sg. 3,NA,,
+
 0,yat,yad,acc. sg. n.,35,viseranam,2
 1,rajaH,rajas,acc. sg. n.,15,viseranam,2
 2,pAdAhataM,hata,acc. sg. n.,40,karma,4
@@ -39,19 +54,4 @@
 19,eva,eva,prep.,30,sambanxah,18
 20,aDikAre,aDikAra,loc. sg. m.,33,axikaranam,21
 21,syAt,as,opt. [2] ac. sg. 3,50,,
-
-0,SOriH,SOri,nom. sg. m.,NA,karwa,13
-1,divyAnAm,divya,g. pl. f.,NA,rartisambanxah,3
-2,api,api,ind.,NA,sambanxah,3
-3,kftavismayAM,kfta-vismayA,acc. sg. f.,NA,viseranam,4
-4,sPuradaravindacAruhastAM,sPuradaravindacAru-hastA,acc. sg. f.,NA,karma,6
-5,purastAt,purastAt,ind.,NA,axikaranam,6
-6,uttarantIm,ut_tF1,ppr. ac,NA,viseranam,9
-7,amBastaH,amBas,ind.,NA,apaxanam,11
-8,kAYcit,kiYcit,acc. sg. f.,NA,viseranam,9
-9,Sriyam,SrI,acc. sg. f.,NA,prawiyogi,10
-10,iva,iva,ind.,NA,anuyogi,11
-11,udvIkzya,ut_vi_Ikz1,abs.,NA,purvakalah,12 ####### g_IV_purvakalah #######
-12,jalaniDimanTanasya,jalaniDi-manTana,g. sg. n.,NA,karma,13
-13,asmArzIt,smf2,aor. ac. sg. 3,NA,,
 

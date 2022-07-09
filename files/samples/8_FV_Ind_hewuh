@@ -1,29 +1,35 @@
-0,ye,yad,nom. pl. m.,12,karwa,17
-1,ca,ca,conj.,31,sambanxah,17
-2,tasya,tad,g. sg. m.,7,rartisambanxah,3
-3,mitrARi,mitra,nom. pl. n.,9,karwa,14
-4,ye,yad,nom. pl. m.,2,viseranam,7
-5,te,yuzmad,g. sg. n.,21,viseranam,10
-6,amitrAH,amitra,nom. pl. m.,25,viseranam,9
-7,ca,ca,conj.,5,sambanxah,17
-8,uBaye,uBaya,nom. pl. m.,26,karma,14
-9,nfpAH,nfpa,nom. pl. m.,32,viseranam,10
-10,tvayA,yuzmad,inst. sg. n.,34,karanam,14
-11,aBiyuktam,tad,acc. sg. m.,91,karma,14
-12,enaM,idam,acc. sg. m.,38,karwa,14
-13,gantAraH,gam,per.  fut. ac. pl. 3,47,karwa,3
-14,ataH,atas,conj.,40,hewuh,17 ####### FV_Ind_hewuh #######
-15,pare,para,nom. pl. m.,41,viseranam,16
-16,tvAM,yuzmad,acc. sg. n.,46,karma,17
-17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
-
 0,ataH,ca,conj.,0,hewuh,6 ####### FV_Ind_hewuh #######
 1,saH,tad,nom. sg. m.,1,karwa,6
-2,kroDAt,kroDa,abl. sg. m.,2,hewuh,6
-3,SirasaH,Siras,g. sg. n.,3,rartisambanxah,4
-4,Siraskam,Siraska,acc. sg. m.,5,karma,6
-5,aDaH,ca,conj.,6,axikaranam,6
-6,akzipat,kzip,impft . ac. sg. 3,7,,
+2,agneH,agni,g. sg. m.,2,upapaxasambanxah,3
+3,sadfSAni,sadfSa,acc. pl. n.,4,viseranam,5
+4,guYjAyAH,guYjA,g. sg. f.,7,rartisambanxah,5
+5,PalAni,Pala,acc. pl. n.,8,karma,6
+6,Anayati,nI,pr. ac. sg. 3,10,,
+
+0,ataH,ca,conj.,0,hewuh,3 ####### FV_Ind_hewuh #######
+1,saH,tad,nom. sg. m.,1,karwa,3
+2,SrAntaH,SrAnta,pp. . sg. ,2,karwqsamanaxikaranam,3
+3,aBavat,BU,impft . ac. sg. 3,3,,
+
+0,Amravanasya,vana,g. sg. n.,0,rartisambanxah,1
+1,rajaH kaRAH,kaRa,nom. pl. m.,2,karwa,3
+2,smarahutASanamurmuracUrRatAM,cUrRa,acc. du. f.,5,karma,3
+3,daDuH,DA,pft. ac. pl. 3,7,prawiyogi,4
+4,iva,iva,conj.,8,anuyogi,12
+5,ataH,atas,conj.,9,hewuh,8 ####### FV_Ind_hewuh #######
+6,paritaH,ca,conj.,10,axikaranam,8
+7,upari,upari,conj.,12,axikaranam,12
+8,nipatitAH,pat,pp. . pl. ,15,viseranam,9
+9,te,tad,nom. pl. m.,18,karwa,12
+10,paTikavrajAn,vraj,acc. pl. m.,23,karma,12
+11,BfSaM,BfSam,conj.,26,viseranam,12
+12,paritepuH,tap,pft. ac. pl. 3,37,,
+
+0,ataH,ca,conj.,0,hewuh,4 ####### FV_Ind_hewuh #######
+1,mama,asmad,g. sg. *.,1,rartisambanxah,2
+2,patnI,patnI,nom. sg. f.,2,karwa,4
+3,mahyam,mahya,pfp. . sg. ,3,sampraxanam,4
+4,kupyati,kup,pr. ac. sg. 3,4,,
 
 0,kiM,kim,conj.,1,hewuh,5 ####### FV_Ind_hewuh #######
 1,devyA,devI,inst. sg. f.,2,karwa,5
@@ -34,17 +40,11 @@
 
 0,ataH,ca,conj.,0,hewuh,6 ####### FV_Ind_hewuh #######
 1,saH,tad,nom. sg. m.,1,karwa,6
-2,agneH,agni,g. sg. m.,2,upapaxasambanxah,3
-3,sadfSAni,sadfSa,acc. pl. n.,4,viseranam,5
-4,guYjAyAH,guYjA,g. sg. f.,7,rartisambanxah,5
-5,PalAni,Pala,acc. pl. n.,8,karma,6
-6,Anayati,nI,pr. ac. sg. 3,10,,
-
-0,ataH,ca,conj.,0,hewuh,4 ####### FV_Ind_hewuh #######
-1,mama,asmad,g. sg. *.,1,rartisambanxah,2
-2,patnI,patnI,nom. sg. f.,2,karwa,4
-3,mahyam,mahya,pfp. . sg. ,3,sampraxanam,4
-4,kupyati,kup,pr. ac. sg. 3,4,,
+2,kroDAt,kroDa,abl. sg. m.,2,hewuh,6
+3,SirasaH,Siras,g. sg. n.,3,rartisambanxah,4
+4,Siraskam,Siraska,acc. sg. m.,5,karma,6
+5,aDaH,ca,conj.,6,axikaranam,6
+6,akzipat,kzip,impft . ac. sg. 3,7,,
 
 0,mahIpatiH,pat,nom. sg. m.,1,viseranam,1
 1,daSaraTaH,tad,nom. sg. m.,3,karwa,18
@@ -66,22 +66,22 @@
 17,saMyoktum,yuj,acc. sg. m.,36,karma,18
 18,EcCat,iz,impft. [6] ac. sg. 3,37,,
 
-0,ataH,ca,conj.,0,hewuh,3 ####### FV_Ind_hewuh #######
-1,saH,tad,nom. sg. m.,1,karwa,3
-2,SrAntaH,SrAnta,pp. . sg. ,2,karwqsamanaxikaranam,3
-3,aBavat,BU,impft . ac. sg. 3,3,,
-
-0,Amravanasya,vana,g. sg. n.,0,rartisambanxah,1
-1,rajaH kaRAH,kaRa,nom. pl. m.,2,karwa,3
-2,smarahutASanamurmuracUrRatAM,cUrRa,acc. du. f.,5,karma,3
-3,daDuH,DA,pft. ac. pl. 3,7,prawiyogi,4
-4,iva,iva,conj.,8,anuyogi,12
-5,ataH,atas,conj.,9,hewuh,8 ####### FV_Ind_hewuh #######
-6,paritaH,ca,conj.,10,axikaranam,8
-7,upari,upari,conj.,12,axikaranam,12
-8,nipatitAH,pat,pp. . pl. ,15,viseranam,9
-9,te,tad,nom. pl. m.,18,karwa,12
-10,paTikavrajAn,vraj,acc. pl. m.,23,karma,12
-11,BfSaM,BfSam,conj.,26,viseranam,12
-12,paritepuH,tap,pft. ac. pl. 3,37,,
+0,ye,yad,nom. pl. m.,12,karwa,17
+1,ca,ca,conj.,31,sambanxah,17
+2,tasya,tad,g. sg. m.,7,rartisambanxah,3
+3,mitrARi,mitra,nom. pl. n.,9,karwa,14
+4,ye,yad,nom. pl. m.,2,viseranam,7
+5,te,yuzmad,g. sg. n.,21,viseranam,10
+6,amitrAH,amitra,nom. pl. m.,25,viseranam,9
+7,ca,ca,conj.,5,sambanxah,17
+8,uBaye,uBaya,nom. pl. m.,26,karma,14
+9,nfpAH,nfpa,nom. pl. m.,32,viseranam,10
+10,tvayA,yuzmad,inst. sg. n.,34,karanam,14
+11,aBiyuktam,tad,acc. sg. m.,91,karma,14
+12,enaM,idam,acc. sg. m.,38,karwa,14
+13,gantAraH,gam,per.  fut. ac. pl. 3,47,karwa,3
+14,ataH,atas,conj.,40,hewuh,17 ####### FV_Ind_hewuh #######
+15,pare,para,nom. pl. m.,41,viseranam,16
+16,tvAM,yuzmad,acc. sg. n.,46,karma,17
+17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
 

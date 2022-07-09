@@ -1,3 +1,13 @@
+0,BikzuH,Bikzu,nom. sg. m.,0,karwa,8
+1,api,api,conj.,1,sambanxah,0
+2,kiYcit,cit,acc. sg. n.,23,kriyaviseranam,3 ####### nom_acc_kriyaviseranam #######
+3,smaran,tad,nom. sg. m.,4,prawiyogi,4
+4,iva,iva,conj.,5,anuyogi,5
+5,tAm,tad,acc. sg. f.,6,viseranam,7
+6,eva,eva,conj.,7,sambanxah,5
+7,sTitim,sTiti,acc. sg. f.,8,karma,8
+8,ApannaH,pad,pp. . sg. ,9,,
+
 0,bahiH,bahis,conj.,1,axikaranam,1
 1,sTitavate,sTA,dat. sg. m.,3,viseranam,3
 2,api,api,conj.,4,sambanxah,1
@@ -22,6 +32,13 @@
 5,kim,kim,nom. sg. n.,14,karma,6
 6,kftavatI,kf,ppa.,17,,
 
+0,taruRI,taruRa,nom. sg. f.,0,karwa,5
+1,patim,pat,acc. sg. m.,1,karma,3
+2,kIdfSam,kIdfSa,acc. sg. n.,2,kriyaviseranam,3 ####### nom_acc_kriyaviseranam #######
+3,icCantI,tad,nom. sg. f.,8,karwqsamanaxikaranam,5
+4,kim,kim,acc. sg. n.,9,karma,5
+5,kftavatI,kf,ppa.,13,,
+
 0,anantAkASe,AkASa,loc. sg. n.,24,axikaranam,6
 1,sUkzmatArAvat,av,acc. sg. n.,10,kriyaviseranam,2 ####### nom_acc_kriyaviseranam #######
 2,pratIyamAnaH,tad,nom. sg. m.,13,viseranam,3
@@ -32,21 +49,4 @@
 7,iti,iti,part.,18,anuyogi,8
 8,nAradaH,nArada,nom. sg. m.,19,karwa,9
 9,pfzwavAn,pfzwa,pp.,21,,
-
-0,taruRI,taruRa,nom. sg. f.,0,karwa,5
-1,patim,pat,acc. sg. m.,1,karma,3
-2,kIdfSam,kIdfSa,acc. sg. n.,2,kriyaviseranam,3 ####### nom_acc_kriyaviseranam #######
-3,icCantI,tad,nom. sg. f.,8,karwqsamanaxikaranam,5
-4,kim,kim,acc. sg. n.,9,karma,5
-5,kftavatI,kf,ppa.,13,,
-
-0,BikzuH,Bikzu,nom. sg. m.,0,karwa,8
-1,api,api,conj.,1,sambanxah,0
-2,kiYcit,cit,acc. sg. n.,23,kriyaviseranam,3 ####### nom_acc_kriyaviseranam #######
-3,smaran,tad,nom. sg. m.,4,prawiyogi,4
-4,iva,iva,conj.,5,anuyogi,5
-5,tAm,tad,acc. sg. f.,6,viseranam,7
-6,eva,eva,conj.,7,sambanxah,5
-7,sTitim,sTiti,acc. sg. f.,8,karma,8
-8,ApannaH,pad,pp. . sg. ,9,,
 

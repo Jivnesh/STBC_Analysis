@@ -1,3 +1,26 @@
+0,mune,muni,voc. sg. m.,NA,samboxyah,10
+1,yadyapi,yadyapi,ind.,NA,sambanxah,11
+2,nibarhitAMhasA,nibarhitAMhas,i. sg. n.,NA,viseranam,3
+3,amunA,adas,i. sg. n.,NA,karwa,9
+4,tava,yuzmad,g. sg. *.,NA,rartisambanxah,5
+5,vilokanena,vi_lok2,i. sg. n.,NA,hewuh,8
+6,eva,eva,ind.,NA,sambanxah,5
+7,ahaM,asmad,nom. sg. *.,NA,karwa,10
+8,kftArTaH,kftArTa,nom. sg. m.,NA,karma,9
+9,kftaH,kf2,pp.,NA,karwqsamanaxikaranam,10
+10,asmi,as2,pr. ac. sg. 1,NA,prawiyogi,11
+11,taTApi,taTApi,ind.,NA,anuyogi,17
+12,ahaM,asmad,nom. sg. *.,NA,karwa,17
+13,tava,yuzmad,g. sg. *.,NA,rartisambanxah,15
+14,garIyasIH,garIyasI,acc. pl. f.,NA,viseranam,15
+15,giraH,gir,abl. sg. f.,NA,karma,17 ####### FV_abl_karma #######
+16,SuSrUzuH,SuSrUzu,nom. sg. m.,NA,karwqsamanaxikaranam,17
+17,asmi,as2,pr. ac. sg. 1,NA,,
+18,aTavA,aTavA,ind.,NA,sambanxah,21
+19,Sreyasi,Sreyas,loc. sg. m.,NA,axikaranam,21
+20,kena,kim,i. sg. m.,NA,karwa,21
+21,tfpyate,tfp1,pr. ps. sg. 3,NA,,
+
 0,mune,muni,voc. sg. m.,1,samboxyah,10
 1,yadyapi,api,conj.,4,sambanxah,11
 2,nibarhitAMhasA,aMhas,inst. sg. n.,0,viseranam,3
@@ -21,27 +44,4 @@
 20,kena,kim,inst. sg. m.,34,karwa,21
 21,tfpyate,tfp,pr. md. sg. 3,35,samucciwam,22
 22,ca,ca,conj.,36,,
-
-0,mune,muni,voc. sg. m.,NA,samboxyah,10
-1,yadyapi,yadyapi,ind.,NA,sambanxah,11
-2,nibarhitAMhasA,nibarhitAMhas,i. sg. n.,NA,viseranam,3
-3,amunA,adas,i. sg. n.,NA,karwa,9
-4,tava,yuzmad,g. sg. *.,NA,rartisambanxah,5
-5,vilokanena,vi_lok2,i. sg. n.,NA,hewuh,8
-6,eva,eva,ind.,NA,sambanxah,5
-7,ahaM,asmad,nom. sg. *.,NA,karwa,10
-8,kftArTaH,kftArTa,nom. sg. m.,NA,karma,9
-9,kftaH,kf2,pp.,NA,karwqsamanaxikaranam,10
-10,asmi,as2,pr. ac. sg. 1,NA,prawiyogi,11
-11,taTApi,taTApi,ind.,NA,anuyogi,17
-12,ahaM,asmad,nom. sg. *.,NA,karwa,17
-13,tava,yuzmad,g. sg. *.,NA,rartisambanxah,15
-14,garIyasIH,garIyasI,acc. pl. f.,NA,viseranam,15
-15,giraH,gir,abl. sg. f.,NA,karma,17 ####### FV_abl_karma #######
-16,SuSrUzuH,SuSrUzu,nom. sg. m.,NA,karwqsamanaxikaranam,17
-17,asmi,as2,pr. ac. sg. 1,NA,,
-18,aTavA,aTavA,ind.,NA,sambanxah,21
-19,Sreyasi,Sreyas,loc. sg. m.,NA,axikaranam,21
-20,kena,kim,i. sg. m.,NA,karwa,21
-21,tfpyate,tfp1,pr. ps. sg. 3,NA,,
 

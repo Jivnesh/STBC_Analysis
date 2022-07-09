@@ -1,14 +1,21 @@
-0,sakopasya,tad,g. sg. m.,1,viseranam,1
-1,tasya,tad,g. sg. m.,3,rartisambanxah,2
-2,sAmavAdAH,vAda,nom. pl. m.,5,karwa,4 ####### g_nom_karwa #######
-3,sahasA,sahasA,conj.,11,viseranam,4
-4,prataptasya,tapta,g. sg. m.,13,viseranam,5
-5,sarpizaH,sarpis,g. sg. n.,14,rartisambanxah,6
-6,toyabindavaH,bindu,nom. sg. m.,17,prawiyogi,7
-7,iva,iva,conj.,18,anuyogi,10
-8,pratyuta,pratyuta,conj.,19,sambanxah,10
-9,dIpakAH,dIpaka,nom. pl. m.,20,karwqsamanaxikaranam,10
-10,Bavanti,BU,pr. ac. pl. 3,21,,
+0,Dik,Dik,ind.,0,sambanxah,9
+1,mAm,asmad,acc. sg. *,1,viseranam,2
+2,duzkftakAriRI,kArin,acc. du. n.,3,upapaxasambanxah,0
+3,yasyAH,yad,g. sg. f.,6,rartisambanxah,4
+4,kfte,kf,acc. du. f.,13,hewuh,8
+5,iyam,dam,nom. sg. f.,14,rartisambanxah,8
+6,IdfSI,IdfS,nom. sg. f.,17,viseranam,7
+7,daSA,daSA,nom. sg. m.,19,viseranam,8
+8,vartate,vft,nom. sg. m.,21,karwa,9 ####### g_nom_karwa #######
+9,tava,yuzmad,g. sg. *,22,,
+
+0,hi,hi,conj.,0,sambanxah,6
+1,tO,tad,nom. du. m.,2,karwa,2 ####### g_nom_karwa #######
+2,udezyantyAH,i,g. sg. f.,4,bavalakranasapwami_samanakalah,6
+3,jigIzoH,jigIzu,g. sg. m.,5,rartisambanxah,4
+4,AtmasampadaH,sampad,g. sg. f.,12,rartisambanxah,5
+5,mUlam,mUla,nom. sg. n.,15,karwa,6
+6,Bavati,BU,pr. ac. sg. 3,16,,
 
 0,maDukaraviwapAnam,pAna,nom. sg. n.,49,karwa,4 ####### g_nom_karwa #######
 1,itAH,i,acc. pl. f.,4,viseranam,3
@@ -22,22 +29,15 @@
 9,kapiSaM,kapiSa,acc. sg. n.,26,karma,10
 10,cakAsti,cakAs,pr. ac. sg. 3,28,,
 
-0,hi,hi,conj.,0,sambanxah,6
-1,tO,tad,nom. du. m.,2,karwa,2 ####### g_nom_karwa #######
-2,udezyantyAH,i,g. sg. f.,4,bavalakranasapwami_samanakalah,6
-3,jigIzoH,jigIzu,g. sg. m.,5,rartisambanxah,4
-4,AtmasampadaH,sampad,g. sg. f.,12,rartisambanxah,5
-5,mUlam,mUla,nom. sg. n.,15,karwa,6
-6,Bavati,BU,pr. ac. sg. 3,16,,
-
-0,Dik,Dik,ind.,0,sambanxah,9
-1,mAm,asmad,acc. sg. *,1,viseranam,2
-2,duzkftakAriRI,kArin,acc. du. n.,3,upapaxasambanxah,0
-3,yasyAH,yad,g. sg. f.,6,rartisambanxah,4
-4,kfte,kf,acc. du. f.,13,hewuh,8
-5,iyam,dam,nom. sg. f.,14,rartisambanxah,8
-6,IdfSI,IdfS,nom. sg. f.,17,viseranam,7
-7,daSA,daSA,nom. sg. m.,19,viseranam,8
-8,vartate,vft,nom. sg. m.,21,karwa,9 ####### g_nom_karwa #######
-9,tava,yuzmad,g. sg. *,22,,
+0,sakopasya,tad,g. sg. m.,1,viseranam,1
+1,tasya,tad,g. sg. m.,3,rartisambanxah,2
+2,sAmavAdAH,vAda,nom. pl. m.,5,karwa,4 ####### g_nom_karwa #######
+3,sahasA,sahasA,conj.,11,viseranam,4
+4,prataptasya,tapta,g. sg. m.,13,viseranam,5
+5,sarpizaH,sarpis,g. sg. n.,14,rartisambanxah,6
+6,toyabindavaH,bindu,nom. sg. m.,17,prawiyogi,7
+7,iva,iva,conj.,18,anuyogi,10
+8,pratyuta,pratyuta,conj.,19,sambanxah,10
+9,dIpakAH,dIpaka,nom. pl. m.,20,karwqsamanaxikaranam,10
+10,Bavanti,BU,pr. ac. pl. 3,21,,
 

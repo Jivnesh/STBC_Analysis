@@ -11,6 +11,14 @@
 10,samaM,samam,conj.,23,sambanxah,11
 11,jaGAna,han,pft. ac. sg. 3,24,,
 
+0,rAmaH,rAma,nom. sg. m.,0,karwa,6
+1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3
+2,sItayA,sItA,i. sg. f.,2,samucciwam,3
+3,ca,ca,conj.,3,upapaxasambanxah,4 ####### Ind_Ind_upapaxasambanxah #######
+4,saha,saha,prep.,5,sambanxah,0
+5,vanam,vana,acc. sg. n.,6,karma,6
+6,praviSati,pra,pr. [6] ac. sg. 3,8,,
+
 0,guhena,guha,i. sg. m.,0,samucciwam,3
 1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3
 2,sItayA,sItA,i. sg. f.,2,samucciwam,3
@@ -31,12 +39,4 @@
 17,ramyam,ramya,acc. sg. m.,38,viseranam,18
 18,AvasaTam,AvasaTa,acc. sg. m.,39,karma,19
 19,akarot,kf,impft. [8] ac. sg. 3,40,,
-
-0,rAmaH,rAma,nom. sg. m.,0,karwa,6
-1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3
-2,sItayA,sItA,i. sg. f.,2,samucciwam,3
-3,ca,ca,conj.,3,upapaxasambanxah,4 ####### Ind_Ind_upapaxasambanxah #######
-4,saha,saha,prep.,5,sambanxah,0
-5,vanam,vana,acc. sg. n.,6,karma,6
-6,praviSati,pra,pr. [6] ac. sg. 3,8,,
 

@@ -1,18 +1,13 @@
-0,kopi,kim,nom. sg. m.,1,karwa,7
-1,dvitIyena,dvitIya,i. sg. m.,2,upapaxasambanxah,3
-2,saha,saha,adv.,4,sambanxah,0 ####### nom_adv_sambanxah #######
-3,na,na,part.,6,sambanxah,5
-4,atizWat,sTA,impft. [1] ac. sg. 3,7,samucciwam,6
-5,na,na,part.,8,sambanxah,6
-6,ca,ca,conj.,9,,
-7,avadat,vad,impft. [1] ac. sg. 3,10,samucciwam,6
-
-0,kintu,ca,adv.,0,sambanxah,3 ####### nom_adv_sambanxah #######
-1,mAnasikaH,mA,nom. sg. m.,3,viseranam,2
-2,asantozaH,tad,nom. sg. m.,5,karwa,5
-3,varDamAnaH,varDamAna,nom. sg. m.,6,karwqsamanaxikaranam,5
-4,eva,eva,prep.,7,sambanxah,3
-5,AsIt,as,aor. [5] ac. sg. 3,9,,
+0,mama,asmad,nom. sg. *,0,viseranam,2
+1,punaH,punar,adv.,1,sambanxah,0 ####### nom_adv_sambanxah #######
+2,mandaBAginyAH,BAgin,nom. sg. f.,5,karwa,3
+3,dfSyamAnam,dfS,nom. sg. n.,8,viseranam,7
+4,api,api,conj.,9,sambanxah,3
+5,sarvam,sarva,nom. sg. n.,13,viseranam,7
+6,eva,eva,ind.,14,sambanxah,5
+7,etat,etad,nom. sg. n.,27,karwa,9
+8,na,na,part.,16,sambanxah,9
+9,asti,as,pr. [2] ac. sg. 3,17,,
 
 0,aham,asmad,nom. sg. *,0,karwa,8
 1,punaH,punar,adv.,1,sambanxah,0 ####### nom_adv_sambanxah #######
@@ -31,19 +26,24 @@
 4,prAptaH,Ap,nom. sg. m.,6,karwqsamanaxikaranam,5
 5,Asam,as,impft. [2] ac. sg. 1,12,,
 
+0,kintu,ca,adv.,0,sambanxah,3 ####### nom_adv_sambanxah #######
+1,mAnasikaH,mA,nom. sg. m.,3,viseranam,2
+2,asantozaH,tad,nom. sg. m.,5,karwa,5
+3,varDamAnaH,varDamAna,nom. sg. m.,6,karwqsamanaxikaranam,5
+4,eva,eva,prep.,7,sambanxah,3
+5,AsIt,as,aor. [5] ac. sg. 3,9,,
+
+0,kopi,kim,nom. sg. m.,1,karwa,7
+1,dvitIyena,dvitIya,i. sg. m.,2,upapaxasambanxah,3
+2,saha,saha,adv.,4,sambanxah,0 ####### nom_adv_sambanxah #######
+3,na,na,part.,6,sambanxah,5
+4,atizWat,sTA,impft. [1] ac. sg. 3,7,samucciwam,6
+5,na,na,part.,8,sambanxah,6
+6,ca,ca,conj.,9,,
+7,avadat,vad,impft. [1] ac. sg. 3,10,samucciwam,6
+
 0,kintu,ca,adv.,0,sambanxah,2 ####### nom_adv_sambanxah #######
 1,vAYCitamudrAH,mudrA,nom. pl. f.,13,karwqsamanaxikaranam,3
 2,kim,kim,nom. sg. n.,6,waxarwyam,3
 3,dadyAm,dA,opt. [3] ac. sg. 1,7,,
-
-0,mama,asmad,nom. sg. *,0,viseranam,2
-1,punaH,punar,adv.,1,sambanxah,0 ####### nom_adv_sambanxah #######
-2,mandaBAginyAH,BAgin,nom. sg. f.,5,karwa,3
-3,dfSyamAnam,dfS,nom. sg. n.,8,viseranam,7
-4,api,api,conj.,9,sambanxah,3
-5,sarvam,sarva,nom. sg. n.,13,viseranam,7
-6,eva,eva,ind.,14,sambanxah,5
-7,etat,etad,nom. sg. n.,27,karwa,9
-8,na,na,part.,16,sambanxah,9
-9,asti,as,pr. [2] ac. sg. 3,17,,
 

@@ -1,14 +1,21 @@
-0,mahAtmA,Atman,nom. sg. *,22,karwa,6
-1,Sizyam,Sizya,acc. sg. n.,1,karma,3
-2,sAvaDAnam,sAvaDAna,acc. sg. m.,4,karmasamanaxikaranam,3
-3,kftvA,kf,abs.,7,purvakalah,6
-4,svayam,svayam,nom. sg. n.,9,karwqsamanaxikaranam,6
-5,sanDyopAsanArTam,arTa,acc. sg. m.,55,prayojanam,6 ####### IV_acc_prayojanam #######
-6,upavizwaH,vac,pp.,12,,
+0,SrAvakasya,SrAvaka,g. sg. m.,1,rartisambanxah,2
+1,imam,idam,acc. sg. m.,9,viseranam,2
+2,praSnam,praSna,acc. sg. m.,3,karma,3
+3,samADAtum,DAtu,acc. sg. m.,12,prayojanam,7 ####### IV_acc_prayojanam #######
+4,kaTAvAcakaH,vAcaka,nom. sg. m.,6,karwa,7
+5,dfzwAntam,anta,acc. sg. m.,41,karma,7
+6,imam,dam,acc. sg. m.,0,viseranam,5
+7,prastutavAn,prastuta,pp.,10,,
 
-0,manovinodArTam,carca,acc. pl. f.,2,karma,2
-1,manovinodArTam,arTa,acc. sg. n.,35,prayojanam,2 ####### IV_acc_prayojanam #######
-2,kftA,kf,pp.,6,,
+0,ekadA,ekadA,loc. sg. n.,0,axikaranam,3
+1,saH,tad,nom. sg. m.,1,karwa,8
+2,kfzRavastram,vastra,acc. sg. n.,3,karma,3
+3,pariDAya,DA,abs.,6,purvakalah,4
+4,BikzArTam,arTa,acc. sg. m.,25,prayojanam,8 ####### IV_acc_prayojanam #######
+5,ekasya,eka,g. sg. m.,8,viseranam,6
+6,gfhasTasya,gfhasTa,g. sg. m.,10,rartisambanxah,7
+7,AvAsam,AvAsa,acc. sg. m.,12,karma,8
+8,prAptaH,Ap,pp.,11,,
 
 0,tadaparADe,aparADa,loc. sg. m.,1,axikaranam,5
 1,ca,ca,conj.,2,sambanxah,0
@@ -25,22 +32,6 @@
 5,eva,eva,prep.,8,sambanxah,4
 6,nirmitA,mita,pp.,9,,
 
-0,ekadA,ekadA,loc. sg. n.,0,axikaranam,3
-1,saH,tad,nom. sg. m.,1,karwa,8
-2,kfzRavastram,vastra,acc. sg. n.,3,karma,3
-3,pariDAya,DA,abs.,6,purvakalah,4
-4,BikzArTam,arTa,acc. sg. m.,25,prayojanam,8 ####### IV_acc_prayojanam #######
-5,ekasya,eka,g. sg. m.,8,viseranam,6
-6,gfhasTasya,gfhasTa,g. sg. m.,10,rartisambanxah,7
-7,AvAsam,AvAsa,acc. sg. m.,12,karma,8
-8,prAptaH,Ap,pp.,11,,
-
-0,vatsa,vatsa,voc. sg. m.,0,samboxyah,4
-1,deSarakzArTam,arTa,acc. sg. m.,32,prayojanam,4 ####### IV_acc_prayojanam #######
-2,ete,etad,nom. du. n.,4,karwa,3
-3,balidAnam,dAna,acc. sg. n.,10,karma,4
-4,kurvanti,as,ppr. [8] ac.,12,,
-
 0,tataH,tad,abl. pl. n.,26,apaxanam,6
 1,asmABiH,asmad,nom. pl. *,1,karwa,6
 2,SrImadBavatprasAdArTam,arTa,acc. sg. m.,38,prayojanam,6 ####### IV_acc_prayojanam #######
@@ -49,12 +40,21 @@
 5,vastu,vastu,acc. sg. n.,13,karma,6
 6,AnItam,vac,pp.,17,,
 
-0,SrAvakasya,SrAvaka,g. sg. m.,1,rartisambanxah,2
-1,imam,idam,acc. sg. m.,9,viseranam,2
-2,praSnam,praSna,acc. sg. m.,3,karma,3
-3,samADAtum,DAtu,acc. sg. m.,12,prayojanam,7 ####### IV_acc_prayojanam #######
-4,kaTAvAcakaH,vAcaka,nom. sg. m.,6,karwa,7
-5,dfzwAntam,anta,acc. sg. m.,41,karma,7
-6,imam,dam,acc. sg. m.,0,viseranam,5
-7,prastutavAn,prastuta,pp.,10,,
+0,manovinodArTam,carca,acc. pl. f.,2,karma,2
+1,manovinodArTam,arTa,acc. sg. n.,35,prayojanam,2 ####### IV_acc_prayojanam #######
+2,kftA,kf,pp.,6,,
+
+0,vatsa,vatsa,voc. sg. m.,0,samboxyah,4
+1,deSarakzArTam,arTa,acc. sg. m.,32,prayojanam,4 ####### IV_acc_prayojanam #######
+2,ete,etad,nom. du. n.,4,karwa,3
+3,balidAnam,dAna,acc. sg. n.,10,karma,4
+4,kurvanti,as,ppr. [8] ac.,12,,
+
+0,mahAtmA,Atman,nom. sg. *,22,karwa,6
+1,Sizyam,Sizya,acc. sg. n.,1,karma,3
+2,sAvaDAnam,sAvaDAna,acc. sg. m.,4,karmasamanaxikaranam,3
+3,kftvA,kf,abs.,7,purvakalah,6
+4,svayam,svayam,nom. sg. n.,9,karwqsamanaxikaranam,6
+5,sanDyopAsanArTam,arTa,acc. sg. m.,55,prayojanam,6 ####### IV_acc_prayojanam #######
+6,upavizwaH,vac,pp.,12,,
 

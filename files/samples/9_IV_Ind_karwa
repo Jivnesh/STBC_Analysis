@@ -1,8 +1,10 @@
-0,sEnikaH,pAWa,nom. sg. m.,0,samucciwam,3
-1,sEnikam,pAWa,acc. sg. m.,3,karma,4
-2,kim,kim,nom. sg. n.,5,samucciwam,3
-3,yadi,yad,conj.,6,karwa,4 ####### IV_Ind_karwa #######
-4,svadeSaBaktaH,Bakta,pp.,8,,
+0,sItA,sItA,nom. pl. f.,1,samucciwam,2
+1,lakzmaRaH,lakzmaRa,nom. sg. m.,2,samucciwam,2
+2,ca,ca,conj.,5,karwa,6 ####### IV_Ind_karwa #######
+3,rAmeRa,rAma,i. sg. m.,6,upapaxasambanxah,4
+4,saha,saha,prep.,9,sambanxah,6
+5,parvatam,parvata,acc. sg. m.,10,karma,2
+6,ArohataH,Aroha,tasil,11,,
 
 0,svasTe,svasTa,nom. du. n.,2,samucciwam,2
 1,sabale,sabala,nom. du. n.,8,samucciwam,2
@@ -12,25 +14,14 @@
 5,sati,satI,acc. sg. f.,21,karma,6
 6,kaTitavAn,vac,pp.,22,,
 
-0,sItA,sItA,nom. pl. f.,1,samucciwam,2
-1,lakzmaRaH,lakzmaRa,nom. sg. m.,2,samucciwam,2
-2,ca,ca,conj.,5,karwa,6 ####### IV_Ind_karwa #######
-3,rAmeRa,rAma,i. sg. m.,6,upapaxasambanxah,4
-4,saha,saha,prep.,9,sambanxah,6
-5,parvatam,parvata,acc. sg. m.,10,karma,2
-6,ArohataH,Aroha,tasil,11,,
-
-0,tataH,tad,abl. pl. n.,30,apaxanam,1
-1,satsaNgalABAya,lABa,dat. sg. m.,4,waxarwyam,10
-2,apakvAm,pakva,acc. sg. f.,6,viseranam,3
-3,BojanasAmagrIm,sAmagrI,acc. sg. f.,8,karma,4
-4,AdAya,dA,abs.,9,purvakalah,10
-5,grAmIRAH,grAmIRa,nom. pl. f.,12,viseranam,6
-6,striyaH,strI,nom. pl. f.,14,samucciwam,8
-7,puruzAH,puruza,nom. pl. m.,15,samucciwam,8
-8,ca,ca,conj.,17,karwa,10 ####### IV_Ind_karwa #######
-9,upasTAtum,sTA,inf.,16,prayojanam,10
-10,pravfttAH,vftta,pp.,20,,
+0,hemnaH,heman,g. sg. n.,0,rartisambanxah,4
+1,saMlakzyate,as,ppr. [2] ac.,3,,
+2,hi,hi,part.,4,sambanxah,3
+3,agnO,agni,loc. sg. m.,5,axikaranam,1
+4,viSudDiH,viSudDi,nom. sg. f.,6,sambanxah,7
+5,SyAmikA,kim,nom. pl. f.,9,sambanxah,7
+6,api,api,conj.,10,sambanxah,5
+7,vA,vA,conj.,12,karwa,1 ####### IV_Ind_karwa #######
 
 0,tvayA,tu,conj.,0,karwa,1 ####### IV_Ind_karwa #######
 1,arcyamAnena,fc,ca. ppr. ps.,3,viseranam,2
@@ -42,6 +33,12 @@
 7,strI,strI,nom. sg. f.,13,karwqsamanaxikaranam,9
 8,aham,asmad,nom. sg. *,14,karwa,9
 9,asmi,as,pr. [2] ac. sg. 1,15,,
+
+0,sEnikaH,pAWa,nom. sg. m.,0,samucciwam,3
+1,sEnikam,pAWa,acc. sg. m.,3,karma,4
+2,kim,kim,nom. sg. n.,5,samucciwam,3
+3,yadi,yad,conj.,6,karwa,4 ####### IV_Ind_karwa #######
+4,svadeSaBaktaH,Bakta,pp.,8,,
 
 0,svacCAmBaHsnapanaviDOtam,svacCAmBaH-snapana-viDOta,nom. sg. n.,NA,viseranam,1
 1,aNgaM,aNga,nom. sg. n.,NA,samucciwam,7
@@ -62,17 +59,6 @@
 16,na,na,ind.,NA,sambanxah,17
 17,syAt,as2,opt. ac. sg. 3,NA,,
 
-0,kintu,ca,adv.,0,sambanxah,9
-1,yaTApUrvam,pUrva,acc. sg. m.,2,kriyaviseranam,9
-2,maDurASvAsanadAnena,Ana,i. sg. m.,9,karanam,9
-3,ekArDaGaRwAyAm,GaRwA,loc. sg. f.,11,axikaranam,9
-4,eva,eva,prep.,12,sambanxah,3
-5,vAhanAnAm,vAhana,g. pl. n.,14,rartisambanxah,6
-6,gamanam,gamana,nom. sg. n.,16,samucciwam,8
-7,Agamanam,Agamana,nom. sg. n.,19,samucciwam,8
-8,ca,ca,conj.,20,karwa,9 ####### IV_Ind_karwa #######
-9,prArabDam,vac,pp.,23,,
-
 0,rAtrO,rAtri,loc. sg. f.,0,axikaranam,10
 1,bahavaH,bahu,nom. pl. m.,1,viseranam,8
 2,bAlakabAlikAH,bAlaka,nom. pl. f.,5,samucciwam,8
@@ -85,12 +71,26 @@
 9,cikitsAlaye,Alaya,loc. sg. m.,39,axikaranam,10
 10,pravizwAH,vac,pp.,20,,
 
-0,hemnaH,heman,g. sg. n.,0,rartisambanxah,4
-1,saMlakzyate,as,ppr. [2] ac.,3,,
-2,hi,hi,part.,4,sambanxah,3
-3,agnO,agni,loc. sg. m.,5,axikaranam,1
-4,viSudDiH,viSudDi,nom. sg. f.,6,sambanxah,7
-5,SyAmikA,kim,nom. pl. f.,9,sambanxah,7
-6,api,api,conj.,10,sambanxah,5
-7,vA,vA,conj.,12,karwa,1 ####### IV_Ind_karwa #######
+0,tataH,tad,abl. pl. n.,30,apaxanam,1
+1,satsaNgalABAya,lABa,dat. sg. m.,4,waxarwyam,10
+2,apakvAm,pakva,acc. sg. f.,6,viseranam,3
+3,BojanasAmagrIm,sAmagrI,acc. sg. f.,8,karma,4
+4,AdAya,dA,abs.,9,purvakalah,10
+5,grAmIRAH,grAmIRa,nom. pl. f.,12,viseranam,6
+6,striyaH,strI,nom. pl. f.,14,samucciwam,8
+7,puruzAH,puruza,nom. pl. m.,15,samucciwam,8
+8,ca,ca,conj.,17,karwa,10 ####### IV_Ind_karwa #######
+9,upasTAtum,sTA,inf.,16,prayojanam,10
+10,pravfttAH,vftta,pp.,20,,
+
+0,kintu,ca,adv.,0,sambanxah,9
+1,yaTApUrvam,pUrva,acc. sg. m.,2,kriyaviseranam,9
+2,maDurASvAsanadAnena,Ana,i. sg. m.,9,karanam,9
+3,ekArDaGaRwAyAm,GaRwA,loc. sg. f.,11,axikaranam,9
+4,eva,eva,prep.,12,sambanxah,3
+5,vAhanAnAm,vAhana,g. pl. n.,14,rartisambanxah,6
+6,gamanam,gamana,nom. sg. n.,16,samucciwam,8
+7,Agamanam,Agamana,nom. sg. n.,19,samucciwam,8
+8,ca,ca,conj.,20,karwa,9 ####### IV_Ind_karwa #######
+9,prArabDam,vac,pp.,23,,
 

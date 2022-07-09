@@ -1,14 +1,3 @@
-0,ataH,atas,acc. sg. n,0,hewuh,3 ####### nom_acc_hewuh #######
-1,miTyA,miTyA,adv.,18,kriyaviseranam,3
-2,miTyA,etad,nom. sg. m.,4,viseranam,3
-3,dehABimAnaH,aBimAna,nom. sg. m.,50,prawiyogi,4
-4,iti,iti,part.,7,anuyogi,5
-5,cintayan,prahas,ppr. [10] ac.,8,bavalakranasapwami_samanakalah,9
-6,vivekAnandaH,Ananda,nom. sg. m.,28,karwa,9
-7,gahanam,gahana,acc. sg. m.,11,viseranam,8
-8,kAntAram,kAntAra,acc. sg. m.,14,karma,9
-9,prAviSat,viS,impft. [6] ac. sg. 3,17,,
-
 0,Dik,Dik,ind.,0,sambanxah,9
 1,mAm,asmad,acc. sg. *,1,viseranam,2
 2,duzkftakAriRI,kArin,acc. du. n.,3,upapaxasambanxah,0
@@ -19,4 +8,15 @@
 7,daSA,daSA,nom. sg. m.,19,viseranam,8
 8,vartate,vft,nom. sg. m.,21,karwa,9
 9,tava,yuzmad,g. sg. *,22,,
+
+0,ataH,atas,acc. sg. n,0,hewuh,3 ####### nom_acc_hewuh #######
+1,miTyA,miTyA,adv.,18,kriyaviseranam,3
+2,miTyA,etad,nom. sg. m.,4,viseranam,3
+3,dehABimAnaH,aBimAna,nom. sg. m.,50,prawiyogi,4
+4,iti,iti,part.,7,anuyogi,5
+5,cintayan,prahas,ppr. [10] ac.,8,bavalakranasapwami_samanakalah,9
+6,vivekAnandaH,Ananda,nom. sg. m.,28,karwa,9
+7,gahanam,gahana,acc. sg. m.,11,viseranam,8
+8,kAntAram,kAntAra,acc. sg. m.,14,karma,9
+9,prAviSat,viS,impft. [6] ac. sg. 3,17,,
 

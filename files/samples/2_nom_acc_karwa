@@ -1,15 +1,3 @@
-0,vilulitAlakasaMhatiH,saMhati,nom. sg. f.,1,viseranam,9
-1,mfgadfSAM,dfS,g. pl. f.,4,rartisambanxah,5
-2,lalAwajaM,ja,acc. sg. n.,5,viseranam,3
-3,SramavAri,vAr,acc. sg. n.,10,karwa,4 ####### nom_acc_karwa #######
-4,AmfSan,mfS,nom. sg. m.,11,viseranam,9
-5,sarasAM,saras,g. pl. n.,12,rartisambanxah,6
-6,tanutaraNgatatiM,tati,acc. sg. f.,14,karma,8
-7,dalatkuvalayaM,kuvalaya,nom. sg. n.,16,viseranam,8
-8,valayan,Ric,nom. sg. m.,0,viseranam,9
-9,marut,marut,nom. sg. m.,17,karwa,10
-10,AvavO,vA,pft. ac. sg. 3,18,,
-
 0,sAtvatIsUnuH,sUnu,nom. sg. m.,1,karwa,3
 1,yat,yad,acc. sg. n.,22,sambanxah,3
 2,mahyam,asmad,dat. sg. n.,4,sampraxanam,3
@@ -25,4 +13,16 @@
 12,mAM,asmad,acc. sg. n.,17,karma,13
 13,duHKAkaroti,kf,nom. sg. n.,19,samucciwam,14
 14,ca,ca,conj.,20,,
+
+0,vilulitAlakasaMhatiH,saMhati,nom. sg. f.,1,viseranam,9
+1,mfgadfSAM,dfS,g. pl. f.,4,rartisambanxah,5
+2,lalAwajaM,ja,acc. sg. n.,5,viseranam,3
+3,SramavAri,vAr,acc. sg. n.,10,karwa,4 ####### nom_acc_karwa #######
+4,AmfSan,mfS,nom. sg. m.,11,viseranam,9
+5,sarasAM,saras,g. pl. n.,12,rartisambanxah,6
+6,tanutaraNgatatiM,tati,acc. sg. f.,14,karma,8
+7,dalatkuvalayaM,kuvalaya,nom. sg. n.,16,viseranam,8
+8,valayan,Ric,nom. sg. m.,0,viseranam,9
+9,marut,marut,nom. sg. m.,17,karwa,10
+10,AvavO,vA,pft. ac. sg. 3,18,,
 

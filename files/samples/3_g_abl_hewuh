@@ -1,11 +1,3 @@
-0,arivaDodayAt,udaya,abl. sg. m.,29,hewuh,1 ####### g_abl_hewuh #######
-1,purandarasya,tad,g. sg. m.,5,rartisambanxah,2
-2,udUQadraQima,tad,nom. sg. n.,4,viseranam,3
-3,hfdayaM,hfdaya,nom. sg. n.,7,karwa,6
-4,punaH,punar,conj.,9,kriyaviseranam,6
-5,GanapulakapulomajAkucAgradrutapariramBanipIqanakzamatvaM,kzamatva,acc. sg. n.,11,karma,6
-6,daDAtu,DA,imp. ac. sg. 3,12,,
-
 0,analpatvAt,alpa,abl. sg. n.,1,viseranam,1
 1,praDAnatvAt,praDAnatva,abl. sg. n.,2,hewuh,2 ####### g_abl_hewuh #######
 2,vaMSasya,vaMSa,g. sg. m.,8,rartisambanxah,3
@@ -26,4 +18,12 @@
 6,valgitam,valg,nom. sg. n.,19,prawiyogi,7
 7,iva,iva,conj.,20,anuyogi,2
 8,vfTA,vfTA,conj.,21,sambanxah,6
+
+0,arivaDodayAt,udaya,abl. sg. m.,29,hewuh,1 ####### g_abl_hewuh #######
+1,purandarasya,tad,g. sg. m.,5,rartisambanxah,2
+2,udUQadraQima,tad,nom. sg. n.,4,viseranam,3
+3,hfdayaM,hfdaya,nom. sg. n.,7,karwa,6
+4,punaH,punar,conj.,9,kriyaviseranam,6
+5,GanapulakapulomajAkucAgradrutapariramBanipIqanakzamatvaM,kzamatva,acc. sg. n.,11,karma,6
+6,daDAtu,DA,imp. ac. sg. 3,12,,
 

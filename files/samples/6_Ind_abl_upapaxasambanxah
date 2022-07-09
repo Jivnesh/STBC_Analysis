@@ -1,15 +1,44 @@
-0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
-1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
-2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10
-3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
-4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,NA,karwa,10
-6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7 ####### Ind_abl_upapaxasambanxah #######
-7,vinA,vinA,ind.,NA,sambanxah,11
-8,api,api,ind.,NA,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10
-10,alaM,alam,ind.,NA,sambanxah,11
-11,BUzRuH,BU1,nom. sg. m.,NA,,
+0,purAvidaH,purAvid,nom. pl. m.,NA,karwa,12
+1,nigfhItamAnasEH,nigfhIta-mAnasa,i. pl. m.,NA,karwa,4
+2,aDyAtmadfSA,aDyAtmadfS,i. sg. m.,NA,karanam,4
+3,kaTaYcana,kaTaYcana,ind.,NA,sambanxah,4
+4,gfhItam,grah1,pp.,NA,,
+5,udAsitAraM,ut_as3,acc. sg. m.,NA,viseranam,11
+6,bahirvikAraM,bahirvikAra,acc. sg. m.,NA,viseranam,11
+7,prakfteH,prakfti,abl. sg. f.,NA,upapaxasambanxah,8 ####### Ind_abl_upapaxasambanxah #######
+8,pfTak,pfTak,ind.,NA,sambanxah,12
+9,purAtanaM,purAtana,acc. sg. m.,NA,viseranam,11
+10,puruzaM,puruza,acc. sg. m.,NA,viseranam,11
+11,tvAM,yuzmad,acc. sg. *.,NA,karwa,12
+12,viduH,vid1,pr. ac. pl. 3,NA,,
+
+0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
+1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
+2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10
+3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
+4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,38,karwa,10
+6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7 ####### Ind_abl_upapaxasambanxah #######
+7,vinA,vinA,conj.,24,sambanxah,11
+8,api,api,conj.,18,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10
+10,alaM,alam,conj.,21,sambanxah,11
+11,BUzRuH,BU,nom. sg. m.,23,,
+
+0,purAvidaH,purAvid,nom. pl. m.,11,karwa,12
+1,nigfhItamAnasEH,mAnasa,inst. pl. m.,13,karwa,4
+2,aDyAtmadfSA,dfS,inst. sg. m.,17,karanam,4
+3,kaTaYcana,cana,conj.,19,sambanxah,4
+4,gfhItam,grah,acc. sg. m.,22,samucciwam,13
+5,udAsitAraM,as,acc. sg. m.,23,viseranam,11
+6,bahirvikAraM,vikAra,acc. sg. m.,26,viseranam,11
+7,prakfteH,prakfti,abl. sg. f.,28,upapaxasambanxah,8 ####### Ind_abl_upapaxasambanxah #######
+8,pfTak,pfTak,conj.,29,sambanxah,12
+9,purAtanaM,purAtana,acc. sg. m.,32,viseranam,11
+10,puruzaM,puruza,acc. sg. m.,33,viseranam,11
+11,tvAM,yuzmad,acc. sg. n.,34,karwa,12
+12,viduH,vid,pr. ac. pl. 3,35,samucciwam,13
+13,ca,ca,conj.,36,,
 
 0,iha,iha,ind.,NA,axikaranam,7
 1,vipakzamaDye,vipakza-maDya,loc. sg. n.,NA,axikaranam,15
@@ -28,32 +57,18 @@
 14,pfTak,pfTak,ind.,NA,sambanxah,15
 15,BAvitA,as2,per. fut. sg. 3,NA,,
 
-0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
-1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
-2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10
-3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
-4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,38,karwa,10
-6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7 ####### Ind_abl_upapaxasambanxah #######
-7,vinA,vinA,conj.,24,sambanxah,11
-8,api,api,conj.,18,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10
-10,alaM,alam,conj.,21,sambanxah,11
-11,BUzRuH,BU,nom. sg. m.,23,,
-
-0,purAvidaH,purAvid,nom. pl. m.,NA,karwa,12
-1,nigfhItamAnasEH,nigfhIta-mAnasa,i. pl. m.,NA,karwa,4
-2,aDyAtmadfSA,aDyAtmadfS,i. sg. m.,NA,karanam,4
-3,kaTaYcana,kaTaYcana,ind.,NA,sambanxah,4
-4,gfhItam,grah1,pp.,NA,,
-5,udAsitAraM,ut_as3,acc. sg. m.,NA,viseranam,11
-6,bahirvikAraM,bahirvikAra,acc. sg. m.,NA,viseranam,11
-7,prakfteH,prakfti,abl. sg. f.,NA,upapaxasambanxah,8 ####### Ind_abl_upapaxasambanxah #######
-8,pfTak,pfTak,ind.,NA,sambanxah,12
-9,purAtanaM,purAtana,acc. sg. m.,NA,viseranam,11
-10,puruzaM,puruza,acc. sg. m.,NA,viseranam,11
-11,tvAM,yuzmad,acc. sg. *.,NA,karwa,12
-12,viduH,vid1,pr. ac. pl. 3,NA,,
+0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
+1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
+2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10
+3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
+4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,NA,karwa,10
+6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7 ####### Ind_abl_upapaxasambanxah #######
+7,vinA,vinA,ind.,NA,sambanxah,11
+8,api,api,ind.,NA,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10
+10,alaM,alam,ind.,NA,sambanxah,11
+11,BUzRuH,BU1,nom. sg. m.,NA,,
 
 0,iha,iha,conj.,0,axikaranam,7
 1,vipakzamaDye,maDya,loc. sg. n.,5,axikaranam,15
@@ -72,19 +87,4 @@
 14,pfTak,pfTak,conj.,62,sambanxah,15
 15,BAvitA,as,per.  fut. md. sg. 3,63,samucciwam,16
 16,ca,ca,conj.,64,,
-
-0,purAvidaH,purAvid,nom. pl. m.,11,karwa,12
-1,nigfhItamAnasEH,mAnasa,inst. pl. m.,13,karwa,4
-2,aDyAtmadfSA,dfS,inst. sg. m.,17,karanam,4
-3,kaTaYcana,cana,conj.,19,sambanxah,4
-4,gfhItam,grah,acc. sg. m.,22,samucciwam,13
-5,udAsitAraM,as,acc. sg. m.,23,viseranam,11
-6,bahirvikAraM,vikAra,acc. sg. m.,26,viseranam,11
-7,prakfteH,prakfti,abl. sg. f.,28,upapaxasambanxah,8 ####### Ind_abl_upapaxasambanxah #######
-8,pfTak,pfTak,conj.,29,sambanxah,12
-9,purAtanaM,purAtana,acc. sg. m.,32,viseranam,11
-10,puruzaM,puruza,acc. sg. m.,33,viseranam,11
-11,tvAM,yuzmad,acc. sg. n.,34,karwa,12
-12,viduH,vid,pr. ac. pl. 3,35,samucciwam,13
-13,ca,ca,conj.,36,,
 

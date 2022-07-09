@@ -4,13 +4,6 @@
 3,utpannaH,vac,pp. . sg. ,8,karwqsamanaxikaranam,4
 4,aBavat,BU,impft . ac. sg. 3,9,,
 
-0,munayaH,muni,nom. pl. m.,0,karwa,5
-1,puzpEH,puzpa,inst. pl. n.,3,samucciwam,3
-2,PalEH,Pala,inst. pl. n.,4,samucciwam,3
-3,ca,ca,conj.,5,karanam,5 ####### FV_Ind_karanam #######
-4,rAmam,rAma,acc. sg. m.,6,karma,5
-5,pUjayanti,gam,pr. ac. pl. 3,9,,
-
 0,yantA,yantf,nom. sg. m.,0,karwa,10
 1,nirDUtavItam,vIta,acc. sg. m.,35,viseranam,4
 2,ullalam,lal,acc. sg. m.,2,viseranam,4
@@ -30,4 +23,11 @@
 16,na,na,conj.,26,sambanxah,17
 17,eti,i,pr. ac. sg. 3,27,samucciwam,18
 18,ca,ca,conj.,28,,
+
+0,munayaH,muni,nom. pl. m.,0,karwa,5
+1,puzpEH,puzpa,inst. pl. n.,3,samucciwam,3
+2,PalEH,Pala,inst. pl. n.,4,samucciwam,3
+3,ca,ca,conj.,5,karanam,5 ####### FV_Ind_karanam #######
+4,rAmam,rAma,acc. sg. m.,6,karma,5
+5,pUjayanti,gam,pr. ac. pl. 3,9,,
 

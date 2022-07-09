@@ -12,6 +12,16 @@
 11,hinduH,tad,nom. sg. m.,33,karwqsamanaxikaranam,12
 12,asti,as,pr. [2] ac. sg. 3,34,,
 
+0,Aryaputra,putra,voc. sg. m.,1,samboxyah,8
+1,AvAByAm,asmad,nom. du. *,4,karwa,7
+2,yAtrA,yAtrA,acc. sg. f.,6,karma,7
+3,sTagitA,diS,acc. pl. f.,9,karmasamanaxikaranam,7 ####### nom_acc_karmasamanaxikaranam #######
+4,eva,eva,prep.,10,sambanxah,3
+5,kim,kim,ind.,12,sambanxah,8
+6,na,na,part.,13,sambanxah,7
+7,karaRIyA,tad,nom. sg. f.,15,karwa,8
+8,syAt,as,opt. [2] ac. sg. 3,25,,
+
 0,parantu,tu,conj.,3,sambanxah,7
 1,tam,tad,acc. sg. m.,4,karma,3
 2,svaSatrum,Satru,acc. sg. m.,6,karmasamanaxikaranam,3 ####### nom_acc_karmasamanaxikaranam #######
@@ -45,14 +55,4 @@
 21,saH,tad,nom. sg. m.,39,karma,23
 22,mayUragirA,gir,inst. sg. f.,41,karwa,23
 23,acodi,cud,impft. md. sg. 3,40,,
-
-0,Aryaputra,putra,voc. sg. m.,1,samboxyah,8
-1,AvAByAm,asmad,nom. du. *,4,karwa,7
-2,yAtrA,yAtrA,acc. sg. f.,6,karma,7
-3,sTagitA,diS,acc. pl. f.,9,karmasamanaxikaranam,7 ####### nom_acc_karmasamanaxikaranam #######
-4,eva,eva,prep.,10,sambanxah,3
-5,kim,kim,ind.,12,sambanxah,8
-6,na,na,part.,13,sambanxah,7
-7,karaRIyA,tad,nom. sg. f.,15,karwa,8
-8,syAt,as,opt. [2] ac. sg. 3,25,,
 

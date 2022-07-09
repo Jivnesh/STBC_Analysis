@@ -12,38 +12,6 @@
 11,iti,iti,ind.,NA,anuyogi,12
 12,sPuwam,sPuwa,ind.,NA,sambanxah,10
 
-0,anavaratarasena,anavarata-rasa,i. sg. m.,NA,viseranam,6
-1,rAgaBAjA,rAga-BAj,i. sg. m.,NA,viseranam,6
-2,karajaparikzatilabDasaMstavena,karajaparikzatilabDa-saMstava,i. sg. m.,NA,viseranam,6
-3,vaDvA,vaDU,i. sg. f.,NA,karwa,5
-4,vigatadayaM,vigata-dayam,nom. sg. n.,NA,kriyaviseranam,5 ####### IV_nom_kriyaviseranam #######
-5,KaRqitena,KaRq1,pp.,NA,viseranam,6
-6,taruRapallavena,taruRa-pallava,i. sg. m.,NA,karwa,8
-7,sapadi,sapadi,ind.,NA,kriyaviseranam,8
-8,mamle,mlE1,pft. sg. 1,NA,,
-9,Kalu,Kalu,ind.,NA,sambanxah,8
-
-0,anUrusAraTeH,anUrusAraTi,g. sg. m.,NA,rartisambanxah,1
-1,gataM,gam1,pp.,NA,viseranam,3
-2,tiraScInaM,tiraScIna,nom. sg. n.,NA,viseranam,3
-3,prasidDaM,prasidDa,nom. sg. n.,NA,karwa,4
-4,asti,as2,pr. ac. sg. 3,NA,,
-5,havirBujaH,havirBuj,g. sg. m.,NA,rartisambanxah,6
-6,UrDvajvalanam,UrDva-jval1,nom. sg. n.,NA,viseranam,7
-7,prasidDaM,prasidDa,nom. sg. n.,NA,karwa,8
-8,asti,as2,pr. ac. sg. 3,NA,,
-9,sarvataH,sarvataH,ind.,NA,axikaranam,13
-10,visAri,visArin,nom. sg. n.,NA,viseranam,11
-11,DAma,DAman,nom. sg. n.,NA,karwa,13
-12,aDaH,aDaH,ind.,NA,axikaranam,13
-13,patati,pat1,pr. ac. sg. 3,NA,,
-14,etat,etad,nom. sg. n.,NA,viseranam,15
-15,kim,kim,nom. sg. n.,NA,prawiyogi,16
-16,iti,iti,ind.,NA,anuyogi,17
-17,janEH,jana,i. pl. m.,NA,karwa,19
-18,Akulam,Akula,nom. sg. n.,NA,kriyaviseranam,19 ####### IV_nom_kriyaviseranam #######
-19,Ikzitam,Ikz1,pp.,NA,,
-
 0,paramAdaraRIyapaRqitapravara,pravara,voc. sg. m.,7,samboxyah,6
 1,mayA,asmad,nom. sg. *,8,karwa,5
 2,kroDarahitaH,rahita,nom. sg. m.,10,kriyaviseranam,3 ####### IV_nom_kriyaviseranam #######
@@ -71,4 +39,36 @@
 10,putraH,putra,nom. sg. m.,17,karwa,12
 11,tatra,tatra,loc. sg. n.,19,axikaranam,12
 12,upasTitaH,sTita,pp.,20,,
+
+0,anUrusAraTeH,anUrusAraTi,g. sg. m.,NA,rartisambanxah,1
+1,gataM,gam1,pp.,NA,viseranam,3
+2,tiraScInaM,tiraScIna,nom. sg. n.,NA,viseranam,3
+3,prasidDaM,prasidDa,nom. sg. n.,NA,karwa,4
+4,asti,as2,pr. ac. sg. 3,NA,,
+5,havirBujaH,havirBuj,g. sg. m.,NA,rartisambanxah,6
+6,UrDvajvalanam,UrDva-jval1,nom. sg. n.,NA,viseranam,7
+7,prasidDaM,prasidDa,nom. sg. n.,NA,karwa,8
+8,asti,as2,pr. ac. sg. 3,NA,,
+9,sarvataH,sarvataH,ind.,NA,axikaranam,13
+10,visAri,visArin,nom. sg. n.,NA,viseranam,11
+11,DAma,DAman,nom. sg. n.,NA,karwa,13
+12,aDaH,aDaH,ind.,NA,axikaranam,13
+13,patati,pat1,pr. ac. sg. 3,NA,,
+14,etat,etad,nom. sg. n.,NA,viseranam,15
+15,kim,kim,nom. sg. n.,NA,prawiyogi,16
+16,iti,iti,ind.,NA,anuyogi,17
+17,janEH,jana,i. pl. m.,NA,karwa,19
+18,Akulam,Akula,nom. sg. n.,NA,kriyaviseranam,19 ####### IV_nom_kriyaviseranam #######
+19,Ikzitam,Ikz1,pp.,NA,,
+
+0,anavaratarasena,anavarata-rasa,i. sg. m.,NA,viseranam,6
+1,rAgaBAjA,rAga-BAj,i. sg. m.,NA,viseranam,6
+2,karajaparikzatilabDasaMstavena,karajaparikzatilabDa-saMstava,i. sg. m.,NA,viseranam,6
+3,vaDvA,vaDU,i. sg. f.,NA,karwa,5
+4,vigatadayaM,vigata-dayam,nom. sg. n.,NA,kriyaviseranam,5 ####### IV_nom_kriyaviseranam #######
+5,KaRqitena,KaRq1,pp.,NA,viseranam,6
+6,taruRapallavena,taruRa-pallava,i. sg. m.,NA,karwa,8
+7,sapadi,sapadi,ind.,NA,kriyaviseranam,8
+8,mamle,mlE1,pft. sg. 1,NA,,
+9,Kalu,Kalu,ind.,NA,sambanxah,8
 

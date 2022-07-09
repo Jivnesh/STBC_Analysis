@@ -1,22 +1,3 @@
-0,ye,yad,nom. pl. m.,12,karwa,17
-1,ca,ca,conj.,31,sambanxah,17
-2,tasya,tad,g. sg. m.,7,rartisambanxah,3
-3,mitrARi,mitra,nom. pl. n.,9,karwa,14
-4,ye,yad,nom. pl. m.,2,viseranam,7
-5,te,yuzmad,g. sg. n.,21,viseranam,10
-6,amitrAH,amitra,nom. pl. m.,25,viseranam,9
-7,ca,ca,conj.,5,sambanxah,17
-8,uBaye,uBaya,nom. pl. m.,26,karma,14
-9,nfpAH,nfpa,nom. pl. m.,32,viseranam,10
-10,tvayA,yuzmad,inst. sg. n.,34,karanam,14
-11,aBiyuktam,tad,acc. sg. m.,91,karma,14
-12,enaM,idam,acc. sg. m.,38,karwa,14
-13,gantAraH,gam,per.  fut. ac. pl. 3,47,karwa,3 ####### nom_FV_karwa #######
-14,ataH,atas,conj.,40,hewuh,17
-15,pare,para,nom. pl. m.,41,viseranam,16
-16,tvAM,yuzmad,acc. sg. n.,46,karma,17
-17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
-
 0,patatpataNgapratimaH,pratima,nom. sg. m.,5,viseranam,1
 1,taponiDiH,taponiDi,nom. sg. m.,6,karwa,7
 2,asya,idam,g. sg. m.,8,rartisambanxah,3
@@ -41,4 +22,23 @@
 3,iva,iva,conj.,4,anuyogi,1
 4,puraH,puras,conj.,6,axikaranam,5
 5,prAduzyAt,as,nom. sg. n.,7,,
+
+0,ye,yad,nom. pl. m.,12,karwa,17
+1,ca,ca,conj.,31,sambanxah,17
+2,tasya,tad,g. sg. m.,7,rartisambanxah,3
+3,mitrARi,mitra,nom. pl. n.,9,karwa,14
+4,ye,yad,nom. pl. m.,2,viseranam,7
+5,te,yuzmad,g. sg. n.,21,viseranam,10
+6,amitrAH,amitra,nom. pl. m.,25,viseranam,9
+7,ca,ca,conj.,5,sambanxah,17
+8,uBaye,uBaya,nom. pl. m.,26,karma,14
+9,nfpAH,nfpa,nom. pl. m.,32,viseranam,10
+10,tvayA,yuzmad,inst. sg. n.,34,karanam,14
+11,aBiyuktam,tad,acc. sg. m.,91,karma,14
+12,enaM,idam,acc. sg. m.,38,karwa,14
+13,gantAraH,gam,per.  fut. ac. pl. 3,47,karwa,3 ####### nom_FV_karwa #######
+14,ataH,atas,conj.,40,hewuh,17
+15,pare,para,nom. pl. m.,41,viseranam,16
+16,tvAM,yuzmad,acc. sg. n.,46,karma,17
+17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
 

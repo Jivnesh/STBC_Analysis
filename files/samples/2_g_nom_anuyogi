@@ -1,22 +1,3 @@
-0,svacCAmBaHsnapanaviDOtam,svacCAmBaH-snapana-viDOta,nom. sg. n.,NA,viseranam,1
-1,aNgaM,aNga,nom. sg. n.,NA,samucciwam,7
-2,tAmbUladyutiviSadaH,tAmbUladyuti-viSada,nom. sg. m.,NA,viseranam,3
-3,ozWaH,ozWa,nom. sg. m.,NA,samucciwam,7
-4,pratanu,pratanu,nom. sg. n.,NA,viseranam,6
-5,viviktaM,vi_vic1,pp.,NA,viseranam,6
-6,vAsaH,vAsas,nom. sg. n.,NA,samucciwam,7
-7,ca,ca,ind.,NA,karwa,12
-8,iti,iti,ind.,NA,prawiyogi,9
-9,IyAn,iyat,nom. sg. m.,NA,anuyogi,10 ####### g_nom_anuyogi #######
-10,vilAsinInAm,vilAsinI,g. pl. f.,NA,rartisambanxah,11
-11,AkalpaH,Akalpa,nom. sg. m.,NA,karwqsamanaxikaranam,12
-12,astu,as2,imp.,NA,,
-13,yadi,yadi,ind.,NA,sambanxah,17
-14,kusumezuRA,kusumezu,i. sg. m.,NA,karanam,17
-15,SUnyaH,SUnya,nom. sg. m.,NA,karwa,17
-16,na,na,ind.,NA,sambanxah,17
-17,syAt,as2,opt. ac. sg. 3,NA,,
-
 0,svacCAmBaHsnapanaviDOtam,viDu,nom. sg. n.,5,viseranam,1
 1,aNgaM,aNga,nom. sg. n.,7,samucciwam,7
 2,tAmbUladyutiviSadaH,viSada,nom. sg. m.,9,viseranam,3
@@ -36,4 +17,23 @@
 16,na,na,conj.,28,sambanxah,17
 17,syAt,as,opt. ac. sg. 3,29,samucciwam,18
 18,ca,ca,conj.,21,,
+
+0,svacCAmBaHsnapanaviDOtam,svacCAmBaH-snapana-viDOta,nom. sg. n.,NA,viseranam,1
+1,aNgaM,aNga,nom. sg. n.,NA,samucciwam,7
+2,tAmbUladyutiviSadaH,tAmbUladyuti-viSada,nom. sg. m.,NA,viseranam,3
+3,ozWaH,ozWa,nom. sg. m.,NA,samucciwam,7
+4,pratanu,pratanu,nom. sg. n.,NA,viseranam,6
+5,viviktaM,vi_vic1,pp.,NA,viseranam,6
+6,vAsaH,vAsas,nom. sg. n.,NA,samucciwam,7
+7,ca,ca,ind.,NA,karwa,12
+8,iti,iti,ind.,NA,prawiyogi,9
+9,IyAn,iyat,nom. sg. m.,NA,anuyogi,10 ####### g_nom_anuyogi #######
+10,vilAsinInAm,vilAsinI,g. pl. f.,NA,rartisambanxah,11
+11,AkalpaH,Akalpa,nom. sg. m.,NA,karwqsamanaxikaranam,12
+12,astu,as2,imp.,NA,,
+13,yadi,yadi,ind.,NA,sambanxah,17
+14,kusumezuRA,kusumezu,i. sg. m.,NA,karanam,17
+15,SUnyaH,SUnya,nom. sg. m.,NA,karwa,17
+16,na,na,ind.,NA,sambanxah,17
+17,syAt,as2,opt. ac. sg. 3,NA,,
 

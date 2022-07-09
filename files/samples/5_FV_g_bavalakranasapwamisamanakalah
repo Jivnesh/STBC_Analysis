@@ -1,3 +1,15 @@
+0,maDukaraviwapAnam,pAna,nom. sg. n.,49,karwa,4
+1,itAH,i,acc. pl. f.,4,viseranam,3
+2,viwapaAnamitAH,mita,acc. pl. f.,9,viseranam,3
+3,tarupaNktIH,paNkti,acc. pl. f.,12,karma,4
+4,biBrataH,Bf,g. sg. m.,18,bavalakranasapwami_samanakalah,10 ####### FV_g_bavalakranasapwamisamanakalah #######
+5,asya,idam,g. sg. m.,20,rartisambanxah,6
+6,roDaH,roDa,nom. sg. m.,21,karwa,10
+7,galatA,gal,inst. sg. n.,23,viseranam,8
+8,paripAkapiSaNgalatArajasA,rajas,inst. sg. n.,24,karanam,10
+9,kapiSaM,kapiSa,acc. sg. n.,26,karma,10
+10,cakAsti,cakAs,pr. ac. sg. 3,28,,
+
 0,samIraSiSiraH,SiSira,nom. sg. m.,0,karwa,12
 1,SiraHsu,Siras,loc. pl. n.,1,axikaranam,2
 2,vasatAM,vas,g. pl. m.,3,bavalakranasapwami_samanakalah,12 ####### FV_g_bavalakranasapwamisamanakalah #######
@@ -11,18 +23,6 @@
 10,balAhakatatIH,tati,acc. pl. f.,16,viseranam,11
 11,javanikAH,javanikA,acc. pl. f.,17,karma,12
 12,biBarti,Bf,pr. ac. sg. 3,19,,
-
-0,maDukaraviwapAnam,pAna,nom. sg. n.,49,karwa,4
-1,itAH,i,acc. pl. f.,4,viseranam,3
-2,viwapaAnamitAH,mita,acc. pl. f.,9,viseranam,3
-3,tarupaNktIH,paNkti,acc. pl. f.,12,karma,4
-4,biBrataH,Bf,g. sg. m.,18,bavalakranasapwami_samanakalah,10 ####### FV_g_bavalakranasapwamisamanakalah #######
-5,asya,idam,g. sg. m.,20,rartisambanxah,6
-6,roDaH,roDa,nom. sg. m.,21,karwa,10
-7,galatA,gal,inst. sg. n.,23,viseranam,8
-8,paripAkapiSaNgalatArajasA,rajas,inst. sg. n.,24,karanam,10
-9,kapiSaM,kapiSa,acc. sg. n.,26,karma,10
-10,cakAsti,cakAs,pr. ac. sg. 3,28,,
 
 0,idDaM,inD,nom. sg. n.,2,viseranam,2
 1,tam,tad,acc. sg. m.,3,viseranam,2

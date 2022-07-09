@@ -1,3 +1,9 @@
+0,sandehe,rAjan,loc. sg. m.,0,sambanxah,3 ####### nom_loc_sambanxah #######
+1,satAm,as,g. pl. n.,2,rartisambanxah,2
+2,antaHkaraRasya,karaRa,g. sg. m.,5,rartisambanxah,3
+3,pravfttayaH,pravftti,nom. pl. f.,7,,
+4,pramARam,pramARa,nom. sg. n.,9,karwqsamanaxikaranam,3
+
 0,tam,tad,acc. sg. m.,1,karma,3
 1,taTA,taTA,adv.,3,kriyaviseranam,2
 2,upavizwam,tad,acc. sg. n.,13,karmasamanaxikaranam,3
@@ -13,14 +19,44 @@
 12,uktvA,vac,abs.,18,samucciwam,10
 13,Akzipat,kzip,impft. [6] ac. sg. 3,2,,
 
-0,tAsu,tad,loc. pl. f.,0,sambanxah,1 ####### nom_loc_sambanxah #######
-1,ekA,eka,nom. pl. f.,2,karwa,2
-2,aBAzata,BAz,impft. [1] md. sg. 3,3,,
+0,dalitakomalapawAlakuqmale,kuqmala,loc. sg. m.,0,viseranam,3
+1,nijavaDUSvasitaanuviDAyini,rAjan,loc. sg. m.,7,viseranam,3
+2,unmadaBramadalO,dala,loc. sg. m.,8,viseranam,3
+3,maruti,marut,loc. sg. m.,9,karwa,4
+4,vAti,vA,nom. sg. n.,10,purvakalah,8
+5,sati,as,loc. sg. m.,12,sambanxah,4 ####### nom_loc_sambanxah #######
+6,vilAsiBiH,vilAsin,inst. pl. m.,14,karwa,8
+7,madalOlyam,lOlya,nom. sg. n.,16,karma,8
+8,upaAdade,dA,pft. md. sg. 3,19,,
+
+0,mahASaye,ASaya,loc. sg. m.,26,sambanxah,8
+1,ezu,dam,loc. pl. n.,8,viseranam,2
+2,vastuzu,vastu,loc. pl. n.,9,sambanxah,3 ####### nom_loc_sambanxah #######
+3,aham,asmad,nom. sg. *,11,karwa,8
+4,api,api,conj.,12,sambanxah,3
+5,tu,tu,conj.,14,sambanxah,3
+6,ekam,eka,nom. sg. n.,17,viseranam,7
+7,vastu,vastu,nom. sg. n.,19,karwqsamanaxikaranam,8
+8,asmi,as,pr. [2] ac. sg. 1,20,,
+
+0,etezu,etad,loc. pl. n.,0,sambanxah,1 ####### nom_loc_sambanxah #######
+1,katamaH,katama,nom. sg. m.,2,viseranam,2
+2,putraH,putra,nom. sg. m.,3,karwa,4
+3,rAjA,rAjan,nom. sg. m.,4,karwqsamanaxikaranam,4
+4,Bavatu,BU,imp. [1] ac. sg. 3,8,karma,7
+5,iti,iti,part.,9,sambanxah,7
+6,ciram,cira,adv.,12,kriyaviseranam,7
+7,acintayat,brU,impft. [10] ac. sg. 3,13,,
+8,mahArAjaH,tad,nom. pl. m.,16,karwa,7
 
 0,nfzu,nf,loc. pl. m.,0,sambanxah,2 ####### nom_loc_sambanxah #######
 1,dvijaH,dvija,nom. sg. m.,1,karwa,3
 2,SrezWaH,SrezWa,nom. sg. m.,2,karwqsamanaxikaranam,3
 3,Bavati,BU,pr. ac. sg. 3,3,,
+
+0,tAsu,tad,loc. pl. f.,0,sambanxah,1 ####### nom_loc_sambanxah #######
+1,ekA,eka,nom. pl. f.,2,karwa,2
+2,aBAzata,BAz,impft. [1] md. sg. 3,3,,
 
 0,tezu,tad,loc. pl. n.,0,sambanxah,1 ####### nom_loc_sambanxah #######
 1,ekA,eka,nom. sg. f.,2,viseranam,3
@@ -43,46 +79,10 @@
 11,eva,eva,prep.,35,sambanxah,10
 12,asti,as,pr. [2] ac. sg. 3,36,,
 
-0,sandehe,rAjan,loc. sg. m.,0,sambanxah,3 ####### nom_loc_sambanxah #######
-1,satAm,as,g. pl. n.,2,rartisambanxah,2
-2,antaHkaraRasya,karaRa,g. sg. m.,5,rartisambanxah,3
-3,pravfttayaH,pravftti,nom. pl. f.,7,,
-4,pramARam,pramARa,nom. sg. n.,9,karwqsamanaxikaranam,3
-
-0,mahASaye,ASaya,loc. sg. m.,26,sambanxah,8
-1,ezu,dam,loc. pl. n.,8,viseranam,2
-2,vastuzu,vastu,loc. pl. n.,9,sambanxah,3 ####### nom_loc_sambanxah #######
-3,aham,asmad,nom. sg. *,11,karwa,8
-4,api,api,conj.,12,sambanxah,3
-5,tu,tu,conj.,14,sambanxah,3
-6,ekam,eka,nom. sg. n.,17,viseranam,7
-7,vastu,vastu,nom. sg. n.,19,karwqsamanaxikaranam,8
-8,asmi,as,pr. [2] ac. sg. 1,20,,
-
 0,rAjakumArasya,kumAra,g. sg. m.,1,rartisambanxah,1
 1,jananI,janana,nom. sg. f.,3,karwa,5
 2,api,api,conj.,4,sambanxah,1
 3,tAsu,tad,loc. pl. f.,6,sambanxah,4 ####### nom_loc_sambanxah #######
 4,ekA,eka,nom. pl. f.,8,karwqsamanaxikaranam,5
 5,AsIt,as,aor. [5] ac. sg. 3,10,,
-
-0,etezu,etad,loc. pl. n.,0,sambanxah,1 ####### nom_loc_sambanxah #######
-1,katamaH,katama,nom. sg. m.,2,viseranam,2
-2,putraH,putra,nom. sg. m.,3,karwa,4
-3,rAjA,rAjan,nom. sg. m.,4,karwqsamanaxikaranam,4
-4,Bavatu,BU,imp. [1] ac. sg. 3,8,karma,7
-5,iti,iti,part.,9,sambanxah,7
-6,ciram,cira,adv.,12,kriyaviseranam,7
-7,acintayat,brU,impft. [10] ac. sg. 3,13,,
-8,mahArAjaH,tad,nom. pl. m.,16,karwa,7
-
-0,dalitakomalapawAlakuqmale,kuqmala,loc. sg. m.,0,viseranam,3
-1,nijavaDUSvasitaanuviDAyini,rAjan,loc. sg. m.,7,viseranam,3
-2,unmadaBramadalO,dala,loc. sg. m.,8,viseranam,3
-3,maruti,marut,loc. sg. m.,9,karwa,4
-4,vAti,vA,nom. sg. n.,10,purvakalah,8
-5,sati,as,loc. sg. m.,12,sambanxah,4 ####### nom_loc_sambanxah #######
-6,vilAsiBiH,vilAsin,inst. pl. m.,14,karwa,8
-7,madalOlyam,lOlya,nom. sg. n.,16,karma,8
-8,upaAdade,dA,pft. md. sg. 3,19,,
 

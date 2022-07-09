@@ -9,32 +9,6 @@
 8,Bavati,BU,pr. ac. sg. 3,9,,
 9,hi,hi,conj.,10,sambanxah,8
 
-0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
-1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
-2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10
-3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
-4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,NA,karwa,10
-6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7
-7,vinA,vinA,ind.,NA,sambanxah,11
-8,api,api,ind.,NA,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10 ####### Ind_dat_upapaxasambanxah #######
-10,alaM,alam,ind.,NA,sambanxah,11
-11,BUzRuH,BU1,nom. sg. m.,NA,,
-
-0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
-1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
-2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10
-3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
-4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,38,karwa,10
-6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7
-7,vinA,vinA,conj.,24,sambanxah,11
-8,api,api,conj.,18,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10 ####### Ind_dat_upapaxasambanxah #######
-10,alaM,alam,conj.,21,sambanxah,11
-11,BUzRuH,BU,nom. sg. m.,23,,
-
 0,BuvanAntarezu,antara,loc. pl. m.,34,axikaranam,11
 1,saYcArizRuH,tad,nom. sg. m.,3,viseranam,4
 2,SriyaH,SrI,g. sg. f.,6,rartisambanxah,3
@@ -52,4 +26,30 @@
 14,namaH,namas,conj.,31,sambanxah,15
 15,akAri,kf,impft. md. sg. 3,32,samucciwam,16
 16,ca,ca,conj.,33,,
+
+0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
+1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
+2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10
+3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
+4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,38,karwa,10
+6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7
+7,vinA,vinA,conj.,24,sambanxah,11
+8,api,api,conj.,18,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10 ####### Ind_dat_upapaxasambanxah #######
+10,alaM,alam,conj.,21,sambanxah,11
+11,BUzRuH,BU,nom. sg. m.,23,,
+
+0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
+1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
+2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10
+3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
+4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,NA,karwa,10
+6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7
+7,vinA,vinA,ind.,NA,sambanxah,11
+8,api,api,ind.,NA,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10 ####### Ind_dat_upapaxasambanxah #######
+10,alaM,alam,ind.,NA,sambanxah,11
+11,BUzRuH,BU1,nom. sg. m.,NA,,
 

@@ -1,3 +1,12 @@
+0,kaTam,kaTam,adv.,0,kriyaviseranam,7
+1,na,na,part.,3,sambanxah,7
+2,ime,idam,acc. pl. m.,8,viseranam,4
+3,AtmIyAn,AtmIya,acc. pl. m.,9,viseranam,4
+4,putrapOtrAdIn,tad,acc. pl. m.,11,karma,6
+5,parameSvarAya,ISvara,dat. sg. m.,24,waxarwyam,6 ####### acc_dat_waxarwyam #######
+6,balidAnArTam,arTa,acc. sg. m.,27,prayojanam,7
+7,mArayanti,mf,ca. pr. ac. pl. 3,16,,
+
 0,aTa,aTa,conj.,0,sambanxah,9
 1,vicakzaRaH,vicakzaRa,nom. sg. m.,1,viseranam,2
 2,hariH,hari,nom. sg. m.,4,karwa,9
@@ -9,6 +18,13 @@
 8,vipratizeDam,vipratizeDa,acc. sg. m.,36,karma,9
 9,Acacakze,cakz,pft. md. sg. 3,37,,
 
+0,Danikasya,Danika,g. sg. m.,0,rartisambanxah,1
+1,janAH,jana,nom. pl. m.,2,karwa,5
+2,ABaraRAya,ABaraRa,dat. sg. n.,3,waxarwyam,4 ####### acc_dat_waxarwyam #######
+3,sarpasya,sarpa,g. sg. m.,4,karma,4
+4,vaDam,vaDa,acc. sg. m.,6,karma,5
+5,karizyanti,kf,fut. ac. pl. 3,9,,
+
 0,tezAm,tad,g. pl. n.,0,rartisambanxah,1
 1,viyoge,viyoga,loc. sg. m.,2,axikaranam,7
 2,eva,eva,prep.,3,sambanxah,1
@@ -17,20 +33,4 @@
 5,idam,idam,acc. sg. n.,21,viseranam,6
 6,kfzRavastram,vastra,acc. sg. n.,10,karma,7
 7,Dftam,vac,pp.,15,,
-
-0,kaTam,kaTam,adv.,0,kriyaviseranam,7
-1,na,na,part.,3,sambanxah,7
-2,ime,idam,acc. pl. m.,8,viseranam,4
-3,AtmIyAn,AtmIya,acc. pl. m.,9,viseranam,4
-4,putrapOtrAdIn,tad,acc. pl. m.,11,karma,6
-5,parameSvarAya,ISvara,dat. sg. m.,24,waxarwyam,6 ####### acc_dat_waxarwyam #######
-6,balidAnArTam,arTa,acc. sg. m.,27,prayojanam,7
-7,mArayanti,mf,ca. pr. ac. pl. 3,16,,
-
-0,Danikasya,Danika,g. sg. m.,0,rartisambanxah,1
-1,janAH,jana,nom. pl. m.,2,karwa,5
-2,ABaraRAya,ABaraRa,dat. sg. n.,3,waxarwyam,4 ####### acc_dat_waxarwyam #######
-3,sarpasya,sarpa,g. sg. m.,4,karma,4
-4,vaDam,vaDa,acc. sg. m.,6,karma,5
-5,karizyanti,kf,fut. ac. pl. 3,9,,
 

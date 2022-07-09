@@ -1,3 +1,15 @@
+0,sevakasya,sevaka,g. sg. m.,0,rartisambanxah,1
+1,manaH,manas,acc. sg. n.,2,karma,2
+2,rakzitum,rakz,inf.,4,prayojanam,5
+3,yaTA,yaTA,conj.,5,sambanxah,5
+4,sevakaH,sevaka,nom. sg. m.,6,karwa,5
+5,EcCat,z,impft. [6] ac. sg. 3,7,samucciwam,10
+6,saH,tad,nom. sg. m.,8,karwa,9 ####### adv_nom_karwa #######
+7,eva,eva,prep.,9,sambanxah,9
+8,kftavAn,kf,ppa.,10,sambanxah,7
+9,taTA,taTA,adv.,11,samucciwam,10
+10,ca,ca,conj.,12,,
+
 0,kintu,ca,adv.,0,sambanxah,14
 1,kadAcit,cit,loc. sg. m.,2,axikaranam,6
 2,pramAdena,pramAda,i. sg. m.,3,hewuh,6
@@ -13,18 +25,6 @@
 12,parAvartayitum,vft,ca. inf.,54,prayojanam,14
 13,putrIm,putra,acc. sg. f.,16,karma,14
 14,prezitavatI,vac,pp.,19,,
-
-0,sevakasya,sevaka,g. sg. m.,0,rartisambanxah,1
-1,manaH,manas,acc. sg. n.,2,karma,2
-2,rakzitum,rakz,inf.,4,prayojanam,5
-3,yaTA,yaTA,conj.,5,sambanxah,5
-4,sevakaH,sevaka,nom. sg. m.,6,karwa,5
-5,EcCat,z,impft. [6] ac. sg. 3,7,samucciwam,10
-6,saH,tad,nom. sg. m.,8,karwa,9 ####### adv_nom_karwa #######
-7,eva,eva,prep.,9,sambanxah,9
-8,kftavAn,kf,ppa.,10,sambanxah,7
-9,taTA,taTA,adv.,11,samucciwam,10
-10,ca,ca,conj.,12,,
 
 0,mUrKa,mUrKa,voc. sg. m.,0,samboxyah,7
 1,atIva,atIva,nom. sg. m.,3,viseranam,2

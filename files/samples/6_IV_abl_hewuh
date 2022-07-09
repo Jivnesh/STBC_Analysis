@@ -1,3 +1,26 @@
+0,pramadayA,pramadA,inst. sg. f.,0,karwa,4
+1,kusumaavacicIzayA,tad,inst. sg. f.,3,viseranam,0
+2,rasAt,rasa,abl. sg. m.,4,hewuh,3 ####### IV_abl_hewuh #######
+3,samaBisftya,sf,abs.,5,purvakalah,6
+4,avalambitaH,lamb,pp. . sg. ,6,viseranam,6
+5,taTApi,api,conj.,81,sambanxah,4
+6,avinaman,nam,voc. sg. m.,10,bavalakranasapwami_samanakalah,12
+7,vfTAuccakEH,tad,inst. pl. m.,11,viseranam,8
+8,vanapAdapaH,pAdapa,nom. sg. m.,13,karwa,12
+9,anftayA,fta,inst. sg. f.,15,hewuh,10
+10,nftayA,fta,inst. sg. f.,16,karanam,12
+11,na,na,conj.,17,sambanxah,12
+12,rarAja,rAj,pft. ac. sg. 3,19,,
+
+0,indraprasTagamaH,indraprasTa-gama,nom. sg. m.,NA,karma,3
+1,tAvat,tAvat,ind.,NA,kriyaviseranam,3
+2,mA,mA,ind.,NA,sambanxah,3
+3,kAri,kf3,aor. sg. 3,NA,,
+4,cedayaH,cedi,nom. pl. m.,NA,karwa,7
+5,AsmAkadantisAnniDyAt,AsmAka-dantin-sAnniDya,abl. sg. n.,NA,hewuh,7 ####### IV_abl_hewuh #######
+6,vAminIBUtaBUruhaH,vAminI-BUta-BUruha,nom. pl. m.,NA,karwqsamanaxikaranam,7
+7,santu,as2,imp.,NA,,
+
 0,nArIBiH,nArI,i. pl. f.,NA,karwa,10
 1,gurujaGanasTalaAhatAnAm,gurujaGanasTala-Ahata,g. pl. m.,NA,viseranam,2
 2,AsyaSrIvijitavikAsivArijAnAM,AsyaSrIvijitavikAsi-vArija,g. pl. m.,NA,rartisambanxah,3
@@ -9,15 +32,6 @@
 8,ASayaH,ASaya,nom. sg. m.,NA,karma,10
 9,kaluzaH,kaluza,nom. sg. m.,NA,karmasamanaxikaranam,10
 10,saYjajYe,sam_jYA2,pft. ps. sg. 3,NA,,
-
-0,indraprasTagamaH,indraprasTa-gama,nom. sg. m.,NA,karma,3
-1,tAvat,tAvat,ind.,NA,kriyaviseranam,3
-2,mA,mA,ind.,NA,sambanxah,3
-3,kAri,kf3,aor. sg. 3,NA,,
-4,cedayaH,cedi,nom. pl. m.,NA,karwa,7
-5,AsmAkadantisAnniDyAt,AsmAka-dantin-sAnniDya,abl. sg. n.,NA,hewuh,7 ####### IV_abl_hewuh #######
-6,vAminIBUtaBUruhaH,vAminI-BUta-BUruha,nom. pl. m.,NA,karwqsamanaxikaranam,7
-7,santu,as2,imp.,NA,,
 
 0,mahAtmA,Atman,nom. sg. *,8,karwa,3
 1,tataH,tad,abl. pl. n.,10,hewuh,3 ####### IV_abl_hewuh #######
@@ -35,20 +49,6 @@
 8,apanIya,nI,abs.,27,purvakalah,10
 9,rAkzasam,rAkzasa,acc. sg. m.,28,karma,10
 10,prApayitavyaH,Apa,ca. pfp. [3],32,,
-
-0,pramadayA,pramadA,inst. sg. f.,0,karwa,4
-1,kusumaavacicIzayA,tad,inst. sg. f.,3,viseranam,0
-2,rasAt,rasa,abl. sg. m.,4,hewuh,3 ####### IV_abl_hewuh #######
-3,samaBisftya,sf,abs.,5,purvakalah,6
-4,avalambitaH,lamb,pp. . sg. ,6,viseranam,6
-5,taTApi,api,conj.,81,sambanxah,4
-6,avinaman,nam,voc. sg. m.,10,bavalakranasapwami_samanakalah,12
-7,vfTAuccakEH,tad,inst. pl. m.,11,viseranam,8
-8,vanapAdapaH,pAdapa,nom. sg. m.,13,karwa,12
-9,anftayA,fta,inst. sg. f.,15,hewuh,10
-10,nftayA,fta,inst. sg. f.,16,karanam,12
-11,na,na,conj.,17,sambanxah,12
-12,rarAja,rAj,pft. ac. sg. 3,19,,
 
 0,aBimuKapatitEH,aBimuKa_pat1,pp.,NA,viseranam,5
 1,ujjvalAm,ujjvalA,acc. sg. f.,NA,viseranam,2

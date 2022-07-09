@@ -1,11 +1,3 @@
-0,arjunaH,arjuna,nom. sg. m.,0,karwa,6
-1,tasya,tad,g. sg. n.,1,rartisambanxah,2
-2,muKAt,muKa,abl. sg. m.,3,apaxanam,4 ####### Ind_abl_apaxanam #######
-3,etat,etad,acc. sg. n.,10,karma,4
-4,AkarRya,karRa,conj.,5,purvakalah,6
-5,lajjitaH,tad,nom. sg. m.,7,karwqsamanaxikaranam,6
-6,aBavat,BU,impft . ac. sg. 3,8,,
-
 0,priyatamavakzasaH,vakzas,abl. sg. n.,1,apaxanam,9 ####### Ind_abl_apaxanam #######
 1,saNkrAntam,krAnta,acc. sg. m.,8,viseranam,3
 2,asyAH,idam,g. sg. f.,9,rartisambanxah,3
@@ -26,4 +18,12 @@
 17,kasyAScit,tad,g. sg. f.,38,rartisambanxah,18
 18,sapatnyA,sapatnI,inst. sg. f.,39,karwa,19
 19,tepe,tap,pft. md. sg. 3,40,,
+
+0,arjunaH,arjuna,nom. sg. m.,0,karwa,6
+1,tasya,tad,g. sg. n.,1,rartisambanxah,2
+2,muKAt,muKa,abl. sg. m.,3,apaxanam,4 ####### Ind_abl_apaxanam #######
+3,etat,etad,acc. sg. n.,10,karma,4
+4,AkarRya,karRa,conj.,5,purvakalah,6
+5,lajjitaH,tad,nom. sg. m.,7,karwqsamanaxikaranam,6
+6,aBavat,BU,impft . ac. sg. 3,8,,
 

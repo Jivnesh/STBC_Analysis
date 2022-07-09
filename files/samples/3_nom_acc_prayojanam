@@ -1,13 +1,3 @@
-0,ekaH,eka,nom. sg. m.,0,samucciwam,8
-1,mahAtmA,Atman,nom. sg. *,21,karwa,7
-2,svaSizyeRa,Sizya,i. sg. n.,3,prawiyogi,3
-3,saha,saha,prep.,6,anuyogi,1
-4,vanamArgeRa,mArga,i. sg. m.,8,karanam,6
-5,tIrTasnAnArTam,arTa,acc. sg. m.,26,prayojanam,6 ####### nom_acc_prayojanam #######
-6,gacCan,gam,nom. sg. m.,12,karwqsamanaxikaranam,7
-7,AsIt,as,aor. [5] ac. sg. 3,14,samucciwam,8
-8,ca,ca,conj.,15,,
-
 0,katipayadineByaH,dina,abl. pl. n.,1,apaxanam,3
 1,sannyAsinaH,tad,g. sg. m.,8,rartisambanxah,3
 2,BikzArTam,arTa,acc. sg. m.,36,prayojanam,3 ####### nom_acc_prayojanam #######
@@ -29,4 +19,14 @@
 11,SyAmaH,SyAma,nom. sg. m.,20,karwa,13
 12,uccEH,ucca,i. pl. m.,21,kriyaviseranam,13
 13,akaTayat,brU,impft. [10] ac. sg. 3,23,,
+
+0,ekaH,eka,nom. sg. m.,0,samucciwam,8
+1,mahAtmA,Atman,nom. sg. *,21,karwa,7
+2,svaSizyeRa,Sizya,i. sg. n.,3,prawiyogi,3
+3,saha,saha,prep.,6,anuyogi,1
+4,vanamArgeRa,mArga,i. sg. m.,8,karanam,6
+5,tIrTasnAnArTam,arTa,acc. sg. m.,26,prayojanam,6 ####### nom_acc_prayojanam #######
+6,gacCan,gam,nom. sg. m.,12,karwqsamanaxikaranam,7
+7,AsIt,as,aor. [5] ac. sg. 3,14,samucciwam,8
+8,ca,ca,conj.,15,,
 

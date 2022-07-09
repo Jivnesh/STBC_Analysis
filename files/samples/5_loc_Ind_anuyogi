@@ -44,6 +44,29 @@
 27,AspadaM,Aspada,acc. sg. n.,49,karma,28
 28,cakAra,vac,pft. ac. sg. 3,55,,
 
+0,BavatIm,BavatI,acc. sg. f.,0,karma,1
+1,anAnayantyAH,nI,g. sg. f.,3,rartisambanxah,2
+2,mayA,asmad,inst. sg. n.,4,karwa,6
+3,satatam,satatam,conj.,7,viseranam,6
+4,te,yuzmad,g. sg. n.,14,rartisambanxah,5
+5,anaBiBAzaRaM,BAzaRa,nom. sg. n.,16,karma,6
+6,paripaRitaM,paR,pp. . sg. ,22,samucciwam,15
+7,Bavati,BavatI,voc. sg. f.,23,samboxyah,14
+8,tvayi,yuzmad,loc. sg. n.,24,viseranam,11
+9,tad,tad,conj.,26,prawiyogi,10
+10,iti,iti,conj.,27,anuyogi,11 ####### loc_Ind_anuyogi #######
+11,viroDaniScitAyAm,cita,loc. sg. f.,28,axikaranam,14
+12,asuhfjjanaH,jana,nom. sg. m.,31,karwa,14
+13,sakAmaH,tad,nom. sg. m.,45,karwqsamanaxikaranam,14
+14,Bavatu,BU,imp. ac. sg. 3,33,samucciwam,15
+15,ca,ca,conj.,34,,
+
+0,ramaREH,ramaRa,inst. pl. m.,1,prawiyogi,1
+1,saha,saha,conj.,3,anuyogi,2 ####### loc_Ind_anuyogi #######
+2,jyotsnAyAM,jyotsnA,loc. sg. f.,4,axikaranam,3
+3,aramanta,ram,impft . md. pl. 3,5,,
+4,nAryaH,nArI,nom. sg. f.,6,karwa,3
+
 0,tasmin,tad,loc. sg. m.,NA,viseranam,1
 1,suramunO,suramuni,loc. sg. m.,NA,prawiyogi,2
 2,iti,iti,ind.,NA,anuyogi,3
@@ -73,27 +96,4 @@
 26,BrakuwiCalena,Brakuwi-Cala,i. sg. n.,NA,karanam,27
 27,AspadaM,Aspada,acc. sg. n.,NA,karma,28
 28,cakAra,kF2,pft. ac. sg. 3,NA,,
-
-0,ramaREH,ramaRa,inst. pl. m.,1,prawiyogi,1
-1,saha,saha,conj.,3,anuyogi,2 ####### loc_Ind_anuyogi #######
-2,jyotsnAyAM,jyotsnA,loc. sg. f.,4,axikaranam,3
-3,aramanta,ram,impft . md. pl. 3,5,,
-4,nAryaH,nArI,nom. sg. f.,6,karwa,3
-
-0,BavatIm,BavatI,acc. sg. f.,0,karma,1
-1,anAnayantyAH,nI,g. sg. f.,3,rartisambanxah,2
-2,mayA,asmad,inst. sg. n.,4,karwa,6
-3,satatam,satatam,conj.,7,viseranam,6
-4,te,yuzmad,g. sg. n.,14,rartisambanxah,5
-5,anaBiBAzaRaM,BAzaRa,nom. sg. n.,16,karma,6
-6,paripaRitaM,paR,pp. . sg. ,22,samucciwam,15
-7,Bavati,BavatI,voc. sg. f.,23,samboxyah,14
-8,tvayi,yuzmad,loc. sg. n.,24,viseranam,11
-9,tad,tad,conj.,26,prawiyogi,10
-10,iti,iti,conj.,27,anuyogi,11 ####### loc_Ind_anuyogi #######
-11,viroDaniScitAyAm,cita,loc. sg. f.,28,axikaranam,14
-12,asuhfjjanaH,jana,nom. sg. m.,31,karwa,14
-13,sakAmaH,tad,nom. sg. m.,45,karwqsamanaxikaranam,14
-14,Bavatu,BU,imp. ac. sg. 3,33,samucciwam,15
-15,ca,ca,conj.,34,,
 

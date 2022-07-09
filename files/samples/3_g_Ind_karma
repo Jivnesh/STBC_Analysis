@@ -12,6 +12,20 @@
 11,nitambinIBiH,nitambinI,inst. pl. f.,14,karwa,12
 12,atami,tam,impft. ac. sg. 3,15,,
 
+0,SlaTaSirasijapASapAtaBArAt,SlaTaSirasijapASapAta-BAra,abl. sg. m.,NA,prawiyogi,1
+1,iva,iva,ind.,NA,anuyogi,2
+2,nitarAM,nitarAm,ind.,NA,karma,5 ####### g_Ind_karma #######
+3,natimadBiH,natimat,i. pl. m.,NA,viseranam,4
+4,aMsaBAgEH,aMsaBAga,i. pl. m.,NA,hewuh,12
+5,GanamahatAM,Gana-mahat,g. pl. n.,NA,viseranam,6
+6,pakzmaRAM,pakzman,g. pl. n.,NA,rartisambanxah,7
+7,BareRa,Bara,i. sg. m.,NA,prawiyogi,8
+8,iva,iva,ind.,NA,anuyogi,9
+9,mukulitanayanEH,mukulita-nayana,i. pl. n.,NA,viseranam,10
+10,muKaaravindEH,muKa-aravinda,i. pl. n.,NA,karanam,12
+11,nitambinIBiH,nitambinI,i. pl. f.,NA,karwa,12
+12,atami,tam1,aor. sg. 3,NA,,
+
 0,antarjalaOGam,OGa,conj.,0,karma,1 ####### g_Ind_karma #######
 1,avagAQavataH,van,g. sg. m.,1,viseranam,2
 2,gajasya,gaja,g. sg. m.,2,rartisambanxah,3
@@ -30,18 +44,4 @@
 15,varRaH,varRa,nom. sg. m.,25,prawiyogi,16
 16,iva,iva,conj.,26,anuyogi,8
 17,rarAja,rAj,pft. ac. sg. 3,28,,
-
-0,SlaTaSirasijapASapAtaBArAt,SlaTaSirasijapASapAta-BAra,abl. sg. m.,NA,prawiyogi,1
-1,iva,iva,ind.,NA,anuyogi,2
-2,nitarAM,nitarAm,ind.,NA,karma,5 ####### g_Ind_karma #######
-3,natimadBiH,natimat,i. pl. m.,NA,viseranam,4
-4,aMsaBAgEH,aMsaBAga,i. pl. m.,NA,hewuh,12
-5,GanamahatAM,Gana-mahat,g. pl. n.,NA,viseranam,6
-6,pakzmaRAM,pakzman,g. pl. n.,NA,rartisambanxah,7
-7,BareRa,Bara,i. sg. m.,NA,prawiyogi,8
-8,iva,iva,ind.,NA,anuyogi,9
-9,mukulitanayanEH,mukulita-nayana,i. pl. n.,NA,viseranam,10
-10,muKaaravindEH,muKa-aravinda,i. pl. n.,NA,karanam,12
-11,nitambinIBiH,nitambinI,i. pl. f.,NA,karwa,12
-12,atami,tam1,aor. sg. 3,NA,,
 

@@ -1,3 +1,11 @@
+0,kfpaRasya,kfpaRa,g. sg. m.,0,rartisambanxah,1
+1,saNketena,tad,inst. sg. m.,2,karanam,3
+2,gfhe,gfha,loc. sg. n.,5,axikaranam,3
+3,rodanaM,rodana,nom. sg. n.,7,samucciwam,5
+4,vilapanaM,vilapana,nom. sg. n.,8,samucciwam,5
+5,ca,ca,conj.,9,karma,6 ####### nom_Ind_karma #######
+6,prArabDam,tad,nom. sg. n.,12,,
+
 0,tatra,tatra,loc. sg. n.,0,axikaranam,5
 1,devAn,deva,acc. pl. m.,1,samucciwam,3
 2,dAnavAn,dAnava,acc. pl. m.,32,samucciwam,3
@@ -32,12 +40,4 @@
 14,samO,sama,nom. du. m.,23,karmasamanaxikaranam,15
 15,AmnAtO,mnA,nom. du. m.,25,samucciwam,16
 16,ca,ca,conj.,26,,
-
-0,kfpaRasya,kfpaRa,g. sg. m.,0,rartisambanxah,1
-1,saNketena,tad,inst. sg. m.,2,karanam,3
-2,gfhe,gfha,loc. sg. n.,5,axikaranam,3
-3,rodanaM,rodana,nom. sg. n.,7,samucciwam,5
-4,vilapanaM,vilapana,nom. sg. n.,8,samucciwam,5
-5,ca,ca,conj.,9,karma,6 ####### nom_Ind_karma #######
-6,prArabDam,tad,nom. sg. n.,12,,
 
