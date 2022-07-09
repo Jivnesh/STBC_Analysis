@@ -31,6 +31,17 @@
 9,ilAvftavat,ilA-vfta-vat,ind.,NA,sambanxah,10
 10,viBAti,vi_BA1,pr. ac. sg. 3,NA,,
 
+0,vitatavaliviBAvyapARquleKAkftaparaBAgavilInaromarAjiH,vitatavaliviBAvyapARquleKAkftaparaBAgavilInaroma-rAji,nom. sg. f.,NA,viseranam,8
+1,kfSam,kfSa,acc. sg. m.,NA,viseranam,3 ####### IV_acc_viseranam #######
+2,api,api,ind.,NA,sambanxah,3
+3,avalagnaM,ava_laj2,pp.,NA,kriyaviseranam,6
+4,punaH,punaH,ind.,NA,kriyaviseranam,6
+5,kfSatAM,kfSatA,acc. sg. f.,NA,karma,6
+6,nayantI,nI1,ppr. ac,NA,bavalakranasapwami_samanakalah,9
+7,vipulatarA,vipula-tarA,nom. sg. f.,NA,viseranam,8
+8,unmuKalocanA,unmuKa-locanA,nom. sg. f.,NA,karwa,9
+9,asTita,sTA1,aor. md. sg. 3,NA,,
+
 0,AcCAditaAyatadigambaram,AcCAdita-Ayata-digambara,acc. sg. m.,NA,viseranam,4 ####### IV_acc_viseranam #######
 1,uccakEH,ucca-kEH,ind.,NA,viseranam,2
 2,gAm,go,acc. sg. f.,NA,karma,3
@@ -46,17 +57,6 @@
 12,kaH,kim,nom. sg. m.,NA,karwa,14
 13,na,na,ind.,NA,sambanxah,14
 14,vismayate,vi_smi1,pr. md. sg. 3,NA,,
-
-0,vitatavaliviBAvyapARquleKAkftaparaBAgavilInaromarAjiH,vitatavaliviBAvyapARquleKAkftaparaBAgavilInaroma-rAji,nom. sg. f.,NA,viseranam,8
-1,kfSam,kfSa,acc. sg. m.,NA,viseranam,3 ####### IV_acc_viseranam #######
-2,api,api,ind.,NA,sambanxah,3
-3,avalagnaM,ava_laj2,pp.,NA,kriyaviseranam,6
-4,punaH,punaH,ind.,NA,kriyaviseranam,6
-5,kfSatAM,kfSatA,acc. sg. f.,NA,karma,6
-6,nayantI,nI1,ppr. ac,NA,bavalakranasapwami_samanakalah,9
-7,vipulatarA,vipula-tarA,nom. sg. f.,NA,viseranam,8
-8,unmuKalocanA,unmuKa-locanA,nom. sg. f.,NA,karwa,9
-9,asTita,sTA1,aor. md. sg. 3,NA,,
 
 0,aMsamAtre,aMsamAtra,loc. sg. n.,NA,axikaranam,3
 1,payasi,payas,loc. sg. n.,NA,axikaranam,3

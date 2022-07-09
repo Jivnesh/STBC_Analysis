@@ -1,61 +1,18 @@
-0,putri,putrin,voc. sg. n.,12,samboxyah,4 ####### IV_voc_samboxyah #######
-1,te,yuzmad,g. sg. *,7,rartisambanxah,2
-2,hAsaH,hAsa,nom. sg. m.,9,karwa,4
-3,kaTam,kaTam,adv.,10,kriyaviseranam,4
-4,utpannaH,pad,pp.,11,,
-
-0,kintu,ca,adv.,0,sambanxah,10
-1,hanta,hanta,voc. sg. n.,1,samboxyah,10 ####### IV_voc_samboxyah #######
-2,tasmin,tad,loc. sg. m.,3,viseranam,4
-3,eva,eva,prep.,4,sambanxah,2
-4,kzaRe,kzaRa,loc. sg. m.,5,axikaranam,10
-5,tasya,tad,g. sg. m.,7,rartisambanxah,6
-6,pAdayoH,pAda,loc. du. m.,8,axikaranam,10
-7,ekaH,eka,nom. sg. m.,10,viseranam,8
-8,tIkzRaH,tIkzRa,nom. sg. m.,11,viseranam,9
-9,kaRwakaH,kaRwaka,nom. sg. m.,12,karwa,10
-10,lagnaH,lagna,pp.,13,,
-
-0,rAjADirAjanandana,nandana,voc. sg. m.,2,samboxyah,7 ####### IV_voc_samboxyah #######
-1,nagaranDragatasya,gam,g. sg. n.,7,viseranam,2
-2,te,tad,g. sg. *,14,rartisambanxah,3
-3,gatim,gati,acc. sg. f.,15,karma,4
-4,jYAsyan,jYA,pfu. ac.,16,sambanxah,7
-5,aham,asmad,nom. sg. *,17,karwa,7
-6,ca,ca,conj.,18,sambanxah,8
-7,gataH,gam,pp.,19,,
-8,kadA,kadA,loc. sg. m.,20,axikaranam,7
-9,cit,ca,part.,21,sambanxah,8
-10,kaliNgAn,kaliNga,acc. pl. m.,22,karma,7
-
-0,mahArAjaH,rAjan,voc. sg. m.,2,samboxyah,7 ####### IV_voc_samboxyah #######
-1,idam,idam,acc. sg. n.,24,karma,6
-2,tu,tu,conj.,4,sambanxah,1
-3,BavatA,BU,nom. sg. n.,5,karwa,7
-4,pUrvam,pUrva,loc. sg. m.,6,axikaranam,6
-5,eva,eva,prep.,9,sambanxah,4
-6,kaTayitum,kaT,inf.,10,prayojanam,7
-7,Sakyate,Sakya,pfp. [1],11,,
-8,sma,sma,part.,12,sambanxah,7
-
-0,Aha,ca,ind.,0,sambanxah,2
-1,kzudrAH,kzudra,voc. pl. m.,26,viseranam,2
-2,samaraBIravaH,BIru,voc. pl. m.,30,samboxyah,9 ####### IV_voc_samboxyah #######
-3,kaTam,kaTam,adv.,7,sambanxah,9
-4,evam,evam,adv.,8,karma,5
-5,pralapatAm,lap,imp. [1] ac. du. 3,9,viseranam,6
-6,vaH,yuzmad,g. pl. *,10,rartisambanxah,11
-7,sahasraDA,DA,adv.,18,kriyaviseranam,9
-8,na,na,part.,19,sambanxah,9
-9,dIrRam,vac,pp.,22,,
-10,anayA,naya,nom. pl. m.,39,viseranam,11
-11,jihvayA,tad,nom. pl. m.,24,karwa,9
-
-0,vatsa,vatsa,voc. sg. m.,0,samboxyah,4 ####### IV_voc_samboxyah #######
-1,deSarakzArTam,arTa,acc. sg. m.,32,prayojanam,4
-2,ete,etad,nom. du. n.,4,karwa,3
-3,balidAnam,dAna,acc. sg. n.,10,karma,4
-4,kurvanti,as,ppr. [8] ac.,12,,
+0,BavatIm,BavatI,acc. sg. f.,NA,karma,1
+1,anAnayantyAH,naY-A_nI1,ppr. ac,NA,rartisambanxah,2
+2,mayA,asmad,i. sg. *.,NA,karwa,6
+3,satatam,satatam,ind.,NA,kriyaviseranam,6
+4,te,yuzmad,g. sg. *.,NA,rartisambanxah,5
+5,anaBiBAzaRaM,anaBi-BAzaRa,nom. sg. n.,NA,karma,6
+6,paripaRitaM,pari_paR1,pp.,NA,,
+7,Bavati,BavatI,voc. sg. f.,NA,samboxyah,14 ####### IV_voc_samboxyah #######
+8,tvayi,yuzmad,loc. sg. *.,NA,viseranam,11
+9,tad,tad,ind.,NA,prawiyogi,10
+10,iti,iti,ind.,NA,anuyogi,11
+11,viroDaniScitAyAm,viroDa-niScitA,loc. sg. f.,NA,axikaranam,14
+12,asuhfjjanaH,asuhfj-jana,nom. sg. m.,NA,karwa,14
+13,sakAmaH,sakAma,nom. sg. m.,NA,karwqsamanaxikaranam,14
+14,Bavatu,BU1,imp.,NA,,
 
 0,prARanATa,nATa,voc. sg. m.,1,samboxyah,5 ####### IV_voc_samboxyah #######
 1,iyatI,yat,nom. sg. f.,4,viseranam,3
@@ -78,6 +35,11 @@
 11,aBimanyuH,tad,nom. sg. m.,31,karma,12
 12,vyApAditaH,vyA,ca. pp.,32,,
 
+0,mahArAjaH,rAjan,voc. sg. m.,2,samboxyah,3 ####### IV_voc_samboxyah #######
+1,AryasenApatimahASayaH,ASaya,nom. sg. m.,22,karwa,3
+2,dvAri,dvAr,loc. sg. f.,8,axikaranam,3
+3,upasTitaH,sTita,pp.,9,,
+
 0,mahASaya,Saya,voc. sg. m.,1,samboxyah,2 ####### IV_voc_samboxyah #######
 1,cOrAH,nirudyoga,nom. pl. m.,3,karwa,2
 2,aBijYAtAH,kf,pp.,5,,
@@ -95,24 +57,62 @@
 10,na,na,part.,20,sambanxah,11
 11,upadizwavAn,upadizwa,pp.,21,,
 
-0,BavatIm,BavatI,acc. sg. f.,NA,karma,1
-1,anAnayantyAH,naY-A_nI1,ppr. ac,NA,rartisambanxah,2
-2,mayA,asmad,i. sg. *.,NA,karwa,6
-3,satatam,satatam,ind.,NA,kriyaviseranam,6
-4,te,yuzmad,g. sg. *.,NA,rartisambanxah,5
-5,anaBiBAzaRaM,anaBi-BAzaRa,nom. sg. n.,NA,karma,6
-6,paripaRitaM,pari_paR1,pp.,NA,,
-7,Bavati,BavatI,voc. sg. f.,NA,samboxyah,14 ####### IV_voc_samboxyah #######
-8,tvayi,yuzmad,loc. sg. *.,NA,viseranam,11
-9,tad,tad,ind.,NA,prawiyogi,10
-10,iti,iti,ind.,NA,anuyogi,11
-11,viroDaniScitAyAm,viroDa-niScitA,loc. sg. f.,NA,axikaranam,14
-12,asuhfjjanaH,asuhfj-jana,nom. sg. m.,NA,karwa,14
-13,sakAmaH,sakAma,nom. sg. m.,NA,karwqsamanaxikaranam,14
-14,Bavatu,BU1,imp.,NA,,
+0,mahArAjaH,rAjan,voc. sg. m.,2,samboxyah,7 ####### IV_voc_samboxyah #######
+1,idam,idam,acc. sg. n.,24,karma,6
+2,tu,tu,conj.,4,sambanxah,1
+3,BavatA,BU,nom. sg. n.,5,karwa,7
+4,pUrvam,pUrva,loc. sg. m.,6,axikaranam,6
+5,eva,eva,prep.,9,sambanxah,4
+6,kaTayitum,kaT,inf.,10,prayojanam,7
+7,Sakyate,Sakya,pfp. [1],11,,
+8,sma,sma,part.,12,sambanxah,7
 
-0,mahArAjaH,rAjan,voc. sg. m.,2,samboxyah,3 ####### IV_voc_samboxyah #######
-1,AryasenApatimahASayaH,ASaya,nom. sg. m.,22,karwa,3
-2,dvAri,dvAr,loc. sg. f.,8,axikaranam,3
-3,upasTitaH,sTita,pp.,9,,
+0,kintu,ca,adv.,0,sambanxah,10
+1,hanta,hanta,voc. sg. n.,1,samboxyah,10 ####### IV_voc_samboxyah #######
+2,tasmin,tad,loc. sg. m.,3,viseranam,4
+3,eva,eva,prep.,4,sambanxah,2
+4,kzaRe,kzaRa,loc. sg. m.,5,axikaranam,10
+5,tasya,tad,g. sg. m.,7,rartisambanxah,6
+6,pAdayoH,pAda,loc. du. m.,8,axikaranam,10
+7,ekaH,eka,nom. sg. m.,10,viseranam,8
+8,tIkzRaH,tIkzRa,nom. sg. m.,11,viseranam,9
+9,kaRwakaH,kaRwaka,nom. sg. m.,12,karwa,10
+10,lagnaH,lagna,pp.,13,,
+
+0,vatsa,vatsa,voc. sg. m.,0,samboxyah,4 ####### IV_voc_samboxyah #######
+1,deSarakzArTam,arTa,acc. sg. m.,32,prayojanam,4
+2,ete,etad,nom. du. n.,4,karwa,3
+3,balidAnam,dAna,acc. sg. n.,10,karma,4
+4,kurvanti,as,ppr. [8] ac.,12,,
+
+0,putri,putrin,voc. sg. n.,12,samboxyah,4 ####### IV_voc_samboxyah #######
+1,te,yuzmad,g. sg. *,7,rartisambanxah,2
+2,hAsaH,hAsa,nom. sg. m.,9,karwa,4
+3,kaTam,kaTam,adv.,10,kriyaviseranam,4
+4,utpannaH,pad,pp.,11,,
+
+0,Aha,ca,ind.,0,sambanxah,2
+1,kzudrAH,kzudra,voc. pl. m.,26,viseranam,2
+2,samaraBIravaH,BIru,voc. pl. m.,30,samboxyah,9 ####### IV_voc_samboxyah #######
+3,kaTam,kaTam,adv.,7,sambanxah,9
+4,evam,evam,adv.,8,karma,5
+5,pralapatAm,lap,imp. [1] ac. du. 3,9,viseranam,6
+6,vaH,yuzmad,g. pl. *,10,rartisambanxah,11
+7,sahasraDA,DA,adv.,18,kriyaviseranam,9
+8,na,na,part.,19,sambanxah,9
+9,dIrRam,vac,pp.,22,,
+10,anayA,naya,nom. pl. m.,39,viseranam,11
+11,jihvayA,tad,nom. pl. m.,24,karwa,9
+
+0,rAjADirAjanandana,nandana,voc. sg. m.,2,samboxyah,7 ####### IV_voc_samboxyah #######
+1,nagaranDragatasya,gam,g. sg. n.,7,viseranam,2
+2,te,tad,g. sg. *,14,rartisambanxah,3
+3,gatim,gati,acc. sg. f.,15,karma,4
+4,jYAsyan,jYA,pfu. ac.,16,sambanxah,7
+5,aham,asmad,nom. sg. *,17,karwa,7
+6,ca,ca,conj.,18,sambanxah,8
+7,gataH,gam,pp.,19,,
+8,kadA,kadA,loc. sg. m.,20,axikaranam,7
+9,cit,ca,part.,21,sambanxah,8
+10,kaliNgAn,kaliNga,acc. pl. m.,22,karma,7
 

@@ -1,3 +1,11 @@
+0,prasIda,sad,imp. [1] ac. sg. 2,0,samucciwam,6
+1,Bagavati,Baga,voc. du. n.,2,viseranam,2 ####### voc_voc_viseranam #######
+2,vasunDare,SarIra,voc. du. n.,8,samboxyah,0
+3,SarIram,SarIra,nom. sg. n.,11,karwqsamanaxikaranam,4
+4,asi,as,pr. [2] ac. sg. 2,12,samucciwam,6
+5,saMsArasya,saMsAra,g. sg. m.,13,rartisambanxah,3
+6,ca,ca,conj.,14,,
+
 0,are,ara,loc. sg. m.,0,sambanxah,2
 1,duryoDanapramuKAH,pramuKa,voc. pl. m.,39,viseranam,2 ####### voc_voc_viseranam #######
 2,kurubalasenApraBavaH,BU,voc. pl. m.,12,samboxyah,12
@@ -24,12 +32,4 @@
 9,dIrRam,vac,pp.,22,,
 10,anayA,naya,nom. pl. m.,39,viseranam,11
 11,jihvayA,tad,nom. pl. m.,24,karwa,9
-
-0,prasIda,sad,imp. [1] ac. sg. 2,0,samucciwam,6
-1,Bagavati,Baga,voc. du. n.,2,viseranam,2 ####### voc_voc_viseranam #######
-2,vasunDare,SarIra,voc. du. n.,8,samboxyah,0
-3,SarIram,SarIra,nom. sg. n.,11,karwqsamanaxikaranam,4
-4,asi,as,pr. [2] ac. sg. 2,12,samucciwam,6
-5,saMsArasya,saMsAra,g. sg. m.,13,rartisambanxah,3
-6,ca,ca,conj.,14,,
 

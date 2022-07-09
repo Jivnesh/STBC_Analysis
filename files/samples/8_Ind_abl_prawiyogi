@@ -26,6 +26,14 @@
 11,nitambinIBiH,nitambinI,inst. pl. f.,14,karwa,12
 12,atami,tam,impft. ac. sg. 3,15,,
 
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,AByAm,idam,abl. du. n.,1,prawiyogi,2 ####### Ind_abl_prawiyogi #######
+2,saha,saha,prep.,11,anuyogi,0
+3,yaTecCam,icCA,acc. sg. m.,23,kriyaviseranam,5
+4,itastataH,tad,abl. pl. n.,26,apaxanam,5
+5,calitum,cal,inf.,15,prayojanam,6
+6,Saknomi,Sak,pr. [5] ac. sg. 1,16,,
+
 0,sAgarasya,sAgara,g. sg. m.,NA,rartisambanxah,1
 1,mahormiBiH,mahormin,i. pl. m.,NA,karwa,6
 2,yacCAlam,yacCAla,acc. sg. m.,NA,karma,4
@@ -38,15 +46,6 @@
 9,vrIqAt,vrIqa,abl. sg. m.,NA,prawiyogi,10 ####### Ind_abl_prawiyogi #######
 10,iva,iva,ind.,NA,anuyogi,5
 11,vililye,vi_lI1,pft. ps. sg. 3,NA,,
-
-0,asmin,idam,loc. sg. m.,1,axikaranam,7
-1,saNkIrRakIcakavanasKalitaekabAlavicCedakAtaraDiyaH,DI,nom. pl. f.,3,viseranam,2
-2,camaryaH,camarI,nom. pl. f.,6,karwa,7
-3,mfduSvasanagarBatadIyaranDraniryatsvanaSrutisuKAt,suKa,abl. sg. n.,8,prawiyogi,4 ####### Ind_abl_prawiyogi #######
-4,iva,iva,conj.,9,anuyogi,2
-5,calituM,cal,inf.,10,prayojanam,7
-6,na,na,conj.,11,sambanxah,7
-7,utsahante,sah,pr. md. pl. 3,12,,
 
 0,vaDAt,vaDa,abl. sg. m.,0,prawiyogi,1 ####### Ind_abl_prawiyogi #######
 1,vinA,vinA,conj.,5,anuyogi,4
@@ -68,6 +67,15 @@
 11,vililye,lI,pft. md. sg. 3,16,samucciwam,12
 12,ca,ca,conj.,18,,
 
+0,asmin,idam,loc. sg. m.,1,axikaranam,7
+1,saNkIrRakIcakavanasKalitaekabAlavicCedakAtaraDiyaH,DI,nom. pl. f.,3,viseranam,2
+2,camaryaH,camarI,nom. pl. f.,6,karwa,7
+3,mfduSvasanagarBatadIyaranDraniryatsvanaSrutisuKAt,suKa,abl. sg. n.,8,prawiyogi,4 ####### Ind_abl_prawiyogi #######
+4,iva,iva,conj.,9,anuyogi,2
+5,calituM,cal,inf.,10,prayojanam,7
+6,na,na,conj.,11,sambanxah,7
+7,utsahante,sah,pr. md. pl. 3,12,,
+
 0,iti,iti,conj.,0,sambanxah,1
 1,gadantaM,gad,nom. sg. n.,1,viseranam,2
 2,praRayinam,praRayin,acc. sg. m.,2,karma,11
@@ -80,12 +88,4 @@
 9,iva,iva,conj.,16,anuyogi,10
 10,raBasAt,raBasa,abl. sg. m.,17,hewuh,11
 11,sasvaje,svaYj,pft. md. sg. 3,19,,
-
-0,aham,asmad,nom. sg. *,0,karwa,5
-1,AByAm,idam,abl. du. n.,1,prawiyogi,2 ####### Ind_abl_prawiyogi #######
-2,saha,saha,prep.,11,anuyogi,0
-3,yaTecCam,icCA,acc. sg. m.,23,kriyaviseranam,5
-4,itastataH,tad,abl. pl. n.,26,apaxanam,5
-5,calitum,cal,inf.,15,prayojanam,6
-6,Saknomi,Sak,pr. [5] ac. sg. 1,16,,
 

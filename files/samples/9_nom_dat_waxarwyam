@@ -1,3 +1,45 @@
+0,paTikeByaH,paTika,dat. pl. m.,1,waxarwyam,2 ####### nom_dat_waxarwyam #######
+1,saH,tad,nom. sg. m.,4,karwa,3
+2,viSrAmasTAnam,sTAna,nom. sg. n.,7,karwqsamanaxikaranam,3
+3,aBavat,BU,impft. [1] ac. sg. 3,8,,
+
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,6
+1,kenacit,kim,i. sg. m.,2,viseranam,3
+2,bfhatA,tad,i. sg. m,7,viseranam,3
+3,aparADena,aparADa,i. sg. m.,8,karanam,6
+4,tAByAm,tad,dat. du. n.,10,waxarwyam,5 ####### nom_dat_waxarwyam #######
+5,mftyudaRqaH,daRqa,nom. sg. m.,19,karwa,6
+6,udGozitaH,Guz,ca. pp.,20,,
+
+0,iha,iha,conj.,0,axikaranam,9
+1,yUnAM,yuvan,g. pl. m.,1,rartisambanxah,2
+2,prItyE,prIti,dat. sg. f.,3,waxarwyam,3 ####### nom_dat_waxarwyam #######
+3,vyavahitatapanAH,tapana,nom. pl. m.,4,viseranam,5
+4,suratakrIqAAyAsaSramaSamapawavaH,pawu,nom. pl. m.,5,viseranam,5
+5,jaladAH,jalada,nom. pl. m.,7,karwa,9
+6,prOQaDvAntaM,tad,acc. sg. n.,11,viseranam,7
+7,dinaM,dina,acc. sg. n.,12,karma,9
+8,dozAmanyaM,manya,acc. sg. n.,30,viseranam,7
+9,vidaDati,DA,pr. ps. pl. 3,17,,
+
+0,nirdeSAnusAram,anusAra,adv.,0,kriyaviseranam,4
+1,uttarapustikAyAm,pustaka,loc. sg. f.,3,axikaranam,4
+2,mitrAya,mitra,dat. sg. n.,4,waxarwyam,4 ####### nom_dat_waxarwyam #######
+3,patram,pattra,acc. sg. n.,6,karma,4
+4,leKanIyam,tad,nom. sg. n.,13,karwa,5
+5,AsIt,as,aor. [5] ac. sg. 3,15,,
+
+0,SfRu,Sru,imp. [5] ac. sg. 2,0,sambanxah,9
+1,tAta,tAta,voc. sg. m.,1,samboxyah,0
+2,trikAladarSine,darSin,dat. sg. m.,21,viseranam,4
+3,sampannAya,tad,dat. sg. m.,5,viseranam,4
+4,vedavyAsAya,vyAsa,dat. sg. m.,7,waxarwyam,7 ####### nom_dat_waxarwyam #######
+5,kim,kim,nom. sg. n.,9,viseranam,7
+6,api,api,conj.,10,sambanxah,5
+7,duzkaram,duzkara,nom. sg. n.,14,karwa,9
+8,na,na,part.,17,sambanxah,9
+9,AsIt,as,aor. [5] ac. sg. 3,19,,
+
 0,tasmin,tad,nom. sg. n.,1,viseranam,1
 1,daSaraTe,dvi,nom. du. f.,3,karwa,2
 2,gate,gata,pp.,9,purvakalah,12
@@ -12,32 +54,6 @@
 11,na,na,part.,33,sambanxah,12
 12,EcCat,iz,impft. [6] ac. sg. 3,34,,
 
-0,nirdeSAnusAram,anusAra,adv.,0,kriyaviseranam,4
-1,uttarapustikAyAm,pustaka,loc. sg. f.,3,axikaranam,4
-2,mitrAya,mitra,dat. sg. n.,4,waxarwyam,4 ####### nom_dat_waxarwyam #######
-3,patram,pattra,acc. sg. n.,6,karma,4
-4,leKanIyam,tad,nom. sg. n.,13,karwa,5
-5,AsIt,as,aor. [5] ac. sg. 3,15,,
-
-0,iha,iha,conj.,0,axikaranam,9
-1,yUnAM,yuvan,g. pl. m.,1,rartisambanxah,2
-2,prItyE,prIti,dat. sg. f.,3,waxarwyam,3 ####### nom_dat_waxarwyam #######
-3,vyavahitatapanAH,tapana,nom. pl. m.,4,viseranam,5
-4,suratakrIqAAyAsaSramaSamapawavaH,pawu,nom. pl. m.,5,viseranam,5
-5,jaladAH,jalada,nom. pl. m.,7,karwa,9
-6,prOQaDvAntaM,tad,acc. sg. n.,11,viseranam,7
-7,dinaM,dina,acc. sg. n.,12,karma,9
-8,dozAmanyaM,manya,acc. sg. n.,30,viseranam,7
-9,vidaDati,DA,pr. ps. pl. 3,17,,
-
-0,ekadA,ekadA,loc. sg. m.,0,axikaranam,6
-1,kenacit,kim,i. sg. m.,2,viseranam,3
-2,bfhatA,tad,i. sg. m,7,viseranam,3
-3,aparADena,aparADa,i. sg. m.,8,karanam,6
-4,tAByAm,tad,dat. du. n.,10,waxarwyam,5 ####### nom_dat_waxarwyam #######
-5,mftyudaRqaH,daRqa,nom. sg. m.,19,karwa,6
-6,udGozitaH,Guz,ca. pp.,20,,
-
 0,tasmAt,tad,abl. sg. n.,0,viseranam,2
 1,eva,eva,prep.,2,sambanxah,0
 2,dinAt,dina,abl. sg. n.,3,apaxanam,10
@@ -51,17 +67,6 @@
 10,asti,as,pr. [2] ac. sg. 3,20,,
 11,iti,iti,part.,21,sambanxah,10
 
-0,SfRu,Sru,imp. [5] ac. sg. 2,0,sambanxah,9
-1,tAta,tAta,voc. sg. m.,1,samboxyah,0
-2,trikAladarSine,darSin,dat. sg. m.,21,viseranam,4
-3,sampannAya,tad,dat. sg. m.,5,viseranam,4
-4,vedavyAsAya,vyAsa,dat. sg. m.,7,waxarwyam,7 ####### nom_dat_waxarwyam #######
-5,kim,kim,nom. sg. n.,9,viseranam,7
-6,api,api,conj.,10,sambanxah,5
-7,duzkaram,duzkara,nom. sg. n.,14,karwa,9
-8,na,na,part.,17,sambanxah,9
-9,AsIt,as,aor. [5] ac. sg. 3,19,,
-
 0,yatra,yatra,conj.,0,axikaranam,11
 1,puMsAM,tad,g. pl. m.,1,rartisambanxah,2
 2,pramadAya,pramada,dat. sg. m.,2,waxarwyam,5 ####### nom_dat_waxarwyam #######
@@ -74,11 +79,6 @@
 9,ca,ca,conj.,15,karwa,11
 10,AmodakarmavyatihAram,tad,acc. sg. m.,14,karma,11
 11,IyuH,i,pft. ac. pl. 3,13,,
-
-0,paTikeByaH,paTika,dat. pl. m.,1,waxarwyam,2 ####### nom_dat_waxarwyam #######
-1,saH,tad,nom. sg. m.,4,karwa,3
-2,viSrAmasTAnam,sTAna,nom. sg. n.,7,karwqsamanaxikaranam,3
-3,aBavat,BU,impft. [1] ac. sg. 3,8,,
 
 0,nAkinAM,nAkin,g. pl. m.,0,rartisambanxah,1
 1,prItaye,prIti,dat. sg. f.,1,waxarwyam,2 ####### nom_dat_waxarwyam #######

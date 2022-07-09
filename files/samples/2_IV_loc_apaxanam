@@ -1,3 +1,15 @@
+0,mantriparAmarSena,parAmarSa,i. sg. m.,1,karanam,3
+1,kuberataH,kubera,loc. sg. m.,2,apaxanam,3 ####### IV_loc_apaxanam #######
+2,Danam,Dana,acc. sg. n.,3,karma,3
+3,Ahartum,hf,inf.,5,prayojanam,5
+4,prAtaH,prAtar,loc. sg. n.,6,axikaranam,5
+5,prasTAnAya,prasTAna,dat. sg. n.,7,waxarwyam,6
+6,rAtrO,rAtri,loc. sg. f.,8,axikaranam,10
+7,saH,tad,nom. sg. m.,9,karwa,10
+8,raTe,rAjan,loc. sg. m.,10,axikaranam,10
+9,eva,eva,prep.,11,sambanxah,8
+10,prasuptaH,svap,pp.,12,,
+
 0,sahasA,sahasA,nom. sg. f.,3,kriyaviseranam,12
 1,pfzWataH,pfzWa,loc. sg. m.,4,apaxanam,3 ####### IV_loc_apaxanam #######
 2,cikitsAlaye,Alaya,loc. sg. m.,47,axikaranam,3
@@ -11,16 +23,4 @@
 10,putraH,putra,nom. sg. m.,17,karwa,12
 11,tatra,tatra,loc. sg. n.,19,axikaranam,12
 12,upasTitaH,sTita,pp.,20,,
-
-0,mantriparAmarSena,parAmarSa,i. sg. m.,1,karanam,3
-1,kuberataH,kubera,loc. sg. m.,2,apaxanam,3 ####### IV_loc_apaxanam #######
-2,Danam,Dana,acc. sg. n.,3,karma,3
-3,Ahartum,hf,inf.,5,prayojanam,5
-4,prAtaH,prAtar,loc. sg. n.,6,axikaranam,5
-5,prasTAnAya,prasTAna,dat. sg. n.,7,waxarwyam,6
-6,rAtrO,rAtri,loc. sg. f.,8,axikaranam,10
-7,saH,tad,nom. sg. m.,9,karwa,10
-8,raTe,rAjan,loc. sg. m.,10,axikaranam,10
-9,eva,eva,prep.,11,sambanxah,8
-10,prasuptaH,svap,pp.,12,,
 

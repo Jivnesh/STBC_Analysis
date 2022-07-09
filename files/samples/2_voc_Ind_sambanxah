@@ -1,3 +1,11 @@
+0,are,are,conj.,5,sambanxah,1 ####### voc_Ind_sambanxah #######
+1,Bagavan,vat,voc. sg. m.,6,samboxyah,6
+2,rUkzAm,rUkzA,acc. sg. f.,7,viseranam,4
+3,eva,eva,conj.,8,sambanxah,2
+4,rowIM,tad,acc. sg. f.,9,karma,6
+5,kiM,kim,nom. sg. n.,11,waxarwyam,6
+6,nayati,nI,pr. ac. sg. 3,12,,
+
 0,Aha,ca,ind.,0,sambanxah,2 ####### voc_Ind_sambanxah #######
 1,kzudrAH,kzudra,voc. pl. m.,26,viseranam,2
 2,samaraBIravaH,BIru,voc. pl. m.,30,samboxyah,9
@@ -10,12 +18,4 @@
 9,dIrRam,vac,pp.,22,,
 10,anayA,naya,nom. pl. m.,39,viseranam,11
 11,jihvayA,tad,nom. pl. m.,24,karwa,9
-
-0,are,are,conj.,5,sambanxah,1 ####### voc_Ind_sambanxah #######
-1,Bagavan,vat,voc. sg. m.,6,samboxyah,6
-2,rUkzAm,rUkzA,acc. sg. f.,7,viseranam,4
-3,eva,eva,conj.,8,sambanxah,2
-4,rowIM,tad,acc. sg. f.,9,karma,6
-5,kiM,kim,nom. sg. n.,11,waxarwyam,6
-6,nayati,nI,pr. ac. sg. 3,12,,
 

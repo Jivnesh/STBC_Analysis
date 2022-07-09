@@ -12,6 +12,18 @@
 11,vilambya,vi_lamb1,abs.,NA,purvakalah,12
 12,asTita,sTA1,aor. md. sg. 3,NA,,
 
+0,rAtrO,rAtri,loc. sg. f.,0,axikaranam,10
+1,bahavaH,bahu,nom. pl. m.,1,viseranam,8 ####### IV_nom_viseranam #######
+2,bAlakabAlikAH,bAlaka,nom. pl. f.,5,samucciwam,8
+3,striyaH,strI,nom. pl. f.,7,samucciwam,8
+4,puruzAH,puruza,nom. pl. m.,8,samucciwam,8
+5,ca,ca,conj.,9,karwa,10
+6,api,api,conj.,10,sambanxah,8
+7,rugRAH,tad,nom. pl. m.,14,karwqsamanaxikaranam,10
+8,BUtvA,BU,abs.,15,purvakalah,10
+9,cikitsAlaye,Alaya,loc. sg. m.,39,axikaranam,10
+10,pravizwAH,vac,pp.,20,,
+
 0,asya,idam,g. sg. m.,NA,rartisambanxah,1
 1,anutawaM,anu-tawa,ind.,NA,axikaranam,6
 2,tatAanekatamAlatAlaM,tatA-aneka-tamAla-tAla,acc. sg. m.,NA,viseranam,5
@@ -28,16 +40,4 @@
 13,na,na,ind.,NA,sambanxah,14
 14,puzpitA,puzpa,pp.,NA,karwa,15
 15,Bavati,BU1,pr. ac. sg. 3,NA,,
-
-0,rAtrO,rAtri,loc. sg. f.,0,axikaranam,10
-1,bahavaH,bahu,nom. pl. m.,1,viseranam,8 ####### IV_nom_viseranam #######
-2,bAlakabAlikAH,bAlaka,nom. pl. f.,5,samucciwam,8
-3,striyaH,strI,nom. pl. f.,7,samucciwam,8
-4,puruzAH,puruza,nom. pl. m.,8,samucciwam,8
-5,ca,ca,conj.,9,karwa,10
-6,api,api,conj.,10,sambanxah,8
-7,rugRAH,tad,nom. pl. m.,14,karwqsamanaxikaranam,10
-8,BUtvA,BU,abs.,15,purvakalah,10
-9,cikitsAlaye,Alaya,loc. sg. m.,39,axikaranam,10
-10,pravizwAH,vac,pp.,20,,
 

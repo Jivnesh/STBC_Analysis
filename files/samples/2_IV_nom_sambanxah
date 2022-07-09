@@ -1,8 +1,3 @@
-0,vanavAsinaH,vanavAsin,nom. pl. m.,1,karwa,3
-1,rAjAnam,rAjan,acc. sg. m.,6,karma,3
-2,kim,kim,nom. sg. n.,8,sambanxah,3 ####### IV_nom_sambanxah #######
-3,muktavantaH,muc,ppa.,9,,
-
 0,SAntAtmani,Atman,loc. sg. m.,50,viseranam,3
 1,dUrIkftasuratavyatikare,vyatikara,loc. sg. m.,4,viseranam,3
 2,asmin,dam,loc. sg. m.,6,viseranam,3
@@ -15,4 +10,9 @@
 9,asadfSam,dfS,acc. sg. m.,21,karma,10
 10,ArabDam,vac,pp.,25,,
 11,manasijena,manasija,nom. sg. m.,26,karwa,10
+
+0,vanavAsinaH,vanavAsin,nom. pl. m.,1,karwa,3
+1,rAjAnam,rAjan,acc. sg. m.,6,karma,3
+2,kim,kim,nom. sg. n.,8,sambanxah,3 ####### IV_nom_sambanxah #######
+3,muktavantaH,muc,ppa.,9,,
 

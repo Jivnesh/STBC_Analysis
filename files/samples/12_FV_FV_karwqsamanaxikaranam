@@ -3,24 +3,47 @@
 2,ramaRIyaH,ramaRIya,pfp. . sg. ,5,karwqsamanaxikaranam,3 ####### FV_FV_karwqsamanaxikaranam #######
 3,asti,as,pr. ac. sg. 3,6,,
 
-0,ataH,ca,conj.,0,hewuh,3
-1,saH,tad,nom. sg. m.,1,karwa,3
-2,SrAntaH,SrAnta,pp. . sg. ,2,karwqsamanaxikaranam,3 ####### FV_FV_karwqsamanaxikaranam #######
-3,aBavat,BU,impft . ac. sg. 3,3,,
+0,kintu,ca,conj.,0,samucciwam,8
+1,smaraRIyam,kf,pfp. . sg. ,3,prawiyogi,2
+2,yat,yad,acc. sg. n.,16,anuyogi,3
+3,cUzakaH,tad,nom. sg. m.,6,karwa,7
+4,punaH,ca,conj.,8,kriyaviseranam,7
+5,jIvitaH,jIvita,pp. . sg. ,9,karwqsamanaxikaranam,7 ####### FV_FV_karwqsamanaxikaranam #######
+6,na,na,conj.,10,sambanxah,7
+7,sTAsyati,zWA,fut. ac. sg. 3,11,samucciwam,8
+8,ca,ca,conj.,12,,
 
 0,varzAkAle,kAla,loc. sg. m.,2,axikaranam,3
 1,rajaH,rajas,acc. sg. n.,6,karwa,3
 2,praSAntam,praSAnta,pp. . sg. ,10,karwqsamanaxikaranam,3 ####### FV_FV_karwqsamanaxikaranam #######
 3,Bavati,BU,pr. ac. sg. 3,11,,
 
-0,tatra,tatra,conj.,0,axikaranam,2
-1,tena,tad,inst. sg. m.,2,karwa,2
-2,dfzwaM,dfzwa,pp. . sg. ,5,prawiyogi,3
-3,yat,yat,conj.,6,anuyogi,4
-4,saH,tad,nom. sg. m.,7,karwa,6
-5,KawvAyAM,KawvA,loc. sg. f.,8,axikaranam,6
-6,suptaH,supta,pp. . sg. ,9,karwqsamanaxikaranam,7 ####### FV_FV_karwqsamanaxikaranam #######
-7,asti,as,pr. ac. sg. 3,10,,
+0,jaqaH,jaqa,nom. sg. m.,0,viseranam,1
+1,kalaSaH,kalaSa,nom. sg. m.,1,karwa,6
+2,tu,tu,conj.,2,sambanxah,1
+3,tatra,tatra,conj.,4,axikaranam,6
+4,eva,eva,conj.,5,sambanxah,3
+5,sTitaH,sTita,pp. . sg. ,6,karwqsamanaxikaranam,6 ####### FV_FV_karwqsamanaxikaranam #######
+6,AsIt,as,impft . ac. sg. 3,8,,
+7,iti,iti,conj.,9,sambanxah,6
+
+0,evam,evam,conj.,0,karanam,4
+1,tayoH,tad,loc. sg. m.,4,axikaranam,4
+2,BedaH,Beda,nom. sg. m.,7,karwa,4
+3,utpannaH,vac,pp. . sg. ,8,karwqsamanaxikaranam,4 ####### FV_FV_karwqsamanaxikaranam #######
+4,aBavat,BU,impft . ac. sg. 3,9,,
+
+0,ataH,ca,conj.,0,hewuh,3
+1,saH,tad,nom. sg. m.,1,karwa,3
+2,SrAntaH,SrAnta,pp. . sg. ,2,karwqsamanaxikaranam,3 ####### FV_FV_karwqsamanaxikaranam #######
+3,aBavat,BU,impft . ac. sg. 3,3,,
+
+0,SarIre,SarIra,loc. sg. m.,1,axikaranam,5
+1,sTUlatA,sTUlatA,nom. sg. f.,4,karwa,5
+2,kadA,kadA,conj.,5,axikaranam,5
+3,utpannA,pad,pp. . sg. ,8,karwqsamanaxikaranam,5 ####### FV_FV_karwqsamanaxikaranam #######
+4,na,na,conj.,6,sambanxah,5
+5,Bavati,BU,pr. ac. sg. 3,7,,
 
 0,vaDUnAm,vaDU,g. pl. f.,0,rartisambanxah,1
 1,payasi,payas,loc. sg. n.,2,axikaranam,4
@@ -40,14 +63,22 @@
 15,jAtA,vac,pp. . sg. ,28,samucciwam,16
 16,ca,ca,conj.,29,,
 
-0,jaqaH,jaqa,nom. sg. m.,0,viseranam,1
-1,kalaSaH,kalaSa,nom. sg. m.,1,karwa,6
-2,tu,tu,conj.,2,sambanxah,1
-3,tatra,tatra,conj.,4,axikaranam,6
-4,eva,eva,conj.,5,sambanxah,3
-5,sTitaH,sTita,pp. . sg. ,6,karwqsamanaxikaranam,6 ####### FV_FV_karwqsamanaxikaranam #######
-6,AsIt,as,impft . ac. sg. 3,8,,
-7,iti,iti,conj.,9,sambanxah,6
+0,sarve,sarva,nom. pl. m.,0,viseranam,1
+1,janAH,jana,nom. pl. m.,5,karwa,6
+2,vicitram,vicitra,acc. sg. m.,6,viseranam,3
+3,nyAyam,nyAya,acc. sg. m.,9,karma,6
+4,AkarRya,karRa,conj.,10,purvakalah,6
+5,vismitAH,vismita,pp. . pl. ,13,karwqsamanaxikaranam,6 ####### FV_FV_karwqsamanaxikaranam #######
+6,aBavan,BU,impft . ac. pl. 3,14,,
+
+0,tatra,tatra,conj.,0,axikaranam,2
+1,tena,tad,inst. sg. m.,2,karwa,2
+2,dfzwaM,dfzwa,pp. . sg. ,5,prawiyogi,3
+3,yat,yat,conj.,6,anuyogi,4
+4,saH,tad,nom. sg. m.,7,karwa,6
+5,KawvAyAM,KawvA,loc. sg. f.,8,axikaranam,6
+6,suptaH,supta,pp. . sg. ,9,karwqsamanaxikaranam,7 ####### FV_FV_karwqsamanaxikaranam #######
+7,asti,as,pr. ac. sg. 3,10,,
 
 0,varzAkAle,kAla,loc. sg. m.,2,axikaranam,3
 1,rajaH,rajas,acc. sg. n.,6,karwa,3
@@ -60,35 +91,4 @@
 3,gardaBaH,gardaBa,nom. sg. m.,6,karwa,5
 4,AgacCan,gam,impft. [1] ac. pl. 3,7,karwqsamanaxikaranam,5 ####### FV_FV_karwqsamanaxikaranam #######
 5,asti,as,pr. [2] ac. sg. 3,8,,
-
-0,sarve,sarva,nom. pl. m.,0,viseranam,1
-1,janAH,jana,nom. pl. m.,5,karwa,6
-2,vicitram,vicitra,acc. sg. m.,6,viseranam,3
-3,nyAyam,nyAya,acc. sg. m.,9,karma,6
-4,AkarRya,karRa,conj.,10,purvakalah,6
-5,vismitAH,vismita,pp. . pl. ,13,karwqsamanaxikaranam,6 ####### FV_FV_karwqsamanaxikaranam #######
-6,aBavan,BU,impft . ac. pl. 3,14,,
-
-0,SarIre,SarIra,loc. sg. m.,1,axikaranam,5
-1,sTUlatA,sTUlatA,nom. sg. f.,4,karwa,5
-2,kadA,kadA,conj.,5,axikaranam,5
-3,utpannA,pad,pp. . sg. ,8,karwqsamanaxikaranam,5 ####### FV_FV_karwqsamanaxikaranam #######
-4,na,na,conj.,6,sambanxah,5
-5,Bavati,BU,pr. ac. sg. 3,7,,
-
-0,kintu,ca,conj.,0,samucciwam,8
-1,smaraRIyam,kf,pfp. . sg. ,3,prawiyogi,2
-2,yat,yad,acc. sg. n.,16,anuyogi,3
-3,cUzakaH,tad,nom. sg. m.,6,karwa,7
-4,punaH,ca,conj.,8,kriyaviseranam,7
-5,jIvitaH,jIvita,pp. . sg. ,9,karwqsamanaxikaranam,7 ####### FV_FV_karwqsamanaxikaranam #######
-6,na,na,conj.,10,sambanxah,7
-7,sTAsyati,zWA,fut. ac. sg. 3,11,samucciwam,8
-8,ca,ca,conj.,12,,
-
-0,evam,evam,conj.,0,karanam,4
-1,tayoH,tad,loc. sg. m.,4,axikaranam,4
-2,BedaH,Beda,nom. sg. m.,7,karwa,4
-3,utpannaH,vac,pp. . sg. ,8,karwqsamanaxikaranam,4 ####### FV_FV_karwqsamanaxikaranam #######
-4,aBavat,BU,impft . ac. sg. 3,9,,
 

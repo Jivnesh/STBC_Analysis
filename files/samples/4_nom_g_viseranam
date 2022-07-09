@@ -8,11 +8,6 @@
 7,prakawO,prakawa,voc. du. m.,25,karwqsamanaxikaranam,8
 8,aBavatAm,BU,impft . ac. du. 3,17,,
 
-0,durDiyaH,tad,g. sg. n.,7,viseranam,1 ####### nom_g_viseranam #######
-1,janAH,jana,nom. pl. m.,8,karwa,3
-2,kIdfSAH,kIdfSa,nom. pl. m.,9,karwqsamanaxikaranam,3
-3,Bavanti,BU,pr. ac. pl. 3,10,,
-
 0,mfdutayA,mfdu,inst. sg. f.,0,viseranam,5
 1,himamArutEH,mAruta,inst. pl. m.,2,karanam,10
 2,dutayA,du,pp. . sg. ,3,viseranam,5
@@ -35,4 +30,9 @@
 6,vinA,vinA,conj.,17,anuyogi,8
 7,AhAraM,AhAra,acc. sg. m.,21,prawiyogi,6
 8,sTitAH,sTita,pp. . pl. ,20,,
+
+0,durDiyaH,tad,g. sg. n.,7,viseranam,1 ####### nom_g_viseranam #######
+1,janAH,jana,nom. pl. m.,8,karwa,3
+2,kIdfSAH,kIdfSa,nom. pl. m.,9,karwqsamanaxikaranam,3
+3,Bavanti,BU,pr. ac. pl. 3,10,,
 

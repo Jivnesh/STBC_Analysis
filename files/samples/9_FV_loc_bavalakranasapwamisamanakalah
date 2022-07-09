@@ -1,3 +1,18 @@
+0,aTa,aTa,conj.,0,sambanxah,13
+1,DAtuH,DAtf,g. sg. m.,1,rartisambanxah,2
+2,sutena,suta,inst. sg. m.,4,karwa,13
+3,prayatnaunnamitAnamatPaREH,PaRa,inst. pl. m.,7,viseranam,5
+4,PaRinAM,PaRin,g. pl. m.,8,rartisambanxah,5
+5,gaREH,gaRa,inst. pl. m.,9,karanam,13
+6,aDaH,aDas,conj.,10,sambanxah,13
+7,kaTaYcit,cit,conj.,12,viseranam,8
+8,Dfte,Df,loc. sg. m.,18,bavalakranasapwami_samanakalah,13 ####### FV_loc_bavalakranasapwamisamanakalah #######
+9,BuvaH,BU,g. sg. f.,22,rartisambanxah,10
+10,tale,tala,loc. sg. m.,24,axikaranam,13
+11,aBidevakIsutaM,suta,acc. sg. m.,64,viseranam,12
+12,caraRO,caraRa,acc. du. m.,32,karma,13
+13,nyaDAyizAtAm,DA,impft. md. du. 3,37,,
+
 0,tamasA,tamas,inst. sg. n.,2,prawiyogi,1
 1,iva,iva,conj.,3,anuyogi,3
 2,prARaBftAM,prARaBft,g. pl. m.,4,rartisambanxah,3
@@ -16,20 +31,14 @@
 15,asambADam,tad,nom. sg. n.,26,karma,16
 16,ayAmbaBUve,I,pft. md. sg. 3,27,,
 
-0,samaramayam,maya,acc. sg. m.,0,viseranam,2
-1,akftrimam,akftrima,acc. sg. m.,4,viseranam,2
-2,anurAgaM,rAga,acc. sg. m.,31,karma,3
-3,prakawayati,Ric,loc. sg. m.,8,bavalakranasapwami_samanakalah,12 ####### FV_loc_bavalakranasapwamisamanakalah #######
-4,sutarAm,sutarAm,conj.,9,viseranam,5
-5,upakAriRi,upakArin,loc. sg. n.,11,viseranam,6
-6,himaftO,ftu,loc. sg. m.,14,axikaranam,12
-7,api,api,conj.,15,sambanxah,6
-8,BfSasvidaH,tad,nom. pl. f.,17,viseranam,10
-9,tAH,tad,nom. pl. f.,19,viseranam,10
-10,yuvatayaH,yuvati,nom. pl. f.,20,karwa,12
-11,vilAsinaH,vilAsin,acc. pl. m.,21,karma,12
-12,ramayanti,Ric,pr. ac. pl. 3,27,,
-13,sma,sma,conj.,28,sambanxah,12
+0,evam,evam,conj.,0,kriyaviseranam,1
+1,kaTayati,rAjan,loc. sg. m.,1,bavalakranasapwami_samanakalah,7 ####### FV_loc_bavalakranasapwamisamanakalah #######
+2,eva,eva,conj.,2,sambanxah,1
+3,tasmin,tad,loc. sg. m.,4,axikaranam,7
+4,rAjA,rAjan,nom. sg. m.,9,karwa,7
+5,api,api,conj.,10,sambanxah,4
+6,tatra,tatra,conj.,13,axikaranam,7
+7,AgataH,Agata,pp. . sg. ,14,,
 
 0,tasmin,tad,loc. sg. m.,1,viseranam,1
 1,suramunO,muni,loc. sg. m.,4,prawiyogi,2
@@ -94,20 +103,20 @@
 19,udapAti,pat,impft. ac. sg. ,34,samucciwam,20
 20,ca,ca,conj.,35,,
 
-0,aTa,aTa,conj.,0,sambanxah,13
-1,DAtuH,DAtf,g. sg. m.,1,rartisambanxah,2
-2,sutena,suta,inst. sg. m.,4,karwa,13
-3,prayatnaunnamitAnamatPaREH,PaRa,inst. pl. m.,7,viseranam,5
-4,PaRinAM,PaRin,g. pl. m.,8,rartisambanxah,5
-5,gaREH,gaRa,inst. pl. m.,9,karanam,13
-6,aDaH,aDas,conj.,10,sambanxah,13
-7,kaTaYcit,cit,conj.,12,viseranam,8
-8,Dfte,Df,loc. sg. m.,18,bavalakranasapwami_samanakalah,13 ####### FV_loc_bavalakranasapwamisamanakalah #######
-9,BuvaH,BU,g. sg. f.,22,rartisambanxah,10
-10,tale,tala,loc. sg. m.,24,axikaranam,13
-11,aBidevakIsutaM,suta,acc. sg. m.,64,viseranam,12
-12,caraRO,caraRa,acc. du. m.,32,karma,13
-13,nyaDAyizAtAm,DA,impft. md. du. 3,37,,
+0,samaramayam,maya,acc. sg. m.,0,viseranam,2
+1,akftrimam,akftrima,acc. sg. m.,4,viseranam,2
+2,anurAgaM,rAga,acc. sg. m.,31,karma,3
+3,prakawayati,Ric,loc. sg. m.,8,bavalakranasapwami_samanakalah,12 ####### FV_loc_bavalakranasapwamisamanakalah #######
+4,sutarAm,sutarAm,conj.,9,viseranam,5
+5,upakAriRi,upakArin,loc. sg. n.,11,viseranam,6
+6,himaftO,ftu,loc. sg. m.,14,axikaranam,12
+7,api,api,conj.,15,sambanxah,6
+8,BfSasvidaH,tad,nom. pl. f.,17,viseranam,10
+9,tAH,tad,nom. pl. f.,19,viseranam,10
+10,yuvatayaH,yuvati,nom. pl. f.,20,karwa,12
+11,vilAsinaH,vilAsin,acc. pl. m.,21,karma,12
+12,ramayanti,Ric,pr. ac. pl. 3,27,,
+13,sma,sma,conj.,28,sambanxah,12
 
 0,ezAm,idam,g. pl. n.,12,rartisambanxah,1
 1,anupasTitO,devI,loc. sg. f.,2,bavalakranasapwami_samanakalah,4 ####### FV_loc_bavalakranasapwamisamanakalah #######
@@ -117,13 +126,4 @@
 5,kartayizyanti,iz,pr. [4] ac. pl. 3,9,samucciwam,6
 6,ca,ca,conj.,11,,
 7,eva,eva,prep.,10,sambanxah,6
-
-0,evam,evam,conj.,0,kriyaviseranam,1
-1,kaTayati,rAjan,loc. sg. m.,1,bavalakranasapwami_samanakalah,7 ####### FV_loc_bavalakranasapwamisamanakalah #######
-2,eva,eva,conj.,2,sambanxah,1
-3,tasmin,tad,loc. sg. m.,4,axikaranam,7
-4,rAjA,rAjan,nom. sg. m.,9,karwa,7
-5,api,api,conj.,10,sambanxah,4
-6,tatra,tatra,conj.,13,axikaranam,7
-7,AgataH,Agata,pp. . sg. ,14,,
 

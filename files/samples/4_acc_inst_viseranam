@@ -1,7 +1,9 @@
-0,upAyena,upAya,i. sg. m.,0,viseranam,1 ####### acc_inst_viseranam #######
-1,svarakzAm,rakzA,acc. sg. f.,2,karanam,2
-2,karizyAmi,kf,fut. ac. sg. 1,4,karma,3
-3,kena,kim,i. sg. n.,6,,
+0,taTAhi,taTAhi,ind.,NA,sambanxah,5
+1,pradIpaH,pradIpa,nom. sg. m.,NA,karwa,5
+2,aBiantarasTayA,aBi--antarasTA,i. sg. f.,NA,viseranam,4 ####### acc_inst_viseranam #######
+3,daSayA,daSA,i. sg. f.,NA,karanam,5
+4,sneham,sneha,acc. sg. m.,NA,karma,5
+5,Adatte,AN_dA3,pr. md. sg. 3,NA,,
 
 0,atanukucaBarAnatena,nata,inst. sg. m.,1,viseranam,3
 1,BUyaH,BUyas,conj.,2,viseranam,5
@@ -12,6 +14,11 @@
 6,kalaBakaroUruBiH,Uru,inst. pl. f.,12,viseranam,7
 7,nitambinIBiH,nitambinI,inst. pl. f.,13,karwa,8
 8,atami,tam,impft. ac. sg. 3,14,,
+
+0,upAyena,upAya,i. sg. m.,0,viseranam,1 ####### acc_inst_viseranam #######
+1,svarakzAm,rakzA,acc. sg. f.,2,karanam,2
+2,karizyAmi,kf,fut. ac. sg. 1,4,karma,3
+3,kena,kim,i. sg. n.,6,,
 
 0,jagattrayEkasTapatiH,sTapati,nom. sg. m.,2,viseranam,1
 1,tvaM,yuzmad,nom. sg. n.,3,karwa,11
@@ -25,11 +32,4 @@
 9,uccakEH,ca,conj.,22,viseranam,10
 10,ahISvarastamBaSiraHsu,Siras,loc. pl. n.,25,axikaranam,11
 11,niveSayAmAsiTa,Ric,pft. ac. sg. 2,26,,
-
-0,taTAhi,taTAhi,ind.,NA,sambanxah,5
-1,pradIpaH,pradIpa,nom. sg. m.,NA,karwa,5
-2,aBiantarasTayA,aBi--antarasTA,i. sg. f.,NA,viseranam,4 ####### acc_inst_viseranam #######
-3,daSayA,daSA,i. sg. f.,NA,karanam,5
-4,sneham,sneha,acc. sg. m.,NA,karma,5
-5,Adatte,AN_dA3,pr. md. sg. 3,NA,,
 

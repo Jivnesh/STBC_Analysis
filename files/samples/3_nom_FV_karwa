@@ -17,13 +17,6 @@
 16,tvAM,yuzmad,acc. sg. n.,46,karma,17
 17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
 
-0,pareRa,para,inst. sg. m.,1,karwa,1
-1,jitaH,ji,pp. . sg. ,2,karwa,5 ####### nom_FV_karwa #######
-2,kaH,kim,nom. sg. m.,3,prawiyogi,3
-3,iva,iva,conj.,4,anuyogi,1
-4,puraH,puras,conj.,6,axikaranam,5
-5,prAduzyAt,as,nom. sg. n.,7,,
-
 0,patatpataNgapratimaH,pratima,nom. sg. m.,5,viseranam,1
 1,taponiDiH,taponiDi,nom. sg. m.,6,karwa,7
 2,asya,idam,g. sg. m.,8,rartisambanxah,3
@@ -41,4 +34,11 @@
 14,pIWAt,pIWa,abl. sg. n.,24,apaxanam,16
 15,javena,java,inst. sg. m.,26,viseranam,16
 16,udatizWat,sTA,impft . ac. sg. 3,27,karwa,0 ####### nom_FV_karwa #######
+
+0,pareRa,para,inst. sg. m.,1,karwa,1
+1,jitaH,ji,pp. . sg. ,2,karwa,5 ####### nom_FV_karwa #######
+2,kaH,kim,nom. sg. m.,3,prawiyogi,3
+3,iva,iva,conj.,4,anuyogi,1
+4,puraH,puras,conj.,6,axikaranam,5
+5,prAduzyAt,as,nom. sg. n.,7,,
 

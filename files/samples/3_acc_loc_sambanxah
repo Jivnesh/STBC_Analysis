@@ -4,12 +4,6 @@
 3,jijYAsate,jYA,pr. ac. sg. 3,5,,
 4,BavAn,Bava,acc. pl. m.,6,karwa,3
 
-0,tezu,tad,loc. pl. m.,1,sambanxah,2 ####### acc_loc_sambanxah #######
-1,kecit,cit,nom. pl. m.,7,viseranam,2
-2,SrezWinam,SrezWin,acc. sg. m.,8,karma,3
-3,upacaritum,car,conj.,9,prayojanam,4
-4,pravfttAH,vftta,pp. . pl. ,12,,
-
 0,itTam,ca,adv.,0,kriyaviseranam,12
 1,vizamaSIlaH,SIla,nom. sg. m.,2,karwa,12
 2,svaputrARAm,putra,g. pl. m.,4,rartisambanxah,3
@@ -23,4 +17,10 @@
 10,putram,putra,acc. sg. m.,18,karma,12
 11,rAjAnam,rAjan,acc. sg. m.,19,karmasamanaxikaranam,12
 12,akarot,kf,impft. [8] ac. sg. 3,20,,
+
+0,tezu,tad,loc. pl. m.,1,sambanxah,2 ####### acc_loc_sambanxah #######
+1,kecit,cit,nom. pl. m.,7,viseranam,2
+2,SrezWinam,SrezWin,acc. sg. m.,8,karma,3
+3,upacaritum,car,conj.,9,prayojanam,4
+4,pravfttAH,vftta,pp. . pl. ,12,,
 

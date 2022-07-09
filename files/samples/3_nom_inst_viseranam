@@ -9,6 +9,20 @@
 8,aBUt,BU,aor. [1] ac. sg. 3,14,,
 9,iti,iti,part.,15,sambanxah,8
 
+0,pramadayA,pramadA,inst. sg. f.,0,karwa,4
+1,kusumaavacicIzayA,tad,inst. sg. f.,3,viseranam,0
+2,rasAt,rasa,abl. sg. m.,4,hewuh,3
+3,samaBisftya,sf,abs.,5,purvakalah,6
+4,avalambitaH,lamb,pp. . sg. ,6,viseranam,6
+5,taTApi,api,conj.,81,sambanxah,4
+6,avinaman,nam,voc. sg. m.,10,bavalakranasapwami_samanakalah,12
+7,vfTAuccakEH,tad,inst. pl. m.,11,viseranam,8 ####### nom_inst_viseranam #######
+8,vanapAdapaH,pAdapa,nom. sg. m.,13,karwa,12
+9,anftayA,fta,inst. sg. f.,15,hewuh,10
+10,nftayA,fta,inst. sg. f.,16,karanam,12
+11,na,na,conj.,17,sambanxah,12
+12,rarAja,rAj,pft. ac. sg. 3,19,,
+
 0,yA,yad,nom. sg. n.,1,karwa,23
 1,asti,as,pr. [2] ac. sg. 3,2,samucciwam,24
 2,tapoviSezapariSaNkitasya,SaNk,nom. sg. n.,6,viseranam,4
@@ -34,18 +48,4 @@
 22,gfhItA,ca,adv.,53,kriyaviseranam,23
 23,asti,as,pr. [2] ac. sg. 3,54,samucciwam,24
 24,ca,ca,conj.,55,,
-
-0,pramadayA,pramadA,inst. sg. f.,0,karwa,4
-1,kusumaavacicIzayA,tad,inst. sg. f.,3,viseranam,0
-2,rasAt,rasa,abl. sg. m.,4,hewuh,3
-3,samaBisftya,sf,abs.,5,purvakalah,6
-4,avalambitaH,lamb,pp. . sg. ,6,viseranam,6
-5,taTApi,api,conj.,81,sambanxah,4
-6,avinaman,nam,voc. sg. m.,10,bavalakranasapwami_samanakalah,12
-7,vfTAuccakEH,tad,inst. pl. m.,11,viseranam,8 ####### nom_inst_viseranam #######
-8,vanapAdapaH,pAdapa,nom. sg. m.,13,karwa,12
-9,anftayA,fta,inst. sg. f.,15,hewuh,10
-10,nftayA,fta,inst. sg. f.,16,karanam,12
-11,na,na,conj.,17,sambanxah,12
-12,rarAja,rAj,pft. ac. sg. 3,19,,
 

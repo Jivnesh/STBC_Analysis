@@ -1,3 +1,20 @@
+0,tatra,tatra,loc. sg. n.,0,axikaranam,5
+1,devAn,deva,acc. pl. m.,1,samucciwam,3
+2,dAnavAn,dAnava,acc. pl. m.,32,samucciwam,3
+3,ca,ca,conj.,3,karma,5 ####### nom_Ind_karma #######
+4,BojanAya,Bojana,dat. sg. n.,4,prayojanam,5
+5,nimantritavAn,mantra,nom. sg. m.,5,samucciwam,7
+6,kaTitavAn,tad,nom. sg. m.,6,samucciwam,7
+7,ca,ca,conj.,7,prawiyogi,8
+8,yat,yad,acc. sg. n.,37,anuyogi,9
+9,ye,yad,part.,13,sambanxah,12
+10,atra,atra,loc. sg. n,14,axikaranam,11
+11,vijezyante,BU,fut. md. pl. 3,15,prawiyogi,9
+12,te,tad,acc. du. n.,16,anuyogi,15
+13,svarge,svarga,loc. sg. m.,23,axikaranam,15
+14,aDikAram,aDikAra,acc. sg. m.,29,karma,15
+15,karizyanti,kf,fut. ac. pl. 3,30,,
+
 0,uttizWamAnaH,sTA,nom. sg. m.,0,viseranam,1
 1,paraH,para,nom. sg. m.,29,karma,7
 2,tu,tu,conj.,3,sambanxah,1
@@ -15,23 +32,6 @@
 14,samO,sama,nom. du. m.,23,karmasamanaxikaranam,15
 15,AmnAtO,mnA,nom. du. m.,25,samucciwam,16
 16,ca,ca,conj.,26,,
-
-0,tatra,tatra,loc. sg. n.,0,axikaranam,5
-1,devAn,deva,acc. pl. m.,1,samucciwam,3
-2,dAnavAn,dAnava,acc. pl. m.,32,samucciwam,3
-3,ca,ca,conj.,3,karma,5 ####### nom_Ind_karma #######
-4,BojanAya,Bojana,dat. sg. n.,4,prayojanam,5
-5,nimantritavAn,mantra,nom. sg. m.,5,samucciwam,7
-6,kaTitavAn,tad,nom. sg. m.,6,samucciwam,7
-7,ca,ca,conj.,7,prawiyogi,8
-8,yat,yad,acc. sg. n.,37,anuyogi,9
-9,ye,yad,part.,13,sambanxah,12
-10,atra,atra,loc. sg. n,14,axikaranam,11
-11,vijezyante,BU,fut. md. pl. 3,15,prawiyogi,9
-12,te,tad,acc. du. n.,16,anuyogi,15
-13,svarge,svarga,loc. sg. m.,23,axikaranam,15
-14,aDikAram,aDikAra,acc. sg. m.,29,karma,15
-15,karizyanti,kf,fut. ac. pl. 3,30,,
 
 0,kfpaRasya,kfpaRa,g. sg. m.,0,rartisambanxah,1
 1,saNketena,tad,inst. sg. m.,2,karanam,3

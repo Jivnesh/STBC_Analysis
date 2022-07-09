@@ -1,10 +1,3 @@
-0,kAryavyagratvAt,vyagra,abl. sg. n.,3,samucciwam,3
-1,manasaH,manas,g. sg. n.,4,rartisambanxah,0
-2,praBUtatvAt,praBUta,abl. sg. n.,14,samucciwam,3
-3,ca,ca,conj.,15,hewuh,5 ####### acc_Ind_hewuh #######
-4,praRiDInAm,praRiDi,g. pl. m.,16,rartisambanxah,2
-5,vismftam,tad,acc. sg. n.,19,,
-
 0,saH,tad,nom. sg. m.,0,viseranam,1
 1,viBuH,viBu,nom. sg. m.,1,karwa,5
 2,purA,purA,conj.,3,axikaranam,5
@@ -32,12 +25,12 @@
 24,aboDi,buD,impft. md. sg. 3,34,samucciwam,25
 25,ca,ca,conj.,35,,
 
-0,yataH,yat,conj.,0,hewuh,4 ####### acc_Ind_hewuh #######
-1,tasya,tad,g. sg. m.,2,rartisambanxah,4
-2,bfhat,rAma,acc. sg. m.,10,viseranam,4
-3,pArvaRacandracAru,cAru,nom. sg. n.,13,viseranam,4
-4,AtapatraM,Atapatra,acc. sg. n.,14,karwa,5
-5,biBarAmbaBUve,Bf,pft. md. sg. 3,16,,
+0,kAryavyagratvAt,vyagra,abl. sg. n.,3,samucciwam,3
+1,manasaH,manas,g. sg. n.,4,rartisambanxah,0
+2,praBUtatvAt,praBUta,abl. sg. n.,14,samucciwam,3
+3,ca,ca,conj.,15,hewuh,5 ####### acc_Ind_hewuh #######
+4,praRiDInAm,praRiDi,g. pl. m.,16,rartisambanxah,2
+5,vismftam,tad,acc. sg. n.,19,,
 
 0,svasamBavaH,sva-samBava,nom. sg. m.,NA,karwa,7
 1,api,api,ind.,NA,sambanxah,0
@@ -57,4 +50,11 @@
 15,tawam,tawa,acc. sg. m.,NA,upapaxasambanxah,16
 16,anu,anu,ind.,NA,sambanxah,17
 17,nirAsuH,nir_as3,pft. ac. pl. 3,NA,,
+
+0,yataH,yat,conj.,0,hewuh,4 ####### acc_Ind_hewuh #######
+1,tasya,tad,g. sg. m.,2,rartisambanxah,4
+2,bfhat,rAma,acc. sg. m.,10,viseranam,4
+3,pArvaRacandracAru,cAru,nom. sg. n.,13,viseranam,4
+4,AtapatraM,Atapatra,acc. sg. n.,14,karwa,5
+5,biBarAmbaBUve,Bf,pft. md. sg. 3,16,,
 

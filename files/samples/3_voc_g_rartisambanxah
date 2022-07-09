@@ -7,6 +7,11 @@
 6,korakARi,kur1,acc. pl. n.,NA,karma,7
 7,vicakAra,vi-kf2,pft. ac. sg. 3,NA,,
 
+0,evam,evam,adv.,0,sambanxah,3
+1,mama,asmad,g. sg. *,1,rartisambanxah,2 ####### voc_g_rartisambanxah #######
+2,putra,putra,voc. sg. m.,2,samboxyah,3
+3,astu,as,imp. [2] ac. sg. 3,3,,
+
 0,marut,marut,nom. sg. m.,0,karwa,7
 1,asakalakalikAkulIkftAlisKalanavikIrRavikAsikeSarARAm,tad,g. pl. m.,1,viseranam,7
 2,avaniruhAM,ruh,g. pl. m.,2,rartisambanxah,3 ####### voc_g_rartisambanxah #######
@@ -15,9 +20,4 @@
 5,samupaharan,hf,nom. sg. n.,7,bavalakranasapwami_samanakalah,7
 6,korakARi,kur,nom. sg. n.,9,karma,7
 7,vicakAra,kf,pft. ac. sg. 3,11,,
-
-0,evam,evam,adv.,0,sambanxah,3
-1,mama,asmad,g. sg. *,1,rartisambanxah,2 ####### voc_g_rartisambanxah #######
-2,putra,putra,voc. sg. m.,2,samboxyah,3
-3,astu,as,imp. [2] ac. sg. 3,3,,
 

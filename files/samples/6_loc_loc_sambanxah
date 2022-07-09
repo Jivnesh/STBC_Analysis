@@ -1,16 +1,3 @@
-0,taTAhi,api,conj.,1,sambanxah,5
-1,yat,yad,nom. sg. n.,17,karwa,5
-2,kzaRe,kzaRa,loc. sg. m.,3,sambanxah,3 ####### loc_loc_sambanxah #######
-3,kzaRe,kzaRa,loc. sg. m.,4,axikaranam,5
-4,navatAm,nava,acc. sg. f.,5,karma,5
-5,upEti,i,pr. ac. sg. 3,6,samucciwam,11
-6,tat,tad,nom. sg. n.,8,viseranam,9
-7,eva,eva,conj.,9,sambanxah,6
-8,ramaRIyatAyAH,ramaRIya,g. sg. f.,10,rartisambanxah,9
-9,rUpaM,rUpa,nom. sg. n.,13,karwa,10
-10,Bavati,BU,pr. ac. sg. 3,14,samucciwam,11
-11,ca,ca,conj.,15,,
-
 0,saMyuktaparivAre,parivAra,loc. sg. m.,1,axikaranam,3
 1,pratisadasyam,sadasya,g. sg. f.,5,viseranam,2
 2,vicAraDArAyAH,DArA,g. sg. f.,9,rartisambanxah,3
@@ -24,13 +11,6 @@
 10,svABAvikaH,BAvika,nom. sg. m.,60,karwqsamanaxikaranam,12
 11,eva,eva,prep.,35,sambanxah,10
 12,asti,as,pr. [2] ac. sg. 3,36,,
-
-0,nyAyADISaH,aDISa,nom. sg. m.,13,karwa,4
-1,tayoH,tad,loc. du. n.,2,sambanxah,2 ####### loc_loc_sambanxah #######
-2,mUrKatAyAm,mUrKa,loc. sg. f.,8,axikaranam,3
-3,upahasan,as,ppr. [1] ac.,9,bavalakranasapwami_samanakalah,4
-4,AsIt,as,aor. [5] ac. sg. 3,11,,
-5,iti,iti,part.,12,sambanxah,4
 
 0,dAnaM,dAna,acc. sg. n.,0,karma,1
 1,dadati,dA,loc. sg. m.,3,bavalakranasapwami_samanakalah,19
@@ -61,6 +41,19 @@
 4,pakvAnnam,anna,acc. sg. n.,21,karma,5
 5,Anayatu,nI,imp. [1] ac. sg. 3,16,,
 
+0,taTAhi,api,conj.,1,sambanxah,5
+1,yat,yad,nom. sg. n.,17,karwa,5
+2,kzaRe,kzaRa,loc. sg. m.,3,sambanxah,3 ####### loc_loc_sambanxah #######
+3,kzaRe,kzaRa,loc. sg. m.,4,axikaranam,5
+4,navatAm,nava,acc. sg. f.,5,karma,5
+5,upEti,i,pr. ac. sg. 3,6,samucciwam,11
+6,tat,tad,nom. sg. n.,8,viseranam,9
+7,eva,eva,conj.,9,sambanxah,6
+8,ramaRIyatAyAH,ramaRIya,g. sg. f.,10,rartisambanxah,9
+9,rUpaM,rUpa,nom. sg. n.,13,karwa,10
+10,Bavati,BU,pr. ac. sg. 3,14,samucciwam,11
+11,ca,ca,conj.,15,,
+
 0,kintu,sva,loc. sg. n.,0,sambanxah,1 ####### loc_loc_sambanxah #######
 1,idAnIm,idAnIm,loc. sg. n.,1,axikaranam,7
 2,nawaH,nawa,nom. sg. m.,2,karwa,7
@@ -69,4 +62,11 @@
 5,tasmAt,tad,abl. sg. m.,7,viseranam,6
 6,mahApApataH,pata,abl. sg. m.,15,apaxanam,7
 7,surakzitavAn,vac,pp.,16,,
+
+0,nyAyADISaH,aDISa,nom. sg. m.,13,karwa,4
+1,tayoH,tad,loc. du. n.,2,sambanxah,2 ####### loc_loc_sambanxah #######
+2,mUrKatAyAm,mUrKa,loc. sg. f.,8,axikaranam,3
+3,upahasan,as,ppr. [1] ac.,9,bavalakranasapwami_samanakalah,4
+4,AsIt,as,aor. [5] ac. sg. 3,11,,
+5,iti,iti,part.,12,sambanxah,4
 

@@ -1,3 +1,17 @@
+0,paRqitam,paRqita,acc. sg. m.,0,karma,3
+1,ca,ca,conj.,3,samucciwam,12
+2,sAdaram,sAdara,acc. sg. m.,4,kriyaviseranam,3
+3,praRamya,nam,abs.,7,samucciwam,5
+4,sammAnya,man,ca. abs.,8,samucciwam,5
+5,ca,ca,conj.,9,purvakalah,10 ####### IV_Ind_purvakalah #######
+6,saha,saha,acc. sg. n.,10,anuyogi,7
+7,AnItam,tad,acc. sg. m.,13,viseranam,8
+8,DanaDAnyam,DAnya,acc. sg. m.,39,karma,10
+9,taccaraRAravindayoH,aravinda,loc. du. m.,86,axikaranam,10
+10,samarpitavAn,vac,pp.,23,samucciwam,12
+11,tena,tad,i. sg. n.,24,prawiyogi,6
+12,ca,ca,conj.,26,,
+
 0,tataH,tad,abl. sg. n.,56,apaxanam,2
 1,idam,idam,acc. sg. n.,37,karma,2
 2,jYAtvA,jYA,abs.,2,purvakalah,16
@@ -25,20 +39,6 @@
 5,ca,ca,conj.,10,purvakalah,7 ####### IV_Ind_purvakalah #######
 6,Agamanaprayojanam,prayojana,acc. sg. n.,18,karma,7
 7,pfzwavAn,kf,ppa.,12,,
-
-0,paRqitam,paRqita,acc. sg. m.,0,karma,3
-1,ca,ca,conj.,3,samucciwam,12
-2,sAdaram,sAdara,acc. sg. m.,4,kriyaviseranam,3
-3,praRamya,nam,abs.,7,samucciwam,5
-4,sammAnya,man,ca. abs.,8,samucciwam,5
-5,ca,ca,conj.,9,purvakalah,10 ####### IV_Ind_purvakalah #######
-6,saha,saha,acc. sg. n.,10,anuyogi,7
-7,AnItam,tad,acc. sg. m.,13,viseranam,8
-8,DanaDAnyam,DAnya,acc. sg. m.,39,karma,10
-9,taccaraRAravindayoH,aravinda,loc. du. m.,86,axikaranam,10
-10,samarpitavAn,vac,pp.,23,samucciwam,12
-11,tena,tad,i. sg. n.,24,prawiyogi,6
-12,ca,ca,conj.,26,,
 
 0,suhfdvftaH,vfta,nom. sg. m.,28,viseranam,1
 1,rAmaH,rAma,nom. sg. m.,11,karwa,10

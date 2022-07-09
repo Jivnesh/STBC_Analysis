@@ -1,15 +1,3 @@
-0,bfhacCilAnizWurakaRWaGawwanAt,bfhacCilAnizWurakaRWaGawwana,voc. sg. m.,NA,apaxanam,10 ####### FV_voc_apaxanam #######
-1,vikIrRalolaagnikaRam,vikIrRa-lola-agnikaRa,nom. sg. n.,NA,viseranam,2
-2,aprasahizRu,aprasahizRu,nom. sg. n.,NA,viseranam,4
-3,vEzRavaM,vEzRava,nom. sg. n.,NA,viseranam,4
-4,cakraM,cakra,nom. sg. n.,NA,karwa,10
-5,jagatpraBoH,jagatpraBu,g. sg. m.,NA,viseranam,7
-6,asya,idam,g. sg. m.,NA,viseranam,7
-7,suradvizaH,sura-dviw,g. sg. m.,NA,rartisambanxah,8
-8,aDikanDaram,aDi-kanDara,acc. sg. m.,NA,karma,10
-9,na,na,ind.,NA,sambanxah,10
-10,akramata,kram1,impft. sg. 3,NA,,
-
 0,bfhacCilAnizWurakaRWaGawwanAt,Gawana,voc. sg. m.,0,apaxanam,10 ####### FV_voc_apaxanam #######
 1,vikIrRalolAgnikaRaM,agnikaRa,nom. sg. n.,3,viseranam,2
 2,aprasahizRu,tad,nom. sg. n.,4,viseranam,4
@@ -21,4 +9,16 @@
 8,aDikanDaraM,Dara,acc. sg. m.,25,karma,10
 9,na,na,conj.,28,sambanxah,10
 10,akramata,kram,impft . md. sg. 3,30,,
+
+0,bfhacCilAnizWurakaRWaGawwanAt,bfhacCilAnizWurakaRWaGawwana,voc. sg. m.,NA,apaxanam,10 ####### FV_voc_apaxanam #######
+1,vikIrRalolaagnikaRam,vikIrRa-lola-agnikaRa,nom. sg. n.,NA,viseranam,2
+2,aprasahizRu,aprasahizRu,nom. sg. n.,NA,viseranam,4
+3,vEzRavaM,vEzRava,nom. sg. n.,NA,viseranam,4
+4,cakraM,cakra,nom. sg. n.,NA,karwa,10
+5,jagatpraBoH,jagatpraBu,g. sg. m.,NA,viseranam,7
+6,asya,idam,g. sg. m.,NA,viseranam,7
+7,suradvizaH,sura-dviw,g. sg. m.,NA,rartisambanxah,8
+8,aDikanDaram,aDi-kanDara,acc. sg. m.,NA,karma,10
+9,na,na,ind.,NA,sambanxah,10
+10,akramata,kram1,impft. sg. 3,NA,,
 

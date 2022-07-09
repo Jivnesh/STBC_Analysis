@@ -1,3 +1,14 @@
+0,yena,yad,inst. sg. m.,1,hewuh,7
+1,mama,asmad,g. sg. *.,2,rartisambanxah,2
+2,hfdayam,hfdaya,acc. sg. n.,3,karwa,7 ####### Ind_acc_karwa #######
+3,arjunam,arjuna,acc. sg. m.,5,upapaxasambanxah,4
+4,prati,prati,conj.,10,samucciwam,7
+5,pARqavAn,pARqava,acc. pl. m.,9,upapaxasambanxah,6
+6,prati,prati,conj.,8,samucciwam,7
+7,ca,ca,conj.,14,sambanxah,8
+8,Akfzwam,vac,pp. . sg. ,13,karwa,9
+9,syAt,as,opt. ac. sg. 3,15,,
+
 0,ye,yad,nom. pl. m.,12,karwa,17
 1,ca,ca,conj.,31,sambanxah,17
 2,tasya,tad,g. sg. m.,7,rartisambanxah,3
@@ -16,15 +27,4 @@
 15,pare,para,nom. pl. m.,41,viseranam,16
 16,tvAM,yuzmad,acc. sg. n.,46,karma,17
 17,gantAraH,gam,per.  fut. ac. pl. 3,39,,
-
-0,yena,yad,inst. sg. m.,1,hewuh,7
-1,mama,asmad,g. sg. *.,2,rartisambanxah,2
-2,hfdayam,hfdaya,acc. sg. n.,3,karwa,7 ####### Ind_acc_karwa #######
-3,arjunam,arjuna,acc. sg. m.,5,upapaxasambanxah,4
-4,prati,prati,conj.,10,samucciwam,7
-5,pARqavAn,pARqava,acc. pl. m.,9,upapaxasambanxah,6
-6,prati,prati,conj.,8,samucciwam,7
-7,ca,ca,conj.,14,sambanxah,8
-8,Akfzwam,vac,pp. . sg. ,13,karwa,9
-9,syAt,as,opt. ac. sg. 3,15,,
 

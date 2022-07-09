@@ -1,3 +1,35 @@
+0,saruzA,ruza,inst. sg. f.,3,viseranam,1
+1,yayA,yad,inst. sg. f.,4,karwa,5
+2,priyatamena,priyatama,inst. sg. m.,6,upapaxasambanxah,3
+3,saha,saha,conj.,8,sambanxah,5
+4,na,na,conj.,35,sambanxah,5
+5,sTitaM,sTA,pp. . sg. ,12,samucciwam,20
+6,sA,tad,nom. sg. f.,14,viseranam,9
+7,aNganA,aNganA,nom. sg. f.,13,viseranam,9
+8,sahasA,sahas,inst. sg. m.,29,hewuh,9
+9,kftavepaTuH,vepaTu,nom. sg. f.,18,karwa,19
+10,satI,as,nom. sg. f.,25,viseranam,9
+11,taM,tad,acc. sg. m.,20,karma,15
+12,sahasA,sahasA,nom. sg. f.,24,karwa,15
+13,satI,as,nom. sg. f.,19,viseranam,12
+14,sahasA,sahasA,conj.,17,viseranam,15 ####### IV_Ind_viseranam #######
+15,pariraBya,kf,abs.,32,purvakalah,19
+16,kzaRaM,ca,conj.,33,viseranam,17
+17,SlaTayituM,ca,conj.,34,prayojanam,19
+18,na,na,conj.,9,sambanxah,19
+19,akzamata,kzam,impft . md. sg. 3,36,samucciwam,20
+20,ca,ca,conj.,37,,
+
+0,indraanujaanucaraBUpatayaH,BUpati,nom. pl. m.,1,karwa,8
+1,mfgaindrAn,indra,acc. pl. m.,2,karma,5
+2,vidvizaH,vidviz,acc. pl. m.,3,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,1
+4,prasaBam,prasaBa,conj.,9,viseranam,5 ####### IV_Ind_viseranam #######
+5,ucCidya,Cid,abs.,10,purvakalah,8
+6,vanyeBamastakaniKAtanaKaagramuktamuktAPalaprakaraBAYji,tad,acc. pl. n.,11,viseranam,7
+7,guhAgfhARi,gfha,acc. pl. n.,12,karma,8
+8,aDyavAtsuH,vas,impft. ac. pl. 3,14,,
+
 0,mahAmahAnIlaSilArucaH,mahA-mahA-nIlaSilA-ruc,g. sg. m.,NA,viseranam,1
 1,kaMsakfzaH,kaMsa-kfza,g. sg. m.,NA,rartisambanxah,2
 2,puraH,puraH,ind.,NA,viseranam,5 ####### IV_Ind_viseranam #######
@@ -23,38 +55,6 @@
 9,AsAdya,sad,abs.,25,purvakalah,11
 10,samud,tad,nom. sg. f.,26,viseranam,1
 11,cakASe,kAS,pft. md. sg. 3,27,,
-
-0,indraanujaanucaraBUpatayaH,BUpati,nom. pl. m.,1,karwa,8
-1,mfgaindrAn,indra,acc. pl. m.,2,karma,5
-2,vidvizaH,vidviz,acc. pl. m.,3,prawiyogi,3
-3,iva,iva,conj.,7,anuyogi,1
-4,prasaBam,prasaBa,conj.,9,viseranam,5 ####### IV_Ind_viseranam #######
-5,ucCidya,Cid,abs.,10,purvakalah,8
-6,vanyeBamastakaniKAtanaKaagramuktamuktAPalaprakaraBAYji,tad,acc. pl. n.,11,viseranam,7
-7,guhAgfhARi,gfha,acc. pl. n.,12,karma,8
-8,aDyavAtsuH,vas,impft. ac. pl. 3,14,,
-
-0,saruzA,ruza,inst. sg. f.,3,viseranam,1
-1,yayA,yad,inst. sg. f.,4,karwa,5
-2,priyatamena,priyatama,inst. sg. m.,6,upapaxasambanxah,3
-3,saha,saha,conj.,8,sambanxah,5
-4,na,na,conj.,35,sambanxah,5
-5,sTitaM,sTA,pp. . sg. ,12,samucciwam,20
-6,sA,tad,nom. sg. f.,14,viseranam,9
-7,aNganA,aNganA,nom. sg. f.,13,viseranam,9
-8,sahasA,sahas,inst. sg. m.,29,hewuh,9
-9,kftavepaTuH,vepaTu,nom. sg. f.,18,karwa,19
-10,satI,as,nom. sg. f.,25,viseranam,9
-11,taM,tad,acc. sg. m.,20,karma,15
-12,sahasA,sahasA,nom. sg. f.,24,karwa,15
-13,satI,as,nom. sg. f.,19,viseranam,12
-14,sahasA,sahasA,conj.,17,viseranam,15 ####### IV_Ind_viseranam #######
-15,pariraBya,kf,abs.,32,purvakalah,19
-16,kzaRaM,ca,conj.,33,viseranam,17
-17,SlaTayituM,ca,conj.,34,prayojanam,19
-18,na,na,conj.,9,sambanxah,19
-19,akzamata,kzam,impft . md. sg. 3,36,samucciwam,20
-20,ca,ca,conj.,37,,
 
 0,saMvftEH,saMvfta,inst. pl. n.,1,viseranam,1
 1,sarvANgEH,sarvANga,inst. pl. n.,5,hewuh,3

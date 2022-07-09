@@ -1,3 +1,16 @@
+0,sahasA,sahas,adv.,3,kriyaviseranam,1 ####### g_adv_kriyaviseranam #######
+1,tadIyavyavahAraparivartanasya,parivartana,g. sg. m.,9,rartisambanxah,2
+2,kAraRam,kAraRa,nom. sg. n.,12,hewuh,7
+3,navAgantukam,aga,acc. sg. m.,77,viseranam,5
+4,BAgyaSAlinam,SAlin,acc. sg. m.,17,viseranam,5
+5,SiSum,SiSu,acc. sg. m.,18,karma,7
+6,eva,eva,prep.,19,sambanxah,5
+7,amanyanta,man,impft. ps. pl. 3,20,,
+8,sarve,sarva,nom. pl. m.,21,viseranam,10
+9,api,api,conj.,26,sambanxah,8
+10,janAH,jana,nom. pl. m.,28,karwa,7
+11,iti,iti,part.,29,sambanxah,7
+
 0,punaH,punar,adv.,0,kriyaviseranam,6 ####### g_adv_kriyaviseranam #######
 1,tataH,tad,abl. pl. n.,51,apaxanam,6
 2,vanasTAya,sTa,dat. sg. m.,4,sampraxanam,5
@@ -32,17 +45,4 @@
 8,tadA,tadA,adv.,11,anuyogi,10
 9,pitA,tad,nom. sg. m.,12,karwa,10
 10,akaTayat,kaT,impft. [10] ac. sg. 3,13,,
-
-0,sahasA,sahas,adv.,3,kriyaviseranam,1 ####### g_adv_kriyaviseranam #######
-1,tadIyavyavahAraparivartanasya,parivartana,g. sg. m.,9,rartisambanxah,2
-2,kAraRam,kAraRa,nom. sg. n.,12,hewuh,7
-3,navAgantukam,aga,acc. sg. m.,77,viseranam,5
-4,BAgyaSAlinam,SAlin,acc. sg. m.,17,viseranam,5
-5,SiSum,SiSu,acc. sg. m.,18,karma,7
-6,eva,eva,prep.,19,sambanxah,5
-7,amanyanta,man,impft. ps. pl. 3,20,,
-8,sarve,sarva,nom. pl. m.,21,viseranam,10
-9,api,api,conj.,26,sambanxah,8
-10,janAH,jana,nom. pl. m.,28,karwa,7
-11,iti,iti,part.,29,sambanxah,7
 

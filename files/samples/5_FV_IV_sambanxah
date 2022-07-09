@@ -19,34 +19,6 @@
 18,yuvAm,yuzmad,nom. du. *,25,karwa,19
 19,Bavati,BU,pr. [1] ac. sg. 3,36,samucciwam,17
 
-0,yatra,yatra,loc. sg. n.,0,axikaranam,8
-1,kutaH,kutas,tasil,2,sambanxah,2
-2,kutaH,kutas,tasil,4,sambanxah,9 ####### FV_IV_sambanxah #######
-3,kiyat,tad,acc. sg. n.,5,sambanxah,4
-4,kiyat,tad,acc. sg. n.,6,sambanxah,9
-5,ca,ca,conj.,7,sambanxah,4
-6,tena,tad,nom. sg. m,11,karwa,8
-7,fRam,fRa,acc. sg. m.,12,karma,8
-8,gfhItam,grah,pp.,17,karwa,9
-9,AsIt,as,aor. [5] ac. sg. 3,19,,
-
-0,yasmin,yad,loc. sg. n.,0,viseranam,1
-1,durdine,dina,loc. sg. n.,4,axikaranam,4
-2,mayA,maya,nom. pl. m.,5,karwa,4
-3,mAtfBAvaH,BAva,nom. sg. m.,7,karma,4
-4,dUzitaH,vac,ca. pp.,8,samucciwam,15
-5,tasmin,tad,loc. sg. n.,9,viseranam,6
-6,dine,dina,loc. sg. n.,13,axikaranam,14
-7,na,na,part.,14,sambanxah,14
-8,tvam,yuzmad,nom. sg. *,15,karwa,14
-9,ekam,eka,acc. sg. m.,16,viseranam,11
-10,api,api,conj.,19,sambanxah,11
-11,vacanam,vacana,acc. sg. m.,21,karma,12
-12,vaktum,vac,inf.,24,sambanxah,14 ####### FV_IV_sambanxah #######
-13,asamarTaH,samarTa,nom. sg. m.,26,karwqsamanaxikaranam,14
-14,AsIH,as,aor. [5] ac. sg. 2,28,samucciwam,15
-15,ca,ca,conj.,29,,
-
 0,alpAt,alpa,abl. sg. m.,0,viseranam,1
 1,kAlAt,kAla,abl. sg. m.,3,upapaxasambanxah,2
 2,paScAt,paSca,loc. sg. m.,5,axikaranam,5
@@ -81,4 +53,32 @@
 11,SiSoH,SiSu,g. sg. m.,16,rartisambanxah,12
 12,jananI,janana,nom. sg. f.,18,karwqsamanaxikaranam,13
 13,yat,yat,ppr. [2] ac.,19,sambanxah,8 ####### FV_IV_sambanxah #######
+
+0,yatra,yatra,loc. sg. n.,0,axikaranam,8
+1,kutaH,kutas,tasil,2,sambanxah,2
+2,kutaH,kutas,tasil,4,sambanxah,9 ####### FV_IV_sambanxah #######
+3,kiyat,tad,acc. sg. n.,5,sambanxah,4
+4,kiyat,tad,acc. sg. n.,6,sambanxah,9
+5,ca,ca,conj.,7,sambanxah,4
+6,tena,tad,nom. sg. m,11,karwa,8
+7,fRam,fRa,acc. sg. m.,12,karma,8
+8,gfhItam,grah,pp.,17,karwa,9
+9,AsIt,as,aor. [5] ac. sg. 3,19,,
+
+0,yasmin,yad,loc. sg. n.,0,viseranam,1
+1,durdine,dina,loc. sg. n.,4,axikaranam,4
+2,mayA,maya,nom. pl. m.,5,karwa,4
+3,mAtfBAvaH,BAva,nom. sg. m.,7,karma,4
+4,dUzitaH,vac,ca. pp.,8,samucciwam,15
+5,tasmin,tad,loc. sg. n.,9,viseranam,6
+6,dine,dina,loc. sg. n.,13,axikaranam,14
+7,na,na,part.,14,sambanxah,14
+8,tvam,yuzmad,nom. sg. *,15,karwa,14
+9,ekam,eka,acc. sg. m.,16,viseranam,11
+10,api,api,conj.,19,sambanxah,11
+11,vacanam,vacana,acc. sg. m.,21,karma,12
+12,vaktum,vac,inf.,24,sambanxah,14 ####### FV_IV_sambanxah #######
+13,asamarTaH,samarTa,nom. sg. m.,26,karwqsamanaxikaranam,14
+14,AsIH,as,aor. [5] ac. sg. 2,28,samucciwam,15
+15,ca,ca,conj.,29,,
 

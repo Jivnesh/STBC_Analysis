@@ -1,7 +1,3 @@
-0,Bagavan,vat,voc. sg. m.,0,viseranam,1 ####### nom_voc_viseranam #######
-1,kfzRaH,kfzRa,nom. sg. m.,1,karwa,2
-2,uktavAn,vac,pp. . sg. ,2,,
-
 0,asmin,idam,loc. sg. m.,1,viseranam,1
 1,dale,dala,loc. sg. m.,4,axikaranam,8
 2,sarve,sarva,nom. pl. m.,5,viseranam,4
@@ -18,4 +14,8 @@
 3,saKI,tad,nom. sg. f.,4,viseranam,4
 4,vAsantI,as,nom. sg. f.,7,karwqsamanaxikaranam,5
 5,asti,as,pr. [2] ac. sg. 3,8,,
+
+0,Bagavan,vat,voc. sg. m.,0,viseranam,1 ####### nom_voc_viseranam #######
+1,kfzRaH,kfzRa,nom. sg. m.,1,karwa,2
+2,uktavAn,vac,pp. . sg. ,2,,
 

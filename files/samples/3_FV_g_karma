@@ -1,3 +1,33 @@
+0,SOriH,SOri,nom. sg. m.,0,karwa,13
+1,divyAnAm,divya,g. pl. f.,3,rartisambanxah,3
+2,api,api,conj.,4,sambanxah,3
+3,kftavismayAM,vismaya,acc. sg. f.,6,viseranam,4
+4,sPuradaravindacAruhastAM,hastA,acc. sg. f.,8,karma,6
+5,purastAt,purastAt,conj.,9,axikaranam,6
+6,uttarantIm,tad,nom. sg. n.,10,viseranam,9
+7,amBastaH,amBas,conj.,11,apaxanam,11
+8,kAYcit,tad,acc. sg. f.,13,viseranam,9
+9,Sriyam,SrI,acc. sg. f.,14,prawiyogi,10
+10,iva,iva,conj.,15,anuyogi,11
+11,udvIkzya,Ikz,conj.,19,purvakalah,12
+12,jalaniDimanTanasya,manTana,g. sg. n.,17,karma,13 ####### FV_g_karma #######
+13,asmArzIt,smf,impft. ac. sg. 3,18,,
+
+0,SOriH,SOri,nom. sg. m.,NA,karwa,13
+1,divyAnAm,divya,g. pl. f.,NA,rartisambanxah,3
+2,api,api,ind.,NA,sambanxah,3
+3,kftavismayAM,kfta-vismayA,acc. sg. f.,NA,viseranam,4
+4,sPuradaravindacAruhastAM,sPuradaravindacAru-hastA,acc. sg. f.,NA,karma,6
+5,purastAt,purastAt,ind.,NA,axikaranam,6
+6,uttarantIm,ut_tF1,ppr. ac,NA,viseranam,9
+7,amBastaH,amBas,ind.,NA,apaxanam,11
+8,kAYcit,kiYcit,acc. sg. f.,NA,viseranam,9
+9,Sriyam,SrI,acc. sg. f.,NA,prawiyogi,10
+10,iva,iva,ind.,NA,anuyogi,11
+11,udvIkzya,ut_vi_Ikz1,abs.,NA,purvakalah,12
+12,jalaniDimanTanasya,jalaniDi-manTana,g. sg. n.,NA,karma,13 ####### FV_g_karma #######
+13,asmArzIt,smf2,aor. ac. sg. 3,NA,,
+
 0,vAraRapatiH,pati,nom. sg. m.,0,karwa,15
 1,muhuH,muhur,conj.,1,viseranam,3
 2,puraH,puras,conj.,3,axikaranam,3
@@ -15,34 +45,4 @@
 14,icCAvihAravanavAsamahotsavAnAM,mahotsava,g. pl. m.,23,karma,15 ####### FV_g_karma #######
 15,sasmAra,smf,pft. ac. sg. 1,25,samucciwam,16
 16,ca,ca,conj.,26,,
-
-0,SOriH,SOri,nom. sg. m.,NA,karwa,13
-1,divyAnAm,divya,g. pl. f.,NA,rartisambanxah,3
-2,api,api,ind.,NA,sambanxah,3
-3,kftavismayAM,kfta-vismayA,acc. sg. f.,NA,viseranam,4
-4,sPuradaravindacAruhastAM,sPuradaravindacAru-hastA,acc. sg. f.,NA,karma,6
-5,purastAt,purastAt,ind.,NA,axikaranam,6
-6,uttarantIm,ut_tF1,ppr. ac,NA,viseranam,9
-7,amBastaH,amBas,ind.,NA,apaxanam,11
-8,kAYcit,kiYcit,acc. sg. f.,NA,viseranam,9
-9,Sriyam,SrI,acc. sg. f.,NA,prawiyogi,10
-10,iva,iva,ind.,NA,anuyogi,11
-11,udvIkzya,ut_vi_Ikz1,abs.,NA,purvakalah,12
-12,jalaniDimanTanasya,jalaniDi-manTana,g. sg. n.,NA,karma,13 ####### FV_g_karma #######
-13,asmArzIt,smf2,aor. ac. sg. 3,NA,,
-
-0,SOriH,SOri,nom. sg. m.,0,karwa,13
-1,divyAnAm,divya,g. pl. f.,3,rartisambanxah,3
-2,api,api,conj.,4,sambanxah,3
-3,kftavismayAM,vismaya,acc. sg. f.,6,viseranam,4
-4,sPuradaravindacAruhastAM,hastA,acc. sg. f.,8,karma,6
-5,purastAt,purastAt,conj.,9,axikaranam,6
-6,uttarantIm,tad,nom. sg. n.,10,viseranam,9
-7,amBastaH,amBas,conj.,11,apaxanam,11
-8,kAYcit,tad,acc. sg. f.,13,viseranam,9
-9,Sriyam,SrI,acc. sg. f.,14,prawiyogi,10
-10,iva,iva,conj.,15,anuyogi,11
-11,udvIkzya,Ikz,conj.,19,purvakalah,12
-12,jalaniDimanTanasya,manTana,g. sg. n.,17,karma,13 ####### FV_g_karma #######
-13,asmArzIt,smf,impft. ac. sg. 3,18,,
 

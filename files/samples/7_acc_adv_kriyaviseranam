@@ -1,28 +1,3 @@
-0,tam,tad,acc. sg. m.,0,karma,7
-1,taTA,taTA,adv.,1,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
-2,palAyamAnam,palAy,acc. sg. n.,4,karmasamanaxikaranam,7
-3,dfzwvA,dfS,abs.,5,purvakalah,7
-4,sADAraRaH,sADAraRa,nom. sg. m.,6,viseranam,5
-5,janaH,jana,nom. sg. m.,9,karwa,7
-6,svagfhe,gfha,loc. sg. n.,13,axikaranam,7
-7,Anayat,nI,impft. [1] ac. sg. 3,31,,
-
-0,jIvAtmA,Atman,nom. pl. m.,8,karwa,4
-1,aMSarUpeRa,rUpa,adv.,2,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
-2,sTAtum,sTA,acc. sg. n.,3,karma,4
-3,na,na,part.,4,sambanxah,4
-4,icCati,CAday,ppr. [6] ac.,6,,
-5,iti,iti,part.,7,sambanxah,4
-
-0,tatra,tatra,loc. sg. n,0,axikaranam,5
-1,taTA,taTA,adv.,1,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
-2,paramparAviparItam,viparIta,acc. sg. m.,5,viseranam,4
-3,vastraDAriRam,DArin,acc. sg. m.,7,viseranam,4
-4,sannyAsinam,tad,acc. sg. m.,8,karma,5
-5,dfzwvA,dfS,abs.,9,purvakalah,7
-6,gfhasTaH,gfhasTa,nom. sg. m.,10,karwa,7
-7,pfzwavAn,kf,ppa.,12,,
-
 0,tam,tad,acc. sg. m.,1,karma,3
 1,taTA,taTA,adv.,3,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
 2,upavizwam,tad,acc. sg. n.,13,karmasamanaxikaranam,3
@@ -37,6 +12,19 @@
 11,ASizwam,SAs,acc. sg. n.,0,karma,12
 12,uktvA,vac,abs.,18,samucciwam,10
 13,Akzipat,kzip,impft. [6] ac. sg. 3,2,,
+
+0,paScAt,paSca,loc. sg. m.,1,axikaranam,1
+1,pfzwaH,pfzwa,nom. sg. m.,3,viseranam,2
+2,saH,tad,nom. sg. m.,4,karwa,3
+3,kaTitavAn,kaT,nom. sg. m.,5,prawiyogi,4
+4,yat,yad,acc. sg. n.,24,anuyogi,5
+5,vigatacatvAriMSadvarzeByaH,varza,abl. pl. m.,9,apaxanam,11
+6,aham,asmad,nom. sg. *,13,karwa,11
+7,rAmAyaRasya,rAmAyaRa,g. sg. n.,14,rartisambanxah,9
+8,nityam,nitya,adv.,17,kriyaviseranam,9 ####### acc_adv_kriyaviseranam #######
+9,pArAyaRam,pArAyaRa,acc. sg. n.,18,karma,10
+10,kurvan,kf,nom. sg. m.,20,karwqsamanaxikaranam,11
+11,asmi,as,pr. [2] ac. sg. 1,21,,
 
 0,tat,tad,nom. sg. n.,1,karwa,2
 1,na,na,part.,2,sambanxah,13
@@ -54,18 +42,21 @@
 13,upanetum,nI,inf.,21,samucciwam,14
 14,ca,ca,conj.,22,,
 
-0,paScAt,paSca,loc. sg. m.,1,axikaranam,1
-1,pfzwaH,pfzwa,nom. sg. m.,3,viseranam,2
-2,saH,tad,nom. sg. m.,4,karwa,3
-3,kaTitavAn,kaT,nom. sg. m.,5,prawiyogi,4
-4,yat,yad,acc. sg. n.,24,anuyogi,5
-5,vigatacatvAriMSadvarzeByaH,varza,abl. pl. m.,9,apaxanam,11
-6,aham,asmad,nom. sg. *,13,karwa,11
-7,rAmAyaRasya,rAmAyaRa,g. sg. n.,14,rartisambanxah,9
-8,nityam,nitya,adv.,17,kriyaviseranam,9 ####### acc_adv_kriyaviseranam #######
-9,pArAyaRam,pArAyaRa,acc. sg. n.,18,karma,10
-10,kurvan,kf,nom. sg. m.,20,karwqsamanaxikaranam,11
-11,asmi,as,pr. [2] ac. sg. 1,21,,
+0,tam,tad,acc. sg. m.,0,karma,7
+1,taTA,taTA,adv.,1,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
+2,palAyamAnam,palAy,acc. sg. n.,4,karmasamanaxikaranam,7
+3,dfzwvA,dfS,abs.,5,purvakalah,7
+4,sADAraRaH,sADAraRa,nom. sg. m.,6,viseranam,5
+5,janaH,jana,nom. sg. m.,9,karwa,7
+6,svagfhe,gfha,loc. sg. n.,13,axikaranam,7
+7,Anayat,nI,impft. [1] ac. sg. 3,31,,
+
+0,jIvAtmA,Atman,nom. pl. m.,8,karwa,4
+1,aMSarUpeRa,rUpa,adv.,2,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
+2,sTAtum,sTA,acc. sg. n.,3,karma,4
+3,na,na,part.,4,sambanxah,4
+4,icCati,CAday,ppr. [6] ac.,6,,
+5,iti,iti,part.,7,sambanxah,4
 
 0,SizyaH,Sizya,nom. sg. m.,0,karwa,13
 1,akasmAt,akasmAt,adv.,1,kriyaviseranam,3 ####### acc_adv_kriyaviseranam #######
@@ -85,4 +76,13 @@
 15,ca,ca,conj.,28,,
 16,siMhAt,siMha,abl. sg. m.,29,apaxanam,17
 17,surakzitavAn,tad,nom. sg. m.,30,samucciwam,15
+
+0,tatra,tatra,loc. sg. n,0,axikaranam,5
+1,taTA,taTA,adv.,1,kriyaviseranam,2 ####### acc_adv_kriyaviseranam #######
+2,paramparAviparItam,viparIta,acc. sg. m.,5,viseranam,4
+3,vastraDAriRam,DArin,acc. sg. m.,7,viseranam,4
+4,sannyAsinam,tad,acc. sg. m.,8,karma,5
+5,dfzwvA,dfS,abs.,9,purvakalah,7
+6,gfhasTaH,gfhasTa,nom. sg. m.,10,karwa,7
+7,pfzwavAn,kf,ppa.,12,,
 

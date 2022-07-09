@@ -1,3 +1,15 @@
+0,daridrIBUtaH,BU,nom. sg. m.,1,viseranam,1
+1,saH,tad,nom. sg. m.,2,viseranam,2
+2,sampannaH,pad,nom. sg. m.,3,viseranam,3
+3,janaH,jana,acc. sg. n.,6,karwa,10 ####### IV_acc_karwa #######
+4,tAm,tad,acc. sg. f.,7,viseranam,5
+5,rowIm,tad,acc. sg. f.,8,karma,7
+6,kukkurataH,kukkura,dat. sg. m.,9,apaxanam,7
+7,AcCettum,Cid,inf.,10,prayojanam,10
+8,tam,tad,acc. sg. m.,11,viseranam,9
+9,kukkuram,kukkura,acc. sg. m.,12,karma,10
+10,anupalAyitaH,palAy,pp.,15,,
+
 0,dvO,tad,acc. du. m.,1,viseranam,2
 1,api,api,conj.,2,sambanxah,0
 2,mAtAputrO,putra,acc. du. m.,5,karwa,7 ####### IV_acc_karwa #######
@@ -15,17 +27,20 @@
 5,eva,eva,prep.,10,sambanxah,4
 6,yApitavantO,yA,ca. ppa.,12,,
 
-0,daridrIBUtaH,BU,nom. sg. m.,1,viseranam,1
-1,saH,tad,nom. sg. m.,2,viseranam,2
-2,sampannaH,pad,nom. sg. m.,3,viseranam,3
-3,janaH,jana,acc. sg. n.,6,karwa,10 ####### IV_acc_karwa #######
-4,tAm,tad,acc. sg. f.,7,viseranam,5
-5,rowIm,tad,acc. sg. f.,8,karma,7
-6,kukkurataH,kukkura,dat. sg. m.,9,apaxanam,7
-7,AcCettum,Cid,inf.,10,prayojanam,10
-8,tam,tad,acc. sg. m.,11,viseranam,9
-9,kukkuram,kukkura,acc. sg. m.,12,karma,10
-10,anupalAyitaH,palAy,pp.,15,,
+0,praTamam,rAjan,loc. sg. m.,2,axikaranam,6
+1,tu,tu,conj.,3,sambanxah,0
+2,SrezWirAmadAsasya,sasya,acc. du. n.,6,karwa,6 ####### IV_acc_karwa #######
+3,mayA,asmad,g. sg. *,7,rartisambanxah,5
+4,eva,eva,prep.,8,sambanxah,3
+5,lavaRam,lavaRa,acc. sg. m.,9,karma,6
+6,Bakzitam,vac,ca. pp.,17,,
+
+0,karmavaSAt,vaSa,abl. sg. m.,1,apaxanam,5
+1,eva,eva,prep.,3,sambanxah,0
+2,te,yuzmad,acc. du. n.,10,karwa,5 ####### IV_acc_karwa #######
+3,imAm,idam,acc. sg. f.,11,viseranam,4
+4,yonim,yoni,acc. sg. f.,12,karma,5
+5,prAptavantaH,prApta,pp.,13,,
 
 0,yasyAM,yad,loc. sg. f.,NA,axikaranam,14
 1,yuvAnaH,yuvan,nom. pl. m.,NA,karwa,14
@@ -42,19 +57,4 @@
 12,vaDUBiH,vaDU,i. pl. f.,NA,upapaxasambanxah,13
 13,samam,samam,ind.,NA,kriyaviseranam,14
 14,asevanta,sev1,impft. md. pl. 3,NA,,
-
-0,praTamam,rAjan,loc. sg. m.,2,axikaranam,6
-1,tu,tu,conj.,3,sambanxah,0
-2,SrezWirAmadAsasya,sasya,acc. du. n.,6,karwa,6 ####### IV_acc_karwa #######
-3,mayA,asmad,g. sg. *,7,rartisambanxah,5
-4,eva,eva,prep.,8,sambanxah,3
-5,lavaRam,lavaRa,acc. sg. m.,9,karma,6
-6,Bakzitam,vac,ca. pp.,17,,
-
-0,karmavaSAt,vaSa,abl. sg. m.,1,apaxanam,5
-1,eva,eva,prep.,3,sambanxah,0
-2,te,yuzmad,acc. du. n.,10,karwa,5 ####### IV_acc_karwa #######
-3,imAm,idam,acc. sg. f.,11,viseranam,4
-4,yonim,yoni,acc. sg. f.,12,karma,5
-5,prAptavantaH,prApta,pp.,13,,
 

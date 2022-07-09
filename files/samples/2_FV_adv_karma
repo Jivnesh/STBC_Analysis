@@ -1,3 +1,10 @@
+0,are,ara,voc. sg. m.,5,sambanxah,5
+1,itaH,itas,abl. sg. n,6,apaxanam,5
+2,te,tad,dat. sg. *,13,sampraxanam,5
+3,kiYcit,ca,adv.,14,karma,5 ####### FV_adv_karma #######
+4,na,na,part.,15,sambanxah,5
+5,dAsyante,dA,fut. md. pl. 3,16,,
+
 0,Aha,ca,ind.,0,sambanxah,2
 1,kzudrAH,kzudra,voc. pl. m.,26,viseranam,2
 2,samaraBIravaH,BIru,voc. pl. m.,30,samboxyah,9
@@ -10,11 +17,4 @@
 9,dIrRam,vac,pp.,22,,
 10,anayA,naya,nom. pl. m.,39,viseranam,11
 11,jihvayA,tad,nom. pl. m.,24,karwa,9
-
-0,are,ara,voc. sg. m.,5,sambanxah,5
-1,itaH,itas,abl. sg. n,6,apaxanam,5
-2,te,tad,dat. sg. *,13,sampraxanam,5
-3,kiYcit,ca,adv.,14,karma,5 ####### FV_adv_karma #######
-4,na,na,part.,15,sambanxah,5
-5,dAsyante,dA,fut. md. pl. 3,16,,
 

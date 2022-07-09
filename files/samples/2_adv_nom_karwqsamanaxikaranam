@@ -1,3 +1,11 @@
+0,svArTI,tad,nom. sg. f.,0,karwa,6
+1,svArTam,svArTa,acc. sg. m.,1,karma,2
+2,vihAya,hA,abs.,5,purvakalah,6
+3,anyat,anya,nom. sg. n.,7,karwqsamanaxikaranam,4 ####### adv_nom_karwqsamanaxikaranam #######
+4,kiYcit,ca,adv.,8,kriyaviseranam,6
+5,nEva,eva,prep.,30,sambanxah,6
+6,aBipaSyati,paS,pr. [4] ac. sg. 3,11,,
+
 0,kintu,ca,adv.,0,sambanxah,14
 1,kadAcit,cit,loc. sg. m.,2,axikaranam,6
 2,pramAdena,pramAda,i. sg. m.,3,hewuh,6
@@ -13,12 +21,4 @@
 12,parAvartayitum,vft,ca. inf.,54,prayojanam,14
 13,putrIm,putra,acc. sg. f.,16,karma,14
 14,prezitavatI,vac,pp.,19,,
-
-0,svArTI,tad,nom. sg. f.,0,karwa,6
-1,svArTam,svArTa,acc. sg. m.,1,karma,2
-2,vihAya,hA,abs.,5,purvakalah,6
-3,anyat,anya,nom. sg. n.,7,karwqsamanaxikaranam,4 ####### adv_nom_karwqsamanaxikaranam #######
-4,kiYcit,ca,adv.,8,kriyaviseranam,6
-5,nEva,eva,prep.,30,sambanxah,6
-6,aBipaSyati,paS,pr. [4] ac. sg. 3,11,,
 

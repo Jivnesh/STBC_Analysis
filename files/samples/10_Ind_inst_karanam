@@ -1,3 +1,16 @@
+0,anyA,anyA,nom. sg. f.,1,karwa,11
+1,ucCritagucCavAYCayA,tad,inst. sg. f.,2,hewuh,6
+2,salalitaM,lalita,conj.,9,viseranam,11
+3,sahacaraM,sahacara,acc. sg. m.,14,karma,11
+4,pARinA,pARi,inst. sg. m.,15,karanam,6 ####### Ind_inst_karanam #######
+5,aMse,aMsa,loc. sg. m.,16,axikaranam,6
+6,avalambya,lamb,conj.,17,purvakalah,11
+7,sakalakalaBakumBaviBramAByAm,viBrama,inst. du. m.,20,viseranam,8
+8,stanAByAM,stana,inst. du. m.,23,karanam,11
+9,rasAt,rasa,abl. sg. m.,24,hewuh,10
+10,urasi,uras,loc. sg. n.,25,axikaranam,11
+11,avatastare,stf,pft. ac. sg. 3,30,,
+
 0,na,na,part.,9,sambanxah,5
 1,aham,asmad,nom. sg. *,1,karwa,7
 2,adyAvaDiH,avaDi,loc. sg. m.,2,axikaranam,7
@@ -8,41 +21,6 @@
 7,vA,vA,conj.,10,,
 8,cetasA,cetas,i. sg. n.,12,kriyaviseranam,9
 9,anvaBavam,Bava,impft. [1] ac. sg. 1,11,sambanxah,7
-
-0,ahamahamikayA,tad,inst. sg. f.,0,karanam,3 ####### Ind_inst_karanam #######
-1,guroH,guru,g. sg. m.,1,rartisambanxah,2
-2,prARAn,prARa,acc. pl. m.,3,karma,3
-3,rakzitum,rakz,conj.,4,prayojanam,11
-4,sarve,sarva,nom. pl. m.,5,viseranam,6
-5,api,api,conj.,10,sambanxah,4
-6,SizyAH,Sizya,nom. pl. m.,29,karwa,11
-7,tatkAlam,tatkAla,loc. sg. m.,18,axikaranam,11
-8,eva,eva,conj.,19,sambanxah,7
-9,sPowam,sPowa,acc. sg. m.,20,karma,10
-10,cUzitum,cUz,conj.,21,prayojanam,11
-11,pravfttAH,vftta,pp. . pl. ,24,,
-
-0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
-1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
-2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10 ####### Ind_inst_karanam #######
-3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
-4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,38,karwa,10
-6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7
-7,vinA,vinA,conj.,24,sambanxah,11
-8,api,api,conj.,18,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10
-10,alaM,alam,conj.,21,sambanxah,11
-11,BUzRuH,BU,nom. sg. m.,23,,
-
-0,tvAm,yuzmad,acc. sg. *.,0,karma,4
-1,punaH,ca,conj.,2,sambanxah,4
-2,mama,asmad,g. sg. *.,3,rartisambanxah,3
-3,bAhupASena,tad,inst. sg. m.,5,karanam,4 ####### Ind_inst_karanam #######
-4,prAptum,Ap,conj.,6,prayojanam,7
-5,na,na,conj.,7,sambanxah,7
-6,aham,asmad,nom. sg. *.,8,karwa,7
-7,AgatA,gam,pp. . sg. ,9,,
 
 0,ye,yad,nom. pl. m.,12,karwa,17
 1,ca,ca,conj.,31,sambanxah,17
@@ -76,6 +54,41 @@
 10,yayuH,yA,pft. ac. pl. 3,24,,
 11,nUnam,nUnam,conj.,25,sambanxah,10
 
+0,tvAm,yuzmad,acc. sg. *.,0,karma,4
+1,punaH,ca,conj.,2,sambanxah,4
+2,mama,asmad,g. sg. *.,3,rartisambanxah,3
+3,bAhupASena,tad,inst. sg. m.,5,karanam,4 ####### Ind_inst_karanam #######
+4,prAptum,Ap,conj.,6,prayojanam,7
+5,na,na,conj.,7,sambanxah,7
+6,aham,asmad,nom. sg. *.,8,karwa,7
+7,AgatA,gam,pp. . sg. ,9,,
+
+0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
+1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
+2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10 ####### Ind_inst_karanam #######
+3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
+4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,NA,karwa,10
+6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7
+7,vinA,vinA,ind.,NA,sambanxah,11
+8,api,api,ind.,NA,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10
+10,alaM,alam,ind.,NA,sambanxah,11
+11,BUzRuH,BU1,nom. sg. m.,NA,,
+
+0,ahamahamikayA,tad,inst. sg. f.,0,karanam,3 ####### Ind_inst_karanam #######
+1,guroH,guru,g. sg. m.,1,rartisambanxah,2
+2,prARAn,prARa,acc. pl. m.,3,karma,3
+3,rakzitum,rakz,conj.,4,prayojanam,11
+4,sarve,sarva,nom. pl. m.,5,viseranam,6
+5,api,api,conj.,10,sambanxah,4
+6,SizyAH,Sizya,nom. pl. m.,29,karwa,11
+7,tatkAlam,tatkAla,loc. sg. m.,18,axikaranam,11
+8,eva,eva,conj.,19,sambanxah,7
+9,sPowam,sPowa,acc. sg. m.,20,karma,10
+10,cUzitum,cUz,conj.,21,prayojanam,11
+11,pravfttAH,vftta,pp. . pl. ,24,,
+
 0,yaH,yad,nom. sg. m.,0,viseranam,2
 1,kzamI,kzamin,nom. sg. m.,1,viseranam,2
 2,saH,tad,nom. sg. m.,2,karwa,8
@@ -92,18 +105,18 @@
 13,kzameta,kzam,opt. md. sg. 3,19,samucciwam,14
 14,ca,ca,conj.,20,,
 
-0,diSAM,diS,g. pl. f.,NA,rartisambanxah,1
-1,jitvarEH,jitvara,i. pl. m.,NA,viseranam,2
-2,BrAtfBiH,BrAtf,i. pl. m.,NA,karanam,10 ####### Ind_inst_karanam #######
-3,karadIkftaBUpAlaH,karadIkfta-BUpAla,nom. sg. m.,NA,viseranam,5
-4,tapasaH,tapasa,g. sg. m.,NA,rartisambanxah,5
-5,sutaH,suta,nom. sg. m.,NA,karwa,10
-6,asmat,asmad,abl. pl. *.,NA,upapaxasambanxah,7
-7,vinA,vinA,ind.,NA,sambanxah,11
-8,api,api,ind.,NA,sambanxah,11
-9,ijyAyE,ijyA,dat. sg. f.,NA,upapaxasambanxah,10
-10,alaM,alam,ind.,NA,sambanxah,11
-11,BUzRuH,BU1,nom. sg. m.,NA,,
+0,diSAM,diS,g. pl. f.,1,rartisambanxah,1
+1,jitvarEH,tad,inst. pl. m.,2,viseranam,2
+2,BrAtfBiH,BrAtf,inst. pl. m.,3,karanam,10 ####### Ind_inst_karanam #######
+3,karadIkftaBUpAlaH,BUpAla,nom. sg. m.,9,viseranam,5
+4,tapasaH,tapas,g. sg. m.,14,rartisambanxah,5
+5,sutaH,suta,nom. sg. m.,38,karwa,10
+6,asmat,asmad,abl. pl. n.,17,upapaxasambanxah,7
+7,vinA,vinA,conj.,24,sambanxah,11
+8,api,api,conj.,18,sambanxah,11
+9,ijyAyE,ijyA,dat. sg. f.,20,upapaxasambanxah,10
+10,alaM,alam,conj.,21,sambanxah,11
+11,BUzRuH,BU,nom. sg. m.,23,,
 
 0,paraSunA,paraSu,inst. sg. m.,0,karanam,2 ####### Ind_inst_karanam #######
 1,vfkzam,vfkza,acc. sg. m.,1,karma,2
@@ -111,17 +124,4 @@
 3,tvam,yuzmad,nom. sg. *.,3,karwa,5
 4,inDanam,inDana,acc. sg. n.,4,karma,5
 5,Anayasi,nI,pr. ac. sg. 2,6,,
-
-0,anyA,anyA,nom. sg. f.,1,karwa,11
-1,ucCritagucCavAYCayA,tad,inst. sg. f.,2,hewuh,6
-2,salalitaM,lalita,conj.,9,viseranam,11
-3,sahacaraM,sahacara,acc. sg. m.,14,karma,11
-4,pARinA,pARi,inst. sg. m.,15,karanam,6 ####### Ind_inst_karanam #######
-5,aMse,aMsa,loc. sg. m.,16,axikaranam,6
-6,avalambya,lamb,conj.,17,purvakalah,11
-7,sakalakalaBakumBaviBramAByAm,viBrama,inst. du. m.,20,viseranam,8
-8,stanAByAM,stana,inst. du. m.,23,karanam,11
-9,rasAt,rasa,abl. sg. m.,24,hewuh,10
-10,urasi,uras,loc. sg. n.,25,axikaranam,11
-11,avatastare,stf,pft. ac. sg. 3,30,,
 

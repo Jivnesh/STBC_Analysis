@@ -11,6 +11,12 @@
 10,kzamAm,kzamA,acc. sg. f.,33,karma,11
 11,ayAcata,yAc,impft. [1] md. sg. 3,35,,
 
+0,te,tad,nom. pl. m.,2,karwa,4
+1,SItAt,SIta,abl. sg. m.,8,apaxanam,2 ####### dat_abl_apaxanam #######
+2,trARAya,trARa,dat. sg. n.,9,waxarwyam,4
+3,agnim,agni,acc. sg. m.,10,karma,4
+4,icCanti,iz,pr. ac. pl. 3,11,,
+
 0,tataH,tad,abl. pl. n.,30,apaxanam,1 ####### dat_abl_apaxanam #######
 1,satsaNgalABAya,lABa,dat. sg. m.,4,waxarwyam,10
 2,apakvAm,pakva,acc. sg. f.,6,viseranam,3
@@ -22,10 +28,4 @@
 8,ca,ca,conj.,17,karwa,10
 9,upasTAtum,sTA,inf.,16,prayojanam,10
 10,pravfttAH,vftta,pp.,20,,
-
-0,te,tad,nom. pl. m.,2,karwa,4
-1,SItAt,SIta,abl. sg. m.,8,apaxanam,2 ####### dat_abl_apaxanam #######
-2,trARAya,trARa,dat. sg. n.,9,waxarwyam,4
-3,agnim,agni,acc. sg. m.,10,karma,4
-4,icCanti,iz,pr. ac. pl. 3,11,,
 

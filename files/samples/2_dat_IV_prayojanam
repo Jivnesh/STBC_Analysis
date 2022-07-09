@@ -1,11 +1,3 @@
-0,tatkAlam,kAla,loc. sg. m.,4,axikaranam,4
-1,eva,eva,prep.,5,sambanxah,0
-2,tAH,tad,acc. pl. f.,6,karma,4
-3,lipibadDAH,diS,acc. pl. f.,11,karmasamanaxikaranam,4
-4,kartum,kf,inf.,12,prayojanam,5 ####### dat_IV_prayojanam #######
-5,pravfttaH,vftta,dat. sg. n.,13,karwqsamanaxikaranam,6
-6,BavAmi,BU,pr. [1] ac. sg. 1,14,,
-
 0,mantriparAmarSena,parAmarSa,i. sg. m.,1,karanam,3
 1,kuberataH,kubera,loc. sg. m.,2,apaxanam,3
 2,Danam,Dana,acc. sg. n.,3,karma,3
@@ -17,4 +9,12 @@
 8,raTe,rAjan,loc. sg. m.,10,axikaranam,10
 9,eva,eva,prep.,11,sambanxah,8
 10,prasuptaH,svap,pp.,12,,
+
+0,tatkAlam,kAla,loc. sg. m.,4,axikaranam,4
+1,eva,eva,prep.,5,sambanxah,0
+2,tAH,tad,acc. pl. f.,6,karma,4
+3,lipibadDAH,diS,acc. pl. f.,11,karmasamanaxikaranam,4
+4,kartum,kf,inf.,12,prayojanam,5 ####### dat_IV_prayojanam #######
+5,pravfttaH,vftta,dat. sg. n.,13,karwqsamanaxikaranam,6
+6,BavAmi,BU,pr. [1] ac. sg. 1,14,,
 

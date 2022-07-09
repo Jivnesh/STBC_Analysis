@@ -1,3 +1,33 @@
+0,kintu,eva,adv.,0,samucciwam,6 ####### Ind_adv_samucciwam #######
+1,saH,tad,nom. sg. m.,1,karwa,5
+2,hastO,hasta,acc. du. m.,2,karma,4
+3,na,na,part.,4,sambanxah,4
+4,prasArya,sf,ca. abs.,6,purvakalah,5
+5,udatarat,tf,impft. [1] ac. sg. 3,7,samucciwam,6
+6,ca,ca,conj.,8,,
+
+0,kintu,ca,adv.,0,samucciwam,12 ####### Ind_adv_samucciwam #######
+1,tasya,tad,g. sg. m.,2,viseranam,2
+2,mAtApitroH,mAtApitf,g. du. m.,4,rartisambanxah,3
+3,paricitena,cita,nom. sg. m.,6,karwa,11
+4,tasmE,tad,dat. sg. n.,7,sampraxanam,7
+5,svakIyAm,svakIya,acc. sg. f.,9,viseranam,6
+6,kanyAm,kanyA,acc. sg. f.,10,karma,7
+7,dattvA,dA,abs.,12,purvakalah,11
+8,kaScana,kim,nom. sg. m.,13,viseranam,10
+9,ASAyAH,ASA,g. sg. f.,17,rartisambanxah,10
+10,saYcAraH,tad,nom. sg. m.,19,karma,11
+11,kftaH,kfta,pp.,20,samucciwam,12
+12,ca,ca,conj.,21,,
+
+0,tarhi,tarhi,adv.,0,samucciwam,6 ####### Ind_adv_samucciwam #######
+1,nAradamune,muni,voc. sg. m.,2,samboxyah,5
+2,BavAn,BU,nom. sg. m.,5,karwa,5
+3,eva,eva,prep.,6,sambanxah,2
+4,mahattamaH,mahattama,nom. sg. m.,7,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,8,samucciwam,6
+6,ca,ca,conj.,9,,
+
 0,sevakasya,sevaka,g. sg. m.,0,rartisambanxah,1
 1,manaH,manas,acc. sg. n.,2,karma,2
 2,rakzitum,rakz,inf.,4,prayojanam,5
@@ -9,6 +39,20 @@
 8,kftavAn,kf,ppa.,10,sambanxah,7
 9,taTA,taTA,adv.,11,samucciwam,10 ####### Ind_adv_samucciwam #######
 10,ca,ca,conj.,12,,
+
+0,kintu,ca,adv.,0,sambanxah,6
+1,mayA,maya,nom. pl. m.,1,karwa,3
+2,hfdi,hfdaya,loc. sg. n.,2,axikaranam,3
+3,DAritaH,Df,ca. pp.,3,viseranam,5
+4,saH,tad,nom. sg. m.,4,viseranam,5
+5,pAdaH,pAda,nom. sg. m.,5,karwa,8
+6,kaTam,kaTam,adv.,6,samucciwam,12 ####### Ind_adv_samucciwam #######
+7,mahattamaH,mahattama,nom. sg. m.,7,karwqsamanaxikaranam,8
+8,asti,as,pr. [2] ac. sg. 3,8,prawiyogi,9
+9,iti,iti,part.,9,anuyogi,10
+10,nAradaH,nArada,nom. sg. m.,10,karwa,11
+11,apfcCat,brU,impft. [6] ac. sg. 3,11,samucciwam,12
+12,ca,ca,conj.,12,,
 
 0,parantu,tu,conj.,3,sambanxah,7
 1,yadA,yadu,loc. sg. m.,4,axikaranam,7
@@ -27,48 +71,4 @@
 14,prakASitavAn,vac,pp.,30,karma,15
 15,tadA,tadA,adv.,31,samucciwam,16 ####### Ind_adv_samucciwam #######
 16,ca,ca,conj.,32,,
-
-0,tarhi,tarhi,adv.,0,samucciwam,6 ####### Ind_adv_samucciwam #######
-1,nAradamune,muni,voc. sg. m.,2,samboxyah,5
-2,BavAn,BU,nom. sg. m.,5,karwa,5
-3,eva,eva,prep.,6,sambanxah,2
-4,mahattamaH,mahattama,nom. sg. m.,7,karwqsamanaxikaranam,5
-5,asti,as,pr. [2] ac. sg. 3,8,samucciwam,6
-6,ca,ca,conj.,9,,
-
-0,kintu,ca,adv.,0,samucciwam,12 ####### Ind_adv_samucciwam #######
-1,tasya,tad,g. sg. m.,2,viseranam,2
-2,mAtApitroH,mAtApitf,g. du. m.,4,rartisambanxah,3
-3,paricitena,cita,nom. sg. m.,6,karwa,11
-4,tasmE,tad,dat. sg. n.,7,sampraxanam,7
-5,svakIyAm,svakIya,acc. sg. f.,9,viseranam,6
-6,kanyAm,kanyA,acc. sg. f.,10,karma,7
-7,dattvA,dA,abs.,12,purvakalah,11
-8,kaScana,kim,nom. sg. m.,13,viseranam,10
-9,ASAyAH,ASA,g. sg. f.,17,rartisambanxah,10
-10,saYcAraH,tad,nom. sg. m.,19,karma,11
-11,kftaH,kfta,pp.,20,samucciwam,12
-12,ca,ca,conj.,21,,
-
-0,kintu,ca,adv.,0,sambanxah,6
-1,mayA,maya,nom. pl. m.,1,karwa,3
-2,hfdi,hfdaya,loc. sg. n.,2,axikaranam,3
-3,DAritaH,Df,ca. pp.,3,viseranam,5
-4,saH,tad,nom. sg. m.,4,viseranam,5
-5,pAdaH,pAda,nom. sg. m.,5,karwa,8
-6,kaTam,kaTam,adv.,6,samucciwam,12 ####### Ind_adv_samucciwam #######
-7,mahattamaH,mahattama,nom. sg. m.,7,karwqsamanaxikaranam,8
-8,asti,as,pr. [2] ac. sg. 3,8,prawiyogi,9
-9,iti,iti,part.,9,anuyogi,10
-10,nAradaH,nArada,nom. sg. m.,10,karwa,11
-11,apfcCat,brU,impft. [6] ac. sg. 3,11,samucciwam,12
-12,ca,ca,conj.,12,,
-
-0,kintu,eva,adv.,0,samucciwam,6 ####### Ind_adv_samucciwam #######
-1,saH,tad,nom. sg. m.,1,karwa,5
-2,hastO,hasta,acc. du. m.,2,karma,4
-3,na,na,part.,4,sambanxah,4
-4,prasArya,sf,ca. abs.,6,purvakalah,5
-5,udatarat,tf,impft. [1] ac. sg. 3,7,samucciwam,6
-6,ca,ca,conj.,8,,
 

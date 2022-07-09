@@ -14,17 +14,6 @@
 13,putrIm,putra,acc. sg. f.,16,karma,14
 14,prezitavatI,vac,pp.,19,,
 
-0,mUrKa,mUrKa,voc. sg. m.,0,samboxyah,7
-1,atIva,atIva,nom. sg. m.,3,viseranam,2
-2,durbalaH,durbala,nom. sg. m.,4,karwa,3
-3,asi,as,pr. [2] ac. sg. 2,5,samucciwam,9
-4,yat,yad,i. sg. n.,6,hewuh,7
-5,dvitIyaH,dvitIya,nom. sg. m.,7,karwa,7 ####### adv_nom_karwa #######
-6,tvAm,yuzmad,acc. sg. *,8,karma,7
-7,paScAt,paSca,adv.,10,kriyaviseranam,8
-8,apasArayati,sf,ca. pr. ac. sg. 3,33,samucciwam,9
-9,ca,ca,conj.,12,,
-
 0,sevakasya,sevaka,g. sg. m.,0,rartisambanxah,1
 1,manaH,manas,acc. sg. n.,2,karma,2
 2,rakzitum,rakz,inf.,4,prayojanam,5
@@ -36,4 +25,15 @@
 8,kftavAn,kf,ppa.,10,sambanxah,7
 9,taTA,taTA,adv.,11,samucciwam,10
 10,ca,ca,conj.,12,,
+
+0,mUrKa,mUrKa,voc. sg. m.,0,samboxyah,7
+1,atIva,atIva,nom. sg. m.,3,viseranam,2
+2,durbalaH,durbala,nom. sg. m.,4,karwa,3
+3,asi,as,pr. [2] ac. sg. 2,5,samucciwam,9
+4,yat,yad,i. sg. n.,6,hewuh,7
+5,dvitIyaH,dvitIya,nom. sg. m.,7,karwa,7 ####### adv_nom_karwa #######
+6,tvAm,yuzmad,acc. sg. *,8,karma,7
+7,paScAt,paSca,adv.,10,kriyaviseranam,8
+8,apasArayati,sf,ca. pr. ac. sg. 3,33,samucciwam,9
+9,ca,ca,conj.,12,,
 

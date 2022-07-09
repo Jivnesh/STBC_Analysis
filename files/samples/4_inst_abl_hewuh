@@ -1,31 +1,3 @@
-0,maDuvratAnAM,vrata,g. pl. m.,0,rartisambanxah,1
-1,pawale,pawala,loc. sg. n.,3,karwa,3
-2,aBimuKam,aBimuKa,conj.,6,axikaranam,3
-3,upayAti,yA,nom. sg. n.,7,purvakalah,9
-4,sati,as,nom. sg. n.,9,sambanxah,3
-5,tvam,yuzmad,nom. sg. n.,10,karwa,9
-6,kiYcit,ca,conj.,11,karma,9
-7,mA,mA,conj.,24,sambanxah,9
-8,sma,sma,conj.,13,sambanxah,9
-9,aBidaDAH,Acakz,impft . ac. sg. 2,14,samucciwam,16
-10,maDusuraBimuKAbjaganDalabDeH,labDi,abl. sg. f.,15,hewuh,11 ####### inst_abl_hewuh #######
-11,anena,idam,inst. sg. n.,17,karwa,15
-12,aDitvat,van,conj.,19,axikaranam,15
-13,aDikaM,aDika,nom. sg. n.,22,kriyaviseranam,15
-14,mA,asmad,conj.,12,sambanxah,15
-15,nipAti,pat,impft. ac. sg. 3,23,samucciwam,16
-16,ca,ca,conj.,25,,
-
-0,paricitaparicumbanABiyogAt,paricitaparicumbanABi-yoga,abl. sg. m.,NA,hewuh,2 ####### inst_abl_hewuh #######
-1,apagatakuNkumareRuBiH,apagatakuNkuma-reRu,i. pl. m.,NA,viseranam,2
-2,vikasadaSItamarIciraSmijAlEH,vikasadaSItamarIciraSmi-jAla,i. pl. m.,NA,karanam,5
-3,aDikam,aDika,acc. sg. m.,NA,viseranam,4
-4,aruRimAnam,aruRimAnam,acc. sg. m.,NA,karma,5
-5,udvahadBiH,ud-vah1,ppr. ac,NA,viseranam,6
-6,kapolEH,kapola,i. pl. m.,NA,karanam,8
-7,nitambinIBiH,nitambinI,i. pl. f.,NA,karwa,8
-8,atami,tam1,aor. sg. 3,NA,,
-
 0,lolaUrmO,Urmi,loc. sg. m.,1,viseranam,1
 1,payasi,payas,loc. sg. n.,2,axikaranam,9
 2,mahotpalaM,mahotpala,nom. sg. n.,3,karwa,21
@@ -49,6 +21,34 @@
 20,gAyat,tad,nom. sg. n.,36,bavalakranasapwami_samanakalah,21
 21,nanarta,nft,pft. ac. sg. 3,38,,
 22,iva,iva,conj.,39,sambanxah,21
+
+0,paricitaparicumbanABiyogAt,paricitaparicumbanABi-yoga,abl. sg. m.,NA,hewuh,2 ####### inst_abl_hewuh #######
+1,apagatakuNkumareRuBiH,apagatakuNkuma-reRu,i. pl. m.,NA,viseranam,2
+2,vikasadaSItamarIciraSmijAlEH,vikasadaSItamarIciraSmi-jAla,i. pl. m.,NA,karanam,5
+3,aDikam,aDika,acc. sg. m.,NA,viseranam,4
+4,aruRimAnam,aruRimAnam,acc. sg. m.,NA,karma,5
+5,udvahadBiH,ud-vah1,ppr. ac,NA,viseranam,6
+6,kapolEH,kapola,i. pl. m.,NA,karanam,8
+7,nitambinIBiH,nitambinI,i. pl. f.,NA,karwa,8
+8,atami,tam1,aor. sg. 3,NA,,
+
+0,maDuvratAnAM,vrata,g. pl. m.,0,rartisambanxah,1
+1,pawale,pawala,loc. sg. n.,3,karwa,3
+2,aBimuKam,aBimuKa,conj.,6,axikaranam,3
+3,upayAti,yA,nom. sg. n.,7,purvakalah,9
+4,sati,as,nom. sg. n.,9,sambanxah,3
+5,tvam,yuzmad,nom. sg. n.,10,karwa,9
+6,kiYcit,ca,conj.,11,karma,9
+7,mA,mA,conj.,24,sambanxah,9
+8,sma,sma,conj.,13,sambanxah,9
+9,aBidaDAH,Acakz,impft . ac. sg. 2,14,samucciwam,16
+10,maDusuraBimuKAbjaganDalabDeH,labDi,abl. sg. f.,15,hewuh,11 ####### inst_abl_hewuh #######
+11,anena,idam,inst. sg. n.,17,karwa,15
+12,aDitvat,van,conj.,19,axikaranam,15
+13,aDikaM,aDika,nom. sg. n.,22,kriyaviseranam,15
+14,mA,asmad,conj.,12,sambanxah,15
+15,nipAti,pat,impft. ac. sg. 3,23,samucciwam,16
+16,ca,ca,conj.,25,,
 
 0,nataBruvA,BrU,inst. sg. f.,2,karwa,3
 1,AnABeH,nABi,abl. sg. f.,0,sambanxah,3

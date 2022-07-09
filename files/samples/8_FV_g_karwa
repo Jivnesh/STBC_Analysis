@@ -1,3 +1,42 @@
+0,prARinAM,prARin,g. pl. m.,0,rartisambanxah,1
+1,upakArAya,upakAra,dat. sg. m.,2,waxarwyam,5
+2,eva,eva,conj.,3,sambanxah,1
+3,sADUnAM,sADu,g. pl. m.,4,karwa,5 ####### FV_g_karwa #######
+4,jagati,rAjan,loc. sg. m.,7,karwa,5
+5,jIvitam,jIvita,pp. . sg. ,10,,
+
+0,raTaaNgapAReH,raTa-aNga-pARi,g. sg. m.,NA,rartisambanxah,1
+1,rocizAM,rocis,g. pl. n.,NA,rartisambanxah,2
+2,pawalena,pawala,i. sg. n.,NA,karanam,3
+3,saMvalitAH,sam_val1,pp.,NA,viseranam,4
+4,fzitvizaH,fzi-tviz,g. sg. f.,NA,karwa,11 ####### FV_g_karwa #######
+5,naktaM,naktam,ind.,NA,axikaranam,11
+6,taroH,taru,g. sg. m.,NA,rartisambanxah,7
+7,calatpalASAntaragocarAH,calat-palASAntara-gocara,nom. pl. m.,NA,viseranam,9
+8,tuzAramUrteH,tuzAra-mUrti,g. sg. m.,NA,rartisambanxah,9
+9,aMSavaH,aMSu,nom. pl. m.,NA,prawiyogi,11
+10,iva,iva,ind.,NA,anuyogi,11
+11,virejire,vi_rAj1,pft. pl. 3,NA,,
+
+0,te,yuzmad,g. sg. *.,6,karwa,4 ####### FV_g_karwa #######
+1,SiraskAni,Siraska,nom. pl. n.,7,karma,4
+2,SIrzAt,SIrza,abl. sg. n.,8,apaxanam,4
+3,aDaH,ca,conj.,9,axikaranam,4
+4,akzipan,kzip,impft . ac. pl. 3,10,,
+
+0,guRAnAm,guRa,g. pl. m.,0,rartisambanxah,1
+1,AyaTAtaTyAt,AyaTAtaTya,abl. sg. n.,1,apaxanam,4
+2,arTaM,arTa,acc. sg. m.,2,karma,4
+3,ye,yad,nom. pl. m.,5,karwa,4
+4,viplAvayanti,Ric,pr. ac. sg. 3,8,samucciwam,11
+5,amAtyavyaYjanAH,vyaYjana,nom. pl. m.,10,viseranam,9
+6,SatrusaMjYitAH,tad,nom. pl. m.,15,viseranam,9
+7,te,tad,nom. pl. m.,18,viseranam,9
+8,rAjYAM,rAjan,g. pl. m.,23,rartisambanxah,9
+9,dUzyAH,dUzya,g. pl. m.,26,karwa,10 ####### FV_g_karwa #######
+10,Bavanti,BU,pr. ac. pl. 3,27,samucciwam,11
+11,ca,ca,conj.,28,,
+
 0,guRAnAm,guRa,g. pl. m.,NA,rartisambanxah,1
 1,AyaTAtaTyAt,AyaTAtaTya,abl. sg. n.,NA,apaxanam,4
 2,arTaM,arTa,acc. sg. m.,NA,karma,4
@@ -9,6 +48,19 @@
 8,rAjYAM,rAjan,g. pl. m.,NA,rartisambanxah,9
 9,dUzyAH,dUzya,g. pl. m.,NA,karwa,10 ####### FV_g_karwa #######
 10,Bavanti,BU1,pr. ac. pl. 3,NA,,
+
+0,raTaaNgapAReH,pARi,g. sg. m.,0,rartisambanxah,1
+1,rocizAM,rocis,g. pl. n.,2,rartisambanxah,2
+2,pawalena,pawala,inst. sg. n.,3,karanam,3
+3,saMvalitAH,val,nom. pl. f.,4,viseranam,4
+4,fzitvizaH,tviz,g. sg. f.,7,karwa,11 ####### FV_g_karwa #######
+5,naktaM,nakta,conj.,10,axikaranam,11
+6,taroH,taru,g. sg. m.,11,rartisambanxah,7
+7,calatpalASAntaragocarAH,gocara,nom. pl. m.,14,viseranam,9
+8,tuzAramUrteH,mUrti,g. sg. m.,16,rartisambanxah,9
+9,aMSavaH,aMSu,nom. pl. m.,17,prawiyogi,10
+10,iva,iva,conj.,18,anuyogi,11
+11,virejire,rAj,pft. ps. pl. 3,19,,
 
 0,mAtaH,mAtf,g. sg. m.,0,karwa,4 ####### FV_g_karwa #######
 1,mama,asmad,g. sg. *.,1,rartisambanxah,2
@@ -28,56 +80,4 @@
 9,dUzyAH,dUzya,g. pl. m.,26,karwa,10 ####### FV_g_karwa #######
 10,Bavanti,BU,pr. ac. pl. 3,27,samucciwam,11
 11,ca,ca,conj.,28,,
-
-0,guRAnAm,guRa,g. pl. m.,0,rartisambanxah,1
-1,AyaTAtaTyAt,AyaTAtaTya,abl. sg. n.,1,apaxanam,4
-2,arTaM,arTa,acc. sg. m.,2,karma,4
-3,ye,yad,nom. pl. m.,5,karwa,4
-4,viplAvayanti,Ric,pr. ac. sg. 3,8,samucciwam,11
-5,amAtyavyaYjanAH,vyaYjana,nom. pl. m.,10,viseranam,9
-6,SatrusaMjYitAH,tad,nom. pl. m.,15,viseranam,9
-7,te,tad,nom. pl. m.,18,viseranam,9
-8,rAjYAM,rAjan,g. pl. m.,23,rartisambanxah,9
-9,dUzyAH,dUzya,g. pl. m.,26,karwa,10 ####### FV_g_karwa #######
-10,Bavanti,BU,pr. ac. pl. 3,27,samucciwam,11
-11,ca,ca,conj.,28,,
-
-0,prARinAM,prARin,g. pl. m.,0,rartisambanxah,1
-1,upakArAya,upakAra,dat. sg. m.,2,waxarwyam,5
-2,eva,eva,conj.,3,sambanxah,1
-3,sADUnAM,sADu,g. pl. m.,4,karwa,5 ####### FV_g_karwa #######
-4,jagati,rAjan,loc. sg. m.,7,karwa,5
-5,jIvitam,jIvita,pp. . sg. ,10,,
-
-0,raTaaNgapAReH,pARi,g. sg. m.,0,rartisambanxah,1
-1,rocizAM,rocis,g. pl. n.,2,rartisambanxah,2
-2,pawalena,pawala,inst. sg. n.,3,karanam,3
-3,saMvalitAH,val,nom. pl. f.,4,viseranam,4
-4,fzitvizaH,tviz,g. sg. f.,7,karwa,11 ####### FV_g_karwa #######
-5,naktaM,nakta,conj.,10,axikaranam,11
-6,taroH,taru,g. sg. m.,11,rartisambanxah,7
-7,calatpalASAntaragocarAH,gocara,nom. pl. m.,14,viseranam,9
-8,tuzAramUrteH,mUrti,g. sg. m.,16,rartisambanxah,9
-9,aMSavaH,aMSu,nom. pl. m.,17,prawiyogi,10
-10,iva,iva,conj.,18,anuyogi,11
-11,virejire,rAj,pft. ps. pl. 3,19,,
-
-0,te,yuzmad,g. sg. *.,6,karwa,4 ####### FV_g_karwa #######
-1,SiraskAni,Siraska,nom. pl. n.,7,karma,4
-2,SIrzAt,SIrza,abl. sg. n.,8,apaxanam,4
-3,aDaH,ca,conj.,9,axikaranam,4
-4,akzipan,kzip,impft . ac. pl. 3,10,,
-
-0,raTaaNgapAReH,raTa-aNga-pARi,g. sg. m.,NA,rartisambanxah,1
-1,rocizAM,rocis,g. pl. n.,NA,rartisambanxah,2
-2,pawalena,pawala,i. sg. n.,NA,karanam,3
-3,saMvalitAH,sam_val1,pp.,NA,viseranam,4
-4,fzitvizaH,fzi-tviz,g. sg. f.,NA,karwa,11 ####### FV_g_karwa #######
-5,naktaM,naktam,ind.,NA,axikaranam,11
-6,taroH,taru,g. sg. m.,NA,rartisambanxah,7
-7,calatpalASAntaragocarAH,calat-palASAntara-gocara,nom. pl. m.,NA,viseranam,9
-8,tuzAramUrteH,tuzAra-mUrti,g. sg. m.,NA,rartisambanxah,9
-9,aMSavaH,aMSu,nom. pl. m.,NA,prawiyogi,11
-10,iva,iva,ind.,NA,anuyogi,11
-11,virejire,vi_rAj1,pft. pl. 3,NA,,
 

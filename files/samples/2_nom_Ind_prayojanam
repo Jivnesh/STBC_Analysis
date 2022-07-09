@@ -1,3 +1,16 @@
+0,aTa,aTa,conj.,0,sambanxah,11
+1,aciradyuteH,dyuti,g. sg. f.,1,rartisambanxah,2
+2,BayAt,Baya,abl. sg. n.,3,hewuh,4
+3,kila,kila,conj.,5,sambanxah,2
+4,BavanAt,BU,nom. sg. n.,6,apaxanam,5
+5,apayAtum,yA,conj.,7,prayojanam,6 ####### nom_Ind_prayojanam #######
+6,anicCavaH,anicCu,nom. pl. f.,10,viseranam,8
+7,manmaTamanTaraBAziRaH,tad,nom. pl. f.,16,viseranam,8
+8,taruRIgaRAH,gaRa,nom. pl. f.,17,karwa,11
+9,taM,tad,acc. sg. m.,18,viseranam,10
+10,yadunarendragaRam,gaRa,acc. sg. m.,19,karma,11
+11,aramayan,Ric,impft . ac. pl. 3,20,,
+
 0,amunA,adas,inst. sg. m.,1,upapaxasambanxah,1
 1,samaM,samam,conj.,4,sambanxah,3
 2,saraH,saras,acc. sg. n.,5,karma,3
@@ -21,17 +34,4 @@
 20,dUzitA,tad,nom. sg. f.,36,karwa,21
 21,Bavati,BU,pr. ac. sg. 3,37,samucciwam,22
 22,ca,ca,conj.,38,,
-
-0,aTa,aTa,conj.,0,sambanxah,11
-1,aciradyuteH,dyuti,g. sg. f.,1,rartisambanxah,2
-2,BayAt,Baya,abl. sg. n.,3,hewuh,4
-3,kila,kila,conj.,5,sambanxah,2
-4,BavanAt,BU,nom. sg. n.,6,apaxanam,5
-5,apayAtum,yA,conj.,7,prayojanam,6 ####### nom_Ind_prayojanam #######
-6,anicCavaH,anicCu,nom. pl. f.,10,viseranam,8
-7,manmaTamanTaraBAziRaH,tad,nom. pl. f.,16,viseranam,8
-8,taruRIgaRAH,gaRa,nom. pl. f.,17,karwa,11
-9,taM,tad,acc. sg. m.,18,viseranam,10
-10,yadunarendragaRam,gaRa,acc. sg. m.,19,karma,11
-11,aramayan,Ric,impft . ac. pl. 3,20,,
 

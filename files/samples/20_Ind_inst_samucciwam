@@ -1,24 +1,3 @@
-0,rAmaH,rAma,nom. sg. m.,0,karwa,6
-1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3 ####### Ind_inst_samucciwam #######
-2,sItayA,sItA,i. sg. f.,2,samucciwam,3 ####### Ind_inst_samucciwam #######
-3,ca,ca,conj.,3,upapaxasambanxah,4
-4,saha,saha,prep.,5,sambanxah,0
-5,vanam,vana,acc. sg. n.,6,karma,6
-6,praviSati,pra,pr. [6] ac. sg. 3,8,,
-
-0,praPullatApicCaniBEH,niBa,inst. pl. m.,1,samucciwam,3 ####### Ind_inst_samucciwam #######
-1,saptacCadapAMSupARquBiH,pARqu,inst. pl. m.,4,samucciwam,3 ####### Ind_inst_samucciwam #######
-2,SuBEH,SuBa,inst. pl. m.,6,samucciwam,3 ####### Ind_inst_samucciwam #######
-3,ca,ca,conj.,7,viseranam,4
-4,aBIzuBiH,aBIzu,inst. pl. m.,8,karanam,11
-5,paraspareRa,paraspara,inst. sg. m.,10,viseranam,11
-6,cCuritaamalacCavI,dvi,nom. du. f.,15,viseranam,7
-7,tO,tad,nom. du. m.,17,karwa,11
-8,tadA,tadA,conj.,24,axikaranam,11
-9,ekavarRO,varRa,nom. du. m.,20,prawiyogi,10
-10,iva,iva,conj.,22,anuyogi,11
-11,baBUvatuH,BU,pft. ac. du. 3,23,,
-
 0,mahIpatiH,pat,nom. sg. m.,1,viseranam,1
 1,daSaraTaH,tad,nom. sg. m.,3,karwa,18
 2,tam,tad,acc. sg. m.,4,viseranam,12
@@ -38,6 +17,19 @@
 16,yOvarAjyena,yOvarAjya,i. sg. n.,35,sambanxah,17
 17,saMyoktum,yuj,acc. sg. m.,36,karma,18
 18,EcCat,iz,impft. [6] ac. sg. 3,37,,
+
+0,praPullatApicCaniBEH,niBa,inst. pl. m.,1,samucciwam,3 ####### Ind_inst_samucciwam #######
+1,saptacCadapAMSupARquBiH,pARqu,inst. pl. m.,4,samucciwam,3 ####### Ind_inst_samucciwam #######
+2,SuBEH,SuBa,inst. pl. m.,6,samucciwam,3 ####### Ind_inst_samucciwam #######
+3,ca,ca,conj.,7,viseranam,4
+4,aBIzuBiH,aBIzu,inst. pl. m.,8,karanam,11
+5,paraspareRa,paraspara,inst. sg. m.,10,viseranam,11
+6,cCuritaamalacCavI,dvi,nom. du. f.,15,viseranam,7
+7,tO,tad,nom. du. m.,17,karwa,11
+8,tadA,tadA,conj.,24,axikaranam,11
+9,ekavarRO,varRa,nom. du. m.,20,prawiyogi,10
+10,iva,iva,conj.,22,anuyogi,11
+11,baBUvatuH,BU,pft. ac. du. 3,23,,
 
 0,guhena,guha,i. sg. m.,0,samucciwam,3 ####### Ind_inst_samucciwam #######
 1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3 ####### Ind_inst_samucciwam #######
@@ -85,22 +77,6 @@
 10,samaM,samam,conj.,23,sambanxah,11
 11,jaGAna,han,pft. ac. sg. 3,24,,
 
-0,paScAt,paScAt,conj.,1,axikaranam,7
-1,tasya,tad,g. sg. m.,3,rartisambanxah,2
-2,patnyA,patnI,inst. sg. f.,4,samucciwam,4 ####### Ind_inst_samucciwam #######
-3,putreRa,putra,inst. sg. m.,5,samucciwam,4 ####### Ind_inst_samucciwam #######
-4,ca,ca,conj.,6,karwa,7
-5,patram,tad,nom. sg. n.,8,karma,7
-6,ekaM,eka,acc. sg. m.,9,viseranam,5
-7,prAptaM,prApta,pp. . sg. ,12,,
-
-0,munayaH,muni,nom. pl. m.,0,karwa,5
-1,puzpEH,puzpa,inst. pl. n.,3,samucciwam,3 ####### Ind_inst_samucciwam #######
-2,PalEH,Pala,inst. pl. n.,4,samucciwam,3 ####### Ind_inst_samucciwam #######
-3,ca,ca,conj.,5,karanam,5
-4,rAmam,rAma,acc. sg. m.,6,karma,5
-5,pUjayanti,gam,pr. ac. pl. 3,9,,
-
 0,pOrEH,tad,i. pl. m.,1,samucciwam,2 ####### Ind_inst_samucciwam #######
 1,daSaraTena,daSaraTa,i. sg. m.,3,samucciwam,2 ####### Ind_inst_samucciwam #######
 2,ca,ca,conj.,4,karwa,4
@@ -116,4 +92,28 @@
 12,gaNgAkule,Akula,loc. sg. m.,88,axikaranam,14
 13,sUtam,sUta,acc. sg. m.,53,karma,14
 14,vyasarjayat,sfj,ca. impft. ac. sg. 3,29,,
+
+0,munayaH,muni,nom. pl. m.,0,karwa,5
+1,puzpEH,puzpa,inst. pl. n.,3,samucciwam,3 ####### Ind_inst_samucciwam #######
+2,PalEH,Pala,inst. pl. n.,4,samucciwam,3 ####### Ind_inst_samucciwam #######
+3,ca,ca,conj.,5,karanam,5
+4,rAmam,rAma,acc. sg. m.,6,karma,5
+5,pUjayanti,gam,pr. ac. pl. 3,9,,
+
+0,paScAt,paScAt,conj.,1,axikaranam,7
+1,tasya,tad,g. sg. m.,3,rartisambanxah,2
+2,patnyA,patnI,inst. sg. f.,4,samucciwam,4 ####### Ind_inst_samucciwam #######
+3,putreRa,putra,inst. sg. m.,5,samucciwam,4 ####### Ind_inst_samucciwam #######
+4,ca,ca,conj.,6,karwa,7
+5,patram,tad,nom. sg. n.,8,karma,7
+6,ekaM,eka,acc. sg. m.,9,viseranam,5
+7,prAptaM,prApta,pp. . sg. ,12,,
+
+0,rAmaH,rAma,nom. sg. m.,0,karwa,6
+1,lakzmaRena,lakzmaRa,i. sg. m.,1,samucciwam,3 ####### Ind_inst_samucciwam #######
+2,sItayA,sItA,i. sg. f.,2,samucciwam,3 ####### Ind_inst_samucciwam #######
+3,ca,ca,conj.,3,upapaxasambanxah,4
+4,saha,saha,prep.,5,sambanxah,0
+5,vanam,vana,acc. sg. n.,6,karma,6
+6,praviSati,pra,pr. [6] ac. sg. 3,8,,
 

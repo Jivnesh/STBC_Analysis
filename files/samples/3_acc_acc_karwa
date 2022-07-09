@@ -1,3 +1,12 @@
+0,iha,iha,conj.,0,axikaranam,5
+1,turaNgavaktraH,vaktra,nom. sg. m.,2,karwa,7
+2,bimbozWaM,bimbozWa,acc. sg. m.,3,viseranam,4
+3,priyAyAH,priyA,g. sg. f.,5,rartisambanxah,4
+4,muKaM,muKa,acc. sg. m.,7,karwa,5 ####### acc_acc_karwa #######
+5,cumbantaM,cumb,acc. sg. m.,8,bavalakranasapwami_samanakalah,7
+6,kinnaraM,tad,acc. sg. m.,9,karma,7
+7,bahumanute,man,pr. md. sgpl. 3,11,,
+
 0,yasyAM,yad,loc. sg. f.,0,axikaranam,14
 1,yuvAnaH,yuvan,nom. pl. m.,1,karwa,14
 2,ramyAH,ramyA,nom. pl. f.,7,prawiyogi,3
@@ -13,15 +22,6 @@
 12,vaDUBiH,vaDU,inst. pl. f.,30,upapaxasambanxah,13
 13,samam,samam,conj.,33,viseranam,14
 14,asevanta,sev,impft . md. pl. 3,34,,
-
-0,iha,iha,conj.,0,axikaranam,5
-1,turaNgavaktraH,vaktra,nom. sg. m.,2,karwa,7
-2,bimbozWaM,bimbozWa,acc. sg. m.,3,viseranam,4
-3,priyAyAH,priyA,g. sg. f.,5,rartisambanxah,4
-4,muKaM,muKa,acc. sg. m.,7,karwa,5 ####### acc_acc_karwa #######
-5,cumbantaM,cumb,acc. sg. m.,8,bavalakranasapwami_samanakalah,7
-6,kinnaraM,tad,acc. sg. m.,9,karma,7
-7,bahumanute,man,pr. md. sgpl. 3,11,,
 
 0,parantu,parantu,conj.,3,samucciwam,11
 1,ezAm,idam,g. pl. m.,21,rartisambanxah,4

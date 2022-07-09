@@ -1,3 +1,34 @@
+0,ekadA,ekadA,loc. sg. n.,0,axikaranam,6
+1,maharziramaRam,ramaRa,acc. sg. m.,3,karma,2 ####### dat_acc_karma #######
+2,parIkzitum,Ikz,dat. sg. m.,6,prayojanam,6
+3,eva,eva,prep.,7,sambanxah,2
+4,kecana,kim,nom. pl. m.,10,viseranam,5
+5,girijAgfhasvAminaH,svAmin,nom. pl. m.,17,karwa,6
+6,pfzwavantaH,pfzwa,pp.,21,,
+
+0,kintu,ca,adv.,0,sambanxah,4
+1,tava,yuzmad,g. sg. *,1,rartisambanxah,2
+2,aDikAram,aDikAra,acc. sg. m.,2,karma,3 ####### dat_acc_karma #######
+3,pratizWApayitum,sTA,dat. sg. m.,3,prayojanam,4
+4,AgatA,gam,pp.,4,,
+
+0,viraktaH,rakta,nom. sg. m.,3,viseranam,1
+1,rAjA,rAjan,nom. sg. m.,4,karwa,14
+2,svIyam,svIya,acc. sg. m.,8,viseranam,3
+3,rAjyarDam,arDa,acc. sg. m.,12,karma,9 ####### dat_acc_karma #######
+4,tAByAm,tad,dat. du. m.,19,viseranam,5
+5,dampatiByAm,pat,dat. du. m.,27,sampraxanam,6
+6,dattvA,dA,abs.,30,purvakalah,14
+7,avaSizwam,Sizwa,acc. sg. m.,57,karma,10
+8,ca,ca,conj.,31,sambanxah,10
+9,AtmajAya,ayas,dat. sg. n.,29,sampraxanam,10
+10,samarpya,sam,ca. abs.,33,purvakalah,14
+11,tapaH,tapa,acc. sg. n.,36,karma,12
+12,taptum,tap,inf.,37,prayojanam,14
+13,vanam,vana,acc. sg. n.,38,karma,14
+14,prasTitaH,sTita,pp.,40,,
+15,iti,iti,part.,41,sambanxah,14
+
 0,mahAtmA,Atman,nom. sg. m.,40,viseranam,1
 1,gorakzanATaH,nATa,nom. sg. m.,6,karwa,7
 2,svatapasyAPalam,Pala,acc. sg. n.,9,karma,3 ####### dat_acc_karma #######
@@ -20,37 +51,6 @@
 10,sammAnayitum,man,dat. sg. n.,19,prayojanam,12
 11,jAgaritA,icCA,acc. pl. f.,22,karma,12
 12,jAgaritA,jAgf,ca. pp.,23,,
-
-0,viraktaH,rakta,nom. sg. m.,3,viseranam,1
-1,rAjA,rAjan,nom. sg. m.,4,karwa,14
-2,svIyam,svIya,acc. sg. m.,8,viseranam,3
-3,rAjyarDam,arDa,acc. sg. m.,12,karma,9 ####### dat_acc_karma #######
-4,tAByAm,tad,dat. du. m.,19,viseranam,5
-5,dampatiByAm,pat,dat. du. m.,27,sampraxanam,6
-6,dattvA,dA,abs.,30,purvakalah,14
-7,avaSizwam,Sizwa,acc. sg. m.,57,karma,10
-8,ca,ca,conj.,31,sambanxah,10
-9,AtmajAya,ayas,dat. sg. n.,29,sampraxanam,10
-10,samarpya,sam,ca. abs.,33,purvakalah,14
-11,tapaH,tapa,acc. sg. n.,36,karma,12
-12,taptum,tap,inf.,37,prayojanam,14
-13,vanam,vana,acc. sg. n.,38,karma,14
-14,prasTitaH,sTita,pp.,40,,
-15,iti,iti,part.,41,sambanxah,14
-
-0,kintu,ca,adv.,0,sambanxah,4
-1,tava,yuzmad,g. sg. *,1,rartisambanxah,2
-2,aDikAram,aDikAra,acc. sg. m.,2,karma,3 ####### dat_acc_karma #######
-3,pratizWApayitum,sTA,dat. sg. m.,3,prayojanam,4
-4,AgatA,gam,pp.,4,,
-
-0,ekadA,ekadA,loc. sg. n.,0,axikaranam,6
-1,maharziramaRam,ramaRa,acc. sg. m.,3,karma,2 ####### dat_acc_karma #######
-2,parIkzitum,Ikz,dat. sg. m.,6,prayojanam,6
-3,eva,eva,prep.,7,sambanxah,2
-4,kecana,kim,nom. pl. m.,10,viseranam,5
-5,girijAgfhasvAminaH,svAmin,nom. pl. m.,17,karwa,6
-6,pfzwavantaH,pfzwa,pp.,21,,
 
 0,SyAmaH,SyAma,nom. sg. m.,0,karwa,4
 1,etat,etad,acc. sg. n.,8,karma,2 ####### dat_acc_karma #######

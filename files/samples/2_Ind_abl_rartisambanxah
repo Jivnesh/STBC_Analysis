@@ -1,20 +1,3 @@
-0,kzitisutavidvizaH,kzitisuta-vidvaw,g. sg. m.,NA,rartisambanxah,1
-1,mahizyaH,mahizI,nom. pl. f.,NA,karwa,15
-2,karAgrEH,karAgra,i. pl. m.,NA,karanam,9
-3,rAgeRa,rAga,i. sg. m.,NA,hewuh,4
-4,SriyaM,SrI,acc. sg. f.,NA,karma,9
-5,nityAyAH,nityA,g. sg. f.,NA,viseranam,6
-6,nijavasateH,nija-vasati,abl. sg. f.,NA,rartisambanxah,7 ####### Ind_abl_rartisambanxah #######
-7,aravindataH,aravinda,ind.,NA,apaxanam,9
-8,yat,yat,ind.,NA,sambanxah,9
-9,nirAsire,nir_As1,pft. md. pl. 3,NA,,
-10,anena,idam,i. sg. n.,NA,karanam,15
-11,niyatam,niyatam,ind.,NA,kriyaviseranam,15
-12,asyAH,idam,g. sg. f.,NA,rartisambanxah,13
-13,sApantyaM,sApantyam,acc. sg. n.,NA,viseranam,14
-14,vyaktatvaM,vyaktatvam,acc. sg. n.,NA,karma,15
-15,ninyuH,nI1,pft. ac. pl. 3,NA,,
-
 0,kzitisutavidvizaH,vidviz,g. sg. m.,2,rartisambanxah,1
 1,mahizyaH,mahizI,nom. pl. f.,4,karwa,15
 2,karAgrEH,agra,inst. pl. m.,7,karanam,9
@@ -32,4 +15,21 @@
 14,vyaktatvaM,vyakta,acc. sg. n.,25,karma,15
 15,ninyuH,nI,pft. ac. pl. 3,27,samucciwam,16
 16,ca,ca,conj.,28,,
+
+0,kzitisutavidvizaH,kzitisuta-vidvaw,g. sg. m.,NA,rartisambanxah,1
+1,mahizyaH,mahizI,nom. pl. f.,NA,karwa,15
+2,karAgrEH,karAgra,i. pl. m.,NA,karanam,9
+3,rAgeRa,rAga,i. sg. m.,NA,hewuh,4
+4,SriyaM,SrI,acc. sg. f.,NA,karma,9
+5,nityAyAH,nityA,g. sg. f.,NA,viseranam,6
+6,nijavasateH,nija-vasati,abl. sg. f.,NA,rartisambanxah,7 ####### Ind_abl_rartisambanxah #######
+7,aravindataH,aravinda,ind.,NA,apaxanam,9
+8,yat,yat,ind.,NA,sambanxah,9
+9,nirAsire,nir_As1,pft. md. pl. 3,NA,,
+10,anena,idam,i. sg. n.,NA,karanam,15
+11,niyatam,niyatam,ind.,NA,kriyaviseranam,15
+12,asyAH,idam,g. sg. f.,NA,rartisambanxah,13
+13,sApantyaM,sApantyam,acc. sg. n.,NA,viseranam,14
+14,vyaktatvaM,vyaktatvam,acc. sg. n.,NA,karma,15
+15,ninyuH,nI1,pft. ac. pl. 3,NA,,
 

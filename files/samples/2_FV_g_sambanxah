@@ -1,3 +1,10 @@
+0,tasya,tad,g. sg. n.,0,sambanxah,5 ####### FV_g_sambanxah #######
+1,kim,kim,nom. sg. n.,3,karwa,5
+2,drOpadI,drOpadI,nom. sg. f.,4,rartisambanxah,3
+3,uttareRa,uttara,i. sg. n.,8,karanam,4
+4,santuzwA,tuz,nom. pl. m.,11,karwqsamanaxikaranam,5
+5,aBavat,BU,impft. [1] ac. sg. 3,12,,
+
 0,tezAm,tad,g. pl. m.,1,sambanxah,1
 1,tezAm,tad,g. pl. m.,3,sambanxah,8 ####### FV_g_sambanxah #######
 2,ca,ca,conj.,4,rartisambanxah,4
@@ -7,11 +14,4 @@
 6,anirvacanIyam,vacanIya,nom. sg. n.,13,viseranam,7
 7,kazwam,kazwa,nom. sg. n.,16,karwa,8
 8,Bavati,BU,pr. [1] ac. sg. 3,20,,
-
-0,tasya,tad,g. sg. n.,0,sambanxah,5 ####### FV_g_sambanxah #######
-1,kim,kim,nom. sg. n.,3,karwa,5
-2,drOpadI,drOpadI,nom. sg. f.,4,rartisambanxah,3
-3,uttareRa,uttara,i. sg. n.,8,karanam,4
-4,santuzwA,tuz,nom. pl. m.,11,karwqsamanaxikaranam,5
-5,aBavat,BU,impft. [1] ac. sg. 3,12,,
 

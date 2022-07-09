@@ -1,3 +1,19 @@
+0,ekAntataH,ekAnta,ind.,NA,viseranam,1
+1,kAntataH,kAntataH,ind.,NA,apaxanam,5
+2,saNgame,saNgama,loc. sg. m.,NA,karwa,5
+3,sati,as2,ppr. ac,NA,viseranam,2 ####### loc_IV_viseranam #######
+4,suKaM,suKa,acc. sg. n.,NA,karma,5
+5,tarkayantyAH,tark1,ppr. ac,NA,bavalakranasapwami_samanakalah,8
+6,janEH,jana,i. pl. m.,NA,karwa,8
+7,saNgaM,saNga,acc. sg. m.,NA,karma,8
+8,varjayantyAH,vfj3,ppr. ac,NA,bavalakranasapwami_samanakalah,14
+9,smaraAsannatApaaNgayA,smara-Asanna-tApa-aNgA,i. sg. f.,NA,viseranam,12
+10,sannataapANgayA,sannata-apANgA,i. sg. f.,NA,viseranam,12
+11,anekayA,anekA,i. sg. f.,NA,viseranam,12
+12,yozayA,yozA,i. sg. f.,NA,karwa,14
+13,ezaH,etad,nom. sg. m.,NA,karma,14
+14,sevyate,sev1,pr. ps. sg. 3,NA,,
+
 0,saH,tad,nom. sg. m.,NA,karwa,18
 1,aDivelaM,aDi-vela,ind.,NA,axikaranam,7
 2,jalAnAM,jala,g. pl. n.,NA,rartisambanxah,3
@@ -17,20 +33,4 @@
 16,iva,iva,ind.,NA,anuyogi,17
 17,muktAvalIH,muktAvali,acc. pl. f.,NA,karma,18
 18,AkalayAYcakAra,AN_kal2,pft. sg. 3,NA,,
-
-0,ekAntataH,ekAnta,ind.,NA,viseranam,1
-1,kAntataH,kAntataH,ind.,NA,apaxanam,5
-2,saNgame,saNgama,loc. sg. m.,NA,karwa,5
-3,sati,as2,ppr. ac,NA,viseranam,2 ####### loc_IV_viseranam #######
-4,suKaM,suKa,acc. sg. n.,NA,karma,5
-5,tarkayantyAH,tark1,ppr. ac,NA,bavalakranasapwami_samanakalah,8
-6,janEH,jana,i. pl. m.,NA,karwa,8
-7,saNgaM,saNga,acc. sg. m.,NA,karma,8
-8,varjayantyAH,vfj3,ppr. ac,NA,bavalakranasapwami_samanakalah,14
-9,smaraAsannatApaaNgayA,smara-Asanna-tApa-aNgA,i. sg. f.,NA,viseranam,12
-10,sannataapANgayA,sannata-apANgA,i. sg. f.,NA,viseranam,12
-11,anekayA,anekA,i. sg. f.,NA,viseranam,12
-12,yozayA,yozA,i. sg. f.,NA,karwa,14
-13,ezaH,etad,nom. sg. m.,NA,karma,14
-14,sevyate,sev1,pr. ps. sg. 3,NA,,
 

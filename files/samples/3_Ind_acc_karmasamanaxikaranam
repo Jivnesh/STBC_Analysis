@@ -1,3 +1,10 @@
+0,idAnIM,idAnIm,conj.,0,axikaranam,5
+1,sA,tad,nom. sg. f.,1,karwa,5
+2,vfkaM,vfka,acc. sg. m.,2,karma,4
+3,latAM,latA,acc. sg. f.,3,karmasamanaxikaranam,4 ####### Ind_acc_karmasamanaxikaranam #######
+4,nigrahItuM,grah,conj.,4,prayojanam,5
+5,kaTitavatI,vac,pp. . sg. ,7,,
+
 0,nitambamaRqalena,maRqala,inst. sg. n.,1,karanam,5
 1,nitAntaM,tam,pp. . sg. ,3,viseranam,2
 2,praRaditakAYci,tad,nom. sg. n.,4,karwa,5
@@ -11,13 +18,6 @@
 10,tiryak,ca,conj.,23,viseranam,11
 11,nipIqya,pIq,conj.,24,purvakalah,12
 12,jagAma,gam,pft. ac. sg. 3,25,,
-
-0,idAnIM,idAnIm,conj.,0,axikaranam,5
-1,sA,tad,nom. sg. f.,1,karwa,5
-2,vfkaM,vfka,acc. sg. m.,2,karma,4
-3,latAM,latA,acc. sg. f.,3,karmasamanaxikaranam,4 ####### Ind_acc_karmasamanaxikaranam #######
-4,nigrahItuM,grah,conj.,4,prayojanam,5
-5,kaTitavatI,vac,pp. . sg. ,7,,
 
 0,putrasya,putra,g. sg. m.,0,rartisambanxah,1
 1,pAdaM,pAda,acc. sg. m.,1,karma,3

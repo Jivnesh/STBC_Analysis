@@ -5,6 +5,19 @@
 4,malinA,malina,nom. pl. m.,6,karwqsamanaxikaranam,5
 5,ajAyata,jan,impft. [4] md. sg. 3,9,,
 
+0,ataH,atas,adv.,0,hewuh,4 ####### FV_adv_hewuh #######
+1,SiSum,SiSu,acc. sg. m.,1,karma,4
+2,dvitIyAyE,dvitIya,dat. sg. f.,2,viseranam,3
+3,nAryE,nAra,dat. sg. f.,3,sampraxanam,4
+4,yacCa,yam,imp. [1] ac. sg. 2,4,,
+
+0,ataH,atas,adv.,0,hewuh,5 ####### FV_adv_hewuh #######
+1,eva,eva,prep.,1,sambanxah,0
+2,tu,tu,conj.,2,sambanxah,1
+3,sAkzikam,tad,acc. sg. n.,4,viseranam,4
+4,Bavantam,BU,acc. sg. m.,5,karma,5
+5,pfcCAmi,prapad,pr. [6] ac. sg. 1,6,,
+
 0,ataH,atas,adv.,0,hewuh,2 ####### FV_adv_hewuh #######
 1,kzamAm,kzamA,acc. sg. f.,1,karma,2
 2,yAce,yAc,pr. [1] md. sg. 1,3,prawiyogi,3
@@ -16,12 +29,9 @@
 8,saH,tad,nom. sg. m.,15,karwa,7
 9,iti,iti,part.,16,sambanxah,7
 
-0,ataH,atas,adv.,0,hewuh,5 ####### FV_adv_hewuh #######
-1,eva,eva,prep.,1,sambanxah,0
-2,tu,tu,conj.,2,sambanxah,1
-3,sAkzikam,tad,acc. sg. n.,4,viseranam,4
-4,Bavantam,BU,acc. sg. m.,5,karma,5
-5,pfcCAmi,prapad,pr. [6] ac. sg. 1,6,,
+0,tena,tad,adv.,3,hewuh,2 ####### FV_adv_hewuh #######
+1,evam,evam,adv.,4,kriyaviseranam,2
+2,upadiSAmi,diS,pr. [6] ac. sg. 1,5,,
 
 0,ataH,atas,adv.,0,hewuh,6 ####### FV_adv_hewuh #######
 1,anena,anena,i. sg. n.,2,karanam,6
@@ -37,16 +47,6 @@
 3,prahartum,hf,inf.,4,prayojanam,5
 4,asamarTaH,samarTa,nom. sg. m.,6,karwqsamanaxikaranam,1
 5,AsIt,as,aor. [5] ac. sg. 3,8,,
-
-0,tena,tad,adv.,3,hewuh,2 ####### FV_adv_hewuh #######
-1,evam,evam,adv.,4,kriyaviseranam,2
-2,upadiSAmi,diS,pr. [6] ac. sg. 1,5,,
-
-0,ataH,atas,adv.,0,hewuh,4 ####### FV_adv_hewuh #######
-1,SiSum,SiSu,acc. sg. m.,1,karma,4
-2,dvitIyAyE,dvitIya,dat. sg. f.,2,viseranam,3
-3,nAryE,nAra,dat. sg. f.,3,sampraxanam,4
-4,yacCa,yam,imp. [1] ac. sg. 2,4,,
 
 0,ataH,atas,adv.,0,hewuh,4 ####### FV_adv_hewuh #######
 1,vartamAne,vartamAna,loc. sg. m.,1,axikaranam,4

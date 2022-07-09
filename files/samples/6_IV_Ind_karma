@@ -8,6 +8,16 @@
 7,kAmaM,kAmam,ind.,NA,karma,8 ####### IV_Ind_karma #######
 8,kzAmyatu,kzam1,imp.,NA,,
 
+0,itaH,itas,abl. sg. n.,0,apaxanam,8
+1,mahAtmA,Atman,nom. sg. *,23,karwa,8
+2,SrezWinaH,SrezWin,g. sg. m.,4,rartisambanxah,3
+3,putrARAm,putra,g. pl. m.,6,rartisambanxah,4
+4,saNKyAm,tad,acc. sg. f.,8,samucciwam,6
+5,DanarASisaNKyAm,tad,acc. sg. f.,12,samucciwam,6
+6,ca,ca,conj.,13,karma,8 ####### IV_Ind_karma #######
+7,muKyalipikAt,kAs,abl. sg. f.,16,apaxanam,8
+8,jYAtavAn,jYA,ppa.,17,,
+
 0,SaNKaH,SaNKa,nom. sg. m.,0,karwa,9
 1,tam,tad,acc. sg. m.,1,karma,9
 2,yaTAviDi,yaTA,adv.,7,kriyaviseranam,9
@@ -36,6 +46,16 @@
 14,kzamAm,kzamA,acc. sg. f.,27,karma,15
 15,ayAcata,yAc,impft. [1] md. sg. 3,29,,
 
+0,tAm,tad,acc. sg. f.,0,karma,8
+1,upetya,upa,abs.,1,purvakalah,8
+2,saH,tad,nom. sg. m.,2,karwa,8
+3,anunayam,anunaya,acc. sg. m.,3,samucciwam,5
+4,vinayam,vinaya,acc. sg. m.,6,samucciwam,5
+5,ca,ca,conj.,7,karma,6 ####### IV_Ind_karma #######
+6,kftvA,kf,abs.,8,purvakalah,8
+7,rAjaBavanam,Bavana,acc. sg. n.,10,karma,8
+8,AnItavAn,prAp,pp.,12,,
+
 0,SiKariindraM,indra,acc. sg. m.,0,upapaxasambanxah,1
 1,samayA,samayA,conj.,1,axikaranam,14
 2,avanO,avani,loc. sg. f.,2,axikaranam,8
@@ -51,24 +71,4 @@
 12,girA,gir,inst. sg. f.,18,karanam,14
 13,uccEH,ucca,conj.,20,kriyaviseranam,14
 14,arARi,raR,impft. md. sg. 3,22,,
-
-0,itaH,itas,abl. sg. n.,0,apaxanam,8
-1,mahAtmA,Atman,nom. sg. *,23,karwa,8
-2,SrezWinaH,SrezWin,g. sg. m.,4,rartisambanxah,3
-3,putrARAm,putra,g. pl. m.,6,rartisambanxah,4
-4,saNKyAm,tad,acc. sg. f.,8,samucciwam,6
-5,DanarASisaNKyAm,tad,acc. sg. f.,12,samucciwam,6
-6,ca,ca,conj.,13,karma,8 ####### IV_Ind_karma #######
-7,muKyalipikAt,kAs,abl. sg. f.,16,apaxanam,8
-8,jYAtavAn,jYA,ppa.,17,,
-
-0,tAm,tad,acc. sg. f.,0,karma,8
-1,upetya,upa,abs.,1,purvakalah,8
-2,saH,tad,nom. sg. m.,2,karwa,8
-3,anunayam,anunaya,acc. sg. m.,3,samucciwam,5
-4,vinayam,vinaya,acc. sg. m.,6,samucciwam,5
-5,ca,ca,conj.,7,karma,6 ####### IV_Ind_karma #######
-6,kftvA,kf,abs.,8,purvakalah,8
-7,rAjaBavanam,Bavana,acc. sg. n.,10,karma,8
-8,AnItavAn,prAp,pp.,12,,
 

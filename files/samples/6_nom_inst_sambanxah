@@ -15,10 +15,17 @@
 14,vAstavyakuwumbitAM,tad,acc. sg. f.,57,karma,15
 15,yayuH,yA,pft. ac. pl. 3,25,,
 
-0,tEH,tad,i. pl. n.,0,sambanxah,1 ####### nom_inst_sambanxah #######
-1,yuktaH,yukta,nom. sg. m.,2,viseranam,2
-2,naraH,nara,nom. sg. m.,3,karma,3
-3,SrUyatAm,Sru,imp. ps. sg. 3,4,,
+0,kanakaviBUzaRAni,kanaka-viBUzaRa,acc. pl. n.,NA,karma,1
+1,udvoQum,ut_vah1,inf.,NA,prayojanam,2
+2,aSaktaH,a_Sak1,pp.,NA,viseranam,7
+3,saDrIcA,saDrayaN,i. sg. m.,NA,sambanxah,4 ####### nom_inst_sambanxah #######
+4,valayitapadmanAlasUtraH,valayitapadma-nAla-sUtra,nom. sg. m.,NA,viseranam,7
+5,ArUQaprativanitAkawAkzaBAraH,ArUQaprativanitAkawAkza-BAra,nom. sg. m.,NA,viseranam,7
+6,taruRyAH,taruRI,g. sg. f.,NA,rartisambanxah,7
+7,BujaH,Buja,nom. sg. m.,NA,karwa,10
+8,sADIyaH,sADIyas,ind.,NA,kriyaviseranam,10
+9,guruH,guru,nom. sg. m.,NA,karwqsamanaxikaranam,10
+10,aBavat,BU1,impft. ac. sg. 3,NA,,
 
 0,kanakaviBUzaRAni,viBUzaRa,acc. pl. n.,0,karma,1
 1,udvoQum,vah,conj.,2,prayojanam,2
@@ -32,15 +39,8 @@
 9,guruH,guru,nom. sg. m.,14,karwqsamanaxikaranam,10
 10,aBavat,BU,impft . ac. sg. 3,15,,
 
-0,kanakaviBUzaRAni,kanaka-viBUzaRa,acc. pl. n.,NA,karma,1
-1,udvoQum,ut_vah1,inf.,NA,prayojanam,2
-2,aSaktaH,a_Sak1,pp.,NA,viseranam,7
-3,saDrIcA,saDrayaN,i. sg. m.,NA,sambanxah,4 ####### nom_inst_sambanxah #######
-4,valayitapadmanAlasUtraH,valayitapadma-nAla-sUtra,nom. sg. m.,NA,viseranam,7
-5,ArUQaprativanitAkawAkzaBAraH,ArUQaprativanitAkawAkza-BAra,nom. sg. m.,NA,viseranam,7
-6,taruRyAH,taruRI,g. sg. f.,NA,rartisambanxah,7
-7,BujaH,Buja,nom. sg. m.,NA,karwa,10
-8,sADIyaH,sADIyas,ind.,NA,kriyaviseranam,10
-9,guruH,guru,nom. sg. m.,NA,karwqsamanaxikaranam,10
-10,aBavat,BU1,impft. ac. sg. 3,NA,,
+0,tEH,tad,i. pl. n.,0,sambanxah,1 ####### nom_inst_sambanxah #######
+1,yuktaH,yukta,nom. sg. m.,2,viseranam,2
+2,naraH,nara,nom. sg. m.,3,karma,3
+3,SrUyatAm,Sru,imp. ps. sg. 3,4,,
 

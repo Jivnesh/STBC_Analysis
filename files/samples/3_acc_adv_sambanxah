@@ -14,15 +14,6 @@
 13,upanetum,nI,inf.,21,samucciwam,14
 14,ca,ca,conj.,22,,
 
-0,tataH,tad,abl. pl. n.,29,apaxanam,7
-1,pratyekam,pratyeka,nom. sg. m.,3,viseranam,2
-2,sadasyaH,sadasya,nom. sg. m.,4,karwa,7
-3,pfTak,pfTak,adv.,5,sambanxah,4
-4,pfTak,pfTak,adv.,6,sambanxah,5 ####### acc_adv_sambanxah #######
-5,varaRIyam,tad,acc. sg. n.,9,viseranam,6
-6,vastu,vastu,acc. sg. n.,10,karma,7
-7,nirdizwavAn,vac,pp.,12,,
-
 0,AtmanaH,Atman,g. sg. *,0,rartisambanxah,1
 1,truwaye,yad,dat. du. n.,10,waxarwyam,3
 2,pAdayoH,pAda,loc. du. m.,11,axikaranam,3
@@ -31,4 +22,13 @@
 5,punaH,punar,adv.,16,sambanxah,6 ####### acc_adv_sambanxah #######
 6,kzamAm,kzamA,acc. sg. f.,18,karma,7
 7,aBiyAce,aYc,impft. [1] md. sg. 1,34,,
+
+0,tataH,tad,abl. pl. n.,29,apaxanam,7
+1,pratyekam,pratyeka,nom. sg. m.,3,viseranam,2
+2,sadasyaH,sadasya,nom. sg. m.,4,karwa,7
+3,pfTak,pfTak,adv.,5,sambanxah,4
+4,pfTak,pfTak,adv.,6,sambanxah,5 ####### acc_adv_sambanxah #######
+5,varaRIyam,tad,acc. sg. n.,9,viseranam,6
+6,vastu,vastu,acc. sg. n.,10,karma,7
+7,nirdizwavAn,vac,pp.,12,,
 

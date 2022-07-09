@@ -1,3 +1,8 @@
+0,meGAH,meGa,voc. pl. m.,4,karwa,3 ####### FV_voc_karwa #######
+1,gajendrAH,gajendra,nom. pl. m.,1,prawiyogi,2
+2,iva,iva,conj.,2,anuyogi,0
+3,garjanti,garj,pr. ac. pl. 3,3,,
+
 0,Danikasya,Danika,g. sg. m.,0,samboxyah,9
 1,vAyasa,vAyasa,voc. sg. m.,2,karwa,9 ####### FV_voc_karwa #######
 2,tvam,yuzmad,nom. sg. *,4,viseranam,3
@@ -8,11 +13,6 @@
 7,sarpasya,sarpa,g. sg. m.,12,rartisambanxah,8
 8,koware,kowara,loc. sg. n.,16,axikaranam,9
 9,kzipa,kzip,imp. [6] ac. sg. 2,17,,
-
-0,meGAH,meGa,voc. pl. m.,4,karwa,3 ####### FV_voc_karwa #######
-1,gajendrAH,gajendra,nom. pl. m.,1,prawiyogi,2
-2,iva,iva,conj.,2,anuyogi,0
-3,garjanti,garj,pr. ac. pl. 3,3,,
 
 0,grIzme,rama,loc. sg. m.,0,axikaranam,6
 1,nadInAM,nadI,g. pl. f.,1,rartisambanxah,2

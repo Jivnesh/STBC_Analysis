@@ -1,3 +1,17 @@
+0,ucCitasitAMSukaraavalambEH,ucCita-sitAMSu-kara-avalamba,i. pl. n.,NA,viseranam,2
+1,uttamBitauquBiH,uttamBita-uqu,i. pl. n.,NA,viseranam,2
+2,SiroBiH,Siras,i. pl. n.,NA,karwa,4
+3,atIvatarAm,atIva_tarap_Am,nom. sg. n.,NA,kriyaviseranam,4 ####### IV_nom_kriyaviseranam #######
+4,utkziptam,ut_kzip1,pp.,NA,viseranam,5
+5,antarikzaM,antarikza,nom. sg. n.,NA,viseranam,6
+6,SradDeyanirJarajalavyapadeSam,vyapadeSa,nom. sg. n.,NA,karwa,10
+7,asya,idam,g. sg. m.,NA,rartisambanxah,8
+8,tawezu,tawa,loc. pl. m.,NA,axikaranam,10
+9,vizvak,vizvak,ind.,NA,kriyaviseranam,10
+10,patati,pat1,pr. ac. sg. 3,NA,,
+11,iti,iti,ind.,NA,anuyogi,12
+12,sPuwam,sPuwa,ind.,NA,sambanxah,10
+
 0,anavaratarasena,anavarata-rasa,i. sg. m.,NA,viseranam,6
 1,rAgaBAjA,rAga-BAj,i. sg. m.,NA,viseranam,6
 2,karajaparikzatilabDasaMstavena,karajaparikzatilabDa-saMstava,i. sg. m.,NA,viseranam,6
@@ -30,12 +44,6 @@
 18,Akulam,Akula,nom. sg. n.,NA,kriyaviseranam,19 ####### IV_nom_kriyaviseranam #######
 19,Ikzitam,Ikz1,pp.,NA,,
 
-0,aham,asmad,nom. sg. *,0,karwa,4
-1,tAm,tad,acc. sg. f.,1,karma,2
-2,ASvAsya,Svas,ca. abs.,2,purvakalah,4
-3,BArimanasA,manas,nom. sg. f.,8,kriyaviseranam,4 ####### IV_nom_kriyaviseranam #######
-4,prasTitA,sTita,pp.,9,,
-
 0,paramAdaraRIyapaRqitapravara,pravara,voc. sg. m.,7,samboxyah,6
 1,mayA,asmad,nom. sg. *,8,karwa,5
 2,kroDarahitaH,rahita,nom. sg. m.,10,kriyaviseranam,3 ####### IV_nom_kriyaviseranam #######
@@ -44,19 +52,11 @@
 5,kftA,kfta,nom. du. m.,27,karwa,6
 6,asti,as,pr. [2] ac. sg. 3,16,,
 
-0,ucCitasitAMSukaraavalambEH,ucCita-sitAMSu-kara-avalamba,i. pl. n.,NA,viseranam,2
-1,uttamBitauquBiH,uttamBita-uqu,i. pl. n.,NA,viseranam,2
-2,SiroBiH,Siras,i. pl. n.,NA,karwa,4
-3,atIvatarAm,atIva_tarap_Am,nom. sg. n.,NA,kriyaviseranam,4 ####### IV_nom_kriyaviseranam #######
-4,utkziptam,ut_kzip1,pp.,NA,viseranam,5
-5,antarikzaM,antarikza,nom. sg. n.,NA,viseranam,6
-6,SradDeyanirJarajalavyapadeSam,vyapadeSa,nom. sg. n.,NA,karwa,10
-7,asya,idam,g. sg. m.,NA,rartisambanxah,8
-8,tawezu,tawa,loc. pl. m.,NA,axikaranam,10
-9,vizvak,vizvak,ind.,NA,kriyaviseranam,10
-10,patati,pat1,pr. ac. sg. 3,NA,,
-11,iti,iti,ind.,NA,anuyogi,12
-12,sPuwam,sPuwa,ind.,NA,sambanxah,10
+0,aham,asmad,nom. sg. *,0,karwa,4
+1,tAm,tad,acc. sg. f.,1,karma,2
+2,ASvAsya,Svas,ca. abs.,2,purvakalah,4
+3,BArimanasA,manas,nom. sg. f.,8,kriyaviseranam,4 ####### IV_nom_kriyaviseranam #######
+4,prasTitA,sTita,pp.,9,,
 
 0,sahasA,sahasA,nom. sg. f.,3,kriyaviseranam,12 ####### IV_nom_kriyaviseranam #######
 1,pfzWataH,pfzWa,loc. sg. m.,4,apaxanam,3

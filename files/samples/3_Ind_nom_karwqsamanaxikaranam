@@ -1,8 +1,3 @@
-0,daridratA,daridra,nom. sg. f.,1,karwa,3
-1,nirASA,ASA,nom. sg. f.,4,karwqsamanaxikaranam,2 ####### Ind_nom_karwqsamanaxikaranam #######
-2,BUtvA,BU,conj.,5,purvakalah,3
-3,kaTitavatI,vac,pp. . sg. ,8,,
-
 0,Atmavat,tad,nom. sg. n.,1,kriyaviseranam,2
 1,sarvatra,sarvatra,loc. sg. m.,2,axikaranam,7
 2,vyavahAraSIlaH,SIla,nom. sg. m.,4,viseranam,5
@@ -17,6 +12,11 @@
 11,samajAyata,yuzmad,nom. sg. m.,19,karwqsamanaxikaranam,12 ####### Ind_nom_karwqsamanaxikaranam #######
 12,iti,iti,part.,20,,
 13,ekaH,eka,nom. sg. m.,21,sambanxah,12
+
+0,daridratA,daridra,nom. sg. f.,1,karwa,3
+1,nirASA,ASA,nom. sg. f.,4,karwqsamanaxikaranam,2 ####### Ind_nom_karwqsamanaxikaranam #######
+2,BUtvA,BU,conj.,5,purvakalah,3
+3,kaTitavatI,vac,pp. . sg. ,8,,
 
 0,pravfdDam,vfdDa,pp.,2,sambanxah,11
 1,yat,yad,nom. sg. n.,28,viseranam,2

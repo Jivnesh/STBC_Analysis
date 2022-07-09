@@ -20,17 +20,6 @@
 19,antaram,antara,nom. sg. n.,50,karwa,20
 20,aBavat,BU,impft . ac. sg. 3,51,,
 
-0,utsaNgitaamBaHkaRakaH,brahman,nom. sg. m.,0,viseranam,3
-1,elAlatAsPAlanalabDaganDaH,ganDa,nom. sg. m.,1,viseranam,3
-2,udanvataH,Atman,g. sg. m.,2,rartisambanxah,3
-3,naBasvAn,brahman,nom. sg. m.,4,karwa,9
-4,aDivelaM,vela,conj.,6,axikaranam,5 ####### g_Ind_axikaranam #######
-5,vrajataH,vraj,g. sg. m.,7,viseranam,6
-6,tasya,tad,g. sg. m.,9,rartisambanxah,7
-7,svedalavAn,lava,acc. pl. m.,10,karma,9
-8,anuvelaM,vela,conj.,12,axikaranam,9
-9,mamArja,mfj,pft. ac. sg. 3,13,,
-
 0,pratisaKi,saKi,conj.,1,axikaranam,3 ####### g_Ind_axikaranam #######
 1,kAminA,kAmin,inst. sg. m.,3,karwa,3
 2,anyanAmnA,nAman,inst. sg. n.,4,karanam,3
@@ -48,4 +37,15 @@
 14,gamayitum,Ric,conj.,25,prayojanam,15
 15,Izire,iz,pft. md. pl. 3,27,,
 16,iva,iva,conj.,28,sambanxah,15
+
+0,utsaNgitaamBaHkaRakaH,brahman,nom. sg. m.,0,viseranam,3
+1,elAlatAsPAlanalabDaganDaH,ganDa,nom. sg. m.,1,viseranam,3
+2,udanvataH,Atman,g. sg. m.,2,rartisambanxah,3
+3,naBasvAn,brahman,nom. sg. m.,4,karwa,9
+4,aDivelaM,vela,conj.,6,axikaranam,5 ####### g_Ind_axikaranam #######
+5,vrajataH,vraj,g. sg. m.,7,viseranam,6
+6,tasya,tad,g. sg. m.,9,rartisambanxah,7
+7,svedalavAn,lava,acc. pl. m.,10,karma,9
+8,anuvelaM,vela,conj.,12,axikaranam,9
+9,mamArja,mfj,pft. ac. sg. 3,13,,
 

@@ -1,3 +1,13 @@
+0,tarhi,tarhi,adv.,0,sambanxah,8
+1,anyataH,anya,abl. sg. n,1,apaxanam,2
+2,upaviSya,viS,abs.,2,purvakalah,8
+3,BAraviH,tad,nom. sg. m.,3,karwa,8
+4,kirAtArjunIyam,rAma,acc. sg. n.,5,prawiyogi,5 ####### acc_acc_prawiyogi #######
+5,nAma,nAman,acc. sg. n.,6,anuyogi,6
+6,mahAkAvyam,kAvya,acc. sg. n.,9,karma,7
+7,racayitum,kf,inf.,12,prayojanam,8
+8,prAvartata,vft,impft. [1] md. sg. 3,13,,
+
 0,ekasmin,eka,loc. sg. m.,0,viseranam,2
 1,dine,dina,loc. sg. n.,4,axikaranam,3
 2,Sayanakakze,kakza,loc. sg. m.,6,axikaranam,3
@@ -15,16 +25,6 @@
 14,sundaram,sundara,acc. sg. m.,41,viseranam,15
 15,nIqam,nIqa,acc. sg. m.,44,karma,16
 16,nirmitam,mita,pp.,49,,
-
-0,tarhi,tarhi,adv.,0,sambanxah,8
-1,anyataH,anya,abl. sg. n,1,apaxanam,2
-2,upaviSya,viS,abs.,2,purvakalah,8
-3,BAraviH,tad,nom. sg. m.,3,karwa,8
-4,kirAtArjunIyam,rAma,acc. sg. n.,5,prawiyogi,5 ####### acc_acc_prawiyogi #######
-5,nAma,nAman,acc. sg. n.,6,anuyogi,6
-6,mahAkAvyam,kAvya,acc. sg. n.,9,karma,7
-7,racayitum,kf,inf.,12,prayojanam,8
-8,prAvartata,vft,impft. [1] md. sg. 3,13,,
 
 0,banDaH,banDa,voc. sg. m.,0,samboxyah,4
 1,mayA,asmad,nom. sg. *,1,karwa,4
